@@ -20,13 +20,12 @@ Feedback and contributions are welcome!
 ## Intruduction of Neural Rendering
 
 **Neural Rendering** is a new and rapidly emerging field that combines generative machine learning techniques with physical knowledge from computer graphics, e.g., by the integration of differentiable rendering into network training. [Ayush Tewari et. al.] define **Neural Rendering** as
-```
-Deep image or video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure.
-```
 
-Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real- world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene—camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
+> <p align="justify"> <i>Deep image or video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure.</i></p>
 
 A typical neural rendering approach takes as input images corresponding to certain scene conditions (for example, viewpoint, lighting, layout, etc.), builds a “neural” scene representation from them, and “renders” this repre- sentation under novel scene properties to synthesize novel images.
+
+Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real- world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene—camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
 
 ## Related Surveys and Course Notes
 
@@ -181,15 +180,11 @@ arxiv, 14 Jan 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
 **Deferred Neural Rendering: Image Synthesis using Neural.**<br>
 *Justus Thies, Michael Zollhöfer, Matthias Nießner.*<br>
-SIGGRAPH 2019. [[](https://arxiv.org/abs/1904.12356)]
+SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1904.12356)]
 
 **LOGAN: Unpaired Shape Transform in Latent Overcomplete Space.**<br>
 *Kangxue Yin, Zhiqin Chen, Hui Huang, Daniel Cohen-Or, Hao Zhang.*<br>
 SIGGRAPH Asia, 2019. [[PDF](https://arxiv.org/pdf/1903.10170.pdf)]
-
-**EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
-*Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
-arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
 
 **Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
@@ -211,14 +206,6 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.01680)] [[Github](https://githu
 *Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br>
 CVPR 2019. [[Project](https://github.com/tengteng95/Pose-Transfer)] [[PDF](https://arxiv.org/abs/1904.03349)]
 
-**Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom.**<br>
-*Juan Luis Gonzalez Bello, Munchurl Kim.*<br>
-arxiv, 20 Sep 2019. [[PDF](https://arxiv.org/abs/1909.09349v1)]
-
-**Photo Wake-Up: 3D Character Animation from a Single Photo.**<br>
-*Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs.washington.edu/projects/wakeup/)]
-
 **Textured Neural Avatars.**<br>
 *Aliaksandra Shysheya, Egor Zakharov, Kara-Ali Aliev, Renat Bashirov, Egor Burkov, Karim Iskakov, Aleksei Ivakhnenko, Yury Malkov, Igor Pasechnik, Dmitry Ulyanov, Alexander Vakhitov, Victor Lempitsky.*<br>
 CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://saic-violet.github.io/texturedavatar/)]
@@ -226,6 +213,14 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 **Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.**<br>
 *Dongxu Wei, Haibin Shen, Kejie Huang.*<br>
 arxiv, 25 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
+
+**EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
+*Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
+arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
+
+**Photo Wake-Up: 3D Character Animation from a Single Photo.**<br>
+*Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs.washington.edu/projects/wakeup/)]
 
 ## 3D Pose Transfer
 **Neural Pose Transfer by Spatially Adaptive Instance Normalization.**<br>
