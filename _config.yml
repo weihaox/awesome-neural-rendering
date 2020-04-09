@@ -1,0 +1,16 @@
+# https://nicolas-van.github.io/easy-markdown-to-github-pages/
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - content/cv-lab.md
+  - content/dataset.md
+  - content/physical-world.md
+  - content/3d-representation.md
+  - content/controllable-image-generation.md
+  - content/clothed-human.md
+  - content/image-synthesis.md
