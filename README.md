@@ -29,10 +29,13 @@ Given high-quality scene specifications, **Classic Rendering Methods** can rende
 
 ## Related Surveys and Course Notes
 
-**[State of the Art on Neural Rendering.](https://arxiv.org/abs/2004.03805)**<br><br>
+**[State of the Art on Neural Rendering.](https://arxiv.org/abs/2004.03805)**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer.*<br>
-Eurographics 2020.
+Eurographics 2020.<br>
 
+**[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
+[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).
+CVPR 2019 Workshop.
 
 ## Texture Mapping & Surface Mapping
 
