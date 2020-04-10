@@ -43,6 +43,12 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Inverse
 *Yuda Qiu, Zhangyang Xiong, Kai Han, Zhongyuan Wang, Zixiang Xiong, Xiaoguang Han.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.com/RudyQ/InverseFaceRender)]
 
+## Hidden Surface Reasoning
+
+**Where Does It End? -- Reasoning About Hidden Surfaces by Object Intersection Constraints.**<br>
+*Michael Strecke, Joerg Stueckler.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04630)]
+
 ## Scene Understanding
 
 **Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos.**<br>

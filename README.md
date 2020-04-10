@@ -34,7 +34,7 @@ Given high-quality scene specifications, **Classic Rendering Methods** can rende
 Eurographics 2020.<br>
 
 **[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
-[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).
+*[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
 ## Texture Mapping & Surface Mapping
@@ -132,6 +132,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis.**<br>
+*Jogendra Nath Kundu, Siddharth Seth, Varun Jampani, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04400)]
 
 **GPU-Accelerated Mobile Multi-view Style Transfer.**<br>
 *Puneet Kohli, Saravana Gunaseelan, Jason Orozco, Yiwen Hua, Edward Li, Nicolas Dahlquist.*<br>

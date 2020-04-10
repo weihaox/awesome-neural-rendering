@@ -315,7 +315,11 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
 
-## Long-Tailed 
+## Long-Tailed and Open Set
+
+**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
+*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
 
 **Long-Tailed Recognition Using Class-Balanced Experts.**<br>
 *Saurabh Sharma, Ning Yu, Mario Fritz, Bernt Schiele.*<br>

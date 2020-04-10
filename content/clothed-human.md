@@ -62,6 +62,10 @@ arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**ARCH: Animatable Reconstruction of Clothed Humans.**<br>
+*Zeng Huang, Yuanlu Xu, Christoph Lassner, Hao Li, Tony Tung.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04572)]
+
 **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization.**<br>
 *Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00452)] [[Project](https://shunsukesaito.github.io/PIFuHD)] [[Github](https://github.com/shunsukesaito/PIFuHD)]
