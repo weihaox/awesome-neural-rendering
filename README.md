@@ -12,7 +12,7 @@ Feedback and contributions are welcome!
 - [Intruduction of Neural Rendering](#intruduction-of-neural-rendering)
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Texture Mapping & Surface Mapping](#texture-mapping---surface-mapping)
-- [2D to 3D](#2d-to-3d)
+- [3D Photography and Stereoscopic Photography](#3d-photography-and-stereoscopic-photography)
 - [Novel-View Synthesis](#novel-view-synthesis)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
 - [3D Pose Transfer](#3d-pose-transfer)
@@ -88,20 +88,15 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 [[Project](http://geometry.cs.ucl.ac.uk/projects/2016/texture_transfer/)]
 [[Data](http://geometry.cs.ucl.ac.uk/tuanfeng/texturetransfer/texture_transfer_code_and_data.zip)]
 
-## 2D to 3D
+##  3D Photography and Stereoscopic Photography
 
 **3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Face Photos.**<br>
 *Zipeng Ye, Ran Yi, Minjing Yu, Juyong Zhang, Yu-Kun Lai, Yong-jin Liu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.06841)]
 
-**Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling.**<br>
-*Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
-SIGGRAPH Asia 2018.
-[[Project](http://haopan.github.io/sketchCNN.html)]  [[PDF](https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf)]  [[Code,Data - GitHub](https://github.com/Enigma-li/SketchCNN/)]
-
-**BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
-*[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
-SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
+**3D Photography using Context-aware Layered Depth Inpainting.**<br>
+*[Meng-Li Shih](https://shihmengli.github.io/), [Shih-Yang Su](https://lemonatsu.github.io/), [Johannes Kopf](https://johanneskopf.de/), and [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
+CVPR 2020. [[PDF](https://drive.google.com/file/d/17ki_YAL1k5CaHHP3pIBFWvw-ztF4CCPP/view?usp=sharing)] [[Project](https://shihmengli.github.io/3D-Photo-Inpainting/)] [[Github](https://github.com/vt-vl-lab/3d-photo-inpainting)]
 
 **Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations.**<br>
 *Berk Kaya, Radu Timofte.*<br>
@@ -122,6 +117,15 @@ arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://
 **View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
+
+**Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling.**<br>
+*Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
+SIGGRAPH Asia 2018.
+[[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf)] [[Code,Data - GitHub](https://github.com/Enigma-li/SketchCNN/)]
+
+**BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
+*[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
+SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
 
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
