@@ -156,7 +156,7 @@ arxiv, 22 Mar 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
 
 **Towards Photo-Realistic Virtual Try-On by Adaptively Generating Preserving Image Content.**<br>
 *Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05863)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05863)] [[Github](https://github.com/switchablenorms/DeepFashion_Try_On)]
 
 **PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer.**<br>
 *Wentao Jiang, Si Liu, Chen Gao, Jie Cao, Ran He, Jiashi Feng, Shuicheng Yan.*<br>

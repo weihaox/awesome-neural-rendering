@@ -39,6 +39,10 @@ CVPR 2019 Workshop.
 
 ## Texture Mapping & Surface Mapping
 
+**Leveraging 2D Data to Learn Textured 3D Mesh Generation.**<br>
+*Paul Henderson, Vagia Tsiminaki, Christoph H. Lampert.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04180)]
+
 **Articulation-aware Canonical Surface Mapping.**<br>
 *Nilesh Kulkarni, Abhinav Gupta, David F. Fouhey, Shubham Tulsiani.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00614)] [[Github](https://github.com/nileshkulkarni/acsm/)] [[Project](https://nileshkulkarni.github.io/acsm/)]

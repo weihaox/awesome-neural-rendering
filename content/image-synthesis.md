@@ -4,6 +4,7 @@
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
 - [Restoration or Enhancement with Unpair or Misaligned Data](#restoration-or-enhancement-with-unpair-or-misaligned-data)
 - [Restoration or Enhancement](#restoration-or-enhancement)
+- [Individual Object Manipulate](#individual-object-manipulate)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
 - [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
 - [Free-Hand Sketch](#free-hand-sketch)
@@ -81,6 +82,10 @@ ICLR 2019. [[PDF](https://openreview.net/pdf?id=Hkg4W2AcFm)] [[Github](https://g
 *Tamar Rott Shaham, Tali Dekel, Tomer Michaeli.*<br>
 ICCV 2019 (Best Paper). 
 [[PDF](https://arxiv.org/abs/1905.01164)] [[UnOfficial](github.com/FriedRonaldo/SinGAN)] [[Official](github.com/tamarott/SinGAN)]
+
+**Training End-to-end Single Image Generators without GANs.**<br>
+*Yael Vinker, Nir Zabari, Yedid Hoshen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06014)] [[Project](http://www.vision.huji.ac.il/augurone)]
 
 **InGAN: Capturing and Retargeting the DNA of a Natural Image.**<br>
 ICCV 2019. [[PDF](http://www.wisdom.weizmann.ac.il/~vision/ingan/resources/ingan.pdf)] [[Project](http://www.wisdom.weizmann.ac.il/~vision/ingan/)] [[Github](https://github.com/assafshocher/InGAN)] 
@@ -169,6 +174,22 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ## Restoration or Enhancement
 
+**Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring.**<br>
+*Maitreya Suin, Kuldeep Purohit, A. N. Rajagopalan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05343)]
+
+**Learning Event-Based Motion Deblurring.**<br>
+*Zhe Jiang, Yu Zhang, Dongqing Zou, Jimmy Ren, Jiancheng Lv, Yebin Liu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05794)]
+
+**Structure-Preserving Super Resolution with Gradient Guidance.**<br>
+*Cheng Ma, Yongming Rao, Yean Cheng, Ce Chen, Jiwen Lu, Jie Zhou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13081)] [[Github](https://github.com/Maclory/SPSR)]
+
+**DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution.**<br>
+*Marcel Christoph Bühler, Andrés Romero, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04433)] [[Project](https://mcbuehler.github.io/DeepSEE/)]
+
 **Deblurring using Analysis-Synthesis Networks Pair.**<br>
 *Adam Kaufman, Raanan Fattal.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02956)]
@@ -216,6 +237,11 @@ arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://
 **EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
 AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
+
+## Individual Object Manipulate 
+**Learning to Manipulate Individual Objects in an Image.**<br>
+*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
 
 ## Video Prediction and Future Prediction
 

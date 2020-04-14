@@ -5,11 +5,14 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 
 ## Table of Contents
 - [Inverse Rendering](#inverse-rendering)
-- [Disentanglement](#disentanglement)
+- [Hidden Surface or Object Reasoning](#hidden-surface-or-object-reasoning)
+- [Scene Understanding](#scene-understanding)
+- [Object Skeletonization](#object-skeletonization)
 - [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
 - [Shape and Viewpoint](#shape-and-viewpoint)
 - [Human 3D Reconstruction](#human-3d-reconstruction)
   * [Soft-tissue Dynamics](#soft-tissue-dynamics)
+  * [Generating 3D People in Scenes](#generating-3d-people-in-scenes)
   * [Human Dynamics](#human-dynamics)
   * [Human Poses and Shapes](#human-poses-and-shapes)
   * [Misc (Face, Object)](#misc--face--object-)
@@ -43,7 +46,11 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Inverse
 *Yuda Qiu, Zhangyang Xiong, Kai Han, Zhongyuan Wang, Zixiang Xiong, Xiaoguang Han.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.com/RudyQ/InverseFaceRender)]
 
-## Hidden Surface Reasoning
+## Hidden Surface or Object Reasoning
+
+**Self-Supervised Scene De-occlusion.**<br>
+*Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)]
 
 **Where Does It End? -- Reasoning About Hidden Surfaces by Object Intersection Constraints.**<br>
 *Michael Strecke, Joerg Stueckler.*<br>
@@ -66,6 +73,12 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03967)]
 **Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image.**<br>
 *Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12212)]
+
+## Object Skeletonization
+
+**Image Co-skeletonization via Co-segmentation.**<br>
+*Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2004.05575)]
 
 ## Light, Reflectance, lluminance and Shade
 **Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
@@ -135,17 +148,19 @@ IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01793)]
 
 ## Human 3D Reconstruction
-
 [[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]
 
 ### Soft-tissue Dynamics
-
 **SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans.**<br>
 *[Igor Santesteban](http://isantesteban.com/), Elena Garces, Miguel A. Otaduy, and Dan Casas.*<br>
 Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.github.io/docs/santesteban_Eurographics2020.pdf)] [[Project](http://dancasas.github.io/projects/SoftSMPL)]
 
-### Human Dynamics 
+### Generating 3D People in Scenes
+**Generating 3D People in Scenes without People.**<br>
+*Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02923)] [[Project](https://ps.is.tuebingen.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints)]
 
+### Human Dynamics 
 **Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints.**<br>
 *Thiago L. Gomes, Renato Martins, João Ferreira, Erickson R. Nascimento.*<br>
 WACV 2020. [[PDF](https://arxiv.org/abs/2001.02606)]
@@ -227,6 +242,10 @@ ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanti
 ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
 ### Misc (Face, Object)
+
+**FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction.**<br>
+*Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13989)] [[Github](https://github.com/zhuhao-nju/facescape)]
 
 **Learning Generative Models of Shape Handles.**<br>
 *Matheus Gadelha, Giorgio Gori, Duygu Ceylan, Radomir Mech, Nathan Carr, Tamy Boubekeur, Rui Wang, Subhransu Maji.*<br>

@@ -1,22 +1,22 @@
 # Controllable Image Generation
 
-This repository is about *Controllable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information. 
+This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information. 
 
 ## Table of Contents
 - [Guided Image-to-image translation](#guided-image-to-image-translation)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
-- [Attribute Editing and Makeup Transfer](#attribute-editing)
+- [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
 - [Texture Mapping & Surface Mapping](#texture-mapping---surface-mapping)
-- [2D to 3D](#2d-to-3d)
+- [3D Photography and Stereoscopic Photography](#3d-photography-and-stereoscopic-photography)
 - [Novel-View Synthesis](#novel-view-synthesis)
-- [Motion Transfer, Retargeting, Reenactment, Dubbing, nimation](#motion-transfer---retargeting---reenactment---dubbing---animation)
+- [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
 - [3D Pose Transfer](#3d-pose-transfer)
 - [Multi-Modality Translation](#multi-modality-translation)
-	* [Voice-to-Voice](#voice-to-voice)
-	* [Text-to-Image](#text-to-image)
-	* [Voice-to-Image](#voice-to-image)
-	* [speech-to-Text](#speech-to-text)
-	* [Text-to-speech](#text-to-speech)
+  * [Voice-to-Voice](#voice-to-voice)
+  * [Text-to-Image](#text-to-image)
+  * [Voice-to-Image](#voice-to-image)
+  * [speech-to-Text](#speech-to-text)
+  * [Text-to-speech](#text-to-speech)
 - [Gaze Estimation, Tracking, Redirection, Correction and Blink Detection](#gaze-estimation--tracking--redirection--correction-and-blink-detection)
   * [Gaze Dataset](#gaze-dataset)
   * [Gaze Redirection and Correction](#gaze-redirection-and-correction)
@@ -35,8 +35,8 @@ Part of this repository is about *Guided Image-to-image translation* which can b
 ## Texture Mapping & Surface Mapping
 *Texture Mapping & Surface Mapping* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#texture-mapping---surface-mapping).
 
-## 2D to 3D
-*2D to 3D* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#2d-to-3d).
+## 3D Photography and Stereoscopic Photography
+*3D Photography and Stereoscopic Photography* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#3d-photography-and-stereoscopic-photography).
 
 ## Novel-View Synthesis
 *Novel-View Synthesis* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#novel-view-synthesis).
