@@ -321,13 +321,9 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
 
 <details>
-  <summary> Datasets </summary>
-[MS-Celeb-1M](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/). Challenge of Recognizing One Million Celebrities in the Real World.<br>
-[CASIA-WebFace](https://pgram.com/dataset/casia-webface/). The CASIA WebFace Facial Dataset of 453,453 images over 10,575 identities after face detection. Requires some filtering for quality. [Baidu Cloud: y3wj](https://pan.baidu.com/s/1hQCOD4Kr66MOW0_PE8bL0w) [Google Drive](https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz) [Cleaned CASIA-WebFace: eb7h](http://pan.baidu.com/s/1jIqBIcu)<br>
-```
-$ zip -F CASIA-maxpy-clean.zip --out CASIA-maxpy-clean_fix.zip
-$ unzip CASIA-maxpy-clean_fix.zip
-```
+  <summary> Datasets </summary> 
+<li><a href="https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/">MS-Celeb-1M.</a>. Challenge of Recognizing One Million Celebrities in the Real World.</li>
+<li><a href="https://pgram.com/dataset/casia-webface/">CASIA-WebFace</a>. The CASIA WebFace Facial Dataset of 453,453 images over 10,575 identities after face detection. Requires some filtering for quality. This dataset can be download from <a href="https://pan.baidu.com/s/1hQCOD4Kr66MOW0_PE8bL0w">Baidu Cloud</a> with password y3wj or <a href="https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz">Google Drive</a>.</li>
 </details>
 
 **DRAGON: Long-tail learning with attributes.**<br>
@@ -336,9 +332,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)] [[Github](https://github.c
 
 <details>
   <summary> Datasets </summary>
-[CUB-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)**. The Caltech-UCSD Birds-200-2011 contains 11,788 visual images of 200 bird species for fine-grained classification. Each species is described by 312 binary attributes (like tail-pattern:solid, wing-color:black).<br>
-[SUN](http://groups.csail.mit.edu/vision/SUN/). The SUN Attribute Database contains 14,340 complex visual scenes, from 717 scene types and 102 attributes (like material:rock, function:eating, surface:glossy).<br>
-[AWA](http://attributes.kyb.tuebingen.mpg.de/). The Animals with Attributes consistsof30,475imagesof50animalclassesand85attributes(liketexture:furry, or color:black).
+<li><a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">CUB-200-2011</a>. The Caltech-UCSD Birds-200-2011 contains 11,788 visual images of 200 bird species for fine-grained classification. Each species is described by 312 binary attributes (like tail-pattern:solid, wing-color:black).</li>
+<li><a href="http://groups.csail.mit.edu/vision/SUN/">SUN</a>. The SUN Attribute Database contains 14,340 complex visual scenes, from 717 scene types and 102 attributes (like material:rock, function:eating, surface:glossy).</li>
+<li><a href="http://attributes.kyb.tuebingen.mpg.de/">AWA</a>. The Animals with Attributes consists of 30,475 images of 50 animal classes and 85 attributes(like texture: furry, or color: black).</li>
 </details>
 
 **M2M: Imbalanced Classification via Major-to-Minor Translation.**<br>
