@@ -1,16 +1,336 @@
 # Image Synthesis
 
 ## Table of Contents
-- [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
-- [Restoration or Enhancement with Unpair or Misaligned Data](#restoration-or-enhancement-with-unpair-or-misaligned-data)
 - [Restoration or Enhancement](#restoration-or-enhancement)
 - [Individual Object Manipulate](#individual-object-manipulate)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
 - [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
-- [Free-Hand Sketch](#free-hand-sketch)
-- [Long-Tailed](#long-tailed)
 - [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)
+- [Free-Hand Sketch](#free-hand-sketch)
+- [Long-Tailed and Open Set](#long-tailed-and-open-set)
+- [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
 - [DeepFake and Forensic](#deepfake-and-forensic)
+
+## Restoration or Enhancement
+
+### With Exemplar
+
+**Image Super-Resolution by Neural Texture Transfer.**<br>
+*[Zhifei Zhang](https://zzutk.github.io/), Zhaowen Wang, Zhe Lin, Hairong Qi.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.00834)] [[Project](http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/SRNTT.html)] [[Github](https://github.com/ZZUTK/SRNTT)]
+
+**Deep Exemplar-Based Video Colorization.**<br>
+*Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, Dong Chen.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper)]
+
+**Deep Exemplar-based Colorization.**<br>
+*Mingming He, [Dongdong Chen](http://www.dongdongchen.bid/), [Jing Liao](https://liaojing.github.io/html/index.html), Pedro V. Sander, Lu Yuan.*<br>
+Siggraph 2018. [[PDF](https://arxiv.org/abs/1807.06587)] [[Github](https://github.com/msracver/Deep-Exemplar-based-Colorization)]
+
+**Progressive Color Transfer with Dense Semantic Correspondences.**<br>
+*Mingming He, Jing Liao, Dongdong Chen, Lu Yuan, Pedro V Sander.*<br>
+ACM TOG 2018.[[PDF](https://arxiv.org/pdf/1710.00756.pdf)]
+
+**Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform.**<br>
+*[Xintao Wang](https://xinntao.github.io/), [Ke Yu](https://yuke93.github.io/), [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1804.02815)] [[Project](http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/)] [[Github](https://github.com/xinntao/SFTGAN)] [[BasicSR](https://github.com/xinntao/BasicSR)] [[HandyViewer](https://github.com/xinntao/HandyViewer)]
+
+**The Unreasonable Effectiveness of Texture Transfer for Single Image Super-resolution.**<br>
+*Muhammad Waleed Gondal, Bernhard Schölkopf, Michael Hirsch.*<br>.
+ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.com/waleedgondal/Texture-based-Super-Resolution-Network)]
+
+**Learned Multi-View Texture Super-Resolution.**<br>
+*Audrey Richard, Ian Cherabier, Martin R. Oswald, Vagia Tsiminaki, Marc Pollefeys, Konrad Schindler.*<br>
+3DV 2019. [[PDF](https://arxiv.org/abs/2001.04775)]
+
+### With Unpair or Misaligned Data
+
+**Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training.**<br>
+*Yunxuan Wei, [Shuhang Gu](https://shuhanggu.github.io/), Yawei Li, Longcun Jin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.01178)] [[Github](https://github.com/ShuhangGu/DASR)]
+
+**Robust Image Reconstruction with Misaligned Structural Information.**<br>
+*Leon Bungert, Matthias J. Ehrhardt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00589)]
+
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
+
+**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
+*Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
+
+**Learning Invariant Representation for Unsupervised Image Restoration.**<br>
+*Wenchao Du, Hu Chen, Hongyu Yang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12769)]
+
+**Meta-Transfer Learning for Zero-Shot Super-Resolution.**<br>
+*Jae Woong Soh, Sunwoo Cho, Nam Ik Cho.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12213)]
+
+**EnlightenGAN: Deep Light Enhancement without Paired Supervision.**<br>
+*Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang.*<br>
+[[PDF](https://arxiv.org/abs/1906.06972)] [[Github](https://github.com/TAMU-VITA/EnlightenGAN)] [[Dataset](https://github.com/TAMU-VITA/EnlightenGAN/issues/28)] [[KinD](https://arxiv.org/abs/1905.04161)]
+
+**Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
+*Satoshi Kosugi, Toshihiko Yamasaki.* <br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/1912.07833)]
+
+**Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements.**<br>
+*Kaixuan Wei, Jiaolong Yang, Ying Fu, David Wipf, Hua Huang.* <br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00637)] [[Project](https://github.com/Vandermode/ERRNet)]
+
+**Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
+*Kosugi, Toshihiko Yamasaki.*<br>
+ArXiV, 17 Dec 2019 [[PDF](https://arxiv.org/pdf/1912.07833.pdfSatoshi)]
+
+**Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs.**<br>
+*Yu-Sheng Chen, Yu-Ching Wang, Man-Hsin Kao, Yung-Yu Chuang.*<br>
+CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf)] [[Supplementary Material](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf)] [[Demo](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/)] [[Github](https://github.com/nothinglo/Deep-Photo-Enhancer)]  [[MIT-Adobe FiveK Dataset](https://data.csail.mit.edu/graphics/fivek/)] [[DSLR Photo Enhancement Dataset](http://people.ee.ethz.ch/~ihnatova/#demo)]
+
+**PPN2V: Fully Unsupervised Probabilistic Noise2Void.**<br>
+*Mangal Prakash, Manan Lalit, Pavel Tomancak, Alexander Krull, Florian Jug.*<br>
+arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://github.com/juglab/ppn2v)] [[MPI-CBG: Max-Planck Institute of Molecular Cell Biology and Genetics](https://www.mpi-cbg.de/home/)]
+
+**PN2V:Probabilistic Noise2Void: Unsupervised Content-Aware Denoising.**<br>
+*Alexander Krull, Tomas Vicar, Florian Jug.*<br>
+arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
+
+### Misc
+
+**Path-Restore: Learning Network Path Selection for Image Restoration.**<br>
+*Ke Yu, Xintao Wang, Chao Dong, Xiaoou Tang, Chen Change Loy.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1904.10343)] [[Project](https://yuke93.github.io/Path-Restore/)]
+
+**Divergence-Based Adaptive Extreme Video Completion.**<br>
+*Majed El Helou, Ruofan Zhou, Frank Schmutz, Fabrice Guibert, Sabine Süsstrunk.*<br>
+ICASSP 2020. [[](https://arxiv.org/abs/2004.06409)]
+
+**Bringing Old Photos Back to Life.**<br>
+*Ziyu Wan, Bo Zhang, Dongdong Chen, Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
+CVPR 2020. [[PDF](http://www.dongdongchen.bid/)]
+
+**A General Decoupled Learning Framework for Parameterized Image Operators.**<br>
+*Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen.*<br>
+TPAMI 2019. [[PDF](https://arxiv.org/abs/1907.05852.pdf)] 
+
+**Decouple Learning for Parameterized Image Operators.**<br>
+*Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen.*<br>
+ECCV 2018. [[PDF](http://www.dongdongchen.bid/pubs/colorization_sig18.pdf)] [[Github](https://github.com/msracver/Deep-Exemplar-based-Colorization)]
+
+**Gated Context Aggregation Network for Image Dehazing and Deraining.**<br>
+*Dongdong Chen, Mingming He, Qingnan Fan, Jing Liao, Liheng Zhang, Dongdong Hou, Lu Yuan, Gang Hua.*<br>
+WACV 2019. [[PDF](https://arxiv.org/pdf/1811.08747.pdf)] [[Github](https://github.com/cddlyf/GCANet)]
+
+**Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring.**<br>
+*Maitreya Suin, Kuldeep Purohit, A. N. Rajagopalan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05343)]
+
+**Learning Event-Based Motion Deblurring.**<br>
+*Zhe Jiang, Yu Zhang, Dongqing Zou, Jimmy Ren, Jiancheng Lv, Yebin Liu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05794)]
+
+**Structure-Preserving Super Resolution with Gradient Guidance.**<br>
+*Cheng Ma, Yongming Rao, Yean Cheng, Ce Chen, Jiwen Lu, Jie Zhou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13081)] [[Github](https://github.com/Maclory/SPSR)]
+
+**DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution.**<br>
+*Marcel Christoph Bühler, Andrés Romero, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04433)] [[Project](https://mcbuehler.github.io/DeepSEE/)]
+
+**Deblurring using Analysis-Synthesis Networks Pair.**<br>
+*Adam Kaufman, Raanan Fattal.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02956)]
+
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
+
+**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
+*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
+
+**Deep White-Balance Editing.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)]
+
+**What Else Can Fool Deep Learning? Addressing Color Constancy Errors on Deep Neural Network Performance.**<br>
+*[Mahmoud Afifi](http://www.cse.yorku.ca/~mafifi/), Michael S. Brown.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Afifi_What_Else_Can_Fool_Deep_Learning_Addressing_Color_Constancy_Errors_ICCV_2019_paper.pdf)] [[Project](http://cvil.eecs.yorku.ca/projects/public_html/wb_emulation/index.html)] [[Github](https://github.com/mahmoudnafifi/WB_color_augmenter)]
+
+**When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images.**<br>
+*Mahmoud Afifi, Brian Price, Scott Cohen, and Michael S. Brown.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.pdf)] [[Github](https://github.com/mahmoudnafifi/WB_sRGB)] 
+
+**Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
+*Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.com/clovaai/cutblur)]
+
+**Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline.**<br>
+*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/), Wei-Sheng Lai, Yu-Sheng Chen, Yi-Lung Kao, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01179)] [[Github](https://github.com/alex04072000/SingleHDR)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/SingleHDR)]
+
+**Learning to See Through Obstructions.**<br>
+*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
+CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
+
+**DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
+*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
+
+**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
+*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
+arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
+
+**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
+AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
+
+## Individual Object Manipulate 
+
+**Learning to Manipulate Individual Objects in an Image.**<br>
+*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
+
+## Video Prediction and Future Prediction
+
+**Transformation-based Adversarial Video Prediction on Large-Scale Data.**<br>
+*Pauline Luc, Aidan Clark, Sander Dieleman, Diego de Las Casas, Yotam Doron, Albin Cassirer, Karen Simonyan.*<br>
+arxiv, 9 Mar 2020. [[PDF](https://arxiv.org/abs/2003.04035)]
+
+**The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction.**<br>
+*Junwei Liang, Lu Jiang, Kevin Murphy, Ting Yu, Alexander Hauptmann.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06445)] [[Project](https://next.cs.cmu.edu/multiverse/index.html)] [[The Forking Paths Dataset](https://next.cs.cmu.edu/multiverse/index.html)]
+
+**Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks.**<br>
+*[Wei Xiong](https://wxiong.me/), Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1709.07592)] [[Github](https://github.com/weixiong-ur/mdgan)] [[Dataset](https://drive.google.com/open?id=1xWLiU-MBGN7MrsFHQm4_yXmfHBsMbJQo)] [[Project](https://sites.google.com/site/whluoimperial/mdgan)]
+
+**Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.**<br>
+*[Tianfan Xue](http://people.csail.mit.edu/tfxue/research_statement_tianfan.pdf), Jiajun Wu, Katherine L. Bouman, William T. Freeman.*<br>
+TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](visualdynamics.csail.mit.edu)] [[Github](https://github.com/tfxue/visual-dynamics)]
+
+**Eidetic 3D LSTM: A Model for Video Prediction and Beyond.**<br>
+*Yunbo Wang, Lu Jiang, Ming-Hsuan Yang, Li-Jia Li, Mingsheng Long, Li Fei-Fei.*<br>
+ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https://github.com/google/e3d_lstm)]
+
+**STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction.**<br>
+*Yingfan Huang, HuiKun Bi, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.*<br> 
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
+[[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
+
+## Frame Interpolation and Videos Generation
+
+**AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation.**<br>
+*[Hyeongmin Lee](https://hyeongminlee.github.io/), [Taeoh Kim](https://taeoh-kim.github.io/), Tae-young Chung, Daehyun Pak, Yuseok Ban, and Sangyoun Lee.*<br>
+CVPR 2020.
+[[PDF](https://arxiv.org/abs/1907.10244)] [[Video](https://www.youtube.com/watch?v=Z3q0YrBsNJc)] [[Github](https://github.com/HyeongminLEE/AdaCoF-pytorch)]
+
+**Blurry Video Frame Interpolation.**<br>
+*Wang Shen, Wenbo Bao, Guangtao Zhai, Li Chen, Xiongkuo Min, Zhiyong Gao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12259)]
+
+**Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution.**<br>
+*Xiaoyu Xiang, Yapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach, Chenliang Xu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11616)]
+
+**DAIN: Depth-Aware Video Frame Interpolation.**<br>
+*Wenbo Bao, Wei-Sheng Lai, Chao Ma, Xiaoyun Zhang, Zhiyong Gao, Ming-Hsuan Yang.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
+[[Github](https://github.com/baowenbo/DAIN)]
+[[Software](https://drive.google.com/file/d/1uuDkF4j4H1AI1ot88XdqzwMdvAPhxKN8/view)]
+
+**Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation.**<br>
+*[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
+
+## Soft Segmentation and Background Matting
+
+**Background Matting: The World is Your Green Screen.**<br>
+*[Soumyadip Sengupta](https://homes.cs.washington.edu/~soumya91/), [Vivek Jayaram](http://www.vivekjayaram.com/research), Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00626)] [[Github](https://github.com/senguptaumd/Background-Matting)] [[Project](https://grail.cs.washington.edu/projects/background-matting/)]
+
+**Semantic Soft Segmentation.**<br>
+*[Yagiz Aksoy](http://yaksoy.github.io/), Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
+ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/sites/cfg.mit.edu/files/sss_3.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github-Matlab](https://github.com/yaksoy/SemanticSoftSegmentation)] [[Github-Python](https://github.com/iyah4888/SIGGRAPH18SSS)]
+
+## Free-Hand Sketch
+
+**Synthesizing human-like sketches from natural images using a conditional convolutional decoder.**<br> 
+*Moritz Kampelmühler, Axel Pinz.*<br> 
+WACV 2020. [[PDF](https://arxiv.org/abs/2003.07101)] [[Github](https://github.com/kampelmuehler/synthesizing_human_like_sketches)]
+
+**Image Generation from Freehand Scene Sketches.**<br> 
+*Chengying Gao, Qi Liu, Qi Xu, Jianzhuang Liu, Limin Wang, Changqing Zou.*<br> 
+arxiv，5 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02683)]
+
+**Sketch-to-Art: Synthesizing Stylized Art Images From Sketches.**<br> 
+*Bingchen Liu, Kunpeng Song, Ahmed Elgammal.*<br> 
+arxiv, 26 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12888)]
+
+**Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches.**<br>
+*Shuai Yang, Zhangyang Wang, Jiaying Liu, Zongming Guo.*<br>
+arxiv, 9 Jan 2020.
+[[PDF](https://arxiv.org/abs/2001.02890)]
+
+**Deep Learning for Free-Hand Sketch: A Survey.**<br>
+*Peng Xu.*<br>
+arxiv, 8 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02600)]
+
+**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
+*[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Github](https://arnabgho.github.io/iSketchNFill/)]
+
+**Examining Performance of Sketch-to-Image Translation Models with Multiclass Automatically Generated Paired Training Data.**<br>
+*Dichao Hu.*<br>
+arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
+
+**Multi-Graph Transformer for Free-Hand Sketch Recognition.**<br>
+*[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
+
+## Long-Tailed and Open Set
+
+**Long-tail learning with attributes.**<br>
+*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)]
+
+**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
+*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
+
+**Long-Tailed Recognition Using Class-Balanced Experts.**<br>
+*Saurabh Sharma, Ning Yu, Mario Fritz, Bernt Schiele.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
+
+**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
+*Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02413)] [[Github](https://github.com/Megvii-Nanjing/BBN)]
+
+**Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
+*Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
+
+**Domain Balancing: Face Recognition on Long-Tailed Domains.**<br>
+*Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
+
+**M2m: Imbalanced Classification via Major-to-minor Translation.**<br>
+*Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
+
+**OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
+*[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
+
+**Long-tail learning with attributes.**<br>
+*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)]
+
+**Learning to Segment the Tail.**<br>
+*Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
 ## Diving Deep into Image Synthesis
 
@@ -117,267 +437,6 @@ arxiv, 10 Jan 2020. [[PDF](https://arxiv.org/pdf/2001.03640.pdf)]
 **Deep Video-Based Performance Cloning.**<br>
 *Kfir Aberman, Mingyi Shi, Jing Liao, Dani Lischinski, Daniel Cohen-Or, Chen Baoquan.*<br>
 Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
-
-## Restoration or Enhancement with Unpair or Misaligned Data
-
-**Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training.**<br>
-*Yunxuan Wei, [Shuhang Gu](https://shuhanggu.github.io/), Yawei Li, Longcun Jin.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.01178)] [[Github](https://github.com/ShuhangGu/DASR)]
-
-**Robust Image Reconstruction with Misaligned Structural Information.**<br>
-*Leon Bungert, Matthias J. Ehrhardt.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00589)]
-
-**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
-*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
-
-**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
-*Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
-
-**Learning Invariant Representation for Unsupervised Image Restoration.**<br>
-*Wenchao Du, Hu Chen, Hongyu Yang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12769)]
-
-**Meta-Transfer Learning for Zero-Shot Super-Resolution.**<br>
-*Jae Woong Soh, Sunwoo Cho, Nam Ik Cho.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12213)]
-
-**EnlightenGAN: Deep Light Enhancement without Paired Supervision.**<br>
-*Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang.*<br>
-[[PDF](https://arxiv.org/abs/1906.06972)] [[Github](https://github.com/TAMU-VITA/EnlightenGAN)] [[Dataset](https://github.com/TAMU-VITA/EnlightenGAN/issues/28)] [[KinD](https://arxiv.org/abs/1905.04161)]
-
-**Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
-*Satoshi Kosugi, Toshihiko Yamasaki.* <br>
-AAAI 2020. [[PDF](https://arxiv.org/abs/1912.07833)]
-
-**Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements.**<br>
-*Kaixuan Wei, Jiaolong Yang, Ying Fu, David Wipf, Hua Huang.* <br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00637)] [[Project](https://github.com/Vandermode/ERRNet)]
-
-**Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
-*Kosugi, Toshihiko Yamasaki.*<br>
-ArXiV, 17 Dec 2019 [[PDF](https://arxiv.org/pdf/1912.07833.pdfSatoshi)]
-
-**Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs.**<br>
-*Yu-Sheng Chen, Yu-Ching Wang, Man-Hsin Kao, Yung-Yu Chuang.*<br>
-CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf)] [[Supplementary Material](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf)] [[Demo](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/)] [[Github](https://github.com/nothinglo/Deep-Photo-Enhancer)]  [[MIT-Adobe FiveK Dataset](https://data.csail.mit.edu/graphics/fivek/)] [[DSLR Photo Enhancement Dataset](http://people.ee.ethz.ch/~ihnatova/#demo)]
-
-**PPN2V: Fully Unsupervised Probabilistic Noise2Void.**<br>
-*Mangal Prakash, Manan Lalit, Pavel Tomancak, Alexander Krull, Florian Jug.*<br>
-arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://github.com/juglab/ppn2v)] [[MPI-CBG: Max-Planck Institute of Molecular Cell Biology and Genetics](https://www.mpi-cbg.de/home/)]
-
-**PN2V:Probabilistic Noise2Void: Unsupervised Content-Aware Denoising.**<br>
-*Alexander Krull, Tomas Vicar, Florian Jug.*<br>
-arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
-
-## Restoration or Enhancement
-
-**Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring.**<br>
-*Maitreya Suin, Kuldeep Purohit, A. N. Rajagopalan.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05343)]
-
-**Learning Event-Based Motion Deblurring.**<br>
-*Zhe Jiang, Yu Zhang, Dongqing Zou, Jimmy Ren, Jiancheng Lv, Yebin Liu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05794)]
-
-**Structure-Preserving Super Resolution with Gradient Guidance.**<br>
-*Cheng Ma, Yongming Rao, Yean Cheng, Ce Chen, Jiwen Lu, Jie Zhou.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13081)] [[Github](https://github.com/Maclory/SPSR)]
-
-**DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution.**<br>
-*Marcel Christoph Bühler, Andrés Romero, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04433)] [[Project](https://mcbuehler.github.io/DeepSEE/)]
-
-**Deblurring using Analysis-Synthesis Networks Pair.**<br>
-*Adam Kaufman, Raanan Fattal.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02956)]
-
-**Self-Supervised Scene De-occlusion.**<br>
-*[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
-
-**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
-*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
-
-**Deep White-Balance Editing.**<br>
-*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)]
-
-**What Else Can Fool Deep Learning? Addressing Color Constancy Errors on Deep Neural Network Performance.**<br>
-*[Mahmoud Afifi](http://www.cse.yorku.ca/~mafifi/), Michael S. Brown.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Afifi_What_Else_Can_Fool_Deep_Learning_Addressing_Color_Constancy_Errors_ICCV_2019_paper.pdf)] [[Project](http://cvil.eecs.yorku.ca/projects/public_html/wb_emulation/index.html)] [[Github](https://github.com/mahmoudnafifi/WB_color_augmenter)]
-
-**When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images.**<br>
-*Mahmoud Afifi, Brian Price, Scott Cohen, and Michael S. Brown.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.pdf)] [[Github](https://github.com/mahmoudnafifi/WB_sRGB)] 
-
-**Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
-*Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.com/clovaai/cutblur)]
-
-**Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline.**<br>
-*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/), Wei-Sheng Lai, Yu-Sheng Chen, Yi-Lung Kao, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01179)] [[Github](https://github.com/alex04072000/SingleHDR)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/SingleHDR)]
-
-**Learning to See Through Obstructions.**<br>
-*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
-CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
-
-**DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
-*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
-
-**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
-*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
-arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
-
-**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
-*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
-AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
-
-## Individual Object Manipulate 
-**Learning to Manipulate Individual Objects in an Image.**<br>
-*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
-
-## Video Prediction and Future Prediction
-
-**Transformation-based Adversarial Video Prediction on Large-Scale Data.**<br>
-*Pauline Luc, Aidan Clark, Sander Dieleman, Diego de Las Casas, Yotam Doron, Albin Cassirer, Karen Simonyan.*<br>
-arxiv, 9 Mar 2020. [[PDF](https://arxiv.org/abs/2003.04035)]
-
-**The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction.**<br>
-*Junwei Liang, Lu Jiang, Kevin Murphy, Ting Yu, Alexander Hauptmann.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06445)] [[Project](https://next.cs.cmu.edu/multiverse/index.html)] [[The Forking Paths Dataset](https://next.cs.cmu.edu/multiverse/index.html)]
-
-**Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks.**<br>
-*[Wei Xiong](https://wxiong.me/), Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1709.07592)] [[Github](https://github.com/weixiong-ur/mdgan)] [[Dataset](https://drive.google.com/open?id=1xWLiU-MBGN7MrsFHQm4_yXmfHBsMbJQo)] [[Project](https://sites.google.com/site/whluoimperial/mdgan)]
-
-**Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.**<br>
-*[Tianfan Xue](http://people.csail.mit.edu/tfxue/research_statement_tianfan.pdf), Jiajun Wu, Katherine L. Bouman, William T. Freeman.*<br>
-TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](visualdynamics.csail.mit.edu)] [[Github](https://github.com/tfxue/visual-dynamics)]
-
-**Eidetic 3D LSTM: A Model for Video Prediction and Beyond.**<br>
-*Yunbo Wang, Lu Jiang, Ming-Hsuan Yang, Li-Jia Li, Mingsheng Long, Li Fei-Fei.*<br>
-ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https://github.com/google/e3d_lstm)]
-
-**STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction.**<br>
-*Yingfan Huang, HuiKun Bi, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.*<br> 
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
-[[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
-
-## Frame Interpolation and Videos Generation
-
-**AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation.**<br>
-*[Hyeongmin Lee](https://hyeongminlee.github.io/), [Taeoh Kim](https://taeoh-kim.github.io/), Tae-young Chung, Daehyun Pak, Yuseok Ban, and Sangyoun Lee.*<br>
-CVPR 2020.
-[[PDF](https://arxiv.org/abs/1907.10244)] [[Video](https://www.youtube.com/watch?v=Z3q0YrBsNJc)] [[Github](https://github.com/HyeongminLEE/AdaCoF-pytorch)]
-
-**Blurry Video Frame Interpolation.**<br>
-*Wang Shen, Wenbo Bao, Guangtao Zhai, Li Chen, Xiongkuo Min, Zhiyong Gao.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12259)]
-
-**Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution.**<br>
-*Xiaoyu Xiang, Yapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach, Chenliang Xu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11616)]
-
-**DAIN: Depth-Aware Video Frame Interpolation.**<br>
-*Wenbo Bao, Wei-Sheng Lai, Chao Ma, Xiaoyun Zhang, Zhiyong Gao, Ming-Hsuan Yang.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
-[[Github](https://github.com/baowenbo/DAIN)]
-[[Software](https://drive.google.com/file/d/1uuDkF4j4H1AI1ot88XdqzwMdvAPhxKN8/view)]
-
-**Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation.**<br>
-*[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
-
-
-## Soft Segmentation and Background Matting
-
-**Background Matting: The World is Your Green Screen.**<br>
-*[Soumyadip Sengupta](https://homes.cs.washington.edu/~soumya91/), [Vivek Jayaram](http://www.vivekjayaram.com/research), Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00626)] [[Github](https://github.com/senguptaumd/Background-Matting)] [[Project](https://grail.cs.washington.edu/projects/background-matting/)]
-
-**Semantic Soft Segmentation.**<br>
-*[Yagiz Aksoy](http://yaksoy.github.io/), Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
-ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/sites/cfg.mit.edu/files/sss_3.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github-Matlab](https://github.com/yaksoy/SemanticSoftSegmentation)] [[Github-Python](https://github.com/iyah4888/SIGGRAPH18SSS)]
-
-## Free-Hand Sketch
-
-**Synthesizing human-like sketches from natural images using a conditional convolutional decoder.**<br> 
-*Moritz Kampelmühler, Axel Pinz.*<br> 
-WACV 2020. [[PDF](https://arxiv.org/abs/2003.07101)] [[Github](https://github.com/kampelmuehler/synthesizing_human_like_sketches)]
-
-**Image Generation from Freehand Scene Sketches.**<br> 
-*Chengying Gao, Qi Liu, Qi Xu, Jianzhuang Liu, Limin Wang, Changqing Zou.*<br> 
-arxiv，5 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02683)]
-
-**Sketch-to-Art: Synthesizing Stylized Art Images From Sketches.**<br> 
-*Bingchen Liu, Kunpeng Song, Ahmed Elgammal.*<br> 
-arxiv, 26 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12888)]
-
-**Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches.**<br>
-*Shuai Yang, Zhangyang Wang, Jiaying Liu, Zongming Guo.*<br>
-arxiv, 9 Jan 2020.
-[[PDF](https://arxiv.org/abs/2001.02890)]
-
-**Deep Learning for Free-Hand Sketch: A Survey.**<br>
-*Peng Xu.*<br>
-arxiv, 8 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02600)]
-
-**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
-*[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Github](https://arnabgho.github.io/iSketchNFill/)]
-
-**Examining Performance of Sketch-to-Image Translation Models with Multiclass Automatically Generated Paired Training Data.**<br>
-*Dichao Hu.*<br>
-arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
-
-**Multi-Graph Transformer for Free-Hand Sketch Recognition.**<br>
-*[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
-arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
-
-## Long-Tailed and Open Set
-
-**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
-*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
-
-**Long-Tailed Recognition Using Class-Balanced Experts.**<br>
-*Saurabh Sharma, Ning Yu, Mario Fritz, Bernt Schiele.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
-
-**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
-*Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02413)] [[Github](https://github.com/Megvii-Nanjing/BBN)]
-
-**Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
-*Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
-
-**Domain Balancing: Face Recognition on Long-Tailed Domains.**<br>
-*Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
-
-**M2m: Imbalanced Classification via Major-to-minor Translation.**<br>
-*Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
-
-**OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
-*[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
-
-**Long-tail learning with attributes.**<br>
-*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)]
-
-**Learning to Segment the Tail.**<br>
-*Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
 ## DeepFake and Forensic
 

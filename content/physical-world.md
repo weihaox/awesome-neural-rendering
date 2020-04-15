@@ -48,6 +48,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Hidden Surface or Object Reasoning
 
+**Footprints and Free Space from a Single Color Image.**<br>
+*Jamie Watson, Michael Firman, Aron Monszpart, Gabriel J. Brostow.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06376)]
+
 **Self-Supervised Scene De-occlusion.**<br>
 *Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)]

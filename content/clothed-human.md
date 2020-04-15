@@ -146,6 +146,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 
 ## Image-Based Virtual Try-On
 
+**Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation.**<br>
+*Shizhu Liu, Shanglin Yang, Hui Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06229)]
+
 **LGVTON: A Landmark Guided Approach to Virtual Try-On.**<br>
 *Debapriya Roy, Sanchayan Santra, Bhabatosh Chanda.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00562)]
