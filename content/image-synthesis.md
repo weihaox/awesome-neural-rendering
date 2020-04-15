@@ -2,12 +2,12 @@
 
 ## Table of Contents
 - [Restoration or Enhancement](#restoration-or-enhancement)
+- [Long-Tailed and Open Set](#long-tailed-and-open-set)
 - [Individual Object Manipulate](#individual-object-manipulate)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
 - [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
 - [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)
 - [Free-Hand Sketch](#free-hand-sketch)
-- [Long-Tailed and Open Set](#long-tailed-and-open-set)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 
@@ -191,6 +191,57 @@ arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
 AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
 
+## Long-Tailed and Open Set
+
+**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
+*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
+
+**M2M: Imbalanced Classification via Major-to-Minor Translation.**<br>
+*Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
+
+**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
+*Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02413)] [[Github](https://github.com/Megvii-Nanjing/BBN)]
+
+**Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
+*Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
+
+**Domain Balancing: Face Recognition on Long-Tailed Domains.**<br>
+*Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
+
+<details>
+  <summary> Datasets </summary> 
+<li><a href="https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/">MS-Celeb-1M.</a>. Challenge of Recognizing One Million Celebrities in the Real World.</li>
+<li><a href="https://pgram.com/dataset/casia-webface/">CASIA-WebFace</a>. The CASIA WebFace Facial Dataset of 453,453 images over 10,575 identities after face detection. Requires some filtering for quality. This dataset can be download from <a href="https://pan.baidu.com/s/1hQCOD4Kr66MOW0_PE8bL0w">Baidu Cloud</a> with password y3wj or <a href="https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz">Google Drive</a>.</li>
+</details>
+
+**DRAGON: Long-tail learning with attributes.**<br>
+*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)] [[Github](https://github.com/dvirsamuel/DRAGON)]
+
+<details>
+  <summary> Datasets </summary>
+<li><a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">CUB-200-2011</a>. The Caltech-UCSD Birds-200-2011 contains 11,788 visual images of 200 bird species for fine-grained classification. Each species is described by 312 binary attributes (like tail-pattern:solid, wing-color:black).</li>
+<li><a href="http://groups.csail.mit.edu/vision/SUN/">SUN</a>. The SUN Attribute Database contains 14,340 complex visual scenes, from 717 scene types and 102 attributes (like material:rock, function:eating, surface:glossy).</li>
+<li><a href="http://attributes.kyb.tuebingen.mpg.de/">AWA</a>. The Animals with Attributes consists of 30,475 images of 50 animal classes and 85 attributes(like texture: furry, or color: black).</li>
+</details>
+
+**OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
+*[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
+
+**Long-Tailed Recognition Using Class-Balanced Experts.**<br>
+*Saurabh Sharma, Ning Yu, Mario Fritz, Bernt Schiele.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
+
+**Learning to Segment the Tail.**<br>
+*Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
+
 ## Individual Object Manipulate 
 
 **Learning to Manipulate Individual Objects in an Image.**<br>
@@ -293,62 +344,6 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 **Multi-Graph Transformer for Free-Hand Sketch Recognition.**<br>
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
-
-## Long-Tailed and Open Set
-
-**Long-tail learning with attributes.**<br>
-*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)]
-
-**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
-*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
-
-**Long-Tailed Recognition Using Class-Balanced Experts.**<br>
-*Saurabh Sharma, Ning Yu, Mario Fritz, Bernt Schiele.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
-
-**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
-*Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02413)] [[Github](https://github.com/Megvii-Nanjing/BBN)]
-
-**Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
-*Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
-
-**Domain Balancing: Face Recognition on Long-Tailed Domains.**<br>
-*Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
-
-<details>
-  <summary> Datasets </summary> 
-<li><a href="https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/">MS-Celeb-1M.</a>. Challenge of Recognizing One Million Celebrities in the Real World.</li>
-<li><a href="https://pgram.com/dataset/casia-webface/">CASIA-WebFace</a>. The CASIA WebFace Facial Dataset of 453,453 images over 10,575 identities after face detection. Requires some filtering for quality. This dataset can be download from <a href="https://pan.baidu.com/s/1hQCOD4Kr66MOW0_PE8bL0w">Baidu Cloud</a> with password y3wj or <a href="https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz">Google Drive</a>.</li>
-</details>
-
-**DRAGON: Long-tail learning with attributes.**<br>
-*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)] [[Github](https://github.com/dvirsamuel/DRAGON)]
-
-<details>
-  <summary> Datasets </summary>
-<li><a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">CUB-200-2011</a>. The Caltech-UCSD Birds-200-2011 contains 11,788 visual images of 200 bird species for fine-grained classification. Each species is described by 312 binary attributes (like tail-pattern:solid, wing-color:black).</li>
-<li><a href="http://groups.csail.mit.edu/vision/SUN/">SUN</a>. The SUN Attribute Database contains 14,340 complex visual scenes, from 717 scene types and 102 attributes (like material:rock, function:eating, surface:glossy).</li>
-<li><a href="http://attributes.kyb.tuebingen.mpg.de/">AWA</a>. The Animals with Attributes consists of 30,475 images of 50 animal classes and 85 attributes(like texture: furry, or color: black).</li>
-</details>
-
-**M2M: Imbalanced Classification via Major-to-Minor Translation.**<br>
-*Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
-
-**OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
-*[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
-
-**Learning to Segment the Tail.**<br>
-*Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
-
 
 ## Diving Deep into Image Synthesis
 
