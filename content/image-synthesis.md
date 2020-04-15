@@ -15,9 +15,13 @@
 
 ### With Exemplar
 
-**Image Super-Resolution by Neural Texture Transfer.**<br>
+**SRTNN: Image Super-Resolution by Neural Texture Transfer.**<br>
 *[Zhifei Zhang](https://zzutk.github.io/), Zhaowen Wang, Zhe Lin, Hairong Qi.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1903.00834)] [[Project](http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/SRNTT.html)] [[Github](https://github.com/ZZUTK/SRNTT)]
+
+**CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping.**<br>
+*Haitian Zheng, Mengqi Ji, Haoqian Wang, Yebin Liu, Lu Fang.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/abs/1807.10547)]
 
 **Deep Exemplar-Based Video Colorization.**<br>
 *Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, Dong Chen.*<br>
@@ -316,7 +320,28 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
 *Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
 
-**M2m: Imbalanced Classification via Major-to-minor Translation.**<br>
+<details>
+  <summary> Datasets </summary>
+- **[MS-Celeb-1M](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/)**. Challenge of Recognizing One Million Celebrities in the Real World.
+- **[CASIA-WebFace](https://pgram.com/dataset/casia-webface/)**. The CASIA WebFace Facial Dataset of 453,453 images over 10,575 identities after face detection. Requires some filtering for quality. [Baidu Cloud: y3wj](https://pan.baidu.com/s/1hQCOD4Kr66MOW0_PE8bL0w) [Google Drive](https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz) [Cleaned CASIA-WebFace: eb7h](http://pan.baidu.com/s/1jIqBIcu) 
+```
+$ zip -F CASIA-maxpy-clean.zip --out CASIA-maxpy-clean_fix.zip
+$ unzip CASIA-maxpy-clean_fix.zip
+```
+</details>
+
+**DRAGON: Long-tail learning with attributes.**<br>
+*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)] [[Github](https://github.com/dvirsamuel/DRAGON)]
+
+<details>
+  <summary> Datasets </summary>
+- **[CUB-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)**. The Caltech-UCSD Birds-200-2011 contains 11,788 visual images of 200 bird species for fine-grained classification. Each species is described by 312 binary attributes (like tail-pattern:solid, wing-color:black).
+- **[SUN](http://groups.csail.mit.edu/vision/SUN/)**. The SUN Attribute Database contains 14,340 complex visual scenes, from 717 scene types and 102 attributes (like material:rock, function:eating, surface:glossy).
+- **[AWA](http://attributes.kyb.tuebingen.mpg.de/)**. The Animals with Attributes consistsof30,475imagesof50animalclassesand85attributes(liketexture:furry, or color:black).
+</details>
+
+**M2M: Imbalanced Classification via Major-to-Minor Translation.**<br>
 *Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
 
@@ -324,13 +349,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
 *[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
 
-**Long-tail learning with attributes.**<br>
-*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)]
-
 **Learning to Segment the Tail.**<br>
 *Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
+
 
 ## Diving Deep into Image Synthesis
 
