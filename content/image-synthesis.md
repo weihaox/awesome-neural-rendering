@@ -103,6 +103,10 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ### Misc
 
+**Unified Dynamic Convolutional Network for Super-Resolution with Variational Degradations.**<br>
+*Yu-Syuan Xu, Shou-Yao Roy Tseng, Yu Tseng, Hsien-Kai Kuo, Yi-Min Tsai.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06965)]
+
 **Path-Restore: Learning Network Path Selection for Image Restoration.**<br>
 *Ke Yu, Xintao Wang, Chao Dong, Xiaoou Tang, Chen Change Loy.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1904.10343)] [[Project](https://yuke93.github.io/Path-Restore/)]
@@ -455,6 +459,14 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+
+**DeepFakes Evolution: Analysis of Facial Regions and Fake Detection Performance.**<br>
+*Ruben Tolosana, Sergio Romero-Tapiador, Julian Fierrez, Ruben Vera-Rodriguez.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07532)]
+
+**CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition.**<br>
+*Yuge Huang, Yuhan Wang, Ying Tai, Xiaoming Liu, Pengcheng Shen, Shaoxin Li, Jilin Li, Feiyue Huang.*<br>
+CVPR 2020. [[PDF](https://github.com/HuangYG123/CurricularFace/blob/master)] [[Github](https://github.com/HuangYG123/CurricularFace)]
 
 **Deep Spatial Gradient and Temporal Depth Learning for Face Anti-spoofing.**<br>
 *Zezheng Wang, Zitong Yu, Chenxu Zhao, Xiangyu Zhu, Yunxiao Qin, Qiusheng Zhou, Feng Zhou, Zhen Lei.*<br>

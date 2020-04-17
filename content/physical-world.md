@@ -34,6 +34,10 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 
 ## Inverse Rendering
 
+**NiLBS: Neural Inverse Linear Blend Skinning.**<br>
+*Timothy Jeruzalski, David I.W. Levin, Alec Jacobson, Paul Lalonde, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05980)]
+
 **Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer.**<br>
 *Wenzheng Chen, Jun Gao, Huan Ling, Edward J. Smith, Jaakko Lehtinen, Alec Jacobson, Sanja Fidler.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01210)]
@@ -53,14 +57,18 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06376)]
 
 **Self-Supervised Scene De-occlusion.**<br>
-*Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)]
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
 **Where Does It End? -- Reasoning About Hidden Surfaces by Object Intersection Constraints.**<br>
 *Michael Strecke, Joerg Stueckler.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04630)]
 
 ## Scene Understanding
+
+**Shallow2Deep: Indoor Scene Modeling by Single Image Understanding.**<br>
+*Yinyu Nie, Shihui Guo, Jian Chang, Xiaoguang Han, Jiahui Huang, Shi-Min Hu, Jian Jun Zhang.*<br>
+Pattern Recognition 2020. [[PDF](https://arxiv.org/abs/2002.09790)]
 
 **Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos.**<br>
 *Aysegul Dundar, Kevin J. Shih, Animesh Garg, Robert Pottorf, Andrew Tao, Bryan Catanzaro.*<br>
