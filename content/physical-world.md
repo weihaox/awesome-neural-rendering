@@ -4,11 +4,9 @@
 A collection of papers on inferring the physical world (shape, depth, motion, paint, light, colors, etc) from single RGB, multi-view or temporal images. 
 
 ## Table of Contents
-- [Inverse Rendering](#inverse-rendering)
 - [Hidden Surface or Object Reasoning](#hidden-surface-or-object-reasoning)
 - [Scene Understanding](#scene-understanding)
 - [Object Skeletonization](#object-skeletonization)
-- [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
 - [Shape and Viewpoint](#shape-and-viewpoint)
 - [Human 3D Reconstruction](#human-3d-reconstruction)
   * [Soft-tissue Dynamics](#soft-tissue-dynamics)
@@ -17,7 +15,7 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
   * [Human Poses and Shapes](#human-poses-and-shapes)
   * [Misc (Face, Object)](#misc--face--object-)
 - [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
-- [Human Pose Estimation](#human-pose-estimation)
+- [Pose Estimation](#pose-estimation)
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [Depth](#depth)
   * [Depth From Video (Depth, Normal and Camera Motion Estimation)](#depth-from-video--depth--normal-and-camera-motion-estimation-)
@@ -31,24 +29,6 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
   * [2DCNN + LSTM (Temporal Block)](#2dcnn---lstm--temporal-block-)
 - [Team and People](#team-and-people)
 - [Good Start of 3D Resources (Python)](#good-start-of-3d-resources--python-)
-
-## Inverse Rendering
-
-**NiLBS: Neural Inverse Linear Blend Skinning.**<br>
-*Timothy Jeruzalski, David I.W. Levin, Alec Jacobson, Paul Lalonde, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05980)]
-
-**Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer.**<br>
-*Wenzheng Chen, Jun Gao, Huan Ling, Edward J. Smith, Jaakko Lehtinen, Alec Jacobson, Sanja Fidler.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01210)]
-
-**InverseRenderNet: Learning Single Image Inverse Rendering.**<br>
-*Ye Yu, William A. P. Smith.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.html)] [[Github](https://github.com/YeeU/InverseRenderNet)] [[IIW Dataset](http://opensurfaces.cs.cornell.edu/publications/intrinsic/#download)] 
-
-**Learning Inverse Rendering of Faces from Real-world Videos.**<br>
-*Yuda Qiu, Zhangyang Xiong, Kai Han, Zhongyuan Wang, Zixiang Xiong, Xiaoguang Han.*<br>
-arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.com/RudyQ/InverseFaceRender)]
 
 ## Hidden Surface or Object Reasoning
 
@@ -91,64 +71,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12212)]
 **Image Co-skeletonization via Co-segmentation.**<br>
 *Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2004.05575)]
-
-## Light, Reflectance, lluminance and Shade
-**Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
-*Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08367)] [[Project](https://people.eecs.berkeley.edu/~pratul/lighthouse/)]
-
-**Neural Illumination: Lighting Prediction for Indoor Environments.**<br>
-*Shuran Song and Thomas Funkhouser.*<br>
-CVPR 2019. [[PDF](https://illumination.cs.princeton.edu/paper.pdf)] [[Project](https://illumination.cs.princeton.edu/)]
-
-**Learning to Shade Hand-drawn Sketches.**<br>
-*Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11812)]
-
-**Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
-*Lvmin Zhang, Edgar Simo-Serra, Yi Ji, and Chunping Liu.*<br>
-SIGGRAPH 2020 (TOG 2020).
-[[Priject](https://lllyasviel.github.io/PaintingLight/)]
-[[Github](https://github.com/lllyasviel/PaintingLight)]
-
-**Illumination Decomposition for Photograph with Multiple Light Sources.**<br>
-*Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao.*<br>
-TIP 2017. [[PDF](https://yanqingan.github.io/docs/tip17_illumination.pdf)] [[Github](https://github.com/yanqingan/Illumination_Decomposition)]
-
-**Learning to Predict Indoor Illumination from a Single Image.**<br>
-*Marc-André Gardner, [Kalyan Sunkavalli](https://research.adobe.com/person/kalyan-sunkavalli/), [Ersin Yumer](https://research.adobe.com/person/ersin-yumer/), [Xiaohui Shen](https://research.adobe.com/person/xiaohui-shen/), Emiliano Gambaretto, [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), and [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/).*<br>
-ACM Transactions on Graphics (SIGGRAPH Asia), 2017. [[PDF](https://arxiv.org/abs/1704.00090)] [[Dataset](http://indoor.hdrdb.com/)] [[Homepage](vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight)]
-
-**Deep Parametric Indoor Lighting Estimation.**<br>
-*Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1910.08812)] [[Supplementary material](https://lvsn.github.io/deepparametric/supplementary/index.html)] [[Laval Indoor HDR Database](http://indoor.hdrdb.com/) and [Depth](http://indoordepth.hdrdb.com/)] [[Project](https://lvsn.github.io/deepparametric/)] 
-
-**Fast Spatially-Varying Indoor Lighting Estimation.**<br>
-*Mathieu Garon, Kalyan Sunkavalli, Sunil Hadap, Nathan Carr, [Jean-François Lalonde](http://www.jflalonde.ca/).*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1906.03799)] [[Supplementary material](https://lvsn.github.io/fastindoorlight/supplementary/index.html)] [[Project](https://lvsn.github.io/fastindoorlight/)] [[Lavel Indoor Spatially Varying HDR Dataset / 79 HDR Light Probes](http://indoorsv.hdrdb.com/)]
-
-**GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.**<br>
-*[Hao Zhou](http://zhhoper.github.io), Xiang Yu, David W Jacobs.*<br>
-ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_IID.pdf)] [[Supplement](https://zhhoper.github.io/paper/zhou_ICCV_2019_IID_sup.pdf)] [[Poster](https://zhhoper.github.io/poster/Poster_ICCV_2019_IID.pdf)] [[Spherical Harmonic Tools](shtools.github.io/SHTOOLS)]
-
-**Deep Single-Image Portrait Relighting.**<br>
-*Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/pdf/1905.00824)] [[Github](https://github.com/zhhoper/DPR)] [[Project](https://zhhoper.github.io/dpr.html)] [[DPR Dataset](https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing)]
-
-**Single Image Portrait Relighting.**<br>
-*[Tiancheng Sun](http://kevinkingo.com/), Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br> 
-SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.00824)]
-
-**Multi-view Relighting using a Geometry-Aware Network Paper Abstract Author Preprint Paper Video.**<br>
-*Julien Philip, Michael Gharbi, Tinghui Zhou, Alexei (Alyosha) Efros, George Drettakis.*<br>
-
-**SfSNet: Learning Shape, Reflectance and llluminance of Faces in the Wild.**<br>
-*Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs.*<br>
-CVPR 2018. [[Project](https://senguptaumd.github.io/SfSNet/)] [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
-
-**Occlusion-aware 3D Morphable Models and an Illumination Prior for Face Image Analysis.**<br>
-*Bernhard Egger, Sandro Schoenborn, Andreas Schneider, Adam Kortylewski, Andreas Morel-Forster, Clemens Blumer and Thomas Vetter.*<br>
-IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](http://gravis.dmi.unibas.ch/publications/2018/2018_Egger_IJCV.pdf)]
 
 ## Shape and Viewpoint
 **Self-supervised 3D Shape and Viewpoint Estimation from Single Images for Robotics.**<br>
@@ -383,7 +305,7 @@ ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/p
 *Yi Zhou, Liwen Hu, Jun Xing, Weikai Chen, Han-Wei Kung, Xin Tong, Hao Li.*<br>
 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](http://t.cn/AiBvbwNK)] 
 
-## Human Pose Estimation
+## Pose Estimation
 
 [[Awesome work on hand pose estimation/tracking.](https://github.com/xinghaochen/awesome-hand-pose-estimation)]
 
@@ -395,6 +317,10 @@ ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/p
 **Yangang Wang, Cong Peng, Yebin Liu.**<br>
 IEEE Trans. CSVT 2019. [[Project](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html)]
 [[PDF](http://www.liuyebin.com/hand2d/hand2d.pdf)] 
+
+**RGBD-Dog: Predicting Canine Pose from RGBD Sensors.**
+*Sinead Kearney, Wenbin Li, Martin Parsons, Kwang In Kim, Darren Cosker.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07788)]
 
 ## 3D Representations From Natural Images
 

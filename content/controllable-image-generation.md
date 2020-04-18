@@ -1,8 +1,9 @@
 # Controllable Image Generation
 
-This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information. 
+This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
+- [Individual Object Manipulation](#individual-object-manipulate)
 - [Guided Image-to-image translation](#guided-image-to-image-translation)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
 - [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
@@ -22,6 +23,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Gaze Redirection and Correction](#gaze-redirection-and-correction)
   * [Gaze Estimation](#gaze-estimation)
   * [Eye Tracking](#eye-tracking)
+
+## Individual Object Manipulation
+
+*Individual Object Manipulation* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#individual-object-manipulate).
 
 ## Guided Image-to-image translation
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).

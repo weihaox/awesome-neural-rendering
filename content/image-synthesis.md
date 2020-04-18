@@ -246,12 +246,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
 *Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
-## Individual Object Manipulate 
-
-**Learning to Manipulate Individual Objects in an Image.**<br>
-*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
-
 ## Video Prediction and Future Prediction
 
 **Transformation-based Adversarial Video Prediction on Large-Scale Data.**<br>
@@ -348,6 +342,28 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 **Multi-Graph Transformer for Free-Hand Sketch Recognition.**<br>
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
+
+## Reciprocal Computer Vision Tasks
+
+**DSNet: Joint Learning for Scene Segmentation and Disparity Estimation.**<br>
+*Wujing Zhan, Xinqi Ou, Yunyi Yang and Long Chen.*<br>
+ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8793573)] 
+
+**Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations.** <br> 
+*Vladimir Nekrasov, Thanuja Dharmasiri, Andrew Spek, Tom Drummond, Chunhua Shen, Ian Reid.*<br> 
+ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8794220)]
+
+**RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation.** <br>
+*Shaoru Wang, Yongchao Gong, Junliang Xing, Lichao Huang, Chang Huang, Weiming Hu.* <br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/1912.05070)] [[Github](https://github.com/wangsr126/RDSNet)]
+
+**MOTSFusion: Track to Reconstruct and Reconstruct to Track.**<br>
+*Jonathon Luiten, Tobias Fischer, Bastian Leibe.*<br>
+[[PDF](https://arxiv.org/abs/1910.00130v1)] [[Github](https://github.com/tobiasfshr/MOTSFusion)]
+
+**Cooperative Image Segmentation and Restoration in Adverse Environmental Conditions.** <br>
+*Weihao Xia, Zhanglin Cheng, Yujiu Yang.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
 ## Diving Deep into Image Synthesis
 
@@ -543,7 +559,7 @@ ICCV 2019.
 
 **CNNDetection: CNN-Generated Images Are Surprisingly Easy to Spot...For Now.**<br>
 *[Sheng-Yu Wang](https://peterwang512.github.io), [Oliver Wang](http://www.oliverwang.info/), [Richard Zhang](http://richzhang.github.io/), [Andrew Owens](http://andrewowens.com/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/).*<br>
-arxiv, 2019.
+CVPR 2020.
 [[PDF](https://arxiv.org/abs/1906.05856)]  [[Code](https://github.com/peterwang512/FALdetector)]  [[Project](https://peterwang512.github.io/FALdetector)] 
 
 **Detecting Photoshopped Faces by Scripting Photoshop.**<br>
