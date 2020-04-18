@@ -32,6 +32,10 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 
 ## Hidden Surface or Object Reasoning
 
+**P3I: Perspective Plane Program Induction from a Single Image.**<br>
+*Yikai Li, Jiayuan Mao, Xiuming Zhang, William T. Freeman, Joshua B. Tenenbaum, [Jiajun Wu](https://jiajunwu.com/).*<br>
+CVPR 2020. [[PDF](https://jiajunwu.com/papers/p3i_cvpr.pdf)] [[Project](http://p3i.csail.mit.edu/)]
+
 **Footprints and Free Space from a Single Color Image.**<br>
 *Jamie Watson, Michael Firman, Aron Monszpart, Gabriel J. Brostow.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06376)]

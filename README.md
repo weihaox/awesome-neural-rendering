@@ -141,6 +141,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
+**3DLSN: End-to-End Optimization of Scene Layout.**<br>
+*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
+CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
+
 **Learning to Manipulate Individual Objects in an Image.**<br>
 *Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
