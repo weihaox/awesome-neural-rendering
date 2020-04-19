@@ -6,7 +6,7 @@ This repository is a collection of papers on learning 3D representations from na
 - [3D Shape Representation and Feature Embedding](#3d-shape-representation-and-feature-embedding)
 - [Representation of Motion](#representation-of-motion)
 - [Surface Cuts and Parameterization](#surface-cuts-and-parameterization)
-- [Dense Shape Correspondence & Matching](#dense-shape-correspondence---matching)
+- [Dense Shape Correspondence and Matching](#dense-shape-correspondence-and-matching)
 - [3D Reconstruction with Synthesied Images](#3d-reconstruction-with-synthesied-images)
 
 ## 3D Shape Representation and Feature Embedding
@@ -126,7 +126,7 @@ CVPRW, 2019. [[PDF](https://arxiv.org/abs/1806.10309v1)]
 *Minchen Li, Danny M. Kaufman, Vladimir G. Kim, Justin Solomon, Alla Sheffer.*<br>
 ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/doc/OptCuts.pdf)] [[Code and Data]()] [[](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/)] 
 
-## Dense Shape Correspondence & Matching
+## Dense Shape Correspondence and Matching
 
 **S2DNet: Learning Accurate Correspondences for Sparse-to-Dense Feature Matching.**<br>
 *Hugo Germain, Guillaume Bourmaud, Vincent Lepetit.*<br>

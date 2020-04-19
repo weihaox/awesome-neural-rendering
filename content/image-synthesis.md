@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Restoration or Enhancement](#restoration-or-enhancement)
 - [Long-Tailed and Open Set](#long-tailed-and-open-set)
-- [Individual Object Manipulate](#individual-object-manipulate)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
 - [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
 - [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)

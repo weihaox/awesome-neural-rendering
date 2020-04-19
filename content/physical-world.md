@@ -6,27 +6,19 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 ## Table of Contents
 - [Hidden Surface or Object Reasoning](#hidden-surface-or-object-reasoning)
 - [Scene Understanding](#scene-understanding)
-- [Object Skeletonization](#object-skeletonization)
-- [Shape and Viewpoint](#shape-and-viewpoint)
 - [Human 3D Reconstruction](#human-3d-reconstruction)
-  * [Soft-tissue Dynamics](#soft-tissue-dynamics)
+  * [Soft-Tissue Dynamics](#soft-tissue-dynamics)
   * [Generating 3D People in Scenes](#generating-3d-people-in-scenes)
   * [Human Dynamics](#human-dynamics)
   * [Human Poses and Shapes](#human-poses-and-shapes)
   * [Misc (Face, Object)](#misc--face--object-)
+- [Object Skeletonization](#object-skeletonization)
+- [Shape and Viewpoint](#shape-and-viewpoint)
 - [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
 - [Pose Estimation](#pose-estimation)
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
-- [Depth](#depth)
-  * [Depth From Video (Depth, Normal and Camera Motion Estimation)](#depth-from-video--depth--normal-and-camera-motion-estimation-)
-  * [Depth with ToF](#depth-with-tof)
-  * [Temporal- and Scale-Consistent Depth Estimation](#temporal--and-scale-consistent-depth-estimation)
-  * [Depth and Related Tasks](#depth-and-related-tasks)
+- [Depth Estimation](#depth)
 - [Learning Temporal Information from Videos](#learning-temporal-information-from-videos)
-  * [FastSlow, Multiple Stream and Temporal Pyramid](#fastslow--multiple-stream-and-temporal-pyramid)
-  * [3D convolutions (C3D)](#3d-convolutions--c3d-)
-  * [Flow](#flow)
-  * [2DCNN + LSTM (Temporal Block)](#2dcnn---lstm--temporal-block-)
 - [Team and People](#team-and-people)
 - [Good Start of 3D Resources (Python)](#good-start-of-3d-resources--python-)
 
@@ -69,21 +61,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03967)]
 **Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image.**<br>
 *Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12212)]
-
-## Object Skeletonization
-
-**Image Co-skeletonization via Co-segmentation.**<br>
-*Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan.*<br>
-TIP 2020. [[PDF](https://arxiv.org/abs/2004.05575)]
-
-## Shape and Viewpoint
-**Self-supervised 3D Shape and Viewpoint Estimation from Single Images for Robotics.**<br>
-*Oier Mees, Maxim Tatarchenko, Thomas Brox and Wolfram Burgard.*<br>
-IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
-
-**Self-Supervised Viewpoint Learning From Image Collections.**<br>
-*Siva Karthik Mustikovela, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01793)]
 
 ## Human 3D Reconstruction
 [[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]
@@ -278,6 +255,21 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pinheiro
 **Neural 3D Mesh Renderer.**<br>
 *Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1711.07566)] [[Project](http://hiroharu-kato.com/projects_en/neural_renderer.html)] [[Github](https://github.com/hiroharu-kato/neural_renderer)]
+
+## Object Skeletonization
+
+**Image Co-skeletonization via Co-segmentation.**<br>
+*Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2004.05575)]
+
+## Shape and Viewpoint
+**Self-supervised 3D Shape and Viewpoint Estimation from Single Images for Robotics.**<br>
+*Oier Mees, Maxim Tatarchenko, Thomas Brox and Wolfram Burgard.*<br>
+IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
+
+**Self-Supervised Viewpoint Learning From Image Collections.**<br>
+*Siva Karthik Mustikovela, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01793)]
 
 ## Hair Segmentation and Reconstruction
 

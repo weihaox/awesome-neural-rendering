@@ -15,12 +15,12 @@ Feedback and contributions are welcome!
 - [Differentiable Physics-Based Simulation](#differentiable-physics-based-simulation)
 - [3D Pose Transfer](#3d-pose-transfer)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
-- [Individual Object Manipulation](#individual-object-manipulate)
+- [Individual Object Manipulation](#individual-object-manipulation)
 - [Texture and Surface Mapping](#texture-and-surface-mapping)
-- [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
-- [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Neural Scene Representation and Rendering](#neural-scene-representation-and-rendering)
 - [Novel-View Synthesis fdor Objects and Scenes](#novel-view-synthesis-fdor-objects-and-scenes)
+- [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
+- [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
 
 ## Intruduction of Neural Rendering

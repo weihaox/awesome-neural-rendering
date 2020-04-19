@@ -7,8 +7,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [Guided Image-to-image translation](#guided-image-to-image-translation)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
 - [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
-- [Texture Mapping & Surface Mapping](#texture-mapping---surface-mapping)
-- [3D Photography and Stereoscopic Photography](#3d-photography-and-stereoscopic-photography)
+- [Texture and Surface Mapping](#texture-and-surface-mapping)
 - [Novel-View Synthesis](#novel-view-synthesis)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
 - [3D Pose Transfer](#3d-pose-transfer)
@@ -37,11 +36,8 @@ Part of this repository is about *Guided Image-to-image translation* which can b
 ## Attribute Editing and Makeup Transfer
 *Attribute Editing and Makeup Transfer* can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#attribute-editing).
 
-## Texture Mapping & Surface Mapping
-*Texture Mapping & Surface Mapping* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#texture-mapping---surface-mapping).
-
-## 3D Photography and Stereoscopic Photography
-*3D Photography and Stereoscopic Photography* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#3d-photography-and-stereoscopic-photography).
+## Texture and Surface Mapping
+*Texture and Surface Mapping* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#texture-and-surface-mapping).
 
 ## Novel-View Synthesis
 *Novel-View Synthesis* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#novel-view-synthesis).
@@ -72,6 +68,14 @@ ICASSP 2020.
 
 ### Text-to-Image
 
+**3DLSN: End-to-End Optimization of Scene Layout.**<br>
+*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
+CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
+
+**CookGAN: Meal Image Synthesis from Ingredients.**<br>
+*Fangda Han, Ricardo Guerrero, Vladimir Pavlovic.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2002.11493)]
+
 **ControlGAN: Controllable Text-to-Image Generation.**<br>
 *Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr.*<br>
 NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf)] [[Github](https://github.com/mrlibw/ControlGAN)]
@@ -83,6 +87,54 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1902.10740)]
 **SwapText: Image Based Texts Transfer in Scenes.**<br>
 *Qiangpeng Yang, Hongsheng Jin, Jun Huang, Wei Lin.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08152)]
+
+**Local-Global Video-Text Interactions for Temporal Grounding.**<br>
+*[Jonghwan Mun](http://cvlab.postech.ac.kr/~jonghwan/), [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/), [Bohyung Han](https://cv.snu.ac.kr/index.php/bhhan/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07514)] [[Github](https://github.com/JonghwanMun/LGI4temporalgrounding)]
+
+**Image-to-Image Translation with Text Guidance.**<br>
+*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
+arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
+
+**Neural Image Inpainting Guided with Descriptive Text.**<br>
+*Lisai Zhang, Qingcai Chen, Baotian Hu, Shuoran Jiang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03212)]
+
+**Cycle Text-To-Image GAN with BERT.**<br>
+*Trevor Tsue, Samir Sen, Jason Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12137)] [Github](https://github.com/suetAndTie/cycle-image-gan)]
+
+**ManiGAN: Text-Guided Image Manipulation.**<br>
+*[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06203)] [[Github](https://github.com/mrlibw/ManiGAN)]
+
+**Controllable Text-to-Image Generation.**<br>
+*Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
+
+**MirrorGAN: Learning Text-to-image Generation by Redescription.**<br>
+*Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.05854)] [[Unofficial TensorFlow](https://github.com/taki0112/MirrorGAN-Tensorflow)]
+
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks.**<br>
+*Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1711.10485)] [[Github](https://github.com/taoxugit/AttnGAN)]
+
+**StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
+TPAMI 2018. [[PDF](https://arxiv.org/abs/1710.10916)] [[Github](https://github.com/hanzhanggit/StackGAN-v2)]
+
+**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242v2)] [[Github](https://github.com/hanzhanggit/StackGAN-Pytorch)]
+
+**Generative Adversarial Text to Image Synthesis.**<br>
+*Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
+ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
+
+**Learning Deep Representations of Fine-grained Visual Descriptions.**<br>
+*Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
+CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
 
 ### Voice-to-Image
 **Speech2Face: Learning the Face Behind a Voice.**<br>
