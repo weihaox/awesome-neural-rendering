@@ -39,7 +39,7 @@ ACM TOG 2018.[[PDF](https://arxiv.org/pdf/1710.00756.pdf)]
 CVPR 2018. [[PDF](https://arxiv.org/abs/1804.02815)] [[Project](http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/)] [[Github](https://github.com/xinntao/SFTGAN)] [[BasicSR](https://github.com/xinntao/BasicSR)] [[HandyViewer](https://github.com/xinntao/HandyViewer)]
 
 **The Unreasonable Effectiveness of Texture Transfer for Single Image Super-resolution.**<br>
-*Muhammad Waleed Gondal, Bernhard Schölkopf, Michael Hirsch.*<br>.
+*Muhammad Waleed Gondal, Bernhard Schölkopf, Michael Hirsch.*<br>
 ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.com/waleedgondal/Texture-based-Super-Resolution-Network)]
 
 **Learned Multi-View Texture Super-Resolution.**<br>
@@ -74,7 +74,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12213)]
 
 **EnlightenGAN: Deep Light Enhancement without Paired Supervision.**<br>
 *Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang.*<br>
-[[PDF](https://arxiv.org/abs/1906.06972)] [[Github](https://github.com/TAMU-VITA/EnlightenGAN)] [[Dataset](https://github.com/TAMU-VITA/EnlightenGAN/issues/28)] [[KinD](https://arxiv.org/abs/1905.04161)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/1906.06972)] [[Github](https://github.com/TAMU-VITA/EnlightenGAN)] [[Dataset](https://github.com/TAMU-VITA/EnlightenGAN/issues/28)] [[KinD](https://arxiv.org/abs/1905.04161)]
 
 **Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
 *Satoshi Kosugi, Toshihiko Yamasaki.* <br>
@@ -86,7 +86,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00637)] [[Project](https://github.c
 
 **Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
 *Kosugi, Toshihiko Yamasaki.*<br>
-ArXiV, 17 Dec 2019 [[PDF](https://arxiv.org/pdf/1912.07833.pdfSatoshi)]
+arxiv, 2019. [[PDF](https://arxiv.org/pdf/1912.07833.pdfSatoshi)]
 
 **Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs.**<br>
 *Yu-Sheng Chen, Yu-Ching Wang, Man-Hsin Kao, Yung-Yu Chuang.*<br>
@@ -110,9 +110,9 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06965)]
 *Ke Yu, Xintao Wang, Chao Dong, Xiaoou Tang, Chen Change Loy.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1904.10343)] [[Project](https://yuke93.github.io/Path-Restore/)]
 
-**Divergence-Based Adaptive Extreme Video Completion.**<br>
-*Majed El Helou, Ruofan Zhou, Frank Schmutz, Fabrice Guibert, Sabine Süsstrunk.*<br>
-ICASSP 2020. [[](https://arxiv.org/abs/2004.06409)]
+**ADEFAN: Divergence-Based Adaptive Extreme Video Completion.**<br>
+*[Majed El Helou](http://majedelhelou.github.io/), Ruofan Zhou, Frank Schmutz, Fabrice Guibert, Sabine Süsstrunk.*<br>
+ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 **Bringing Old Photos Back to Life.**<br>
 *Ziyu Wan, Bo Zhang, Dongdong Chen, Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
@@ -299,6 +299,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 ## Soft Segmentation and Background Matting
 
+**Fast Soft Color Segmentation.**<br>
+*Naofumi Akimoto, Huachun Zhu, Yanghua Jin, Yoshimitsu Aoki.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08096)]
+
 **Background Matting: The World is Your Green Screen.**<br>
 *[Soumyadip Sengupta](https://homes.cs.washington.edu/~soumya91/), [Vivek Jayaram](http://www.vivekjayaram.com/research), Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00626)] [[Github](https://github.com/senguptaumd/Background-Matting)] [[Project](https://grail.cs.washington.edu/projects/background-matting/)]
@@ -309,7 +313,11 @@ ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/s
 
 ## Free-Hand Sketch
 
-**Synthesizing human-like sketches from natural images using a conditional convolutional decoder.**<br> 
+**APDrawingGAN: Generating Artistic Portrait Drawings From Face Photos With Hierarchical GANs.**<br> 
+*Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br> 
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper)] [[Github](https://github.com/yiranran/APDrawingGAN)] [[Demo](https://face.lol/)]
+
+**Synthesizing Human-Like Sketches From Natural Images Using A Conditional Convolutional Decoder.**<br> 
 *Moritz Kampelmühler, Axel Pinz.*<br> 
 WACV 2020. [[PDF](https://arxiv.org/abs/2003.07101)] [[Github](https://github.com/kampelmuehler/synthesizing_human_like_sketches)]
 
@@ -323,8 +331,7 @@ arxiv, 26 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12888)]
 
 **Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches.**<br>
 *Shuai Yang, Zhangyang Wang, Jiaying Liu, Zongming Guo.*<br>
-arxiv, 9 Jan 2020.
-[[PDF](https://arxiv.org/abs/2001.02890)]
+arxiv, 9 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02890)]
 
 **Deep Learning for Free-Hand Sketch: A Survey.**<br>
 *Peng Xu.*<br>

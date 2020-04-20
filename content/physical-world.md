@@ -25,12 +25,12 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 ## Hidden Surface or Object Reasoning
 
 **P3I: Perspective Plane Program Induction from a Single Image.**<br>
-*Yikai Li, Jiayuan Mao, Xiuming Zhang, William T. Freeman, Joshua B. Tenenbaum, [Jiajun Wu](https://jiajunwu.com/).*<br>
+*[Yikai Li](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5pC7fw8AAAAJ), Jiayuan Mao, Xiuming Zhang, William T. Freeman, Joshua B. Tenenbaum, [Jiajun Wu](https://jiajunwu.com/).*<br>
 CVPR 2020. [[PDF](https://jiajunwu.com/papers/p3i_cvpr.pdf)] [[Project](http://p3i.csail.mit.edu/)]
 
 **Footprints and Free Space from a Single Color Image.**<br>
 *Jamie Watson, Michael Firman, Aron Monszpart, Gabriel J. Brostow.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06376)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06376)] [[Github](https://github.com/nianticlabs/footprints)]
 
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
@@ -75,7 +75,18 @@ Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.gi
 *Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02923)] [[Project](https://ps.is.tuebingen.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints)]
 
+### Shape Interpolation
+
+**Hamiltonian Dynamics for Real-World Shape Interpolation.**<br>
+*Marvin Eisenberger, Daniel Cremers.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
+
 ### Human Dynamics 
+
+**Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images.**<br>
+*Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
+
 **Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints.**<br>
 *Thiago L. Gomes, Renato Martins, João Ferreira, Erickson R. Nascimento.*<br>
 WACV 2020. [[PDF](https://arxiv.org/abs/2001.02606)]
@@ -352,7 +363,30 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-
 *Hiroharu Kato, Tatsuya Harada.*<br>
 arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
 
-## Depth
+## Depth Estimation
+
+### Accurate Edge
+
+**DispFields: Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields.**<br>
+*Michael Ramamonjisoa, Yuming Du, Vincent Lepetit.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12730)]
+[[Github](https://github.com/dulucas/DisplacementFields)]
+
+**EdgeDepth: The Edge of Depth: Explicit Constraints between Segmentation and Depth.**<br>
+*[Shengjie Zhu](http://cvlab.cse.msu.edu/author/shengjie-zhu.html), Garrick Brazil and Xiaoming Liu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00171)] [[Github](https://github.com/TWJianNuo/EdgeDepth-Release)] [[Project](http://cvlab.cse.msu.edu/project-edgedepth.html)]
+
+**Structure-Aware Residual Pyramid Network for Monocular Depth Estimation.**<br>
+*Xiaotian Chen, Xuejin Chen, and Zheng-Jun Zha.*<br>
+IJCAI 2019. [[PDF](https://arxiv.org/abs/1907.06023)] [[Github](https://github.com/Xt-Chen/SARPN)]
+
+**Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps with Accurate Object Boundaries.**<br>
+*Junjie Hu, Mete Ozay, Yan Zhang, Takayuki Okatani.*<br>
+WACV 2019. [[PDF](https://arxiv.org/abs/1803.08673)] [[Github](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)] [[Data](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing)]
+
+**SharpNet: Fast and Accurate Recovery of Occluding Contours in Monocular Depth Estimation.**<br>
+*Michael Ramamonjisoa, Vincent Lepetit.*<br>
+ICCV Workshops 2019. [[PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Ramamonjisoa_SharpNet_Fast_and_Accurate_Recovery_of_Occluding_Contours_in_Monocular_ICCVW_2019_paper)] [[Github](https://github.com/MichaelRamamonjisoa/SharpNet)]
 
 ### Depth From Video (Depth, Normal and Camera Motion Estimation)
 
@@ -664,6 +698,14 @@ ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tin
 CVPR 2019. 
 [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf)] 
 [[Github](https://github.com/facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D)]
+
+
+## Misc (Speediness)
+
+**SpeedNet: Learning the Speediness in Videos.**<br>
+*[Sagie Benaim](https://sagiebenaim.github.io/), [Ariel Ephrat](http://www.cs.huji.ac.il/~arielephrat/), Oran Lang, Inbar Mosseri, [William T. Freeman](https://billf.mit.edu/), [Michael Rubinstein](http://people.csail.mit.edu/mrub/), [Michal Irani](http://www.weizmann.ac.il/math/irani/home), and [Tali Dekel](http://people.csail.mit.edu/talidekel/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/pdf/2004.06130.pdf)] [[Project](https://speednet-cvpr20.github.io/)]
+
 
 ## Team and People
 

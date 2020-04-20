@@ -66,6 +66,12 @@ ICASSP 2020.
 [[Project](https://jayneelparekh.github.io/icassp20/)]
 [[NUS-48E dataset](https://smcnus.comp.nus.edu.sg/nus-48e-sung-and-spoken-lyrics-corpus/)]
 
+### Voice-to-Speech
+
+**GAN-TTS: High Fidelity Speech Synthesis with Adversarial Networks.**<br>
+*Mikołaj Bińkowski, Jeff Donahue, Sander Dieleman, Aidan Clark, Erich Elsen, Norman Casagrande, Luis C. Cobo, Karen Simonyan.*<br>
+ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
+
 ### Text-to-Image
 
 **3DLSN: End-to-End Optimization of Scene Layout.**<br>

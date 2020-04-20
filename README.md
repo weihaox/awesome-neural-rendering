@@ -145,6 +145,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 *Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
 CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
 
+**DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
+*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
+
 **Learning to Manipulate Individual Objects in an Image.**<br>
 *Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
@@ -357,6 +361,10 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 
 ## Light, Reflectance, lluminance and Shade
 
+**Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images.**<br>
+*Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
+
 **Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
 *Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08367)] [[Project](https://people.eecs.berkeley.edu/~pratul/lighthouse/)]
@@ -422,6 +430,10 @@ arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation.**<br>
+*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
+arriv, 2020. [[PDF](https://arxiv.org/abs/2001.04947v2)]
 
 **Text-based Editing of Talking-head Video.**<br>
 *Ohad Fried, Ayush Tewari, Michael Zollhöfer, Adam Finkelstein, Eli Shechtman, Dan B Goldman Kyle Genova, Zeyu Jin, Christian Theobalt,  Maneesh Agrawala.*<br>
