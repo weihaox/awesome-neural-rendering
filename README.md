@@ -13,12 +13,12 @@ Feedback and contributions are welcome!
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
 - [Differentiable Physics-Based Simulation](#differentiable-physics-based-simulation)
-- [3D Pose Transfer](#3d-pose-transfer)
+- [Human Reconstruction: Pose, Shape, Dynamic](#human-reconstruction--pose--shape--dynamic)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Individual Object Manipulation](#individual-object-manipulation)
 - [Texture and Surface Mapping](#texture-and-surface-mapping)
 - [Neural Scene Representation and Rendering](#neural-scene-representation-and-rendering)
-- [Novel-View Synthesis fdor Objects and Scenes](#novel-view-synthesis-fdor-objects-and-scenes)
+- [Novel-View Synthesis for Objects and Scenes](#novel-view-synthesis-for-objects-and-scenes)
 - [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
@@ -91,10 +91,115 @@ ICCV 2019.
 [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
 [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
-## 3D Pose Transfer
+## Human Reconstruction: Pose, Shape, Dynamic
+[[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]
+
+### Soft-tissue Dynamics
+**SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans.**<br>
+*[Igor Santesteban](http://isantesteban.com/), Elena Garces, Miguel A. Otaduy, and Dan Casas.*<br>
+Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.github.io/docs/santesteban_Eurographics2020.pdf)] [[Project](http://dancasas.github.io/projects/SoftSMPL)]
+
+### Generating 3D People in Scenes
+**Generating 3D People in Scenes without People.**<br>
+*Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02923)] [[Project](https://ps.is.tuebingen.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints)]
+
+### Shape Interpolation
+
+**Hamiltonian Dynamics for Real-World Shape Interpolation.**<br>
+*Marvin Eisenberger, Daniel Cremers.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
+
+### 3D Pose Transfer
 **Neural Pose Transfer by Spatially Adaptive Instance Normalization.**<br>
 *Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
+
+### Human Dynamics 
+
+**Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images.**<br>
+*Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
+
+**Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints.**<br>
+*Thiago L. Gomes, Renato Martins, João Ferreira, Erickson R. Nascimento.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2001.02606)]
+
+**NASA: Neural Articulated Shape Approximation.**<br>
+*Timothy Jeruzalski, Boyang Deng, Mohammad Norouzi, JP Lewis, Geoffrey Hinton, Andrea Tagliasacchi.*<br>
+arxiv, 6 Dec 2019. [[PDF](https://arxiv.org/abs/1912.03207)]
+
+**VIBE: Video Inference for Human Body Pose and Shape Estimation.**<br>
+*Muhammed Kocabas, Nikos Athanasiou, Michael J. Black.*<br>
+arxiv, 11 Dec 2019. [[PDF](https://arxiv.org/abs/1912.05656)]
+
+**Learning 3D Human Dynamics from Video.**<br>
+*Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.01601)] [[HomePage](https://akanazawa.github.io/human_dynamics/)]
+
+**Predicting 3D Human Dynamics from Video.**<br>
+*Jason Y. Zhang, Panna Felsen, Angjoo Kanazawa, Jitendra Malik.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1908.04781)] [[HomePage](https://jasonyzhang.com/phd/)]
+
+**DeepHuman: 3D Human Reconstruction from a Single Image.**<br>
+*[Zerong Zheng](https://zhengzerong.github.io/), [Tao Yu](https://ytrock.com/), Yixuan Wei, Qionghai Dai, [Yebin Liu](http://www.liuyebin.com/).*<br>
+ICCV 2019. [[PDF](http://www.liuyebin.com/deephuman/assets/DeepHuman.pdf)] [[Project](http://www.liuyebin.com/deephuman/deephuman.html)] [[Code](https://github.com/ZhengZerong/DeepHuman)] [[THUmanDataset](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)] [[im2smpl](https://github.com/ZhengZerong/im2smpl)]
+
+**LiveCap: Real-time Human Performance Capture from Monocular Video.**<br>
+*Marc Habermann, Weipeng Xu, Michael and Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
+SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)]
+
+**Superpixel Soup: Monocular Dense 3D Reconstruction of a Complex Dynamic Scene.**<br>
+*Suryansh Kumar, Yuchao Dai, Hongdong Li.*<br>
+TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
+
+### Human Poses and Shapes
+
+**Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data.**<br>
+*Henry M. Clever, Zackory Erickson, Ariel Kapusta, Greg Turk, C. Karen Liu, Charles C. Kemp.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01166)]
+
+**PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation.**<br>
+*Shashank Tripathi, Siddhant Ranade, Ambrish Tyagi, Amit Agrawal.*<br>
+arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.03473)]
+
+**MoVi: A Large Multipurpose Motion and Video Dataset.**<br>
+*Saeed Ghorbani, Kimia Mahdaviani, Anne Thaler, Konrad Kording, Douglas James Cook, Gunnar Blohm, Nikolaus F. Troje.*<br>
+arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01888)]
+
+**Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations.**<br>
+*Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/2001.01613)]
+
+**A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images.**<br>
+*Jiapeng Tang, Xiaoguang Han, Junyi Pan, Kui Jia, Xin Tong.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.04704)]
+
+**Learning 3D Human Shape and Pose from Dense Body Parts.**<br>
+*Hongwen Zhang, Jie Cao, Guo Lu, Wanli Ouyang, Zhenan Sun.*<br>
+arxiv, 2019. 
+[[PDF](https://hongwenzhang.github.io/dense2mesh/pdf/learning3Dhuman.pdf)]
+[[Project](https://hongwenzhang.github.io/dense2mesh)]
+
+**Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations.**<br>
+*Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/2001.01613)] [[Project](https://ps.is.tuebingen.mpg.de/publications/ruegg-aaai-2020)]
+
+**Human Mesh Recovery From Monocular Images via a Skeleton-Disentangled Representation.**<br>
+*Yu Sun, Yun Ye, Wu Liu, Wenpeng Gao, Yili Fu, Tao Mei.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.pdf)] [[Github](https://github.com/Arthur151/DSD-SATN)]
+
+**HMR: End-to-end Recovery of Human Shape and Pose.**<br>
+*Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik.*<br><br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1712.06584)] [[Github](https://github.com/MandyMo/pytorch_HMR)] [[Project](https://akanazawa.github.io/hmr/)]
+
+**Keep It SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image.**<br>
+*Federica Bogo*, Angjoo Kanazawa*, Christoph Lassner, Peter Gehler, Javier Romero, Michael Black.*<br>
+ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanticscholar.org/paper/Keep-It-SMPL%3A-Automatic-Estimation-of-3D-Human-Pose-Bogo-Kanazawa/4233b07033a1ef8af188383f30602a5fd0aa2181)]
+
+**SMPL: A Skinned Multi-Person Linear Model.**<br>
+*Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, Michael J. Black.*<br>
+ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
 ## 2D to 3D Convertion
 
@@ -277,6 +382,10 @@ CVPR 2019 (Oral). [[Project](http://vsitzmann.github.io/deepvoxels/)] [[PDF](htt
 *eong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html)] [[Github](https://github.com/facebookresearch/DeepSDF)]
 
+**DeepSDF x Sim(3): Extending DeepSDF for automatic 3D shape retrieval and similarity transform estimation.**<br>
+*Oladapo Afolabi, Allen Yang, Shankar S. Sastry.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09048)]
+
 **Learning View Priors for Single-view 3D Reconstruction.**<br>
 *Hiroharu Kato, Tatsuya Harada.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-kato.com/projects_en/view_prior_learning.html)] [[Github](https://github.com/hiroharu-kato/view_prior_learning)]
@@ -293,7 +402,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1909.02533)] [[Github](https://github.co
 *Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkulkarni.github.io/csm/)] [[Project](https://nileshkulkarni.github.io/csm/)]
 
-## Novel-View Synthesis fdor Objects and Scenes
+## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>

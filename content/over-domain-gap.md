@@ -1,11 +1,18 @@
 # Over the Domain Gap
 
-### Domain Adaptation
+
+## Exploit Domain Knowledge
+
+**LSM: Learning Subspace Minimization for Low-level Vision.**<br>
+*Chengzhou Tang, Lu Yuan, Ping Tan.*<br>
+CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
+
+## Domain Adaptation
 **Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision.**<br>
 *Fei Pan, Inkyu Shin, Francois Rameau, Seokju Lee, In So Kweon.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07703)] [[Github](https://github.com/feipan664/IntraDA)]
 
-### Few-Shot
+## Few-Shot
 
 **FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**<br>
 *Ming-Yu Liu, Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*

@@ -102,6 +102,10 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ### Misc
 
+**Quantization Guided JPEG Artifact Correction.**<br>
+*Max Ehrlich, Ser-Nam Lim, Larry Davis, Abhinav Shrivastava.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09320)]
+
 **Unified Dynamic Convolutional Network for Super-Resolution with Variational Degradations.**<br>
 *Yu-Syuan Xu, Shou-Yao Roy Tseng, Yu Tseng, Hsien-Kai Kuo, Yi-Min Tsai.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06965)]
@@ -115,8 +119,8 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1904.10343)] [[Project](https://yuke93.
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 **Bringing Old Photos Back to Life.**<br>
-*Ziyu Wan, Bo Zhang, Dongdong Chen, Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
-CVPR 2020. [[PDF](http://www.dongdongchen.bid/)]
+*[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
 
 **A General Decoupled Learning Framework for Parameterized Image Operators.**<br>
 *Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen.*<br>
@@ -194,7 +198,15 @@ arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
 AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
 
-## Long-Tailed and Open Set
+## Long-Tailed, Open Set and Small Dataset
+
+**YuruGAN: Yuru-Chara Mascot Generator Using Generative Adversarial Networks With Clustering Small Dataset.**<br>
+*Yuki Hagiwara, Toshihisa Tanaka.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.08066)]
+
+**OSLNet: Deep Small-Sample Classification with an Orthogonal Softmax Layer.**<br>
+*Xiaoxu Li, Dongliang Chang, Zhanyu Ma, Zheng-Hua Tan, Jing-Hao Xue, Jie Cao, Jingyi Yu, Jun Guo.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2004.09033)] [[Github](https://github.com/dongliangchang/OSLNet)] 
 
 **Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
 *Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
