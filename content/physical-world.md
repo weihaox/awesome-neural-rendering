@@ -502,6 +502,10 @@ ICRA 2018. [[PDF](https://arxiv.org/abs/1709.07492)] [[Github](https://github.co
 
 ### Temporal- and Scale-Consistent Depth Estimation
 
+**TTNet: Real-Time Temporal and Spatial Video Analysis of Table Tennis.**<br>
+*Roman Voeikov, Nikolay Falaleev, Ruslan Baikulov.*<br>
+CVPR 2020 Workshop on Computer Vision in Sports (CVsports). [[PDF](https://arxiv.org/abs/2004.09927)]
+
 **Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields.**<br>
 *Michael Ramamonjisoa, Yuming Du, Vincent Lepetit..*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12730)]
@@ -592,12 +596,15 @@ CVPR 2019.
 [[Github](https://github.com/facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D)]
 
 
-## Misc (Speediness)
+## Misc (Speediness, Trajectories)
 
 **SpeedNet: Learning the Speediness in Videos.**<br>
 *[Sagie Benaim](https://sagiebenaim.github.io/), [Ariel Ephrat](http://www.cs.huji.ac.il/~arielephrat/), Oran Lang, Inbar Mosseri, [William T. Freeman](https://billf.mit.edu/), [Michael Rubinstein](http://people.csail.mit.edu/mrub/), [Michal Irani](http://www.weizmann.ac.il/math/irani/home), and [Tali Dekel](http://people.csail.mit.edu/talidekel/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/pdf/2004.06130.pdf)] [[Project](https://speednet-cvpr20.github.io/)]
 
+**Take a NAP: Non-Autoregressive Prediction for Pedestrian Trajectories.**<br>
+*Hao Xue, Du. Q. Huynh, Mark Reynolds.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09760)]
 
 ## Team and People
 

@@ -48,6 +48,16 @@ Part of this repository is about *Guided Image-to-image translation* which can b
 ## 3D Pose Transfer
 *3D Pose Transfer* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#attribute-editing).
 
+## Grounded Image Captioning
+**POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
+*Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
+
+## Pose and Music
+**Music Gesture for Visual Sound Separation.**<br>
+*Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
+
 ## Multi-Modality Translation
 
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>

@@ -41,6 +41,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.06087)][[GIthub](https://github.com
 
 ## Get out of the Lab: Real-World Applications
 
+**Towards Generalization of 3D Human Pose Estimation In The Wild.**<br>
+*Renato Baptista, Alexandre Saint, Kassem Al Ismaeil, Djamila Aouada.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09989)]
+
 **Illumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping.**<br>
 *Xiaolong Wu and Cedric Pradalier.*<br>
 ICRA 2019. [[PDF](https://hal.archives-ouvertes.fr/hal-01876700/document)]

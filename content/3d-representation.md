@@ -128,6 +128,10 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence and Matching
 
+**Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution.**<br>
+*Yingruo Fan, Jacqueline C.K. Lam, Victor O.K. Li.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/2004.09681)]
+
 **Semantic Correspondence via 2D-3D-2D Cycle.**<br>
 *Yang You, Chengkun Li, Yujing Lou, Zhoujun Cheng, Lizhuang Ma, Cewu Lu, Weiming Wang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09061)] [[Github](https://github.com/qq456cvb/SemanticTransfer)]

@@ -48,6 +48,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpair or Misaligned Data
 
+**Weakly Aligned Joint Cross-Modality Super Resolution.**<br>
+*Guy Shacht, Sharon Fogel, Dov Danon, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09965)]
+
 **Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training.**<br>
 *Yunxuan Wei, [Shuhang Gu](https://shuhanggu.github.io/), Yawei Li, Longcun Jin.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.01178)] [[Github](https://github.com/ShuhangGu/DASR)]
