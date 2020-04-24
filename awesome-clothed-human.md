@@ -1,4 +1,13 @@
-# Clothed People Digitalization
+
+# awesome clothed people papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A collection of resources on clothed people. 
+
+## Contributing
+
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls)
+
+Feedback and contributions are welcome!
 
 ## Table of Contents
 - [3D People Dressing and Clothing Draping](#3d-people-dressing-and-clothing-draping)
@@ -7,6 +16,8 @@
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
   * [Challenge and workshop](#challenge-and-workshop)
   * [Datasets](#datasets)
+- [Team and People](#team-and-people)
+- [Dataset](#dataset)
 
 ## 3D People Dressing and Clothing Draping
 
@@ -213,11 +224,11 @@ Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https
 
 ## Team and People 
 
-- [Real Virtual Humans](http://virtualhumans.mpi-inf.mpg.de/), **Max Planck Institute for Informatics**, by [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html). [[Open Positions](http://virtualhumans.mpi-inf.mpg.de/jobs.html)].
+- [Real Virtual Humans](http://virtualhumans.mpi-inf.mpg.de/), **Max Planck Institute for Informatics**, by [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html).
 - [Perceiving Systems, Tubingen Compus](http://ps.is.tuebingen.mpg.de/), **Max Planck Institute for Intelligent Systems**.
 - [Visual Computer Lab](https://niessnerlab.org/opening.html), **Technical University Munich (TUM)**, by [Prof. Dr. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) and his [team](https://niessnerlab.org/team.html).
-- [Broadband Network and Digital Media Lab](http://www.liuyebin.com/student.html), Department of Automation, Tsinghua University, by [Yebin Liu](http://www.liuyebin.com/).
-- [Vision and Graphics Lab](https://ict.usc.edu/), University of Southern California, by [Hao Li](http://hao-li.com/Hao_Li/Hao_Li_-_publications.html).
+- [Broadband Network and Digital Media Lab](http://www.liuyebin.com/student.html), Department of Automation, **Tsinghua University**, by [Yebin Liu](http://www.liuyebin.com/).
+- [Vision and Graphics Lab](https://ict.usc.edu/), **University of Southern California**, by [Hao Li](http://hao-li.com/Hao_Li/Hao_Li_-_publications.html).
 
 ## Dataset
 
