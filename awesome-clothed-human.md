@@ -214,14 +214,14 @@ Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https
 ## Team and People 
 
 - [Real Virtual Humans](http://virtualhumans.mpi-inf.mpg.de/), **Max Planck Institute for Informatics**, by [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html). [[Open Positions](http://virtualhumans.mpi-inf.mpg.de/jobs.html)].
-- [Perceiving Systems, Tubingen Compus](ps.is.tuebingen.mpg.de/jobs), **Max Planck Institute for Intelligent Systems**.
-- [Visual Computer Lab](https://niessnerlab.org/opening.html), **Technical University Munich (TUM)**.
-- [Broadband Network & Digital Media Lab](http://www.liuyebin.com/student.html), Department of Automation, Tsinghua University, by [Yebin Liu](http://www.liuyebin.com/).
+- [Perceiving Systems, Tubingen Compus](http://ps.is.tuebingen.mpg.de/), **Max Planck Institute for Intelligent Systems**.
+- [Visual Computer Lab](https://niessnerlab.org/opening.html), **Technical University Munich (TUM)**, by [Prof. Dr. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) and his [team](https://niessnerlab.org/team.html).
+- [Broadband Network and Digital Media Lab](http://www.liuyebin.com/student.html), Department of Automation, Tsinghua University, by [Yebin Liu](http://www.liuyebin.com/).
 - [Vision and Graphics Lab](https://ict.usc.edu/), University of Southern California, by [Hao Li](http://hao-li.com/Hao_Li/Hao_Li_-_publications.html).
 
 ## Dataset
 
-- SMPL. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de/), [SMPL+H](http://mano.is.tue.mpg.de/) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de/), [Gender Neural Model](http://smplify.is.tue.mpg.de/)) model, go to this project website and register to get access to the downloads section. [[Github](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl)]
+- **SMPL**. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de/), [SMPL+H](http://mano.is.tue.mpg.de/) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de/), [Gender Neural Model](http://smplify.is.tue.mpg.de/)) model, go to this project website and register to get access to the downloads section. [[Github](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl)]
 
-- [THUmanDataset](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset). THUman is a 3D real-world human model dataset containing approximately 7000 models.
+- **THUmanDataset**. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) is a 3D real-world human model dataset containing approximately 7000 models.
 
