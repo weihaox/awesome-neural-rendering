@@ -62,6 +62,10 @@ arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**TetraTSDF: 3D human reconstruction from a single image with a tetrahedral outer shell.**<br>
+*Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10534)]
+
 **ARCH: Animatable Reconstruction of Clothed Humans.**<br>
 *Zeng Huang, Yuanlu Xu, Christoph Lassner, Hao Li, Tony Tung.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04572)]
@@ -206,3 +210,18 @@ Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https
 - TaobaoClothMatch. [[Tianchi]](TaobaoClothMatch)
 - Fashion-MNIST. [[Fashion-MNIST]](https://github.com/zalandoresearch/fashion-mnist)
 - Fashion IQ. [[Website]](https://www.spacewu.com/posts/fashion-iq/)
+
+## Team and People 
+
+- [Real Virtual Humans](http://virtualhumans.mpi-inf.mpg.de/), **Max Planck Institute for Informatics**, by [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html). [[Open Positions](http://virtualhumans.mpi-inf.mpg.de/jobs.html)].
+- [Perceiving Systems, Tubingen Compus](ps.is.tuebingen.mpg.de/jobs), **Max Planck Institute for Intelligent Systems**.
+- [Visual Computer Lab](https://niessnerlab.org/opening.html), **Technical University Munich (TUM)**.
+- [Broadband Network & Digital Media Lab](http://www.liuyebin.com/student.html), Department of Automation, Tsinghua University, by [Yebin Liu](http://www.liuyebin.com/).
+- [Vision and Graphics Lab](https://ict.usc.edu/), University of Southern California, by [Hao Li](http://hao-li.com/Hao_Li/Hao_Li_-_publications.html).
+
+## Dataset
+
+- SMPL. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de/), [SMPL+H](http://mano.is.tue.mpg.de/) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de/), [Gender Neural Model](http://smplify.is.tue.mpg.de/)) model, go to this project website and register to get access to the downloads section. [[Github](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl)]
+
+- [THUmanDataset](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset). THUman is a 3D real-world human model dataset containing approximately 7000 models.
+
