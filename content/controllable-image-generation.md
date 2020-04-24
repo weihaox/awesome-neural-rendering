@@ -53,18 +53,24 @@ Part of this repository is about *Guided Image-to-image translation* which can b
 *Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
 
+**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation.**<br>
+*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
+
 ## Pose and Music
 **Music Gesture for Visual Sound Separation.**<br>
 *Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
 
-## Multi-Modality Translation
+**Vector Quantized Contrastive Predictive Coding for Template-based Music Generation.**<br>
+*Gaëtan Hadjeres, Léopold Crestel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10120)] [[Github](https://github.com/SonyCSLParis/vqcpc-bach)]
 
+## Multi-Modality Translations
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
 ### Voice-to-Voice
-
 **REMI: Pop Music Transformer: Generating Music with Rhythm and Harmony.**<br>
 *Yu-Siang Huang, Yi-Hsuan Yang.*<br>
 arxiv, 1 Feb 2020. [[PDF](https://arxiv.org/abs/2002.00212)] [[Github](https://github.com/YatingMusic/remi)] [[Demo](http://vibertthio.com/transformer/)]

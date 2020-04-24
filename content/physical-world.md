@@ -6,6 +6,8 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 ## Table of Contents
 - [Hidden Surface or Object Reasoning](#hidden-surface-or-object-reasoning)
 - [Scene Understanding](#scene-understanding)
+- [Human Activity and Action Understanding](#human-activity-and-action-understanding)
+- [Reconstruction of Transparent Shapes](#reconstruction-of-transparent-shapes)
 - [Face and Object Modeling](#face-and-object-modeling)
 - [Object Skeletonization](#object-skeletonization)
 - [Shape and Viewpoint](#shape-and-viewpoint)
@@ -14,7 +16,7 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [Depth Estimation](#depth-estimation)
 - [Learning Temporal Information from Videos](#learning-temporal-information-from-videos)
-- [Misc (Speediness)](#misc--speediness-)
+- [Misc (Speediness, Trajectories)](#misc--speediness--trajectories-)
 - [Team and People](#team-and-people)
 - [Good Start of 3D Resources (Python)](#good-start-of-3d-resources--python-)
 
@@ -57,6 +59,28 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03967)]
 **Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image.**<br>
 *Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12212)]
+
+## Human Activity and Action Understanding
+
+HAKE: Human Activity Knowledge Engine. [MVIG](http://hake-mvig.cn/home/) - Shanghai Jiao Tong University.
+
+**Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
+*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
+
+**PaStaNet: Toward Human Activity Knowledge Engine.**<br>
+*Yong-Lu Li, Liang Xu, Xinpeng Liu, Xijie Huang, Yue Xu, Shiyi Wang, Hao-Shu Fang, Ze Ma, Mingyang Chen, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.cn/)]
+
+## Reconstruction of Transparent Shapes
+
+**ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
+*Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
+[[PDF](https://arxiv.org/abs/1910.02550)] [[Github](https://github.com/Shreeyak/cleargrasp)] [[Project](https://sites.google.com/view/cleargrasp)]
+
+**Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes.**<br>
+*Zhengqin Li, Yu-Ying Yeh, Manmohan Chandraker.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
 ## Face and Object Modeling
 

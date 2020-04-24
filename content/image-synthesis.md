@@ -10,6 +10,11 @@
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 
+## Team
+
+[GenForce](https://genforce.github.io): Research Initiative on Generative Modeling at CUHK.
+
+
 ## Restoration or Enhancement
 
 ### With Exemplar
@@ -389,12 +394,20 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
 ## Diving Deep into Image Synthesis
 
+**Panoptic-based Image Synthesis.**<br>
+*Aysegul Dundar, Karan Sapra, Guilin Liu, Andrew Tao, Bryan Catanzaro.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10289)]
+
+**ALAE: Adversarial Latent Autoencoders.**<br>
+*[Stanislav Pidhorskyi](https://podgorskiy.com/), Donald A. Adjeroh, Gianfranco Doretto.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04467)] [[Github](https://github.com/podgorskiy/ALAE)]
+
 **GANSpace: Discovering Interpretable GAN Controls.**<br>
 *Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02546)] [[Github](https://github.com/harskish/ganspace)]
 
 **Image Processing Using Multi-Code GAN Prior.**<br>
-*Jinjin Gu, Yujun Shen, Bolei Zhou.*<br>
+*[Jinjin Gu](http://www.jasongt.com/), Yujun Shen, Bolei Zhou.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.07116)] [[Project](https://genforce.github.io/mganprior/)] [[Github](https://github.com/genforce/mganprior)]
 
 **Interpreting the Latent Space of GANs for Semantic Face Editing.**<br>
@@ -412,10 +425,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11512)]  [[Github](https://github.
 **MSG-GAN: Multi-Scale Gradient GAN for Stable Image Synthesis.**<br>
 *Animesh Karnewar, Oliver Wang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1903.06048)] [[Github](https://github.com/akanimax/msg-stylegan-tf)]
-
-**ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
-*Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
-[[PDF](https://arxiv.org/abs/1910.02550)] [[Github](https://github.com/Shreeyak/cleargrasp)] [[Project](https://sites.google.com/view/cleargrasp)]
 
 **StyleGAN2 Distillation for Feed-forward Image Manipulation.**<br>
 *Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin.*<br>
@@ -497,6 +506,14 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+
+**Warwick Image Forensics Dataset for Device Fingerprinting In Multimedia Forensics.**<br>
+*Yijun Quan, Chang-Tsun Li, Yujue Zhou, Li Li.*<br>
+ICME 2020. [[PDF](https://arxiv.org/abs/2004.10469)]
+
+**DeepFake Detection by Analyzing Convolutional Traces.**<br>
+*Luca Guarnera, Oliver Giudice, Sebastiano Battiato.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10448)]
 
 **DeepFakes Evolution: Analysis of Facial Regions and Fake Detection Performance.**<br>
 *Ruben Tolosana, Sergio Romero-Tapiador, Julian Fierrez, Ruben Vera-Rodriguez.*<br>
