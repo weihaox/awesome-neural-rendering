@@ -53,6 +53,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpair or Misaligned Data
 
+**SimUSR: A Simple but Strong Baseline for Unsupervised Image Super-resolution.**<br>
+*Namhyuk Ahn, Jaejun Yoo, Kyung-Ah Sohn.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.11020)]
+
 **Weakly Aligned Joint Cross-Modality Super Resolution.**<br>
 *Guy Shacht, Sharon Fogel, Dov Danon, Daniel Cohen-Or.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09965)]
@@ -507,6 +511,26 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 
+**DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
+*[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
+arxiv, 9 Jan 2020.
+[[PDF](https://arxiv.org/abs/2001.03024)] 
+[[Project](https://liming-jiang.com/projects/DrF1/DrF1.html)]
+[[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]
+[[PDF](https://github.com/EndlessSora/DeeperForensics-1.0)]
+
+**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
+*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
+[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
+
+**DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
+*Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
+arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
+
+**Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
+*Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
 **Warwick Image Forensics Dataset for Device Fingerprinting In Multimedia Forensics.**<br>
 *Yijun Quan, Chang-Tsun Li, Yujue Zhou, Li Li.*<br>
 ICME 2020. [[PDF](https://arxiv.org/abs/2004.10469)]
@@ -563,18 +587,6 @@ arxiv, 19 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08327)]
 *Yihao Huang, Felix Juefei-Xu, Run Wang, Xiaofei Xie, Lei Ma, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu.*<br>
 arxiv, 27 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09598)]
 
-**DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
-*[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
-arxiv, 9 Jan 2020.
-[[PDF](https://arxiv.org/abs/2001.03024)] 
-[[Project](https://liming-jiang.com/projects/DrF1/DrF1.html)]
-[[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]
-[[PDF](https://github.com/EndlessSora/DeeperForensics-1.0)]
-
-**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
-*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
-[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
-
 **Face X-ray for More General Face Forgery Detection.**<br>
 *Lingzhi Li, Jianmin Bao, Ting Zhang, Hao Yang, Dong Chen, Fang Wen, Baining Guo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.13458)]
@@ -582,10 +594,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.13458)]
 **FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.**<br>
 *Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*<br>
 arxiv, 1 Dec 2019. [[PDF](https://arxiv.org/abs/1912.13457)]
-
-**DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
-*Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
-arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 
 **Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning.**<br>
 *Xinsheng Xuan, Bo Peng, Wei Wang, Jing Dong.*<br>

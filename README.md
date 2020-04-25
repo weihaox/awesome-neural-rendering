@@ -322,6 +322,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 ## Neural Scene Representation and Rendering
 
+**Single-View View Synthesis with Multiplane Images.**<br>
+*Richard Tucker and Noah Snavely.*<br>
+CVPR 2020. [[PDF](https://single-view-mpi.github.io/single_view_mpi.pdf)] [[Project](https://single-view-mpi.github.io/)]
+
 **LIMP: Learning Latent Shape Representations with Metric Preservation Priors.**<br>
 *Luca Cosmo, Antonio Norelli, Oshri Halimi, Ron Kimmel, Emanuele Rodolà.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12283)]

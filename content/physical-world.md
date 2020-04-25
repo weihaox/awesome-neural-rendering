@@ -72,6 +72,16 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.co
 *Yong-Lu Li, Liang Xu, Xinpeng Liu, Xijie Huang, Yue Xu, Shiyi Wang, Hao-Shu Fang, Ze Ma, Mingyang Chen, Cewu Lu.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.cn/)]
 
+## Decomposition and Disentanglement
+
+**Unsupervised Speech Decomposition via Triple Information Bottleneck.**<br>
+*Kaizhi Qian, Yang Zhang, Shiyu Chang, David Cox, Mark Hasegawa-Johnson.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11284)] [[Project](https://anonymous0818.github.io/)]
+
+**Music Gesture for Visual Sound Separation.**<br>
+*Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
+
 ## Reconstruction of Transparent Shapes
 
 **ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
