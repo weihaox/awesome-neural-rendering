@@ -114,6 +114,13 @@ arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://
 arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
 
 ### Misc
+**Conditional Variational Image Deraining.**<br>
+*Ying-Jun Du, Jun Xu, Xian-Tong Zhen, Ming-Ming Cheng, Ling Shao.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2004.11373)]
+
+**A Review of an Old Dilemma: Demosaicking First, or Denoising First?**<br>
+*Qiyu Jin, Gabriele Facciolo, Jean-Michel Morel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.11577)]
 
 **Quantization Guided JPEG Artifact Correction.**<br>
 *Max Ehrlich, Ser-Nam Lim, Larry Davis, Abhinav Shrivastava.*<br>
@@ -210,6 +217,12 @@ arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://
 **EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
 AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
+
+## Photorealistic Style Transfer
+
+**Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.**<br>
+*Xide Xia, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10955)]
 
 ## Long-Tailed, Open Set and Small Dataset
 
@@ -530,6 +543,14 @@ arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+**Deep Face Forgery Detection.**<br>
+*Nika Dogonadze, Jana Obernosterer, Ji Hou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.11804)]
+
+**PipeNet: Selective Modal Pipeline of Fusion Network for Multi-Modal Face Anti-Spoofing.**<br>
+*Qing Yang, Xia Zhu, Jong-Kae Fwu, Yun Ye, Ganmei You, Yuan Zhu.*<br>
+CVPR 2020 WMF. [[PDF](https://arxiv.org/abs/2004.11744)]
 
 **Warwick Image Forensics Dataset for Device Fingerprinting In Multimedia Forensics.**<br>
 *Yijun Quan, Chang-Tsun Li, Yujue Zhou, Li Li.*<br>

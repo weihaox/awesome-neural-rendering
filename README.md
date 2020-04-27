@@ -91,7 +91,7 @@ ICCV 2019.
 [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
 [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
-## Human Reconstruction: Pose, Shape, Dynamic
+## Human Reconstruction: Face, Pose, Shape, Dynamic
 [[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]
 
 ### Soft-tissue Dynamics
@@ -114,6 +114,16 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
 **Neural Pose Transfer by Spatially Adaptive Instance Normalization.**<br>
 *Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
+
+### Face
+
+**Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
+*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
+
+**Deep 3D Portrait from a Single Image.**<br>
+*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
 
 ### Human Dynamics 
 
