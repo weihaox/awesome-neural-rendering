@@ -114,6 +114,19 @@ arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://
 arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
 
 ### Misc
+
+**Deploying Image Deblurring across Mobile Devices: A Perspective of Quality and Latency.**<br>
+*Cheng-Ming Chiang, Yu Tseng, Yu-Syuan Xu, Hsien-Kai Kuo, Yi-Min Tsai, Guan-Yu Chen, Koan-Sin Tan, Wei-Ting Wang, Yu-Chieh Lin, Shou-Yao Roy Tseng, Wei-Shiang Lin, Chia-Lin Yu, BY Shen, Kloze Kao, Chia-Ming Cheng, Hung-Jen Chen.*<br>
+CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12599)]
+
+**Unsupervised Real Image Super-Resolution via Generative Variational AutoEncoder.**<br>
+*Zhi-Song Liu, Wan-Chi Siu, Li-Wen Wang, Chu-Tak Li, Marie-Paule Cani, Yui-Lam Chan.*<br>.
+CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12811)]
+
+**Learning to Autofocus.**<br>
+*Charles Herrmann, Richard Strong Bowen, Neal Wadwha, Rahul Garg, Qirui He, Jonathan T. Barron, Ramin Zabih.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12260)]
+
 **Conditional Variational Image Deraining.**<br>
 *Ying-Jun Du, Jun Xu, Xian-Tong Zhen, Ming-Ming Cheng, Ling Shao.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2004.11373)]
@@ -351,6 +364,12 @@ ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/s
 
 ## Free-Hand Sketch
 
+[Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
+
+**Synthesizing Human-Like Sketches From Natural Images Using A Conditional Convolutional Decoder.**<br> 
+*Moritz Kampelmühler, Axel Pinz.*<br> 
+WACV 2020. [[PDF](https://kampelmuehler.github.io/files/synthesizing_human_like_sketches.pdf)] [[Github](https://github.com/kampelmuehler/synthesizing_human_like_sketches)] [[Project](https://kampelmuehler.github.io/publications/synthesizing_human_like_sketches)]
+
 **APDrawingGAN: Generating Artistic Portrait Drawings From Face Photos With Hierarchical GANs.**<br> 
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br> 
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper)] [[Github](https://github.com/yiranran/APDrawingGAN)] [[Demo](https://face.lol/)]
@@ -410,6 +429,10 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1912.05070)] [[Github](https://github.co
 arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
 ## Diving Deep into Image Synthesis
+
+**Disentangled Image Generation Through Structured Noise Injection.**<br>
+*Yazeed Alharbi, Peter Wonka.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12411)]
 
 **Panoptic-based Image Synthesis.**<br>
 *Aysegul Dundar, Karan Sapra, Guilin Liu, Andrew Tao, Bryan Catanzaro.*<br>
@@ -543,6 +566,10 @@ arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+**Preliminary Forensics Analysis of DeepFake Images.**<br>
+*Luca Guarnera, Oliver Giudice, Cristina Nastasi, Sebastiano Battiato.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.12626)]
 
 **Deep Face Forgery Detection.**<br>
 *Nika Dogonadze, Jana Obernosterer, Ji Hou.*<br>

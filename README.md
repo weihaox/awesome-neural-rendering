@@ -332,6 +332,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 ## Neural Scene Representation and Rendering
 
+**CoReNet: Coherent 3D Scene Reconstruction From a Single RGB Image.**<br>
+*Stefan Popov, Pablo Bauszat, Vittorio Ferrari.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.12989)]
+
 **Single-View View Synthesis with Multiplane Images.**<br>
 *Richard Tucker and Noah Snavely.*<br>
 CVPR 2020. [[PDF](https://single-view-mpi.github.io/single_view_mpi.pdf)] [[Project](https://single-view-mpi.github.io/)]
@@ -553,6 +557,18 @@ arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**MakeItTalk: Speaker-Aware Talking Head Animation.**<br>
+*Yang Zhou, DIngzeyu Li, Xintong Han, Evangelos Kalogerakis, Eli Shechtman, Jose Echevarria.*<br>
+arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12992)]
+
+**One-Shot Identity-Preserving Portrait Reenactment.**<br>
+*Sitao Xiang, Yuming Gu, Pengda Xiang, Mingming He, Koki Nagano, Haiwei Chen, Hao Li.*<br>
+arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12452)]
+
+**Neural Head Reenactment with Latent Pose Descriptors.**<br>
+*Egor Burkov, Igor Pasechnik, Artur Grigorev, Victor Lempitsky.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12000)]
 
 **Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>

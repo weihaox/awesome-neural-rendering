@@ -640,6 +640,10 @@ CVPR 2020. [[PDF](https://arxiv.org/pdf/2004.06130.pdf)] [[Project](https://spee
 *Hao Xue, Du. Q. Huynh, Mark Reynolds.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09760)]
 
+**TPNet: Trajectory Proposal Network for Motion Prediction.**<br>
+*Liangji Fang, Qinhong Jiang, Jianping Shi, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.12255)]
+
 ## Team and People
 
 [Real Virtual Humans](https://virtualhumans.mpi-inf.mpg.de), MPI-INF.
