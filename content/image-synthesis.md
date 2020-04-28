@@ -19,6 +19,10 @@
 
 ### With Exemplar
 
+**Unsupervised Real Image Super-Resolution via Generative Variational AutoEncoder.**<br>
+*Zhi-Song Liu, Wan-Chi Siu, Li-Wen Wang, Chu-Tak Li, Marie-Paule Cani, Yui-Lam Chan.*<br>.
+CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12811)] [[Github](https://github.com/Holmes-Alan/dSRVAE)] [[NTIRE2020 Real Image Super-Resolution Challenge](https://data.vision.ee.ethz.ch/cvl/ntire20/)]
+
 **SRTNN: Image Super-Resolution by Neural Texture Transfer.**<br>
 *[Zhifei Zhang](https://zzutk.github.io/), Zhaowen Wang, Zhe Lin, Hairong Qi.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1903.00834)] [[Project](http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/SRNTT.html)] [[Github](https://github.com/ZZUTK/SRNTT)]
@@ -118,10 +122,6 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 **Deploying Image Deblurring across Mobile Devices: A Perspective of Quality and Latency.**<br>
 *Cheng-Ming Chiang, Yu Tseng, Yu-Syuan Xu, Hsien-Kai Kuo, Yi-Min Tsai, Guan-Yu Chen, Koan-Sin Tan, Wei-Ting Wang, Yu-Chieh Lin, Shou-Yao Roy Tseng, Wei-Shiang Lin, Chia-Lin Yu, BY Shen, Kloze Kao, Chia-Ming Cheng, Hung-Jen Chen.*<br>
 CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12599)]
-
-**Unsupervised Real Image Super-Resolution via Generative Variational AutoEncoder.**<br>
-*Zhi-Song Liu, Wan-Chi Siu, Li-Wen Wang, Chu-Tak Li, Marie-Paule Cani, Yui-Lam Chan.*<br>.
-CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12811)]
 
 **Learning to Autofocus.**<br>
 *Charles Herrmann, Richard Strong Bowen, Neal Wadwha, Rahul Garg, Qirui He, Jonathan T. Barron, Ramin Zabih.*<br>
