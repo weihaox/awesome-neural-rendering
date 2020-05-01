@@ -454,10 +454,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13166)] [[Project](https://compvis.
 *Edo Collins, Raja Bala, Bob Price, Sabine Süsstrunk.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.14367)] [[Github](https://github.com/IVRL/GANLocalEditing)]
 
-**A Disentangling Invertible Interpretation Network for Explaining Latent Representations.**<br>
-*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13166)] [[Github](https://compvis.github.io/iin/)]
-
 **Disentangled Image Generation Through Structured Noise Injection.**<br>
 *Yazeed Alharbi, Peter Wonka.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12411)]
