@@ -119,6 +119,22 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ### Misc
 
+**Pyramid Attention Networks for Image Restoration.**<br>
+*[Yiqun Mei](http://yiqunm2.web.illinois.edu/), [Yuchen Fan](https://scholar.google.com/citations?user=BlfdYL0AAAAJ&hl=en), [Yulun Zhang](http://yulunzhang.com/), [Jiahui Yu](https://jiahuiyu.com/), [Yuqian Zhou](https://yzhouas.github.io/), [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Yun Fu](http://www1.ece.neu.edu/~yunfu/), [Thomas S. Huang](http://ifp-uiuc.github.io/), [Honghui Shi](https://www.humphreyshi.com/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.13824.pdf)] [[Github](https://github.com/SHI-Labs/Pyramid-Attention-Networks)]
+
+**Multi-Scale Boosted Dehazing Network with Dense Feature Fusion.**<br>
+*Hang Dong, Jinshan Pan, Lei Xiang, Zhe Hu, Xinyi Zhang, Fei Wang, Ming-Hsuan Yang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13388)] [[Github](https://github.com/BookerDeWitt/MSBDN-DFF)]
+
+**Attention Prior for Real Image Restoration.**<br>
+*Saeed Anwar, Nick Barnes, Lars Petersson.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
+
+**Real Image Denoising with Feature Attention.**<br>
+*Saeed Anwar, Nick Barnes.*<br>
+ICCV 2019, [[PDF](https://arxiv.org/abs/1904.07396)]
+
 **Deploying Image Deblurring across Mobile Devices: A Perspective of Quality and Latency.**<br>
 *Cheng-Ming Chiang, Yu Tseng, Yu-Syuan Xu, Hsien-Kai Kuo, Yi-Min Tsai, Guan-Yu Chen, Koan-Sin Tan, Wei-Ting Wang, Yu-Chieh Lin, Shou-Yao Roy Tseng, Wei-Shiang Lin, Chia-Lin Yu, BY Shen, Kloze Kao, Chia-Ming Cheng, Hung-Jen Chen.*<br>
 CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12599)]
@@ -430,6 +446,18 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
 ## Diving Deep into Image Synthesis
 
+**A Disentangling Invertible Interpretation Network for Explaining Latent Representations.**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13166)] [[Project](https://compvis.github.io/iin/)] [[Github](https://github.com/CompVis/iin)]
+
+**Editing in Style: Uncovering the Local Semantics of GANs.**<br>
+*Edo Collins, Raja Bala, Bob Price, Sabine Süsstrunk.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.14367)] [[Github](https://github.com/IVRL/GANLocalEditing)]
+
+**A Disentangling Invertible Interpretation Network for Explaining Latent Representations.**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13166)] [[Github](https://compvis.github.io/iin/)]
+
 **Disentangled Image Generation Through Structured Noise Injection.**<br>
 *Yazeed Alharbi, Peter Wonka.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12411)]
@@ -566,6 +594,14 @@ arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+**Deepfake Video Forensics based on Transfer Learning.**<br>
+*Rahul U, Ragul M, Raja Vignesh K, Tejeswinee K.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.14178)]
+
+**Single-Side Domain Generalization for Face Anti-Spoofing.**<br>
+*Yunpei Jia, Jie Zhang, Shiguang Shan, Xilin Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.14043)]
 
 **Preliminary Forensics Analysis of DeepFake Images.**<br>
 *Luca Guarnera, Oliver Giudice, Cristina Nastasi, Sebastiano Battiato.*<br>

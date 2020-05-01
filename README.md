@@ -35,6 +35,10 @@ A typical neural rendering approach takes as input images corresponding to certa
 
 Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real- world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene—camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
 
+**Neural Hair Rendering.**<br>
+*Menglei Chai, Jian Ren, Sergey Tulyakov.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
+
 ## Related Surveys and Course Notes
 
 **[State of the Art on Neural Rendering.](https://arxiv.org/abs/2004.03805)**<br>
@@ -95,6 +99,7 @@ ICCV 2019.
 [[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]
 
 ### Soft-tissue Dynamics
+
 **SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans.**<br>
 *[Igor Santesteban](http://isantesteban.com/), Elena Garces, Miguel A. Otaduy, and Dan Casas.*<br>
 Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.github.io/docs/santesteban_Eurographics2020.pdf)] [[Project](http://dancasas.github.io/projects/SoftSMPL)]
@@ -111,6 +116,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02923)] [[Project](https://ps.is.tu
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
 
 ### 3D Pose Transfer
+
 **Neural Pose Transfer by Spatially Adaptive Instance Normalization.**<br>
 *Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]

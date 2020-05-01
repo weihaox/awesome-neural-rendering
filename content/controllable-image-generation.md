@@ -30,6 +30,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 ## Guided Image-to-image translation
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+**Graph2Plan: Learning Floorplan Generation from Layout Graphs.**<br>
+*Ruizhen Hu, Zeyu Huang, Yuhan Tang, Oliver van Kaick, Hao Zhang, Hui Huang.*<br>
+ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
+
 ## Image-Based Virtual Try-On
 *Image-Based Virtual Try-On* can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/clothed-human.md#image-based-virtual-try-on).
 

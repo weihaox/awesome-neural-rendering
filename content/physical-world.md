@@ -40,6 +40,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04630)]
 
 ## Scene Understanding
 
+**Informative Scene Decomposition for Crowd Analysis, Comparison and Simulation Guidance.**<br>
+*Feixiang He, Yuanhang Xiang, Xi Zhao, He Wang.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2004.14107)]
+
 **Shallow2Deep: Indoor Scene Modeling by Single Image Understanding.**<br>
 *Yinyu Nie, Shihui Guo, Jian Chang, Xiaoguang Han, Jiahui Huang, Shi-Min Hu, Jian Jun Zhang.*<br>
 Pattern Recognition 2020. [[PDF](https://arxiv.org/abs/2002.09790)]
@@ -92,7 +96,11 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-ges
 *Zhengqin Li, Yu-Ying Yeh, Manmohan Chandraker.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
-## Face and Object Modeling
+## Face, Hand and Object Modeling
+
+**Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction.**<br>
+*Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13449)] [[Project](https://hassony2.github.io/handobjectconsist.html)]
 
 **FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction.**<br>
 *Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao.*<br>
@@ -315,6 +323,10 @@ WACV 2019. [[PDF](https://arxiv.org/abs/1803.08673)] [[Github](https://github.co
 
 
 ### Depth From Video (Depth, Normal and Camera Motion Estimation)
+
+**Consistent Video Depth Estimation.**<br>
+*Xuan Luo, Jia-Bin Huang, Richard Szeliski, Kevin Matzen, Johannes Kopf.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2004.15021)] [[Project](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)]
 
 **Self-supervised Object Motion and Depth Estimation from Video.**<br>
 *Qi Dai, Vaishakh Patil, Simon Hecker, Dengxin Dai, Luc Van Gool, Konrad Schindler.*<br>
