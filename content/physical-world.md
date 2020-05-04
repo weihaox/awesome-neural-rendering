@@ -40,6 +40,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04630)]
 
 ## Scene Understanding
 
+**Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense.**<br>
+*Yixin Zhu, Tao Gao, Lifeng Fan, Siyuan Huang, Mark Edmonds, Hangxin Liu, Feng Gao, [Chi Zhang](http://wellyzhang.github.io/), Siyuan Qi, Ying Nian Wu, Joshua B. Tenenbaum, Song-Chun Zhu.*<br>
+Engineering 2020. [[PDF](https://arxiv.org/abs/2004.09044)]
+
 **Informative Scene Decomposition for Crowd Analysis, Comparison and Simulation Guidance.**<br>
 *Feixiang He, Yuanhang Xiang, Xi Zhao, He Wang.*<br>
 SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2004.14107)]
@@ -77,6 +81,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.co
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.cn/)]
 
 ## Decomposition and Disentanglement
+
+**Weakly Supervised Disentanglement with Guarantees .**<br>
+*Rui Shu, Yining Chen, Abhishek Kumar, Stefano Ermon, Ben Poole.*<br>
+ICLR 2020. [[PDF](https://openreview.net/forum?id=HJgSwyBKvr)] [[Github](https://github.com/google-research/google-research/tree/master/weak_disentangle)]
 
 **Unsupervised Speech Decomposition via Triple Information Bottleneck.**<br>
 *Kaizhi Qian, Yang Zhang, Shiyu Chang, David Cox, Mark Hasegawa-Johnson.*<br>
