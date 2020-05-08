@@ -33,6 +33,8 @@ This is a list of computer vision groups and Graphic from various universities a
 * [LGG: Computer Graphics and Geometry Laboratory](https://lgg.epfl.ch/)
 * [RGL: Realistic Graphics Lab](http://rgl.epfl.ch/)
 * [LIA: The Artificial Intelligence Laboratory](https://lia.epfl.ch/)] by [Prof. Boi Faltings](http://lia.epfl.ch/~faltings/)
+* [CVIG: Computer Vision and Learning Group](siyut.github.io/SiyuT/) by Prof. Dr. Siyu Tang.
+
 
 **Max Planck Institute for Informatics** 
 * [GVV: Graphics, Vision & Video](http://gvv.mpi-inf.mpg.de/GVV_PhD_Position.html)

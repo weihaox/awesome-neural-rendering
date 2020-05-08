@@ -73,6 +73,10 @@ arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Self-Supervised Human Depth Estimation from Monocular Videos.**<br>
+*Feitong Tan, Hao Zhu, Zhaopeng Cui, Siyu Zhu, Marc Pollefeys, Ping Tan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.03358)]
+
 **TetraTSDF: 3D human reconstruction from a single image with a tetrahedral outer shell.**<br>
 *Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10534)]

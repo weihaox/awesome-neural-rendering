@@ -564,6 +564,11 @@ arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+
+**Skeleton-Aware Networks for Deep Motion Retargeting.**<br>
+**Unpaired Motion Style Transfer from Video to Animation.**<br>
+SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editing)]
+
 **MakeItTalk: Speaker-Aware Talking Head Animation.**<br>
 *Yang Zhou, DIngzeyu Li, Xintong Han, Evangelos Kalogerakis, Eli Shechtman, Jose Echevarria.*<br>
 arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12992)]

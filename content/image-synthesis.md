@@ -57,6 +57,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpair or Misaligned Data
 
+**Unsupervised Real-world Low-light Image Enhancement with Decoupled Networks.**<br>
+*Wei Xiong, Ding Liu, Xiaohui Shen, Chen Fang, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02818)]
+
 **SimUSR: A Simple but Strong Baseline for Unsupervised Image Super-resolution.**<br>
 *Namhyuk Ahn, Jaejun Yoo, Kyung-Ah Sohn.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.11020)]
@@ -247,6 +251,24 @@ arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
 AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
 
+### Challenge and Survey
+
+**NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results.**<br>
+*Kai Zhang, Shuhang Gu, Radu Timofte, et al..*<br>
+NTIRE 2020 [Challenge](https://data.vision.ee.ethz.ch/cvl/ntire20/). [[PDF](https://arxiv.org/abs/2005.01056)]
+
+**NTIRE 2020 Challenge on Image and Video Deblurring.**<br>
+*[Seungjun Nah](https://seungjunnah.github.io/), [Sanghyun Son](https://cv.snu.ac.kr/sanghyun_son/sanghyun_son_cv.pdf), [Radu Timofte](https://vision.ee.ethz.ch/~timofter/), Kyoung Mu Lee.*<br>
+CVPR 2020 Workshop: New Trends in Image Restoration and Enhancement. [[PDF](https://arxiv.org/abs/2005.01244)]
+
+**NTIRE 2020 Challenge on Image Demoireing: Methods and Results.**<br>
+*Shanxin Yuan, Radu Timofte et al..*<br>
+NTIRE 2020. [[PDF](https://arxiv.org/abs/2005.03155)]
+
+**AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results.**<br>
+*Seungjun Nah, Sanghyun Son, Radu Timofte, Kyoung Mu Lee.*<br>
+ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/2005.01233)]
+
 ## Photorealistic Style Transfer
 
 **Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.**<br>
@@ -254,6 +276,10 @@ AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20L
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10955)]
 
 ## Long-Tailed, Open Set and Small Dataset
+
+**Decoupling Representation and Classifier for Long-Tailed Recognition.**<br>
+*Bingyi Kang, Saining Xie,Marcus Rohrbach, Zhicheng Yan, Albert Gordo, Jiashi Feng, Yannis Kalantidis.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1910.09217)] [[Github](https://github.com/facebookresearch/classifier-balancing)]
 
 **YuruGAN: Yuru-Chara Mascot Generator Using Generative Adversarial Networks With Clustering Small Dataset.**<br>
 *Yuki Hagiwara, Toshihisa Tanaka.*<br>
@@ -445,6 +471,14 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1912.05070)] [[Github](https://github.co
 arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
 ## Diving Deep into Image Synthesis
+
+**Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
+*[Minyoung Huh](http://minyounghuh.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://people.csail.mit.edu/junyanz/), [Sylvain Paris](http://people.csail.mit.edu/sparis/), [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/).*<br>
+arxiv 2020. [[PDF](http://arxiv.org/abs/2005.01703)] [[Github](https://github.com/minyoungg/GAN-Transform-and-Project)] [[Project](https://minyoungg.github.io/GAN-Transform-and-Project/)]
+
+**CONFIG: Controllable Neural Face Image Generation.**<br>
+*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02671)]
 
 **A Disentangling Invertible Interpretation Network for Explaining Latent Representations.**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer.*<br>

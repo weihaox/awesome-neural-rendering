@@ -41,7 +41,7 @@ arxiv, 20 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08988)] [[Project](https:/
 
 **DualSDF: Semantic Shape Manipulation using a Two-Level Representation.**<br>
 *Zekun Hao, Hadar Averbuch-Elor, Noah Snavely, Serge Belongie.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02869)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02869)] [[Github](https://github.com/zekunhao1995/DualSDF)]
 
 **Learning a Neural 3D Texture Space from 2D Exemplars.**<br>
 *Philipp Henzler, Niloy J. Mitra, Tobias Ritschel.*<br>
@@ -105,6 +105,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1909.02533)] [[Github](https://github.co
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkulkarni.github.io/csm/)] [[Project](https://nileshkulkarni.github.io/csm/)]
 
 ## Representation of Texture
+
 **Neural Texture: Learning a Neural 3D Texture Space from 2D Exemplars.**<br>
 *[Henzler](https://henzler.github.io/), [J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Ritschel](http://www.homepages.ucl.ac.uk/~ucactri/).*<br>
 CVPR 2020. [[PDF](https://geometry.cs.ucl.ac.uk/projects/2020/neuraltexture/paper_docs/neuraltexture.pdf)] [[Github](https://github.com/henzler/neuraltexture)]
