@@ -27,6 +27,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 *Individual Object Manipulation* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#individual-object-manipulate).
 
+**Conditional Image Generation and Manipulation for User-Specified Content.**<br>
+*David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
+AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04909)]
+
 ## Guided Image-to-image translation
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 

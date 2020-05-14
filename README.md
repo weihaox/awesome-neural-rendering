@@ -564,10 +564,17 @@ arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**FaR-GAN for One-Shot Face Reenactment.**<br>
+*Hanxiang Hao, Sriram Baireddy, Amy R. Reibman, Edward J. Delp.*<br>
+AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.06402)]
 
 **Skeleton-Aware Networks for Deep Motion Retargeting.**<br>
+*Kfir Aberman, Peizhuo Li, Dani Lischinski, Olga Sorkine-Hornung, Daniel Cohen-Or, Baoquan Chen.*<br>
+SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editing)] [[Project](https://deepmotionediting.github.io/retargeting)]
+
 **Unpaired Motion Style Transfer from Video to Animation.**<br>
-SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editing)]
+*Kfir Aberman, Yijia Weng, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen.*<br>
+SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editing)] [[Project](https://deepmotionediting.github.io/style_transfer)]
 
 **MakeItTalk: Speaker-Aware Talking Head Animation.**<br>
 *Yang Zhou, DIngzeyu Li, Xintong Han, Evangelos Kalogerakis, Eli Shechtman, Jose Echevarria.*<br>

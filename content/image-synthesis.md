@@ -57,6 +57,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpair or Misaligned Data
 
+**Domain Adaptation for Image Dehazing.**<br>
+*Yuanjie Shao, Lerenhan Li, Wenqi Ren, Changxin Gao, Nong Sang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04668)]
+
 **Unsupervised Real-world Low-light Image Enhancement with Decoupled Networks.**<br>
 *Wei Xiong, Ding Liu, Xiaohui Shen, Chen Fang, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02818)]
@@ -624,6 +628,10 @@ arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+**Detecting CNN-Generated Facial Images in Real-World Scenarios.**<br>
+*Nils Hulzebosch, Sarah Ibrahimi, Marcel Worring.*<br>
+Media Forensics at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.05632)]
 
 **Deepfake Video Forensics based on Transfer Learning.**<br>
 *Rahul U, Ragul M, Raja Vignesh K, Tejeswinee K.*<br>

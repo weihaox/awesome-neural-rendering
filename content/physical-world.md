@@ -655,6 +655,10 @@ CVPR 2019.
 
 ## Misc (Speediness, Trajectories)
 
+**STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction.**<br>
+*Zhishuai Zhang, Jiyang Gao, Junhua Mao, Yukai Liu, Dragomir Anguelov, Congcong Li.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04255)]
+
 **SpeedNet: Learning the Speediness in Videos.**<br>
 *[Sagie Benaim](https://sagiebenaim.github.io/), [Ariel Ephrat](http://www.cs.huji.ac.il/~arielephrat/), Oran Lang, Inbar Mosseri, [William T. Freeman](https://billf.mit.edu/), [Michael Rubinstein](http://people.csail.mit.edu/mrub/), [Michal Irani](http://www.weizmann.ac.il/math/irani/home), and [Tali Dekel](http://people.csail.mit.edu/talidekel/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/pdf/2004.06130.pdf)] [[Project](https://speednet-cvpr20.github.io/)]
