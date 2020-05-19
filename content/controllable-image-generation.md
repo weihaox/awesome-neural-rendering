@@ -97,6 +97,9 @@ ICASSP 2020.
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 ### Text-to-Image
+**S2IGAN: Speech-to-Image Generation via Adversarial Learning.**<br>
+*Xinsheng Wang, Tingting Qiao, Jihua Zhu, Alan Hanjalic, Odette Scharenborg.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.06968)]
 
 **3DLSN: End-to-End Optimization of Scene Layout.**<br>
 *Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>

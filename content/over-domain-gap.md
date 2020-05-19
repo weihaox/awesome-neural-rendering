@@ -8,6 +8,11 @@
 CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 
 ## Domain Adaptation
+
+**Domain Conditioned Adaptation Network.**<br>
+*Shuang Li, Chi Harold Liu, Qiuxia Lin, Binhui Xie, Zhengming Ding, Gao Huang, Jian Tang.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/2005.06717)]
+
 **Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision.**<br>
 *Fei Pan, Inkyu Shin, Francois Rameau, Seokju Lee, In So Kweon.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07703)] [[Github](https://github.com/feipan664/IntraDA)]

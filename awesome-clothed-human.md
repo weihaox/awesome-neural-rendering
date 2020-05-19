@@ -105,6 +105,14 @@ arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
 arxiv, 16 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 
+**BCNet: Learning Body and Cloth Shape from A Single Image.**<br>
+*Boyi Jiang, Juyong Zhang, Yang Hong, Jinhao Luo, Ligang Liu, Hujun Bao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00214)]
+
+**Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network.**<br>
+*Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng.*<br>
+TVCG 2020. [[PDF](https://arxiv.org/abs/1905.05622)]
+
 **Textured Neural Avatars.**<br>
 *Aliaksandra Shysheya, Egor Zakharov, Kara-Ali Aliev, Renat Bashirov, Egor Burkov, Karim Iskakov, Aleksei Ivakhnenko, Yury Malkov, Igor Pasechnik, Dmitry Ulyanov, Alexander Vakhitov, Victor Lempitsky.*<br>
 CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://saic-violet.github.io/texturedavatar/)]
