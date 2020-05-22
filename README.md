@@ -33,10 +33,6 @@ A typical neural rendering approach takes as input images corresponding to certa
 
 Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real- world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene—camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
 
-**Neural Hair Rendering.**<br>
-*Menglei Chai, Jian Ren, Sergey Tulyakov.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
-
 ## Related Surveys and Course Notes
 
 **[State of the Art on Neural Rendering.](https://arxiv.org/abs/2004.03805)**<br>
@@ -307,6 +303,16 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
+## Neural Hair Rendering
+
+**Neural Hair Rendering.**<br>
+*[Menglei Chai](mlchai.com), Jian Ren, Sergey Tulyakov.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
+
+**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
+*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
+SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
+
 ## Semantic Photo Synthesis and Manipulation
 
 **pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.**<br>
@@ -330,6 +336,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.co
 VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
 ## Light, Reflectance, lluminance and Shade
+
+**Portrait Shadow Manipulation.**<br>
+*[Xuaner Cecilia Zhang](https://people.eecs.berkeley.edu/~cecilia77/), J onathan T. Barron, Yun-Ta Tsai, Rohit Pandey, Xiuming Zhang, Ren Ng, David E. Jacobs.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.08925)] [[Project](https://people.eecs.berkeley.edu/~cecilia77/project-pages/portrait)]
 
 **Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
 *Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely.*<br>

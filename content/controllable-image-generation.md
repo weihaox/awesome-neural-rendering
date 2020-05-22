@@ -23,6 +23,29 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Gaze Estimation](#gaze-estimation)
   * [Eye Tracking](#eye-tracking)
 
+## Interactive and Controllable Image Manipulation
+
+**Interactive Video Stylization Using Few-Shot Patch-Based Training.**<br>
+*[Ondřej Texler](https://ondrejtexler.github.io/), David Futschik, Michal Kučera, Ondřej Jamriška, Šárka Sochorová, Menglei Chai, Sergey Tulyakov, Daniel Sýkora.*<br>
+TOG 2020 (SIGGRAPH 2020) [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_patch-based_training_main.pdf)] [[Project](https://ondrejtexler.github.io/patch-based_training/)]
+
+**Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
+*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
+
+
+**SMIS: Semantically Multi-modal Image Synthesis.**<br> 
+*[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]
+
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
+*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
+
+**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
+*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
+SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
+
 ## Individual Object Manipulation
 
 *Individual Object Manipulation* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#individual-object-manipulate).

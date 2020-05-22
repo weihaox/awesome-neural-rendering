@@ -18,6 +18,10 @@
 
 ### With Exemplar
 
+**Instance-aware Image Colorization.**<br>
+*Jheng-Wei Su, Hung-Kuo Chu, Jia-Bin Huang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.10825)] [[Github](https://ericsujw.github.io/InstColorization/)] [[Project](https://ericsujw.github.io/InstColorization/)]
+
 **Unsupervised Real Image Super-Resolution via Generative Variational AutoEncoder.**<br>
 *Zhi-Song Liu, Wan-Chi Siu, Li-Wen Wang, Chu-Tak Li, Marie-Paule Cani, Yui-Lam Chan.*<br>.
 CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12811)] [[Github](https://github.com/Holmes-Alan/dSRVAE)] [[NTIRE2020 Real Image Super-Resolution Challenge](https://data.vision.ee.ethz.ch/cvl/ntire20/)]
@@ -351,6 +355,10 @@ ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/s
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
 
+**DeepFaceDrawing: Deep Generation of Face Images from Sketches.**<br> 
+*[Shu-Yu Chen](http://people.geometrylearning.com/csy/), [Wanchao Su](https://www.scm.cityu.edu.hk/doctoral-researcher/wanchaosu2-c), Lin Gao, Shihong Xia, Hongbo Fu.*<br> 
+Siggraph 2020. [[PDF]()] [[Project](http://www.geometrylearning.com/DeepFaceDrawing/)]
+
 **Synthesizing Human-Like Sketches From Natural Images Using A Conditional Convolutional Decoder.**<br> 
 *Moritz Kampelmühler, Axel Pinz.*<br> 
 WACV 2020. [[PDF](https://kampelmuehler.github.io/files/synthesizing_human_like_sketches.pdf)] [[Github](https://github.com/kampelmuehler/synthesizing_human_like_sketches)] [[Project](https://kampelmuehler.github.io/publications/synthesizing_human_like_sketches)]
@@ -585,6 +593,14 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Co-occurrence Based Texture Synthesis.**<br>
+*Anna Darzi, Itai Lang, Ashutosh Taklikar, Hadar Averbuch-Elor, Shai Avidan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.08186)] [[Github](https://github.com/Ashu7397/coco_texture)]
+
+**CIAGAN: Conditional Identity Anonymization Generative Adversarial Networks.**<br>
+*Maxim Maximov, Ismail Elezi, Laura Leal-Taixé.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.09544)] [[Github](https://github.com/dvl-tum/ciagan)]
 
 **Semantic Photo Manipulation with a Generative Image Prior.**<br>
 *David Bau, Hendrik Strobelt, William Peebles, Jonas, Bolei Zhou, Jun-Yan Zhu, Antonio Torralba.*<br>
