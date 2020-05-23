@@ -361,10 +361,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08367)] [GitHub](https://github.com
 *Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
 
-**Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
-*Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08367)] [[Project](https://people.eecs.berkeley.edu/~pratul/lighthouse/)]
-
 **Neural Illumination: Lighting Prediction for Indoor Environments.**<br>
 *Shuran Song and Thomas Funkhouser.*<br>
 CVPR 2019. [[PDF](https://illumination.cs.princeton.edu/paper.pdf)] [[Project](https://illumination.cs.princeton.edu/)]
