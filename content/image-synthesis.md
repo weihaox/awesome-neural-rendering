@@ -2,12 +2,22 @@
 
 ## Table of Contents
 - [Restoration or Enhancement](#restoration-or-enhancement)
-- [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
+  * [With Exemplar](#with-exemplar)
+  * [With Unpair or Misaligned Data](#with-unpair-or-misaligned-data)
+  * [Misc](#misc)
+  * [Challenge and Survey](#challenge-and-survey)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
 - [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
+- [Photorealistic Style Transfer](#photorealistic-style-transfer)
 - [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)
-- [Long-Tailed and Open Set](#long-tailed-and-open-set)
 - [Free-Hand Sketch](#free-hand-sketch)
+- [Reciprocal Computer Vision Tasks](#reciprocal-computer-vision-tasks)
+- [Long-Tailed, Open Set and Small Dataset](#long-tailed--open-set-and-small-dataset)
+- [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
+  * [Interpreting the Latent Space of Pretrained Models (GAN Inversion)](#interpreting-the-latent-space-of-pretrained-models--gan-inversion-)
+  * [StyleGAN-Based Method](#stylegan-based-method)
+  * [Single-Image Training](#single-image-training)
+  * [Misc](#misc-1)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 
 ## Team

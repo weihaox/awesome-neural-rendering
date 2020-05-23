@@ -17,6 +17,10 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/2005.06717)]
 *Fei Pan, Inkyu Shin, Francois Rameau, Seokju Lee, In So Kweon.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07703)] [[Github](https://github.com/feipan664/IntraDA)]
 
+**Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation.**<br>
+*Myeongjin Kim, Hyeran Byun.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.00867)]
+
 ## Few-Shot
 
 **FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**<br>

@@ -33,6 +33,13 @@ TOG 2020 (SIGGRAPH 2020) [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_
 *Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
 
+**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
+*Zhentao Tan, [Menglei Chai](https://mlchai.com/), Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*
+SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
+
+**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
+*[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Github](https://arnabgho.github.io/iSketchNFill/)]
 
 **SMIS: Semantically Multi-modal Image Synthesis.**<br> 
 *[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>

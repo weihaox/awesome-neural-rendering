@@ -12,12 +12,14 @@ Feedback and contributions are welcome!
 - [Intruduction of Neural Rendering](#intruduction-of-neural-rendering)
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
+- [Fluid and Smoke Simulation](#fluid-and-smoke-simulation)
 - [Differentiable Physics-Based Simulation](#differentiable-physics-based-simulation)
+- [Neural Hair Rendering](#neural-hair-rendering)
 - [Individual Object Manipulation](#individual-object-manipulation)
+- [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Texture and Surface Mapping](#texture-and-surface-mapping)
 - [Neural Scene Representation and Rendering](#neural-scene-representation-and-rendering)
 - [Novel-View Synthesis for Objects and Scenes](#novel-view-synthesis-for-objects-and-scenes)
-- [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
 
@@ -61,6 +63,16 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Inverse
 *Yuda Qiu, Zhangyang Xiong, Kai Han, Zhongyuan Wang, Zixiang Xiong, Xiaoguang Han.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.com/RudyQ/InverseFaceRender)]
 
+## Fluid and Smoke Simulation
+
+**Lagrangian Neural Style Transfer for Fluids.**<br>
+*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.00803)]
+
+**Transport-Based Neural Style Transfer for Smoke Simulations.**<br>
+*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
+SIGGRAPH ASIA 2019. [[PDF](https://arxiv.org/abs/1905.07442)]
+
 ## Differentiable Physics-Based Simulation
 
 **DiffTaichi: Differentiable Programming for Physical Simulation.**<br>
@@ -89,6 +101,16 @@ ICCV 2019.
 [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
 [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
+## Neural Hair Rendering
+
+**Neural Hair Rendering.**<br>
+*[Menglei Chai](mlchai.com), Jian Ren, Sergey Tulyakov.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
+
+**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
+*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
+SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
+
 ## Individual Object Manipulation 
 
 **Self-Supervised Scene De-occlusion.**<br>
@@ -106,6 +128,28 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.co
 **Learning to Manipulate Individual Objects in an Image.**<br>
 *Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
+
+## Semantic Photo Synthesis and Manipulation
+
+**pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.**<br>
+*Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1711.11585)] [[Github](https://github.com/NVIDIA/pix2pixHD)]
+
+**SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization.**</br>
+*Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.07291)] [[Github](https://github.com/NVlabs/SPADE)]
+
+**Semantic Bottleneck Scene Generation.**<br>
+*Samaneh Azadi, Michael Tschannen, Eric Tzeng, Sylvain Gelly, Trevor Darrell, Mario Lucic.*<br>
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.11357)]
+
+**Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.**<br>
+*[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]
+
+**SelectionGAN: Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation.**<br>
+*Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan.*<br>
+VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
 ## Texture and Surface Mapping
 
@@ -302,38 +346,6 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 **View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
-
-## Neural Hair Rendering
-
-**Neural Hair Rendering.**<br>
-*[Menglei Chai](mlchai.com), Jian Ren, Sergey Tulyakov.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
-
-**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
-*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
-SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
-
-## Semantic Photo Synthesis and Manipulation
-
-**pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.**<br>
-*Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1711.11585)] [[Github](https://github.com/NVIDIA/pix2pixHD)]
-
-**SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization.**</br>
-*Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1903.07291)] [[Github](https://github.com/NVlabs/SPADE)]
-
-**Semantic Bottleneck Scene Generation.**<br>
-*Samaneh Azadi, Michael Tschannen, Eric Tzeng, Sylvain Gelly, Trevor Darrell, Mario Lucic.*<br>
-arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.11357)]
-
-**Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.**<br>
-*[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]
-
-**SelectionGAN: Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation.**<br>
-*Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan.*<br>
-VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
 ## Light, Reflectance, lluminance and Shade
 
