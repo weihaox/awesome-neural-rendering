@@ -8,10 +8,6 @@ relative_links:
 include:
   - README.md
   - awesome-clothed-human.md
-  - content/cv-lab.md
-  - content/dataset.md
   - content/physical-world.md
   - content/3d-representation.md
-  - content/controllable-image-generation.md
-  - content/image-synthesis.md
   - content/over-domain-gap.md
