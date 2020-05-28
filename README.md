@@ -65,6 +65,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Fluid and Smoke Simulation
 
+**Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling.**<br>
+*Wei Li, Yixin Chen, Mathieu Desbrun, Changxi Zhang, Xiaopei Liu.*<br>
+SIGGRAPH 2020. [[PDF](http://www.geometry.caltech.edu/pubs/LCDZL20.pdf)]
+
 **Lagrangian Neural Style Transfer for Fluids.**<br>
 *Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
 SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.00803)]
