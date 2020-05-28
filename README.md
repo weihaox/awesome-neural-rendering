@@ -77,6 +77,10 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.00803)]
 *Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
 SIGGRAPH ASIA 2019. [[PDF](https://arxiv.org/abs/1905.07442)]
 
+**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
+*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
+SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)]
+
 ## Differentiable Physics-Based Simulation
 
 **DiffTaichi: Differentiable Programming for Physical Simulation.**<br>
