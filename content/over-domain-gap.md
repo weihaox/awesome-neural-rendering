@@ -16,6 +16,14 @@ CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 
 ## Domain Adaptation
 
+**AINDNet: Transfer Learning from Synthetic to Real-Noise Denoising with Adaptive Instance Normalization.**<br>
+*Yoonsik Kim, Jae Woong Soh, Gu Yong Park, Nam Ik Cho.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11244)] [[Github](https://github.com/terryoo/AINDNet)]
+
+**Ear2Face: Deep Biometric Modality Mapping.**<br>
+*Dogucan Yaman, Fevziye Irem Eyiokur, Hazım Kemal Ekenel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.01943)] [[Github](https://github.com/yamand16/ear2face)]
+
 **Domain Conditioned Adaptation Network.**<br>
 *Shuang Li, Chi Harold Liu, Qiuxia Lin, Binhui Xie, Zhengming Ding, Gao Huang, Jian Tang.*<br>
 AAAI 2020. [[PDF](https://arxiv.org/abs/2005.06717)] [[Github](https://github.com/wvangansbeke/Unsupervised-Classification)]

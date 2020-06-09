@@ -73,6 +73,10 @@ arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**SparseFusion: Dynamic Human Avatar Modeling from Sparse RGBD Images.**<br>
+*Xinxin Zuo, Sen Wang, Jiangbin Zheng, Weiwei Yu, Minglun Gong, Ruigang Yang, Li Cheng.*<br>
+TMM 2020. [[PDF](https://arxiv.org/abs/2006.03630)]
+
 **Self-Supervised Human Depth Estimation from Monocular Videos.**<br>
 *Feitong Tan, Hao Zhu, Zhaopeng Cui, Siyu Zhu, Marc Pollefeys, Ping Tan.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2005.03358)]

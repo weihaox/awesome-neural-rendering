@@ -381,6 +381,11 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1711.07566)] [[Project](http://hiroharu-
 TIP 2020. [[PDF](https://arxiv.org/abs/2004.05575)]
 
 ## Shape and Viewpoint
+
+**Novel Object Viewpoint Estimation through Reconstruction Alignment.**<br>
+*Mohamed El Banani, Jason J. Corso, David F. Fouhey.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.03586)] [[Project](https://mbanani.github.io/novelviewpoints/)]
+
 **Self-supervised 3D Shape and Viewpoint Estimation from Single Images for Robotics.**<br>
 *Oier Mees, Maxim Tatarchenko, Thomas Brox and Wolfram Burgard.*<br>
 IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
@@ -474,6 +479,10 @@ arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://h
 
 ### Accurate Edge
 
+**Semantics-Driven Unsupervised Learning for Monocular Depth and Ego-Motion Estimation.**<br>
+*Xiaobin Wei, Jianjiang Feng, Jie Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.04371)]
+
 **DispFields: Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields.**<br>
 *[Michael Ramamonjisoa](https://michaelramamonjisoa.github.io/), Yuming Du, Vincent Lepetit.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12730)]
@@ -494,7 +503,6 @@ IJCAI 2019. [[PDF](https://arxiv.org/abs/1907.06023)] [[Github](https://github.c
 **Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps with Accurate Object Boundaries.**<br>
 *Junjie Hu, Mete Ozay, Yan Zhang, Takayuki Okatani.*<br>
 WACV 2019. [[PDF](https://arxiv.org/abs/1803.08673)] [[Github](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)] [[Data](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing)]
-
 
 ### Depth From Video (Depth, Normal and Camera Motion Estimation)
 
@@ -817,6 +825,10 @@ CVPR 2019.
 
 
 ## Misc (Speediness, Trajectories)
+
+**MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction.**<br>
+*Francesco Marchetti, Federico Becattini, Lorenzo Seidenari, Alberto Del Bimbo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.03340)]
 
 **STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction.**<br>
 *Zhishuai Zhang, Jiyang Gao, Junhua Mao, Yukai Liu, Dragomir Anguelov, Congcong Li.*<br>
