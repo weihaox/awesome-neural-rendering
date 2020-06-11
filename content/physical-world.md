@@ -185,6 +185,10 @@ TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)]
 
 ### Human Poses and Shapes
 
+**DecoMR: 3D Human Mesh Regression with Dense Correspondence.**<br>
+*Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/zengwang430521/DecoMR)]
+
 **Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data.**<br>
 *Henry M. Clever, Zackory Erickson, Ariel Kapusta, Greg Turk, C. Karen Liu, Charles C. Kemp.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01166)]
