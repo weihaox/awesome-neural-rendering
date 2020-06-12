@@ -135,6 +135,14 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence and Matching
 
+**3D Human Mesh Regression with Dense Correspondence.**<br>
+*Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.05734)]
+
+**Correspondence Networks with Adaptive Neighbourhood Consensus.**<br>
+*Shuda Li, [Kai Han](http://www.hankai.org/), Theo W. Costain, Henry Howard-Jenkins, Victor Prisacariu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12059)] [[Project](https://ancnet.avlcode.org/)]
+
 **Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution.**<br>
 *Yingruo Fan, Jacqueline C.K. Lam, Victor O.K. Li.*<br>
 AAAI 2020. [[PDF](https://arxiv.org/abs/2004.09681)]

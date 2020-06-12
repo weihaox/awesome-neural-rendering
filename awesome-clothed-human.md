@@ -47,7 +47,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.04583)]
 
 **Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
 *Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
-arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.02050)] [[Github](https://github.com/aymenmir1/pix2surf)]
 
 **GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping.**<br>
 *[Erhan Gundogdu](https://egundogdu.github.io/), Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
