@@ -65,6 +65,18 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Fluid and Smoke Simulation
 
+**Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces.**<br>
+*Tomas Skrivan, Andreas Soderstrom, John Johansson, Christoph Sprenger, Ken Museth, [Chris Wojtan](http://pub.ist.ac.at/group_wojtan/index.html).*<br>
+ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf)]
+
+**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
+*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
+TOG 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)] [[Project](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)] [[Github](https://github.com/rgoldade/ReducedFluids)]
+
+**Chemomechanical Simulation of Soap Film Flow on Spherical Bubbles.**<br>
+*Weizhen Huang, Julian Iseringhausen, Tom Kneiphof, Ziyin Qu, Chenfanfu Jiang, Matthias B. Hullin.*<br>
+TOG 2020. [[PDF](https://light.cs.uni-bonn.de/papers/HuangEtAl-SoapBubbles-SIGGRAPH2020.pdf)] [[Project](https://light.cs.uni-bonn.de/chemomechanical-simulation-of-soap-film-flow-on-spherical-bubbles/)] [[Github]()]
+
 **Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling.**<br>
 *Wei Li, Yixin Chen, Mathieu Desbrun, Changxi Zhang, Xiaopei Liu.*<br>
 SIGGRAPH 2020. [[PDF](http://www.geometry.caltech.edu/pubs/LCDZL20.pdf)]
@@ -108,6 +120,7 @@ ICLR 2020.  [[PDF](https://arxiv.org/abs/1910.00935)] [[Github](https://github.c
 ICCV 2019. 
 [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
 [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
+
 
 ## Neural Hair Rendering
 
@@ -365,6 +378,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
 ## Light, Reflectance, lluminance and Shade
+
+**Enlighten Me: Importance of Brightness and Shadow for Character Emotion and Appeal.**<br>
+*Pisut Wisessing, Katja Zibrek, Douglas W. Cunningham, John Dingliana, Rachel McDonnell.*<br>
+TOG 2020. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3383195)]
 
 **Portrait Shadow Manipulation.**<br>
 *[Xuaner Cecilia Zhang](https://people.eecs.berkeley.edu/~cecilia77/), J onathan T. Barron, Yun-Ta Tsai, Rohit Pandey, Xiuming Zhang, Ren Ng, David E. Jacobs.*<br>
