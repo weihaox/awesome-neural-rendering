@@ -185,6 +185,10 @@ TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)]
 
 ### Human Poses and Shapes
 
+**Coherent Reconstruction of Multiple Humans from a Single Image.**<br>
+*[Wen Jiang](https://jiangwenpl.github.io/), [Nikos Kolotouros](https://www.seas.upenn.edu/~nkolot), [Georgios Pavlakos](https://www.seas.upenn.edu/~pavlakos), [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou), [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.08586)] [[Project](https://jiangwenpl.github.io/multiperson/)]
+
 **DecoMR: 3D Human Mesh Regression with Dense Correspondence.**<br>
 *Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/zengwang430521/DecoMR)]

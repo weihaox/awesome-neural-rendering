@@ -77,6 +77,10 @@ arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.**<br>
+*Tong He, John Collomosse, Hailin Jin, Stefano Soatto.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.08072)]
+
 **SparseFusion: Dynamic Human Avatar Modeling from Sparse RGBD Images.**<br>
 *Xinxin Zuo, Sen Wang, Jiangbin Zheng, Weiwei Yu, Minglun Gong, Ruigang Yang, Li Cheng.*<br>
 TMM 2020. [[PDF](https://arxiv.org/abs/2006.03630)]

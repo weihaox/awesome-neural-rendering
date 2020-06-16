@@ -33,6 +33,9 @@ Ayush Tewari et. al. define **Neural Rendering** as
 
 A typical neural rendering approach takes as input images corresponding to certain scene conditions (for example, viewpoint, lighting, layout, etc.), builds a “neural” scene representation from them, and “renders” this repre- sentation under novel scene properties to synthesize novel images.
 
+CVPR 2020 tutorial define **Neural Rendering** as
+> <p align="justify"> <i>Neural rendering is a new class of deep image and video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure. It combines generative machine learning techniques with physical knowledge from computer graphics to obtain controllable and photo-realistic outputs.</i></p>
+
 Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real- world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene—camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
 
 ## Related Surveys and Course Notes
@@ -41,11 +44,15 @@ Given high-quality scene specifications, **Classic Rendering Methods** can rende
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer.*<br>
 Eurographics 2020.<br>
 
-**[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
-*[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
-CVPR 2019 Workshop.
+
+**[CVPR 2020 tutorial on Neural Rendering.](https://www.neuralrender.com/)**<br>
+*Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit K. Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B. Goldman, Michael Zollhöfer.*<br>
 
 ## Inverse Rendering
+
+**Equivariant Neural Rendering.**<br>
+*Emilien Dupont, Miguel Angel Bautista, Alex Colburn, Aditya Sankar, Carlos Guestrin, Josh Susskind, Qi Shan.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2006.07630)]
 
 **NiLBS: Neural Inverse Linear Blend Skinning.**<br>
 *Timothy Jeruzalski, David I.W. Levin, Alec Jacobson, Paul Lalonde, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
@@ -240,6 +247,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 [[Data](http://geometry.cs.ucl.ac.uk/tuanfeng/texturetransfer/texture_transfer_code_and_data.zip)]
 
 ## Neural Scene Representation and Rendering
+
+**[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
+*[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
+CVPR 2019 Workshop.
 
 **CoReNet: Coherent 3D Scene Reconstruction From a Single RGB Image.**<br>
 *Stefan Popov, Pablo Bauszat, Vittorio Ferrari.*<br>
