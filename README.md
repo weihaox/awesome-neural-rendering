@@ -44,15 +44,10 @@ Given high-quality scene specifications, **Classic Rendering Methods** can rende
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer.*<br>
 Eurographics 2020.<br>
 
-
 **[CVPR 2020 tutorial on Neural Rendering.](https://www.neuralrender.com/)**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit K. Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B. Goldman, Michael Zollhöfer.*<br>
 
 ## Inverse Rendering
-
-**Equivariant Neural Rendering.**<br>
-*Emilien Dupont, Miguel Angel Bautista, Alex Colburn, Aditya Sankar, Carlos Guestrin, Josh Susskind, Qi Shan.*<br>
-ICML 2020. [[PDF](https://arxiv.org/abs/2006.07630)]
 
 **NiLBS: Neural Inverse Linear Blend Skinning.**<br>
 *Timothy Jeruzalski, David I.W. Levin, Alec Jacobson, Paul Lalonde, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
@@ -140,7 +135,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
 SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
 
 ## Individual Object Manipulation 
-
 
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
@@ -251,6 +245,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 **[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
+
+**Equivariant Neural Rendering.**<br>
+*Emilien Dupont, Miguel Angel Bautista, Alex Colburn, Aditya Sankar, Carlos Guestrin, Josh Susskind, Qi Shan.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2006.07630)]
 
 **CoReNet: Coherent 3D Scene Reconstruction From a Single RGB Image.**<br>
 *Stefan Popov, Pablo Bauszat, Vittorio Ferrari.*<br>
