@@ -78,6 +78,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.06087)][[GIthub](https://github.com
 
 ## Get out of the Lab: Real-World Applications
 
+**LiDARsim: Realistic LiDAR Simulation by Leveraging the Real World.**<br>
+*Sivabalan Manivasagam, Shenlong Wang, Kelvin Wong, Wenyuan Zeng, Mikita Sazanovich, Shuhan Tan, Bin Yang, Wei-Chiu Ma, Raquel Urtasun.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.09348)]
+
 **Towards Generalization of 3D Human Pose Estimation In The Wild.**<br>
 *Renato Baptista, Alexandre Saint, Kassem Al Ismaeil, Djamila Aouada.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09989)]

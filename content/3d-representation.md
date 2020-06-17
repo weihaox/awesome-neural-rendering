@@ -135,6 +135,10 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence and Matching
 
+**Dual-Resolution Correspondence Networks.**<br>
+*Xinghui Li, Kai Han, Shuda Li, Victor Adrian Prisacariu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.08844)]
+
 **3D Human Mesh Regression with Dense Correspondence.**<br>
 *Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2006.05734)]

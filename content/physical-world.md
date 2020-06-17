@@ -322,11 +322,12 @@ WACV 2020. [[PDF](https://arxiv.org/abs/2003.08583)]
 
 **Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild.**<br>
 *[Shangzhe Wu](https://elliottwu.com/), Christian Rupprecht, Andrea Vedaldi.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11130)] [[Project](https://elliottwu.com/projects/unsup3d/)]
+CVPR 2020 Best Paper. [[PDF](https://arxiv.org/abs/1911.11130)] [[Project](https://elliottwu.com/projects/unsup3d/)]
 
 **Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images.**<br>
 *Hang Zhou, Jihao Liu, Ziwei Liu, Yu Liu, Xiaogang Wang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08124)] [[Github](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)]
+
 **Self-supervised Single-view 3D Reconstruction via Semantic Consistency.**<br>
 *Xueting Li, Sifei Liu, Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz.*<br>
 arxiv, 13 Mar 2020. [[PDF](https://arxiv.org/abs/2003.06473)] [[Project](https://sites.google.com/view/unsup-mesh/home)]
