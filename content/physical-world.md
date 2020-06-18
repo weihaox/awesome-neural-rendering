@@ -97,9 +97,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11284)] [[Project](https://anonymou
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
 
 ## Reconstruction of Transparent Shapes or Thin Structure
+
 **Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video.**<br>
 *Peng Wang, Lingjie Liu, Nenglun Chen, Hung-Kuo Chu, Christian Theobalt, Wenping Wang.*<br>
-SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)]
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)] [[Github](https://github.com/Totoro97/Vid2Curve)]
 
 **ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
 *Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
@@ -279,6 +280,10 @@ SIGGRAPH Asia 2018.
 SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
 
 ## Face, Hand and Object Modeling
+
+**Learning to Detect 3D Reflection Symmetry for Single-View Reconstruction.**<br>
+*Yichao Zhou, Shichen Liu, Yi Ma.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10042)]
 
 **Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction.**<br>
 *Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid.*<br>
