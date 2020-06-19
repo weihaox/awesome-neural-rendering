@@ -470,6 +470,10 @@ arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**ReenactNet: Real-time Full Head Reenactment.**<br>
+*Mohammad Rami Koujan, Michail Christos Doukas, Anastasios Roussos, Stefanos Zafeiriou.*<br>
+FG 2020. [[PDF](https://arxiv.org/abs/2006.10500)]
+
 **FaR-GAN for One-Shot Face Reenactment.**<br>
 *Hanxiang Hao, Sriram Baireddy, Amy R. Reibman, Edward J. Delp.*<br>
 AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.06402)]

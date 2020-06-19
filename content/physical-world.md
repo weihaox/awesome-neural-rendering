@@ -281,6 +281,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 ## Face, Hand and Object Modeling
 
+**Real-Time Monocular 4D Face Reconstruction using the LSFM Models.**<br>
+*Mohammad Rami Koujan, Nikolai Dochev, Anastasios Roussos.*<br>
+ACM SIGGRAPH European Conference on Visual Media Production 2020. [[PDF](https://arxiv.org/abs/2006.10499)]
+
 **Learning to Detect 3D Reflection Symmetry for Single-View Reconstruction.**<br>
 *Yichao Zhou, Shichen Liu, Yi Ma.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10042)]

@@ -92,6 +92,10 @@ ICRA 2019. [[PDF](https://hal.archives-ouvertes.fr/hal-01876700/document)]
 
 ## Long-Tailed, Open Set and Small Dataset
 
+**Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax.**<br>
+*Yu Li, Tao Wang, Bingyi Kang, Sheng Tang, Chunfeng Wang, Jintao Li, Jiashi Feng.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.10408)] [[Github](https://github.com/FishYuLi/BalancedGroupSoftmax)]
+
 **Decoupling Representation and Classifier for Long-Tailed Recognition.**<br>
 *Bingyi Kang, Saining Xie,Marcus Rohrbach, Zhicheng Yan, Albert Gordo, Jiashi Feng, Yannis Kalantidis.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1910.09217)] [[Github](https://github.com/facebookresearch/classifier-balancing)]
