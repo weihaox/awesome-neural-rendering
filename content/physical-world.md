@@ -148,6 +148,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.co
 
 ### Human Dynamics 
 
+**MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency.**<br>
+*Mingyi Shi, Kfir Aberman, Andreas Aristidou, Taku Komura, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen.*<br>
+TOG 2020. [[PDF](https://arxiv.org/abs/2006.12075)] [[Project](https://rubbly.cn/publications/motioNet)]
+
 **Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images.**<br>
 *Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
@@ -280,6 +284,10 @@ SIGGRAPH Asia 2018.
 SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
 
 ## Face, Hand and Object Modeling
+
+**Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images.**<br>
+*Haozhe Xie, Hongxun Yao, Shengping Zhang, Shangchen Zhou, Wenxiu Sun.*<br>
+IJCV 2020. [[PDF](https://arxiv.org/abs/2006.12250)]
 
 **Real-Time Monocular 4D Face Reconstruction using the LSFM Models.**<br>
 *Mohammad Rami Koujan, Nikolai Dochev, Anastasios Roussos.*<br>
