@@ -285,6 +285,8 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 ## Face, Hand and Object Modeling
 
+CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
+
 **Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images.**<br>
 *Haozhe Xie, Hongxun Yao, Shengping Zhang, Shangchen Zhou, Wenxiu Sun.*<br>
 IJCV 2020. [[PDF](https://arxiv.org/abs/2006.12250)]
