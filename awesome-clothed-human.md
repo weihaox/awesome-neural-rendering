@@ -21,6 +21,10 @@ Feedback and contributions are welcome!
 
 ## 3D People Dressing and Clothing Draping
 
+**Neural Non-Rigid Tracking.**<br>
+*Aljaž Božič, Pablo Palafox, Michael Zollhöfer, Angela Dai, Justus Thies, Matthias Nießner.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.13240)]
+
 **Homogenized Yarn-Level Cloth.**<br>
 *[Georg Sperl](https://pub.ist.ac.at/~gsperl/), Rahul Narain, Chris Wojtan.*<br>
 ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf)] [[Project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)] [[Data & Code](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_data_code.zip)]
@@ -76,6 +80,10 @@ ACM Transactions on Graphics (TOG) 2012.
 arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
+*Chaitanya Patel*, Zhouyingcheng Liao*, Gerard Pons-Moll.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.04583)] [[Github](https://github.com/chaitanya100100/TailorNet)] [[Project](https://virtualhumans.mpi-inf.mpg.de/tailornet/)] [[Data](https://github.com/zycliao/TailorNet_dataset)]
 
 **Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.**<br>
 *Tong He, John Collomosse, Hailin Jin, Stefano Soatto.*<br>
