@@ -159,6 +159,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
 *Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
 IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
 
+**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
+*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
+
 ## Semantic Photo Synthesis and Manipulation
 
 **pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.**<br>
@@ -182,6 +186,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.co
 VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
 ## Texture and Surface Mapping
+
+**GramGAN: Deep 3D Texture Synthesis From 2D Exemplars.**<br>
+*Tiziano Portenier, Siavash Bigdeli, Orçun Göksel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16112)]
 
 **GPU-Accelerated Mobile Multi-view Style Transfer.**<br>
 *Puneet Kohli, Saravana Gunaseelan, Jason Orozco, Yiwen Hua, Edward Li, Nicolas Dahlquist.*<br>
