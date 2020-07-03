@@ -9,13 +9,12 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 Feedback and contributions are welcome!
 
 ## Table of Contents
-- [Intruduction of Neural Rendering](#intruduction-of-neural-rendering)
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
+- [Neural Rerendering](#neural-rerendering)
 - [Fluid and Smoke Simulation](#fluid-and-smoke-simulation)
 - [Differentiable Physics-Based Simulation](#differentiable-physics-based-simulation)
 - [Neural Hair Rendering](#neural-hair-rendering)
-- [Individual Object Manipulation](#individual-object-manipulation)
 - [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Texture and Surface Mapping](#texture-and-surface-mapping)
 - [Neural Scene Representation and Rendering](#neural-scene-representation-and-rendering)
@@ -67,6 +66,12 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Inverse
 **Learning Inverse Rendering of Faces from Real-world Videos.**<br>
 *Yuda Qiu, Zhangyang Xiong, Kai Han, Zhongyuan Wang, Zixiang Xiong, Xiaoguang Han.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.com/RudyQ/InverseFaceRender)]
+
+## Neural Rerendering
+
+Neural Rerendering in the Wild
+Moustafa Meshry, Dan B Goldman, Sameh Khamis, Hugues Hoppe, Rohit Pandey, Noah Snavely, Ricardo Martin-Brualla
+CVPR 2019. [[](https://arxiv.org/abs/1904.04290)]
 
 ## Fluid and Smoke Simulation
 
@@ -126,7 +131,6 @@ ICCV 2019.
 [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
 [[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
-
 ## Neural Hair Rendering
 
 **Neural Hair Rendering.**<br>
@@ -136,32 +140,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
 **MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
 *Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
 SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
-
-## Individual Object Manipulation 
-
-**Self-Supervised Scene De-occlusion.**<br>
-*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
-
-**3DLSN: End-to-End Optimization of Scene Layout.**<br>
-*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
-CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
-
-**DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
-*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
-
-**Learning to Manipulate Individual Objects in an Image.**<br>
-*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
-
-**AutoSweep: Recovering 3D Editable Objectsfrom a Single Photograph.**<br>
-*Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
-IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
-
-**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
-*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
 
 ## Semantic Photo Synthesis and Manipulation
 
@@ -186,6 +164,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.co
 VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
 ## Texture and Surface Mapping
+
+**Deep Geometric Texture Synthesis.**<br>
+*Amir Hertz, Rana Hanocka, Raja Giryes, Daniel Cohen-Or.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2007.00074)]
 
 **GramGAN: Deep 3D Texture Synthesis From 2D Exemplars.**<br>
 *Tiziano Portenier, Siavash Bigdeli, Orçun Göksel.*<br>
