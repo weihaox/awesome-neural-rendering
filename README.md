@@ -165,6 +165,10 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 
 ## Texture and Surface Mapping
 
+**Wasserstein Generative Models for Patch-based Texture Synthesis.**<br>
+*Antoine Houdard, Arthur Leclaire, Nicolas Papadakis, Julien Rabin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03408)]
+
 **Deep Geometric Texture Synthesis.**<br>
 *Amir Hertz, Rana Hanocka, Raja Giryes, Daniel Cohen-Or.*<br>
 SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2007.00074)]
@@ -334,6 +338,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
+*Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02442)]
+
 **Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera.**<br>
 *Jae Shin Yoon, Kihwan Kim, Orazio Gallo, Hyun Soo Park, Jan Kautz.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01294)]
@@ -344,7 +352,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1906.08240)] [[Project](https://saic-vi
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
 
 **Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations.**<br>
 *[Vincent Sitzmann](https://vsitzmann.github.io/), Michael Zollhöfer, Gordon Wetzstein.*<br>

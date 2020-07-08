@@ -14,7 +14,30 @@
 *Chengzhou Tang, Lu Yuan, Ping Tan.*<br>
 CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 
+## Domain Generalization
+
+**Learning to Generate Novel Domains for Domain Generalization.**<br>
+*Kaiyang Zhou, Yongxin Yang, Timothy Hospedales, Tao Xiang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.03304)]
+
+
+**Self-Challenging Improves Cross-Domain Generalization.**<br>
+*Zeyi Huang, Haohan Wang, Eric P. Xing, Dong Huang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
+
 ## Domain Adaptation
+
+**Continuously Indexed Domain Adaptation.**<br>
+*Hao Wang, Hao He, Dina Katabi.*<br>
+ICML 2020.[[PDF](https://arxiv.org/abs/2007.01807)]
+
+**Domain Adaptation without Source Data.**<br>
+*Youngeun Kim, Sungeun Hong, Donghyeon Cho, Hyoungseob Park, Priyadarshini Panda.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01524)] [[Github](https://github.com/youngryan1993/SFDA-Domain-Adaptation-without-Source-Data)]
+
+**Few-Shot Learning as Domain Adaptation: Algorithm and Analysis.**<br>
+*Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2002.02050)] [[Github](https://github.com/JiechaoGuan/FSL-DAPNA)]
 
 **AINDNet: Transfer Learning from Synthetic to Real-Noise Denoising with Adaptive Instance Normalization.**<br>
 *Yoonsik Kim, Jae Woong Soh, Gu Yong Park, Nam Ik Cho.*<br>

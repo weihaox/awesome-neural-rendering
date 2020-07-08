@@ -858,6 +858,10 @@ CVPR 2019.
 
 ## Misc (Speediness, Trajectories)
 
+**Long-term Human Motion Prediction with Scene Context.**<br>
+*[Zhe Cao](http://people.eecs.berkeley.edu/~zhecao/), [Hang Gao](http://people.eecs.berkeley.edu/~hangg/), [Karttikeya Mangalam](https://karttikeya.github.io/), [Qi-Zhi Cai](https://scholar.google.com/citations?user=oyh-YNwAAAAJ&hl=en), [Minh Vo](https://minhpvo.github.io/), [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.03672)] [[Github](https://github.com/ZheC/GTA-IM-Dataset)]
+
 **MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction.**<br>
 *Francesco Marchetti, Federico Becattini, Lorenzo Seidenari, Alberto Del Bimbo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2006.03340)]

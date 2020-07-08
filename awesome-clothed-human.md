@@ -77,7 +77,7 @@ ACM Transactions on Graphics (TOG) 2012.
 
 **CLOTH3D: Clothed 3D Humans.**<br>
 *Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
-arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
@@ -127,7 +127,7 @@ arxiv, 16 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 
 **BCNet: Learning Body and Cloth Shape from A Single Image.**<br>
 *Boyi Jiang, Juyong Zhang, Yang Hong, Jinhao Luo, Ligang Liu, Hujun Bao.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00214)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.00214)]
 
 **Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network.**<br>
 *Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng.*<br>
@@ -192,6 +192,18 @@ Oppo shared on ISMAR 2019.
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 
 ## Image-Based Virtual Try-On
+
+**Learning Color Compatibility in Fashion Outfits.**<br>
+*Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02388)]
+
+**Do Not Mask What You Do Not Need to Mask: a Parser-Free Virtual Try-On.**<br>
+*Thibaut Issenhuth, Jérémie Mary, Clément Calauzènes.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02721)]
+
+**Toward Characteristic-Preserving Image-based Virtual Try-On Network.**<br>
+*Bochao Wang, Huabin Zheng, Xiaodan Liang, Yimin Chen, Liang Lin, Meng Yang.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/abs/1807.07688)]
 
 **Imitation Learning for Fashion Style Based on Hierarchical Multimodal Representation.**<br>
 *Shizhu Liu, Shanglin Yang, Hui Zhou.*<br>
