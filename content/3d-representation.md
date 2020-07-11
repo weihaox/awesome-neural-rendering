@@ -4,6 +4,7 @@ This repository is a collection of papers on learning 3D representations from na
 
 ## Table of Contents
 - [3D Shape Representation and Feature Embedding](#3d-shape-representation-and-feature-embedding)
+- [Representation of Texture](#representation-of-texture)
 - [Representation of Motion](#representation-of-motion)
 - [Surface Cuts and Parameterization](#surface-cuts-and-parameterization)
 - [Dense Shape Correspondence and Matching](#dense-shape-correspondence-and-matching)

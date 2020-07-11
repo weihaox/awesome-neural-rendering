@@ -5,18 +5,25 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 
 ## Table of Contents
 - [Hidden Surface or Object Reasoning](#hidden-surface-or-object-reasoning)
+- [Physical Simulation Platform](#physical-simulation-platform)
 - [Scene Understanding](#scene-understanding)
 - [Human Activity and Action Understanding](#human-activity-and-action-understanding)
-- [Reconstruction of Transparent Shapes](#reconstruction-of-transparent-shapes)
-- [Human Reconstruction: Pose, Shape, Dynamic](#human-reconstruction--pose--shape--dynamic)
+- [Decomposition and Disentanglement](#decomposition-and-disentanglement)
+- [Reconstruction of Transparent Shapes or Thin Structure](#reconstruction-of-transparent-shapes-or-thin-structure)
+- [Human Reconstruction: Face, Pose, Shape, Dynamic](#human-reconstruction--face--pose--shape--dynamic)
+  * [Soft-tissue Dynamics](#soft-tissue-dynamics)
+  * [Generating 3D People in Scenes](#generating-3d-people-in-scenes)
+  * [Shape Interpolation](#shape-interpolation)
+  * [3D Pose Transfer](#3d-pose-transfer)
+  * [Human Dynamics](#human-dynamics)
+  * [Human Poses and Shapes](#human-poses-and-shapes)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
-- [Face and Object Modeling](#face-and-object-modeling)
+- [Face, Hand and Object Modeling](#face--hand-and-object-modeling)
 - [Object Skeletonization](#object-skeletonization)
 - [Shape and Viewpoint](#shape-and-viewpoint)
 - [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
 - [Pose Estimation](#pose-estimation)
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
-- [Depth Estimation](#depth-estimation)
 - [Learning Temporal Information from Videos](#learning-temporal-information-from-videos)
 - [Misc (Speediness, Trajectories)](#misc--speediness--trajectories-)
 - [Team and People](#team-and-people)
@@ -39,6 +46,16 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 **Where Does It End? -- Reasoning About Hidden Surfaces by Object Intersection Constraints.**<br>
 *Michael Strecke, Joerg Stueckler.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04630)]
+
+## Physical Simulation Platform
+
+**ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation.**<br>
+*Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04954)] [[Project](http://www.threedworld.org/)]
+
+**SAPIEN: A SimulAted Part-based Interactive ENvironment.**<br>
+*Fanbo Xiang, Yuzhe Qin, Kaichun Mo, Yikuan Xia, Hao Zhu, Fangchen Liu, Minghua Liu, Hanxiao Jiang, Yifu Yuan, He Wang, Li Yi, Angel X. Chang, Leonidas J. Guibas, Hao Su.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/2003.08515)][[Project](https://sapien.ucsd.edu/)] [[Github](https://github.com/haosulab/SAPIEN-Release)]
 
 ## Scene Understanding
 
@@ -136,15 +153,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
 *Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
 
-### Face
-
-**Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
-*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
-
-**Deep 3D Portrait from a Single Image.**<br>
-*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
 
 ### Human Dynamics 
 
@@ -290,6 +298,18 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 ## Face, Hand and Object Modeling
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
+
+**Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
+*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
+
+**Deep 3D Portrait from a Single Image.**<br>
+*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
+
+**Adaptive 3D Face Reconstruction from a Single Image.**<br>
+*Kun Li, Jing Yang, Nianhong Jiao, Jinsong Zhang, Yu-Kun Lai.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03979)]
 
 **Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images.**<br>
 *Haozhe Xie, Hongxun Yao, Shengping Zhang, Shangchen Zhou, Wenxiu Sun.*<br>

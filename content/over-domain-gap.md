@@ -2,7 +2,9 @@
 
 ## Table of Contents
 - [Exploit Domain Knowledge](#exploit-domain-knowledge)
+- [Domain Generalization](#domain-generalization)
 - [Domain Adaptation](#domain-adaptation)
+- [Unlabeled](#unlabeled)
 - [Few-Shot](#few-shot)
 - [Internal Learning](#internal-learning)
 - [Get out of the Lab: Real-World Applications](#get-out-of-the-lab--real-world-applications)

@@ -9,6 +9,7 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 Feedback and contributions are welcome!
 
 ## Table of Contents
+- [Intruduction of Neural Rendering](#intruduction-of-neural-rendering)
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
 - [Neural Rerendering](#neural-rerendering)
@@ -337,6 +338,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**A Free Viewpoint Portrait Generator with Dynamic Styling.**<br>
+*Anpei Chen, Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03780)]
 
 **GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
 *Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
