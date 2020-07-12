@@ -70,9 +70,9 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Neural Rerendering
 
-Neural Rerendering in the Wild
-Moustafa Meshry, Dan B Goldman, Sameh Khamis, Hugues Hoppe, Rohit Pandey, Noah Snavely, Ricardo Martin-Brualla
-CVPR 2019. [[](https://arxiv.org/abs/1904.04290)]
+**Neural Rerendering in the Wild.**<br>
+*Moustafa Meshry, Dan B Goldman, Sameh Khamis, Hugues Hoppe, Rohit Pandey, Noah Snavely, Ricardo Martin-Brualla.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.04290)]
 
 ## Fluid and Smoke Simulation
 
