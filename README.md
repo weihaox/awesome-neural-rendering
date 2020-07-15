@@ -14,7 +14,6 @@ Feedback and contributions are welcome!
 - [Inverse Rendering](#inverse-rendering)
 - [Neural Rerendering](#neural-rerendering)
 - [Fluid and Smoke Simulation](#fluid-and-smoke-simulation)
-- [Differentiable Physics-Based Simulation](#differentiable-physics-based-simulation)
 - [Neural Hair Rendering](#neural-hair-rendering)
 - [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Texture and Surface Mapping](#texture-and-surface-mapping)
@@ -107,34 +106,6 @@ SIGGRAPH ASIA 2019. [[PDF](https://arxiv.org/abs/1905.07442)]
 **Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
 *Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
 SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)]
-
-## Differentiable Physics-Based Simulation
-
-**DiffTaichi: Differentiable Programming for Physical Simulation.**<br>
-*[Yuanming Hu](http://taichi.graphics/me/), Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Fredo Durand.*<br>
-ICLR 2020. [[PDF](https://arxiv.org/abs/1910.00935)] [[Github](https://github.com/yuanming-hu/difftaichi)]
-
-**A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising.**<br>
-*Kaixuan Wei, Ying Fu, Jiaolong Yang, Hua Huang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12751)] [[Github](https://github.com/Vandermode/NoiseModel)]
-
-**Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects.**<br>
-*Kiana Ehsani, Shubham Tulsiani, Saurabh Gupta, Ali Farhadi, Abhinav Gupta.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/pdf/2003.12045)]
-
-**SAPIEN: A SimulAted Part-based Interactive ENvironment.**<br>
-*[Fanbo Xiang](https://www.fbxiang.com/), [Yuzhe Qin](https://github.com/yzqin), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun/), [Yikuan Xia](https://www.linkedin.com/in/yikuan-xia-4418a9170/), [Hao Zhu](https://berniezhu.github.io/), [Fangchen Liu](https://fangchenliu.github.io/), [Minghua Liu](http://cseweb.ucsd.edu/~mil070/), [Hanxiao Jiang](https://jianghanxiao.github.io/), Yifu Yuan, [He Wang](http://ai.stanford.edu/~hewang/), [Li Yi](https://cs.stanford.edu/~ericyi/), [Angel X. Chang](https://angelxuanchang.github.io/), [Leonidas J. Guibas](http://geometry.stanford.edu/member/guibas/index.html), [Hao Su](https://cseweb.ucsd.edu/~haosu/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08515)] [[Project](https://sapien.ucsd.edu/)] [[Documentation](https://sapien.ucsd.edu/docs/index.html)] [[Github](https://github.com/haosulab/SAPIEN-Release)]
-
-**Differentiable Programming for Physical Simulation.**<br>
-*Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, and Frédo Durand.*<br>
-ICLR 2020.  [[PDF](https://arxiv.org/abs/1910.00935)] [[Github](https://github.com/yuanming-hu/taichi)]
-
-**GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping.**<br>
-*[Erhan Gundogdu](https://egundogdu.github.io/), Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
-ICCV 2019. 
-[[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
-[[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
 ## Neural Hair Rendering
 
