@@ -5,18 +5,12 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 
 ## Table of Contents
 - [Hidden Surface or Object Reasoning](#hidden-surface-or-object-reasoning)
-- [Physical Simulation Platform](#physical-simulation-platform)
+- [Differentiable Physics-Based Simulation](#differentiable-physics-based-simulation)
 - [Scene Understanding](#scene-understanding)
 - [Human Activity and Action Understanding](#human-activity-and-action-understanding)
 - [Decomposition and Disentanglement](#decomposition-and-disentanglement)
 - [Reconstruction of Transparent Shapes or Thin Structure](#reconstruction-of-transparent-shapes-or-thin-structure)
 - [Human Reconstruction: Face, Pose, Shape, Dynamic](#human-reconstruction--face--pose--shape--dynamic)
-  * [Soft-tissue Dynamics](#soft-tissue-dynamics)
-  * [Generating 3D People in Scenes](#generating-3d-people-in-scenes)
-  * [Shape Interpolation](#shape-interpolation)
-  * [3D Pose Transfer](#3d-pose-transfer)
-  * [Human Dynamics](#human-dynamics)
-  * [Human Poses and Shapes](#human-poses-and-shapes)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Face, Hand and Object Modeling](#face--hand-and-object-modeling)
 - [Object Skeletonization](#object-skeletonization)
@@ -24,6 +18,7 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 - [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
 - [Pose Estimation](#pose-estimation)
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
+- [Depth Estimation](#depth-estimation)
 - [Learning Temporal Information from Videos](#learning-temporal-information-from-videos)
 - [Misc (Speediness, Trajectories)](#misc--speediness--trajectories-)
 - [Team and People](#team-and-people)
@@ -47,15 +42,37 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 *Michael Strecke, Joerg Stueckler.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04630)]
 
-## Physical Simulation Platform
+## Differentiable Physics-Based Simulation
+
+**DiffTaichi: Differentiable Programming for Physical Simulation.**<br>
+*[Yuanming Hu](http://taichi.graphics/me/), Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Fredo Durand.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1910.00935)] [[Github](https://github.com/yuanming-hu/difftaichi)]
+
+**A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising.**<br>
+*Kaixuan Wei, Ying Fu, Jiaolong Yang, Hua Huang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12751)] [[Github](https://github.com/Vandermode/NoiseModel)]
+
+**Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects.**<br>
+*Kiana Ehsani, Shubham Tulsiani, Saurabh Gupta, Ali Farhadi, Abhinav Gupta.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/pdf/2003.12045)]
+
+**SAPIEN: A SimulAted Part-based Interactive ENvironment.**<br>
+*[Fanbo Xiang](https://www.fbxiang.com/), [Yuzhe Qin](https://github.com/yzqin), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun/), [Yikuan Xia](https://www.linkedin.com/in/yikuan-xia-4418a9170/), [Hao Zhu](https://berniezhu.github.io/), [Fangchen Liu](https://fangchenliu.github.io/), [Minghua Liu](http://cseweb.ucsd.edu/~mil070/), [Hanxiao Jiang](https://jianghanxiao.github.io/), Yifu Yuan, [He Wang](http://ai.stanford.edu/~hewang/), [Li Yi](https://cs.stanford.edu/~ericyi/), [Angel X. Chang](https://angelxuanchang.github.io/), [Leonidas J. Guibas](http://geometry.stanford.edu/member/guibas/index.html), [Hao Su](https://cseweb.ucsd.edu/~haosu/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08515)] [[Project](https://sapien.ucsd.edu/)] [[Documentation](https://sapien.ucsd.edu/docs/index.html)] [[Github](https://github.com/haosulab/SAPIEN-Release)]
+
+**Differentiable Programming for Physical Simulation.**<br>
+*Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, and Frédo Durand.*<br>
+ICLR 2020.  [[PDF](https://arxiv.org/abs/1910.00935)] [[Github](https://github.com/yuanming-hu/taichi)]
+
+**GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping.**<br>
+*[Erhan Gundogdu](https://egundogdu.github.io/), Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
+ICCV 2019. 
+[[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](https://www.epfl.ch/labs/cvlab/wp-content/uploads/2019/04/GarNet_supplementary.pdf)] 
+[[Project](https://cvlab.epfl.ch/research/garment-simulation/garnet/)] [[Dataset](https://drive.switch.ch/index.php/s/7mAk9SoZ7J4uokt)]
 
 **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation.**<br>
 *Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04954)] [[Project](http://www.threedworld.org/)]
-
-**SAPIEN: A SimulAted Part-based Interactive ENvironment.**<br>
-*Fanbo Xiang, Yuzhe Qin, Kaichun Mo, Yikuan Xia, Hao Zhu, Fangchen Liu, Minghua Liu, Hanxiao Jiang, Yifu Yuan, He Wang, Li Yi, Angel X. Chang, Leonidas J. Guibas, Hao Su.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/2003.08515)][[Project](https://sapien.ucsd.edu/)] [[Github](https://github.com/haosulab/SAPIEN-Release)]
 
 ## Scene Understanding
 
