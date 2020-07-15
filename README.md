@@ -60,6 +60,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05980)]
 *Wenzheng Chen, Jun Gao, Huan Ling, Edward J. Smith, Jaakko Lehtinen, Alec Jacobson, Sanja Fidler.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01210)]
 
+**DRWR: A Differentiable Renderer without Rendering for Unsupervised 3D Structure Learning from Silhouette Images.**<br>
+*Zhizhong Han, Chao Chen, Yu-Shen Liu, Matthias Zwicker.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2007.06127)]
+
 **InverseRenderNet: Learning Single Image Inverse Rendering.**<br>
 *Ye Yu, William A. P. Smith.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.html)] [[Github](https://github.com/YeeU/InverseRenderNet)] [[IIW Dataset](http://opensurfaces.cs.cornell.edu/publications/intrinsic/#download)] 
@@ -165,6 +169,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.co
 VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
 ## Texture and Surface Mapping
+
+**Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter.**<br>
+*Guilin Liu, Rohan Taori, Ting-Chun Wang, Zhiding Yu, Shiqiu Liu, Fitsum A. Reda, Karan Sapra, Andrew Tao, Bryan Catanzaro.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.07243)]
 
 **Wasserstein Generative Models for Patch-based Texture Synthesis.**<br>
 *Antoine Houdard, Arthur Leclaire, Nicolas Papadakis, Julien Rabin.*<br>
@@ -338,6 +346,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**AUTO3D: Novel View Synthesis Through Unsupervisely Learned Variational Viewpoint and Global 3D Representation.**<br>
+*Xiaofeng Liu, Tong Che, Yiqun Lu, Chao Yang, Site Li, Jane You.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06620)]
 
 **A Free Viewpoint Portrait Generator with Dynamic Styling.**<br>
 *Anpei Chen, Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>

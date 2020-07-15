@@ -529,6 +529,12 @@ arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://h
 
 ## Depth Estimation
 
+### Dynamic Object
+
+**Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance.**<br>
+*Marvin Klingner, Jan-Aike Termöhlen, Jonas Mikolajczyk, Tim Fingscheidt.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06936)]
+
 ### Accurate Edge
 
 **Semantics-Driven Unsupervised Learning for Monocular Depth and Ego-Motion Estimation.**<br>

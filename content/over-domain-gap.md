@@ -27,6 +27,12 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.03304)]
 *Zeyi Huang, Haohan Wang, Eric P. Xing, Dong Huang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 
+## Synthetic-to-Real
+
+**Automated Synthetic-to-Real Generalization.**<br>
+*Wuyang Chen, Zhiding Yu, Zhangyang Wang, Anima Anandkumar.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
+
 ## Domain Adaptation
 
 **Continuously Indexed Domain Adaptation.**<br>
