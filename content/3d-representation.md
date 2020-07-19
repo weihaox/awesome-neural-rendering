@@ -12,6 +12,10 @@ This repository is a collection of papers on learning 3D representations from na
 
 ## 3D Shape Representation and Feature Embedding
 
+**IMR: Implicit Mesh Reconstruction from Unannotated Image Collections.**<br>
+*Shubham Tulsiani, Nilesh Kulkarni, Abhinav Gupta.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2007.08504.pdf)] [[Project](https://shubhtuls.github.io/imr/)]
+
 **LIMP: Learning Latent Shape Representations with Metric Preservation Priors.**<br>
 *Luca Cosmo, Antonio Norelli, Oshri Halimi, Ron Kimmel, Emanuele Rodolà.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12283)]
@@ -135,6 +139,10 @@ CVPRW, 2019. [[PDF](https://arxiv.org/abs/1806.10309v1)]
 ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/doc/OptCuts.pdf)] [[Code and Data]()] [[](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/)] 
 
 ## Dense Shape Correspondence and Matching
+
+**D2D: Learning to Find Good Correspondences for Image Matching and Manipulation.**<br>
+*Olivia Wiles, Sebastien Ehrhardt, Andrew Zisserman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.08480)]
 
 **Dual-Resolution Correspondence Networks.**<br>
 *Xinghui Li, Kai Han, Shuda Li, Victor Adrian Prisacariu.*<br>

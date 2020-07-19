@@ -18,10 +18,13 @@ CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 
 ## Domain Generalization
 
+**Learning to Learn with Variational Information Bottleneck for Domain Generalization.**<br>
+*Yingjun Du, Jun Xu, Huan Xiong, Qiang Qiu, Xiantong Zhen, Cees G. M. Snoek, Ling Shao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.07645)]
+
 **Learning to Generate Novel Domains for Domain Generalization.**<br>
 *Kaiyang Zhou, Yongxin Yang, Timothy Hospedales, Tao Xiang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.03304)]
-
 
 **Self-Challenging Improves Cross-Domain Generalization.**<br>
 *Zeyi Huang, Haohan Wang, Eric P. Xing, Dong Huang.*<br>
