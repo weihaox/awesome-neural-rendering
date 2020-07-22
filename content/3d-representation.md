@@ -12,6 +12,10 @@ This repository is a collection of papers on learning 3D representations from na
 
 ## 3D Shape Representation and Feature Embedding
 
+**Learning to Compose Hypercolumns for Visual Correspondence.**<br>
+*Juhong Min, Jongmin Lee, Jean Ponce, Minsu Cho.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.10587)]
+
 **IMR: Implicit Mesh Reconstruction from Unannotated Image Collections.**<br>
 *Shubham Tulsiani, Nilesh Kulkarni, Abhinav Gupta.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/pdf/2007.08504.pdf)] [[Project](https://shubhtuls.github.io/imr/)]

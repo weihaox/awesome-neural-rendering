@@ -12,6 +12,7 @@ Feedback and contributions are welcome!
 ## Table of Contents
 - [3D People Dressing and Clothing Draping](#3d-people-dressing-and-clothing-draping)
 - [Clothed People Digitalization](#clothed-people-digitalization)
+- [Garment Design](#garment-design)
 - [Fashion Style Influences](#fashion-style-influences)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
   * [Challenge and workshop](#challenge-and-workshop)
@@ -20,6 +21,10 @@ Feedback and contributions are welcome!
 - [Dataset](#dataset)
 
 ## 3D People Dressing and Clothing Draping
+
+**GarNet++: Improving Fast and Accurate Static3D Cloth Draping by Curvature Loss.**<br>
+*Erhan Gundogdu, Victor Constantin, Shaifali Parashar, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2007.10867)]
 
 **Neural Non-Rigid Tracking.**<br>
 *Aljaž Božič, Pablo Palafox, Michael Zollhöfer, Angela Dai, Justus Thies, Matthias Nießner.*<br>
@@ -184,6 +189,12 @@ ICCV 2109. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_A_N
 
 **3D Reconstruction from a single image.** <br>
 Oppo shared on ISMAR 2019.
+
+## Garment Design
+
+**Garment Design with Generative Adversarial Networks.**<br>
+*Chenxi Yuan, Mohsen Moghaddam.*<br>
+AdvML 2020, KDD workshop. [[PDF](https://arxiv.org/abs/2007.10947)] 
 
 ## Fashion Style Influences
 

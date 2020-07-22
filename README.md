@@ -51,6 +51,10 @@ Eurographics 2020.<br>
 
 ## Inverse Rendering
 
+**Polarimetric Multi-View Inverse Rendering.**<br>
+*Jinyu Zhao, Yusuke Monno, Masatoshi Okutomi.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08830)]
+
 **NiLBS: Neural Inverse Linear Blend Skinning.**<br>
 *Timothy Jeruzalski, David I.W. Levin, Alec Jacobson, Paul Lalonde, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05980)]
@@ -222,6 +226,14 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 **[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
+
+**Learning Implicit Fields for Generative Shape Modeling.**<br>
+*Zhiqin Chen, Hao Zhang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1812.02822)] [[Project](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)] [[Github](https://github.com/czq142857/implicit-decoder)]
+
+**Geometric Correspondence Fields: Learned Differentiable Rendering for 3D Pose Refinement in the Wild.**<br>
+*Alexander Grabner, Yaming Wang, Peizhao Zhang, Peihong Guo, Tong Xiao, Peter Vajda, Peter M. Roth, Vincent Lepetit.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08939)]
 
 **Equivariant Neural Rendering.**<br>
 *Emilien Dupont, Miguel Angel Bautista, Alex Colburn, Aditya Sankar, Carlos Guestrin, Josh Susskind, Qi Shan.*<br>
@@ -455,9 +467,25 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 *Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
 arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
+**Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network.**<br>
+*Manu Mathew Thomas, Angus G. Forbes.*<br>
+arxiv 2017. [[PDF](https://arxiv.org/abs/1710.09834)]
+
+**Deep Shading: Convolutional Neural Networks for Screen-Space Shading.**<br>
+*Oliver Nalbach, Elena Arabadzhiyska, Dushyant Mehta, Hans-Peter Seidel, Tobias Ritschel.*<br>
+arixv 2016. [[PDF](https://arxiv.org/abs/1603.06078)]
+
+**One Shot Radiance: Global Illumination Using Convolutional Autoencoders.**<br>
+*Giulio Jiang, Bernhard Kainz.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
+
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**MEAD: A Large-scale Audio-visual Dataset for Emotional Talking Face Generation.**<br>
+*Kaisiyuan Wang, Qianyi Wu, Linsen Song, Zhuoqian Yang, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy.*<br>
+ECCV 2020. [[PDF](https://wywu.github.io/)] [[Github](https://wywu.github.io/)] [[Project](https://wywu.github.io/)]
 
 **ReenactNet: Real-time Full Head Reenactment.**<br>
 *Mohammad Rami Koujan, Michail Christos Doukas, Anastasios Roussos, Stefanos Zafeiriou.*<br>

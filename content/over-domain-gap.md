@@ -16,7 +16,16 @@
 *Chengzhou Tang, Lu Yuan, Ping Tan.*<br>
 CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 
+## Self-Supervised
+**SimLR: Big Self-Supervised Models are Strong Semi-Supervised Learners.**<br>
+*Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10029)] [[Github](https://github.com/google-research/simclr)]
+
 ## Domain Generalization
+
+**Domain Generalization with Optimal Transport and Metric Learning.**<br>
+*Fan Zhou, Zhuqing Jiang, Changjian Shui, Boyu Wang, Brahim Chaib-draa.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.10573)]
 
 **Learning to Learn with Variational Information Bottleneck for Domain Generalization.**<br>
 *Yingjun Du, Jun Xu, Huan Xiong, Qiang Qiu, Xiantong Zhen, Cees G. M. Snoek, Ling Shao.*<br>
@@ -37,6 +46,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**Domain2Vec: Domain Embedding for Unsupervised Domain Adaptation.**<br>
+*Xingchao Peng, Yichen Li, Kate Saenko.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09257)]
 
 **Continuously Indexed Domain Adaptation.**<br>
 *Hao Wang, Hao He, Dina Katabi.*<br>

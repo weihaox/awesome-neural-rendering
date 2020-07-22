@@ -173,6 +173,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.co
 
 ### Human Dynamics 
 
+**Weakly-supervised Learning of Human Dynamics.**<br>
+*Petrissa Zell, Bodo Rosenhahn, Bastian Wandt.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08969)]
+
 **MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency.**<br>
 *Mingyi Shi, Kfir Aberman, Andreas Aristidou, Taku Komura, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen.*<br>
 TOG 2020. [[PDF](https://arxiv.org/abs/2006.12075)] [[Project](https://rubbly.cn/publications/motioNet)]
@@ -214,6 +218,10 @@ SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](
 TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
 
 ### Human Poses and Shapes
+
+**3D Human Shape Reconstruction from a Polarization Image.**<br>
+*Shihao Zou, Xinxin Zuo, Yiming Qian, Sen Wang, Chi Xu, Minglun Gong, Li Cheng.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09268)]
 
 **DecoMR: 3D Human Mesh Regression with Dense Correspondence.**<br>
 *Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang.*<br>
@@ -547,6 +555,10 @@ arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://h
 ## Depth Estimation
 
 ### Dynamic Object
+
+**HDNet: Human Depth Estimation for Multi-Person Camera-Space Localization.**<br>
+*Jiahao Lin, Gim Hee Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08943)]
 
 **Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance.**<br>
 *Marvin Klingner, Jan-Aike Termöhlen, Jonas Mikolajczyk, Tim Fingscheidt.*<br>
