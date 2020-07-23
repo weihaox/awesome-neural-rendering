@@ -199,11 +199,11 @@ arxiv, 11 Dec 2019. [[PDF](https://arxiv.org/abs/1912.05656)]
 
 **Learning 3D Human Dynamics from Video.**<br>
 *Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1812.01601)] [[HomePage](https://akanazawa.github.io/human_dynamics/)]
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.01601)] [[Project](https://akanazawa.github.io/human_dynamics/)]
 
 **Predicting 3D Human Dynamics from Video.**<br>
 *Jason Y. Zhang, Panna Felsen, Angjoo Kanazawa, Jitendra Malik.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1908.04781)] [[HomePage](https://jasonyzhang.com/phd/)]
+ICCV 2019. [[PDF](https://arxiv.org/abs/1908.04781)] [[Project](https://jasonyzhang.com/phd/)]
 
 **DeepHuman: 3D Human Reconstruction from a Single Image.**<br>
 *[Zerong Zheng](https://zhengzerong.github.io/), [Tao Yu](https://ytrock.com/), Yixuan Wei, Qionghai Dai, [Yebin Liu](http://www.liuyebin.com/).*<br>
@@ -218,6 +218,10 @@ SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](
 TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
 
 ### Human Poses and Shapes
+
+**Unsupervised Shape and Pose Disentanglement for 3D Meshes.**<br>
+*Keyang Zhou, Bharat Lal Bhatnagar, Gerard Pons-Moll.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11341)] [[Github](https://virtualhumans.mpi-inf.mpg.de/unsup_shape_pose/)]
 
 **3D Human Shape Reconstruction from a Polarization Image.**<br>
 *Shihao Zou, Xinxin Zuo, Yiming Qian, Sen Wang, Chi Xu, Minglun Gong, Li Cheng.*<br>
@@ -323,6 +327,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 ## Face, Hand and Object Modeling
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
+
+**TBGAN: Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks.**<br>
+*Baris Gecer, Alexander Lattas, Stylianos Ploumpis, Jiankang Deng, Athanasios Papaioannou, Stylianos Moschoglou, Stefanos Zafeiriou.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1909.02215)] [[Project](https://github.com/barisgecer/TBGAN)]
 
 **Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
 *Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>

@@ -22,6 +22,10 @@ Feedback and contributions are welcome!
 
 ## 3D People Dressing and Clothing Draping
 
+**GAN-based Garment Generation Using Sewing Pattern Images.**<br>
+*Yu Shen, Junbang Liang, Ming C. Lin.*<br>
+ECCV 2020. [[PDF](http://cs.umd.edu/~liangjb/docs/ICCV2019.pdf)] [[Project](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration)] [[Github](https://github.com/williamljb/HumanMultiView)]
+
 **GarNet++: Improving Fast and Accurate Static3D Cloth Draping by Curvature Loss.**<br>
 *Erhan Gundogdu, Victor Constantin, Shaifali Parashar, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua.*<br>
 TPAMI 2020. [[PDF](https://arxiv.org/abs/2007.10867)]
@@ -85,6 +89,22 @@ ACM Transactions on Graphics (TOG) 2012.
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
+*Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11432)] [[Project](http://virtualhumans.mpi-inf.mpg.de/ipnet)]
+
+**Neural Articulated Shape Approximation.**<br>
+*Boyang Deng, JP Lewis, Timothy Jeruzalski, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html), Geoffrey Hinton, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
+ECCV 2020. [[PDF](http://virtualhumans.mpi-inf.mpg.de/papers/NASA20/NASA.pdf)]
+
+**SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.**<br>
+*Garvita Tiwari, Bharat Lal Bhatnagar, Tony Tung, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
+ECCV 2020. 
+
+**Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
+*Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
+ECCV 2020. 
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
 *Chaitanya Patel*, Zhouyingcheng Liao*, Gerard Pons-Moll.*<br>

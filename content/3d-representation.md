@@ -18,7 +18,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.10587)]
 
 **IMR: Implicit Mesh Reconstruction from Unannotated Image Collections.**<br>
 *Shubham Tulsiani, Nilesh Kulkarni, Abhinav Gupta.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/pdf/2007.08504.pdf)] [[Project](https://shubhtuls.github.io/imr/)]
+ECCV 2020. [[PDF](https://arxiv.org/pdf/2007.08504.pdf)] [[Project](https://shubhtuls.github.io/imr/)]
 
 **LIMP: Learning Latent Shape Representations with Metric Preservation Priors.**<br>
 *Luca Cosmo, Antonio Norelli, Oshri Halimi, Ron Kimmel, Emanuele Rodolà.*<br>
@@ -26,15 +26,15 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12283)]
 
 **Learning 3D Part Assembly from a Single Image.**<br>
 *Yichen Li, Kaichun Mo, Lin Shao, Minhyuk Sung, Leonidas Guibas.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.09754)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.09754)]
 
 **Curriculum DeepSDF.**<br>
 *Yueqi Duan, Haidong Zhu, He Wang, Li Yi, Ram Nevatia, Leonidas J. Guibas.*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08593)] [[Github](https://github.com/haidongz-usc/Curriculum-DeepSDF)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08593)] [[Github](https://github.com/haidongz-usc/Curriculum-DeepSDF)]
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
 
 **PolyGen: An Autoregressive Generative Model of 3D Meshes.**<br>
 *Charlie Nash, Yaroslav Ganin, S. M. Ali Eslami, Peter W. Battaglia.*<br>
@@ -128,19 +128,19 @@ CVPR 2020. [[PDF](https://geometry.cs.ucl.ac.uk/projects/2020/neuraltexture/pape
 *Yi Zhou, Connelly Barnes, Jingwan Lu, Jimei Yang, Hao Li.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.07035)]
 
-Sparse Representations for Object and Ego-motion Estimation in Dynamic Scenes.*<br>
-Hirak J Kashyap, Charless Fowlkes, Jeffrey L Krichmar.*<br>
-[[PDF](https://arxiv.org/abs/1903.03731v1)]
+**Sparse Representations for Object and Ego-motion Estimation in Dynamic Scenes.**<br>
+*Hirak J Kashyap, Charless Fowlkes, Jeffrey L Krichmar.*<br>
+TNNLS 2020. [[PDF](https://arxiv.org/abs/1903.03731v1)]
 
-CeMNet: Self-supervised Learning For Accurate Continuous Ego-Motion Estimation.*<br>
-Minhaeng Lee, Charless C. Fowlkes.*<br>
+**CeMNet: Self-supervised Learning For Accurate Continuous Ego-Motion Estimation.**<br>
+*Minhaeng Lee, Charless C. Fowlkes.*<br>
 CVPRW, 2019. [[PDF](https://arxiv.org/abs/1806.10309v1)]
 
 ## Surface Cuts and Parameterization 
 
 **OptCuts: Joint Optimization of Surface Cuts and Parameterization.**<br>
 *Minchen Li, Danny M. Kaufman, Vladimir G. Kim, Justin Solomon, Alla Sheffer.*<br>
-ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/doc/OptCuts.pdf)] [[Code and Data]()] [[](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/)] 
+ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/doc/OptCuts.pdf)] [[Code and Data](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/)] 
 
 ## Dense Shape Correspondence and Matching
 

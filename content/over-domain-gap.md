@@ -47,6 +47,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
 
+**High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images.**<br>
+*Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2006.15031)]
+
 **Domain2Vec: Domain Embedding for Unsupervised Domain Adaptation.**<br>
 *Xingchao Peng, Yichen Li, Kate Saenko.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09257)]
