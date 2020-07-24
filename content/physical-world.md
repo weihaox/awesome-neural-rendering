@@ -173,6 +173,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.co
 
 ### Human Dynamics 
 
+**Contact and Human Dynamics from Monocular Video.**<br>
+*Davis Rempe, Leonidas J. Guibas, Aaron Hertzmann, Bryan Russell, Ruben Villegas, Jimei Yang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11678)]
+
 **Weakly-supervised Learning of Human Dynamics.**<br>
 *Petrissa Zell, Bodo Rosenhahn, Bastian Wandt.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08969)]
@@ -573,6 +577,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08943)]
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06936)]
 
 ### Accurate Edge
+
+**P2ORM: Pixel-Pair Occlusion Relationship Map(P2ORM): Formulation, Inference & Application.**<br>
+*Xuchong Qiu, Yang Xiao, Chaohui Wang, Renaud Marlet.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12088)] [[Project](http://imagine.enpc.fr/~qiux/P2ORM/)] [[Github](https://github.com/tim885/P2ORM)]
 
 **Semantics-Driven Unsupervised Learning for Monocular Depth and Ego-Motion Estimation.**<br>
 *Xiaobin Wei, Jianjiang Feng, Jie Zhou.*<br>

@@ -13,14 +13,14 @@ Feedback and contributions are welcome!
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
 - [Neural Rerendering](#neural-rerendering)
-- [Fluid and Smoke Simulation](#fluid-and-smoke-simulation)
-- [Neural Hair Rendering](#neural-hair-rendering)
+- [Volumetric Performance Capture](#volumetric-performance-capture)
 - [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Texture and Surface Mapping](#texture-and-surface-mapping)
 - [Neural Scene Representation and Rendering](#neural-scene-representation-and-rendering)
 - [Novel-View Synthesis for Objects and Scenes](#novel-view-synthesis-for-objects-and-scenes)
 - [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
+- [Fluid and Smoke Simulation](#fluid-and-smoke-simulation)
 
 ## Intruduction of Neural Rendering
 
@@ -37,9 +37,6 @@ CVPR 2020 tutorial define **Neural Rendering** as
 
 Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real- world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene—camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
 
-**[Differentiable Rendering: A Survey.](https://arxiv.org/abs/2006.12057)**<br>
-*Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
-
 ## Related Surveys and Course Notes
 
 **[State of the Art on Neural Rendering.](https://arxiv.org/abs/2004.03805)**<br>
@@ -48,6 +45,9 @@ Eurographics 2020.<br>
 
 **[CVPR 2020 tutorial on Neural Rendering.](https://www.neuralrender.com/)**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit K. Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B. Goldman, Michael Zollhöfer.*<br>
+
+**[Differentiable Rendering: A Survey.](https://arxiv.org/abs/2006.12057)**<br>
+*Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
 
 ## Inverse Rendering
 
@@ -81,37 +81,25 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 *Moustafa Meshry, Dan B Goldman, Sameh Khamis, Hugues Hoppe, Rohit Pandey, Noah Snavely, Ricardo Martin-Brualla.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.04290)]
 
-## Fluid and Smoke Simulation
+**Revealing Scenes by Inverting Structure from Motion Reconstructions.**<br>
+*Francesco Pittaluga, Sanjeev J. Koppal, Sing Bing Kang, Sudipta N. Sinha.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 
-**Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces.**<br>
-*Tomas Skrivan, Andreas Soderstrom, John Johansson, Christoph Sprenger, Ken Museth, [Chris Wojtan](http://pub.ist.ac.at/group_wojtan/index.html).*<br>
-ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf)]
+## Volumetric Performance Capture (Free Viewpoint Video)
 
-**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
-*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
-TOG 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)] [[Project](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)] [[Github](https://github.com/rgoldade/ReducedFluids)]
+**Neural Sparse Voxel Fields.**<br>
+*Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.11571)]
 
-**Chemomechanical Simulation of Soap Film Flow on Spherical Bubbles.**<br>
-*Weizhen Huang, Julian Iseringhausen, Tom Kneiphof, Ziyin Qu, Chenfanfu Jiang, Matthias B. Hullin.*<br>
-TOG 2020. [[PDF](https://light.cs.uni-bonn.de/papers/HuangEtAl-SoapBubbles-SIGGRAPH2020.pdf)] [[Project](https://light.cs.uni-bonn.de/chemomechanical-simulation-of-soap-film-flow-on-spherical-bubbles/)] [[Github]()]
+**Volumetric Capture of Humans with a Single RGBD Camera via Semi-Parametric Learning.**<br>
+*Rohit Pandey, Anastasia Tkach, Shuoran Yang, Pavel Pidlypenskyi, Jonathan Taylor, Ricardo Martin-Brualla, Andrea Tagliasacchi, George Papandreou, Philip Davidson, Cem Keskin, Shahram Izadi, Sean Fanello.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pandey_Volumetric_Capture_of_Humans_With_a_Single_RGBD_Camera_via_CVPR_2019_paper.pdf)]
 
-**Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling.**<br>
-*Wei Li, Yixin Chen, Mathieu Desbrun, Changxi Zhang, Xiaopei Liu.*<br>
-SIGGRAPH 2020. [[PDF](http://www.geometry.caltech.edu/pubs/LCDZL20.pdf)]
+**Neural Volumes: Learning Dynamic Renderable Volumes from Images.**<br>
+*Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh.*<br>
+SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)]
 
-**Lagrangian Neural Style Transfer for Fluids.**<br>
-*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
-SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.00803)]
-
-**Transport-Based Neural Style Transfer for Smoke Simulations.**<br>
-*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
-SIGGRAPH ASIA 2019. [[PDF](https://arxiv.org/abs/1905.07442)]
-
-**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
-*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
-SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)]
-
-## Neural Hair Rendering
+## Semantic Photo Synthesis and Manipulation
 
 **Neural Hair Rendering.**<br>
 *[Menglei Chai](mlchai.com), Jian Ren, Sergey Tulyakov.*<br>
@@ -120,8 +108,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
 **MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
 *Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
 SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
-
-## Semantic Photo Synthesis and Manipulation
 
 **pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.**<br>
 *Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
@@ -587,7 +573,35 @@ arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https:/
 *Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs.washington.edu/projects/wakeup/)]
 
+## Fluid and Smoke Simulation
 
+**Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces.**<br>
+*Tomas Skrivan, Andreas Soderstrom, John Johansson, Christoph Sprenger, Ken Museth, [Chris Wojtan](http://pub.ist.ac.at/group_wojtan/index.html).*<br>
+ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf)]
+
+**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
+*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
+TOG 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)] [[Project](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)] [[Github](https://github.com/rgoldade/ReducedFluids)]
+
+**Chemomechanical Simulation of Soap Film Flow on Spherical Bubbles.**<br>
+*Weizhen Huang, Julian Iseringhausen, Tom Kneiphof, Ziyin Qu, Chenfanfu Jiang, Matthias B. Hullin.*<br>
+TOG 2020. [[PDF](https://light.cs.uni-bonn.de/papers/HuangEtAl-SoapBubbles-SIGGRAPH2020.pdf)] [[Project](https://light.cs.uni-bonn.de/chemomechanical-simulation-of-soap-film-flow-on-spherical-bubbles/)] [[Github]()]
+
+**Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling.**<br>
+*Wei Li, Yixin Chen, Mathieu Desbrun, Changxi Zhang, Xiaopei Liu.*<br>
+SIGGRAPH 2020. [[PDF](http://www.geometry.caltech.edu/pubs/LCDZL20.pdf)]
+
+**Lagrangian Neural Style Transfer for Fluids.**<br>
+*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.00803)]
+
+**Transport-Based Neural Style Transfer for Smoke Simulations.**<br>
+*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
+SIGGRAPH ASIA 2019. [[PDF](https://arxiv.org/abs/1905.07442)]
+
+**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
+*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
+SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)]
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

@@ -22,6 +22,10 @@ Feedback and contributions are welcome!
 
 ## 3D People Dressing and Clothing Draping
 
+**SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.**<br>
+*Garvita Tiwari, Bharat Lal Bhatnagar, Tony Tung, Gerard Pons-Moll.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11610)]
+
 **GAN-based Garment Generation Using Sewing Pattern Images.**<br>
 *Yu Shen, Junbang Liang, Ming C. Lin.*<br>
 ECCV 2020. [[PDF](http://cs.umd.edu/~liangjb/docs/ICCV2019.pdf)] [[Project](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration)] [[Github](https://github.com/williamljb/HumanMultiView)]
