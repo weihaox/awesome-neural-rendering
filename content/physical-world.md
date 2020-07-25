@@ -332,6 +332,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
 
+**Front2Back: Single View 3D Shape Reconstruction via Front to Back Prediction.**<br>
+*Yuan Yao, Nico Schertler, Enrique Rosales, Helge Rhodin, Leonid Sigal, Alla Sheffer.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.10589)]
+
 **TBGAN: Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks.**<br>
 *Baris Gecer, Alexander Lattas, Stylianos Ploumpis, Jiankang Deng, Athanasios Papaioannou, Stylianos Moschoglou, Stefanos Zafeiriou.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1909.02215)] [[Project](https://github.com/barisgecer/TBGAN)]
