@@ -493,9 +493,13 @@ SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editin
 *Yang Zhou, DIngzeyu Li, Xintong Han, Evangelos Kalogerakis, Eli Shechtman, Jose Echevarria.*<br>
 arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12992)]
 
+**LipGAN: Towards Automatic Face-to-Face Translation.**<br>
+*Prajwal K R, Rudrabha Mukhopadhyay, Jerin Philip, Abhishek Jha, Vinay Namboodiri, C.V. Jawahar.*<br>
+ACM MM 2019. [[PDF](https://arxiv.org/abs/2003.00418v1)] [[Github](https://github.com/Rudrabha/LipGAN)]
+
 **One-Shot Identity-Preserving Portrait Reenactment.**<br>
 *Sitao Xiang, Yuming Gu, Pengda Xiang, Mingming He, Koki Nagano, Haiwei Chen, Hao Li.*<br>
-arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12452)]
+arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12452)] 
 
 **Neural Head Reenactment with Latent Pose Descriptors.**<br>
 *Egor Burkov, Igor Pasechnik, Artur Grigorev, Victor Lempitsky.*<br>

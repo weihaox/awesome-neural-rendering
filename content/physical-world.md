@@ -332,6 +332,18 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
 
+**MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement.**<br>
+*Rinon Gal, Amit Bermano, Hao Zhang, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.12944)]
+
+**Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve.**<br>
+*Weicheng Kuo, Anelia Angelova, Tsung-Yi Lin, Angela Dai.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13034)]
+
+**Associative3D: Volumetric Reconstruction from Sparse Views.**<br>
+*Shengyi Qian, Linyi Jin, David F. Fouhey.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13727)] [[Github](https://jasonqsy.github.io/Associative3D)]
+
 **Front2Back: Single View 3D Shape Reconstruction via Front to Back Prediction.**<br>
 *Yuan Yao, Nico Schertler, Enrique Rosales, Helge Rhodin, Leonid Sigal, Alla Sheffer.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.10589)]

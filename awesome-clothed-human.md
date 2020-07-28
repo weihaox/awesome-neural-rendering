@@ -94,6 +94,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Reconstructing NBA Players.**<br>
+*Luyang Zhu, Konstantinos Rematas, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)]
+
 **Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
 *Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11432)] [[Project](http://virtualhumans.mpi-inf.mpg.de/ipnet)]
