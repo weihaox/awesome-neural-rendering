@@ -94,6 +94,22 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction.**<br>
+*Zerong Zheng, Tao Yu, Yebin Liu, Qionghai Dai.*<br>
+TPAMI 2020. [[PDF](http://www.liuyebin.com/pamir/assets/revised_paper.pdf)] [[Project](http://www.liuyebin.com/pamir/pamir.html)]
+
+**MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera.**<br>
+*Zhaoqi Su, Weilin Wan, [Tao Yu](https://ytrock.com/), [Lingjie Liu](https://lingjie0206.github.io/), Lu Fang, Wenping Wang and Yebin Liu.*<br>
+TVCG 2020. [[PDF](http://www.liuyebin.com/MulayCap/MulayCap_files/MulayCap.pdf)] [[Project](http://www.liuyebin.com/MulayCap/MulayCap.html)]
+
+**NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image.**<br>
+*Lizhen Wang, Xiaochen Zhao, Tao Yu, Songtao Wang, [Yebin Liu](http://liuyebin.com/).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15340)] [[Project](http://www.liuyebin.com/NormalGan/normalgan.html)]
+
+**Monocular Real-Time Volumetric Performance Capture.**<br>
+*Ruilong Li, Yuliang Xiu, Shunsuke Saito, Zeng Huang, Kyle Olszewski, Hao Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
+
 **Reconstructing NBA Players.**<br>
 *Luyang Zhu, Konstantinos Rematas, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)]
