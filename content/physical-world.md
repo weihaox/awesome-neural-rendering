@@ -223,6 +223,10 @@ TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)]
 
 ### Human Poses and Shapes
 
+**Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild.**<br>
+*Jason Y. Zhang, Sam Pepose, Hanbyul Joo, Deva Ramanan, Jitendra Malik, Angjoo Kanazawa.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15649)]
+
 **Unsupervised Shape and Pose Disentanglement for 3D Meshes.**<br>
 *Keyang Zhou, Bharat Lal Bhatnagar, Gerard Pons-Moll.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11341)] [[Github](https://virtualhumans.mpi-inf.mpg.de/unsup_shape_pose/)]
