@@ -87,6 +87,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
+**Monocular Real-Time Volumetric Performance Capture.**<br>
+*Ruilong Li, Yuliang Xiu, Shunsuke Saito, Zeng Huang, Kyle Olszewski, Hao Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
+
 **Neural Sparse Voxel Fields.**<br>
 *Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.11571)]
@@ -316,6 +320,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**Unsupervised Continuous Object Representation Networks for Novel View Synthesis.**<br>
+*Nicolai Häni, Selim Engin, Jun-Jee Chao, Volkan Isler.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.15627)]
+
 **AUTO3D: Novel View Synthesis Through Unsupervisely Learned Variational Viewpoint and Global 3D Representation.**<br>
 *Xiaofeng Liu, Tong Che, Yiqun Lu, Chao Yang, Site Li, Jane You.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06620)]
@@ -451,7 +459,7 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 
 **DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.**<br>
 *Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
-arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
+arxiv 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
 **Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network.**<br>
 *Manu Mathew Thomas, Angus G. Forbes.*<br>
@@ -468,6 +476,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Action2Motion: Conditioned Generation of 3D Human Motions.**<br>
+*Chuan Guo, Xinxin Zuo, Sen Wang, Shihao Zou, Qingyao Sun, Annan Deng, Minglun Gong, Li Cheng.*<br>
+ACM MultiMedia 2020. [[PDF](https://arxiv.org/abs/2007.15240)]
 
 **MEAD: A Large-scale Audio-visual Dataset for Emotional Talking Face Generation.**<br>
 *Kaisiyuan Wang, Qianyi Wu, Linsen Song, Zhuoqian Yang, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy.*<br>
@@ -531,7 +543,7 @@ NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8935-first-order-motion-model-f
 
 **Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
-arxiv, 14 Jan 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
 **Deferred Neural Rendering: Image Synthesis using Neural.**<br>
 *Justus Thies, Michael Zollhöfer, Matthias Nießner.*<br>
@@ -543,7 +555,7 @@ SIGGRAPH Asia, 2019. [[PDF](https://arxiv.org/pdf/1903.10170.pdf)]
 
 **Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
-arxiv, 14 Jan 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
 **FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.**<br>
 *Kuangxiao Gu, Yuqian Zhou, Thomas Huang.*<br>
@@ -567,11 +579,11 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 
 **Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.**<br>
 *Dongxu Wei, Haibin Shen, Kejie Huang.*<br>
-arxiv, 25 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
 
 **EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
 *Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
-arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
 
 **Photo Wake-Up: 3D Character Animation from a Single Photo.**<br>
 *Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
