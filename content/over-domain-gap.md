@@ -17,6 +17,7 @@
 CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 
 ## Self-Supervised
+
 **SimLR: Big Self-Supervised Models are Strong Semi-Supervised Learners.**<br>
 *Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10029)] [[Github](https://github.com/google-research/simclr)]
@@ -39,13 +40,16 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.03304)]
 *Zeyi Huang, Haohan Wang, Eric P. Xing, Dong Huang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 
-## Synthetic-to-Real
-
 **Automated Synthetic-to-Real Generalization.**<br>
 *Wuyang Chen, Zhiding Yu, Zhangyang Wang, Anima Anandkumar.*<br>
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
+
 ## Domain Adaptation
+
+**Adversarial Bipartite Graph Learning for Video Domain Adaptation.**<br>
+*Yadan Luo, Zi Huang, Zijian Wang, Zheng Zhang, Mahsa Baktashmotlagh.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2007.15829)]
 
 **High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images.**<br>
 *Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton.*<br>
