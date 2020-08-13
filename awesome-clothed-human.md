@@ -94,6 +94,18 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image.**<br>
+*Gyeongsik Moon, Kyoung Mu Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03713)] [[Github](https://github.com/mks0601/I2L-MeshNet_RELEASE)]
+
+**Appearance Consensus Driven Self-Supervised Human Mesh Recovery.**<br>
+*Jogendra Nath Kundu, Mugalodi Rakesh, Varun Jampani, Rahul Mysore Venkatesh, R. Venkatesh Babu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01341v1)]
+
+**TexMesh: Reconstructing Detailed Human Texture and Geometry from RGB-D Video.**<br>
+*Tiancheng Zhi, Christoph Lassner, Tony Tung, Carsten Stoll, Srinivasa G. Narasimhan, Minh Vo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.00158)]
+
 **PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction.**<br>
 *Zerong Zheng, Tao Yu, Yebin Liu, Qionghai Dai.*<br>
 TPAMI 2020. [[PDF](http://www.liuyebin.com/pamir/assets/revised_paper.pdf)] [[Project](http://www.liuyebin.com/pamir/pamir.html)]

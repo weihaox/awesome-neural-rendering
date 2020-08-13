@@ -42,7 +42,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 *Michael Strecke, Joerg Stueckler.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04630)]
 
-## Differentiable Physics-Based Simulation
+## Differentiable Physics-Based Simulation and Simulation Platform
 
 **DiffTaichi: Differentiable Programming for Physical Simulation.**<br>
 *[Yuanming Hu](http://taichi.graphics/me/), Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Fredo Durand.*<br>
@@ -73,6 +73,10 @@ ICCV 2019.
 **ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation.**<br>
 *Chuang Gan, Jeremy Schwartz, Seth Alter, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Damian Mrowca, Michael Lingelbach, Aidan Curtis, Kevin Feigelis, Daniel M. Bear, Dan Gutfreund, David Cox, James J. DiCarlo, Josh McDermott, Joshua B. Tenenbaum, Daniel L.K. Yamins.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04954)] [[Project](http://www.threedworld.org/)]
+
+**Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects via Physical Simulations.**<br>
+*Hongtao Wu, Gregory S. Chirikjian.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02321)]
 
 ## Scene Understanding
 
@@ -118,7 +122,11 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.
 
 ## Decomposition and Disentanglement
 
-**Weakly Supervised Disentanglement with Guarantees .**<br>
+**HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures.**<br>
+*Yichao Zhou, Jingwei Huang, Xili Dai, Linjie Luo, Zhili Chen, Yi Ma.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03286)] [[Project](https://holicity.io/)]
+
+**Weakly Supervised Disentanglement with Guarantees.**<br>
 *Rui Shu, Yining Chen, Abhishek Kumar, Stefano Ermon, Ben Poole.*<br>
 ICLR 2020. [[PDF](https://openreview.net/forum?id=HJgSwyBKvr)] [[Github](https://github.com/google-research/google-research/tree/master/weak_disentangle)]
 
@@ -131,6 +139,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11284)] [[Project](https://anonymou
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
 
 ## Reconstruction of Transparent Shapes or Thin Structure
+
+**GeLaTO: Generative Latent Textured Objects.**<br>
+*Ricardo Martin-Brualla, Rohit Pandey, Sofien Bouaziz, Matthew Brown, Dan B Goldman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04852)] [[Project](https://gelato-paper.github.io/)]
 
 **Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video.**<br>
 *Peng Wang, Lingjie Liu, Nenglun Chen, Hung-Kuo Chu, Christian Theobalt, Wenping Wang.*<br>
@@ -295,6 +307,10 @@ ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.d
 
 ## 2D to 3D Convertion
 
+**Deep 3D Portrait from a Single Image.**<br>
+*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
+
 **3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Face Photos.**<br>
 *Zipeng Ye, Ran Yi, Minjing Yu, Juyong Zhang, Yu-Kun Lai, Yong-jin Liu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.06841)]
@@ -419,6 +435,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12307)] [[Github](https://github.co
 **High Accuracy Face Geometry Capture using a Smartphone Video.**<br>
 *Shubham Agrawal, Anuj Pahuja, Simon Lucey.*<br>
 WACV 2020. [[PDF](https://arxiv.org/abs/2003.08583)]
+
+**SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images.**<br>
+*Yifei Shi, Junwen Huang, Hongjia Zhang, Xin Xu, Szymon Rusinkiewicz, Kai Xu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00485)]
 
 **Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild.**<br>
 *[Shangzhe Wu](https://elliottwu.com/), Christian Rupprecht, Andrea Vedaldi.*<br>
@@ -948,6 +968,10 @@ CVPR 2019.
 
 
 ## Misc (Speediness, Trajectories)
+
+**Adversarial Generative Grammars for Human Activity Prediction.**<br>
+*AJ Piergiovanni, Anelia Angelova, Alexander Toshev, Michael S. Ryoo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04888)]
 
 **Long-term Human Motion Prediction with Scene Context.**<br>
 *[Zhe Cao](http://people.eecs.berkeley.edu/~zhecao/), [Hang Gao](http://people.eecs.berkeley.edu/~hangg/), [Karttikeya Mangalam](https://karttikeya.github.io/), [Qi-Zhi Cai](https://scholar.google.com/citations?user=oyh-YNwAAAAJ&hl=en), [Minh Vo](https://minhpvo.github.io/), [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/).*<br>

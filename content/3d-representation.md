@@ -154,6 +154,10 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence and Matching
 
+**Deep Geometric Functional Maps: Robust Feature Learning for Shape Correspondence.**<br>
+*Nicolas Donati, Abhishek Sharma, Maks Ovsjanikov.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.14286)] [[Github](https://github.com/LIX-shape-analysis/GeomFmaps)]
+
 **D2D: Learning to Find Good Correspondences for Image Matching and Manipulation.**<br>
 *Olivia Wiles, Sebastien Ehrhardt, Andrew Zisserman.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.08480)]

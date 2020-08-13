@@ -22,6 +22,16 @@ CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 *Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10029)] [[Github](https://github.com/google-research/simclr)]
 
+**Learning Stereo from Single Images.**<br>
+*Jamie Watson, Oisin Mac Aodha, Daniyar Turmukhambetov, Gabriel J. Brostow, Michael Firman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01484)]
+
+## Distillation
+
+**Prime-Aware Adaptive Distillation.**<br>
+*Youcai Zhang, Zhonghao Lan, Yuchen Dai, Fangao Zeng, Yan Bai, Jie Chang, Yichen Wei.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01458)]
+
 ## Domain Generalization
 
 **Domain Generalization with Optimal Transport and Metric Learning.**<br>
@@ -44,8 +54,15 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 *Wuyang Chen, Zhiding Yu, Zhangyang Wang, Anima Anandkumar.*<br>
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
-
 ## Domain Adaptation
+
+**HCRPL: Hard Class Rectification for Domain Adaptation.**<br>
+*Zhang Yunlong, Jing Changxing, Lin Huangxing, Chen Chaoqi, Huang Yue, Ding Xinghao, Zou Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03455)]
+
+**Class-Incremental Domain Adaptation.**<br>
+*Jogendra Nath Kundu, Rahul Mysore Venkatesh, Naveen Venkat, Ambareesh Revanur, R. Venkatesh Babu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01389)]
 
 **Adversarial Bipartite Graph Learning for Video Domain Adaptation.**<br>
 *Yadan Luo, Zi Huang, Zijian Wang, Zheng Zhang, Mahsa Baktashmotlagh.*<br>
@@ -106,6 +123,10 @@ SIGGRAPH 2020. [[PDF](https://jianghd1996.github.io/publication/sig_2020/SIG_202
 
 ## Few-Shot
 
+**Generalizing from a Few Examples: A Survey on Few-Shot Learning.**<br>
+*Yaqing Wang, Quanming Yao, James Kwok, Lionel M. Ni.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1904.05046)]
+
 **FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**<br>
 *Ming-Yu Liu, Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Few-Shot_Unsupervised_Image-to-Image_Translation_ICCV_2019_paper.html)]
@@ -146,6 +167,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09989)]
 ICRA 2019. [[PDF](https://hal.archives-ouvertes.fr/hal-01876700/document)]
 
 ## Long-Tailed, Open Set and Small Dataset
+
+**Feature Space Augmentation for Long-Tailed Data.**<br>
+*Peng Chu, Xiao Bian, Shaopeng Liu, Haibin Ling.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03673)]
 
 **Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax.**<br>
 *Yu Li, Tao Wang, Bingyi Kang, Sheng Tang, Chunfeng Wang, Jintao Li, Jiashi Feng.*<br>

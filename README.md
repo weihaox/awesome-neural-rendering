@@ -51,6 +51,14 @@ Eurographics 2020.<br>
 
 ## Inverse Rendering
 
+**Invertible Neural BRDF for Object Inverse Rendering.**<br>
+*Zhe Chen, Shohei Nobuhara, Ko Nishino.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04030)]
+
+**Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF From a Single Image.**<br>
+*[Zhengqin Li](http://sites.google.com/a/eng.ucsd.edu/zhengqinli/), [Mohammad Shafiei](https://www.linkedin.com/in/mohammadshafiei/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Kalyan Sunkavalli](http://www.kalyans.org/), [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker/).*<br>
+CVPR 2020.[[PDF](https://drive.google.com/file/d/18zG1kzVpL9XsEVBK95hbpnB-FMlChRXP/view?usp=sharing)] [[Project](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/)] [[Github](https://github.com/lzqsd/InverseRenderingOfIndoorScene)]
+
 **Polarimetric Multi-View Inverse Rendering.**<br>
 *Jinyu Zhao, Yusuke Monno, Masatoshi Okutomi.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08830)]
@@ -92,7 +100,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
 
 **Neural Sparse Voxel Fields.**<br>
-*Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt.*<br>
+*[Lingjie Liu](https://lingjie0206.github.io/), Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.11571)]
 
 **Volumetric Capture of Humans with a Single RGBD Camera via Semi-Parametric Learning.**<br>
@@ -217,6 +225,14 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations.**<br>
+*Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Carsten Stoll, Christian Theobalt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01639)]
+
+**Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination.**<br>
+*Peng-Shuai Wang, Yu-Qi Yang, Qian-Fang Zou, Zhirong Wu, Yang Liu, Xin Tong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01068)]
+
 **Learning Implicit Fields for Generative Shape Modeling.**<br>
 *Zhiqin Chen, Hao Zhang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1812.02822)] [[Project](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)] [[Github](https://github.com/czq142857/implicit-decoder)]
@@ -320,6 +336,14 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.**<br>
+*Ricardo Martin-Brualla, Noha Radwan, Mehdi S. M. Sajjadi, Jonathan T. Barron, Alexey Dosovitskiy, Daniel Duckworth.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02268)] [[Github](https://nerf-w.github.io/)]
+
+**Deep Multi Depth Panoramas for View Synthesis.**<br>
+*Kai-En Lin, Zexiang Xu, Ben Mildenhall, Pratul P. Srinivasan, Yannick Hold-Geoffroy, Stephen DiVerdi, Qi Sun, Kalyan Sunkavalli, Ravi Ramamoorthi.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01815)]
+
 **Unsupervised Continuous Object Representation Networks for Novel View Synthesis.**<br>
 *Nicolai Häni, Selim Engin, Jun-Jee Chao, Volkan Isler.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.15627)]
@@ -386,6 +410,26 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
 ## Light, Reflectance, lluminance and Shade
+
+**Neural Light Transport for Relighting and View Synthesis.**<br>
+*Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec, Jonathan T. Barron, Ravi Ramamoorthi, William T. Freeman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03806)] [[Project](http://nlt.csail.mit.edu/)]
+
+**NuI-Go: Recursive Non-Local Encoder-Decoder Network for Retinal Image Non-Uniform Illumination Removal.**<br>
+*Chongyi Li, Huazhu Fu, Runmin Cong, Zechao Li, Qianqian Xu.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.02984)]
+
+**Learning to Factorize and Relight a City.**<br>
+*Andrew Liu, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros, Noah Snavely.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02796)] [[Project](http://factorize-a-city.github.io/)]
+
+**Object-based Illumination Estimation with Rendering-aware Neural Networks.**<br>
+*Xin Wei, Guojun Chen, Yue Dong, Stephen Lin, Xin Tong.*<br>
+ECCV 2200. [[PDF](https://arxiv.org/abs/2008.02514)]
+
+**Learning Illumination from Diverse Portraits.**<br>
+*Chloe LeGendre, Wan-Chun Ma, Rohit Pandey, Sean Fanello, Christoph Rhemann, Jason Dourgarian, Jay Busch, Paul Debevec.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02396)]
 
 **Enlighten Me: Importance of Brightness and Shadow for Character Emotion and Appeal.**<br>
 *Pisut Wisessing, Katja Zibrek, Douglas W. Cunningham, John Dingliana, Rachel McDonnell.*<br>
@@ -476,6 +520,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
+*Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 
 **Action2Motion: Conditioned Generation of 3D Human Motions.**<br>
 *Chuan Guo, Xinxin Zuo, Sen Wang, Shihao Zou, Qingyao Sun, Annan Deng, Minglun Gong, Li Cheng.*<br>
