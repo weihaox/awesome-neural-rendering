@@ -34,6 +34,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01458)]
 
 ## Domain Generalization
 
+**Zero Shot Domain Generalization.**<br>
+*Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian.*<br>
+BMVC 2020. [[PDF](https://arxiv.org/abs/2008.07443)]
+
 **Domain Generalization with Optimal Transport and Metric Learning.**<br>
 *Fan Zhou, Zhuqing Jiang, Changjian Shui, Boyu Wang, Brahim Chaib-draa.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.10573)]

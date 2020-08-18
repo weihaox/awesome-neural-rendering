@@ -352,6 +352,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
 
+**Audio- and Gaze-driven Facial Animation of Codec Avatars.**<br>
+*Alexander Richard, Colin Lea, Shugao Ma, Juergen Gall, Fernando de la Torre, Yaser Sheikh.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.05023)] [[Project](https://research.fb.com/videos/audio-and-gaze-driven-facial-animation-of-codec-avatars/)]
+
 **MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement.**<br>
 *Rinon Gal, Amit Bermano, Hao Zhang, Daniel Cohen-Or.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.12944)]

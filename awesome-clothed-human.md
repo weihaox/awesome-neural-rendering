@@ -94,6 +94,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**SMPLpix: Neural Avatars from 3D Human Models.**<br>
+*Sergey Prokudin, Michael J. Black, Javier Romero.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.06872)]
+
 **I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image.**<br>
 *Gyeongsik Moon, Kyoung Mu Lee.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03713)] [[Github](https://github.com/mks0601/I2L-MeshNet_RELEASE)]
