@@ -183,8 +183,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
 
 
-### Human Dynamics 
+### Human Motion and Dynamics 
 
+**iMoCap: Motion Capture from Internet Videos.**<br>
+*Junting Dong, Qing Shuai, Yuanqing Zhang, Xian Liu, Xiaowei Zhou, Hujun Bao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07931)] [[Project](https://zju3dv.github.io/iMoCap/)]
+ 
 **Contact and Human Dynamics from Monocular Video.**<br>
 *Davis Rempe, Leonidas J. Guibas, Aaron Hertzmann, Bryan Russell, Ruben Villegas, Jimei Yang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11678)]
@@ -234,6 +238,18 @@ SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](
 TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
 
 ### Human Poses and Shapes
+
+**Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose.**<br>
+*Hongsuk Choi, Gyeongsik Moon, Kyoung Mu Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.09047)] [[Github](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)]
+
+**ExPose: Monocular Expressive Body Regression through Body-Driven Attention.**<br>
+*Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas, Michael J. Black.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09062)] [[Project](https://expose.is.tue.mpg.de/)]
+
+**Human Body Model Fitting by Learned Gradient Descent.**<br>
+*Jie Song, Xu Chen, [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08474)]
 
 **Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild.**<br>
 *Jason Y. Zhang, Sam Pepose, Hanbyul Joo, Deva Ramanan, Jitendra Malik, Angjoo Kanazawa.*<br>
@@ -351,6 +367,14 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 ## Face, Hand and Object Modeling
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
+
+**Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images.**<br>
+*Jiahui Lei, Srinath Sridhar, Paul Guerrero, Minhyuk Sung, Niloy Mitra, Leonidas J. Guibas.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07760)]
+
+**DeepHandMesh: A Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling.**<br>
+*Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08213)] [[Project](https://mks0601.github.io/DeepHandMesh/)]
 
 **Audio- and Gaze-driven Facial Animation of Codec Avatars.**<br>
 *Alexander Richard, Colin Lea, Shugao Ma, Juergen Gall, Fernando de la Torre, Yaser Sheikh.*<br>

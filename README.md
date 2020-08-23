@@ -336,6 +336,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
+*Tewodros Habtegebrial, Varun Jampani, Orazio Gallo, Didier Stricker.*<br>
+aexiv 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
+
 **NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.**<br>
 *Ricardo Martin-Brualla, Noha Radwan, Mehdi S. M. Sajjadi, Jonathan T. Barron, Alexey Dosovitskiy, Daniel Duckworth.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02268)] [[Github](https://nerf-w.github.io/)]
@@ -520,6 +524,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Learning to Generate Diverse Dance Motions with Transformer.**<br>
+*Jiaman Li, Yihang Yin, Hang Chu, Yi Zhou, Tingwu Wang, Sanja Fidler, Hao Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08171)]
 
 **Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
 *Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>

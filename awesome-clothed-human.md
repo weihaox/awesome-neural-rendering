@@ -94,6 +94,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**STAR: Sparse Trained Articulated Human Body Regressor.**<br>
+*Ahmed A. A. Osman, Timo Bolkart, Michael J. Black.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08535)] [[Project](http://star.is.tue.mpg.de/)]
+
 **SMPLpix: Neural Avatars from 3D Human Models.**<br>
 *Sergey Prokudin, Michael J. Black, Javier Romero.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.06872)]
