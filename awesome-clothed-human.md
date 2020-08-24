@@ -134,9 +134,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
 *Luyang Zhu, Konstantinos Rematas, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)]
 
-**Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
-*Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11432)] [[Project](http://virtualhumans.mpi-inf.mpg.de/ipnet)]
+**IPNet: Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
+*Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11432)] [[Project](http://virtualhumans.mpi-inf.mpg.de/ipnet)] [[Github](https://github.com/bharat-b7/IPNet)]
 
 **Neural Articulated Shape Approximation.**<br>
 *Boyang Deng, JP Lewis, Timothy Jeruzalski, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html), Geoffrey Hinton, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
@@ -144,10 +144,6 @@ ECCV 2020. [[PDF](http://virtualhumans.mpi-inf.mpg.de/papers/NASA20/NASA.pdf)]
 
 **SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.**<br>
 *Garvita Tiwari, Bharat Lal Bhatnagar, Tony Tung, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
-ECCV 2020. 
-
-**Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
-*Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
 ECCV 2020. 
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
