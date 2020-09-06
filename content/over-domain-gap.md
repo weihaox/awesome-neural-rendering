@@ -28,11 +28,19 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01484)]
 
 ## Distillation
 
+**Matching Guided Distillation.**<br>
+*Kaiyu Yue, Jiangfan Deng, Feng Zhou.*<br>
+ECCV 2020 [[PDF](https://arxiv.org/abs/2008.09958)] [[Project](http://kaiyuyue.com/mgd)]
+
 **Prime-Aware Adaptive Distillation.**<br>
 *Youcai Zhang, Zhonghao Lan, Yuchen Dai, Fangao Zeng, Yan Bai, Jie Chang, Yichen Wei.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01458)]
 
 ## Domain Generalization
+
+**Learning to Balance Specificity and Invariance for In and Out of Domain Generalization.**<br>
+*Prithvijit Chattopadhyay, Yogesh Balaji, Judy Hoffman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.12839)]
 
 **Zero Shot Domain Generalization.**<br>
 *Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian.*<br>
@@ -59,6 +67,19 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+
+**Domain Adaptation Through Task Distillation.**<br>
+*Brady Zhou, Nimit Kalra, Philipp Krähenbühl.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11911)]
+
+**Unsupervised Domain Adaptation via Discriminative Manifold Propagation.**<br>
+*You-Wei Luo, Chuan-Xian Ren, Dao-Qing Dai, Hong Yan.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2008.10030)]
+
+**CSCL: Critical Semantic-Consistent Learning for Unsupervised Domain Adaptation.**<br>
+*Jiahua Dong, Yang Cong, Gan Sun, Yuyang Liu, Xiaowei Xu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10464)]
 
 **HCRPL: Hard Class Rectification for Domain Adaptation.**<br>
 *Zhang Yunlong, Jing Changxing, Lin Huangxing, Chen Chaoqi, Huang Yue, Ding Xinghao, Zou Yang.*<br>

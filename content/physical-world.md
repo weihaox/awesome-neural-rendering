@@ -122,6 +122,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.
 
 ## Decomposition and Disentanglement
 
+**Physics-based Shading Reconstruction for Intrinsic Image Decomposition.**<br>
+*Anil S. Baslamisli, Yang Liu, Sezer Karaoglu, Theo Gevers.*<br>
+CVIU 2020. [[PDF](https://arxiv.org/abs/2009.01540)]
+
 **HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures.**<br>
 *Yichao Zhou, Jingwei Huang, Xili Dai, Linjie Luo, Zhili Chen, Yi Ma.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03286)] [[Project](https://holicity.io/)]
@@ -322,6 +326,10 @@ ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanti
 ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
 ## 2D to 3D Convertion
+
+**One Shot 3D Photography.**<br>
+*Johannes Kopf, Kevin Matzen, Suhib Alsisan, Ocean Quigley, Francis Ge, Yangming Chong, Josh Patterson, Jan-Michael Frahm, Shu Wu, Matthew Yu, Peizhao Zhang, Zijian He, Peter Vajda, Ayush Saraf, Michael Cohen.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2008.12298)] [[Github](https://github.com/facebookresearch/one_shot_3d_photography)] [[Project](https://facebookresearch.github.io/one_shot_3d_photography/)]
 
 **Deep 3D Portrait from a Single Image.**<br>
 *Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>

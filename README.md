@@ -225,6 +225,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**Local Deep Implicit Functions for 3D Shape.**<br>
+*Kyle Genova, Forrester Cole, Avneesh Sud, Aaron Sarna, Thomas Funkhouser.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06126)]
+
 **PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations.**<br>
 *Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Carsten Stoll, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01639)]
@@ -335,6 +339,9 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**Semantic View Synthesis.**</br>
+ECCV 2020. [[PDF](hhsinping.github.io/svs/link/paper.pdf)] [[Project](hhsinping.github.io/svs/index.htm)]  
 
 **Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
 *Tewodros Habtegebrial, Varun Jampani, Orazio Gallo, Didier Stricker.*<br>
@@ -524,6 +531,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Mesh Guided One-shot Face Reenactment using Graph Convolutional Networks.**<br>
+*Guangming Yao, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.07783)]
 
 **Learning to Generate Diverse Dance Motions with Transformer.**<br>
 *Jiaman Li, Yihang Yin, Hang Chu, Yi Zhou, Tingwu Wang, Sanja Fidler, Hao Li.*<br>

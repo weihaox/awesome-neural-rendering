@@ -132,7 +132,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
 
 **Reconstructing NBA Players.**<br>
 *Luyang Zhu, Konstantinos Rematas, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13303)] [[Github](https://github.com/luyangzhu/NBA-Players)]
 
 **IPNet: Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.**<br>
 *Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
