@@ -186,7 +186,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
 *Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
 
-
 ### Human Motion and Dynamics 
 
 **iMoCap: Motion Capture from Internet Videos.**<br>
@@ -376,6 +375,19 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
 
+**UMR: Self-supervised Single-view 3D Reconstruction via Semantic Consistency.**<br>
+*[Xueting Li](https://sunshineatnoon.github.io/), [Sifei Liu](https://www.sifeiliu.net/), Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06473)] [[Project](https://sites.google.com/nvidia.com/unsup-mesh-2020)] [[Github](https://github.com/NVlabs/UMR)]
+
+
+**Learning Gradient Fields for Shape Generation.**<br>
+*Ruojin Cai, Guandao Yang, Hadar Averbuch-Elor, Zekun Hao, Serge Belongie, Noah Snavely, Bharath Hariharan.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480375.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480375-supp.pdf)]
+
+**Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop.**<br> 
+*Benjamin Biggs, Oliver Boyne, James Charles, Andrew Fitzgibbon, Roberto Cipolla.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560188.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560188-supp.zip)]
+
 **Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images.**<br>
 *Jiahui Lei, Srinath Sridhar, Paul Guerrero, Minhyuk Sung, Niloy Mitra, Leonidas J. Guibas.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07760)]
@@ -499,6 +511,10 @@ arxiv, 28 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12674)]
 **Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.**<br>
 *Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SUMO/Shin_Multi-layer_Depth_and_Epipolar_Feature_Transformers_for_3D_Scene_Reconstruction_CVPRW_2019_paper.pdf)]
+
+**Image-to-Voxel Model Translation for 3D Scene Reconstruction and Segmentation.**<br>
+*Vladimir V. Kniaz, Vladimir A. Knyaz, Fabio Remondino, Artem Bordodymov, Petr Moshkantsev.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520103.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520103-supp.zip)]
 
 **SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization.**<br>
 *Yue Jiang, Dantong Ji, Zhizhong Han, Matthias Zwicker.*<br>

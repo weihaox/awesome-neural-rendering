@@ -113,6 +113,14 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)]
 
 ## Semantic Photo Synthesis and Manipulation
 
+**StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
+*Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
+Siggraph Asia 2020. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
+
+**Layered Neural Rendering for Retiming People in Video.**<br>
+*Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
+
 **Neural Hair Rendering.**<br>
 *[Menglei Chai](mlchai.com), Jian Ren, Sergey Tulyakov.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13297)]
@@ -339,6 +347,26 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**Rotationally-Temporally Consistent Novel-View Synthesis of Human Performance Video.**<br> 
+*Youngjoong Kwon, Stefano Petrangeli, Dahun Kim, Haoliang Wang, Eunbyung Park, Viswanathan Swaminathan, Henry Fuchs.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490375-supp.zip)]
+
+**A Recurrent Transformer Network for Novel View Action Synthesis.**<br> 
+*Kara Marie Schatz, Erik Quintanilla, Shruti Vyas, Yogesh S Rawat.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720409.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720409-supp.zip)]
+
+**MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images.**<br> 
+*Benjamin Attal, Selena Ling, Aaron Gokaslan, Christian Richardt, James Tompkin.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460426.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460426-supp.zip)]
+
+**Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder.**<br> 
+*Mingyu Yin, Li Sun, Qingli Li.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730086.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730086-supp.pdf)]
+
+**Deep Multi Depth Panoramas for View Synthesis.**<br>
+*Kai-En Lin, Zexiang Xu, Ben Mildenhall, Pratul P. Srinivasan, Yannick Hold-Geoffroy, Stephen DiVerdi, Qi Sun, Kalyan Sunkavalli, Ravi Ramamoorthi.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580324.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580324-supp.zip)]
 
 **Semantic View Synthesis.**</br>
 ECCV 2020. [[PDF](hhsinping.github.io/svs/link/paper.pdf)] [[Project](hhsinping.github.io/svs/index.htm)]  
@@ -657,6 +685,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.gi
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs.washington.edu/projects/wakeup/)]
 
 ## Fluid and Smoke Simulation
+
+**3D Fluid Flow Reconstruction Using Compact Light Field PIV.**<br>
+*Zhong Li, Yu Ji, Jingyi Yu, Jinwei Ye.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120-supp.zip)]
 
 **Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces.**<br>
 *Tomas Skrivan, Andreas Soderstrom, John Johansson, Christoph Sprenger, Ken Museth, [Chris Wojtan](http://pub.ist.ac.at/group_wojtan/index.html).*<br>

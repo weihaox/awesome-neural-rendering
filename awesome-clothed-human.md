@@ -94,6 +94,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**BLSM: A Bone-Level Skinned Model of the Human Mesh.**<br>
+*Haoyang Wang, Riza Alp Güler, Iasonas Kokkinos, George Papandreou, Stefanos Zafeiriou.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500001.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500001-supp.zip)]
+
 **STAR: Sparse Trained Articulated Human Body Regressor.**<br>
 *Ahmed A. A. Osman, Timo Bolkart, Michael J. Black.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08535)] [[Project](http://star.is.tue.mpg.de/)]
@@ -263,6 +267,10 @@ AdvML 2020, KDD workshop. [[PDF](https://arxiv.org/abs/2007.10947)]
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 
 ## Image-Based Virtual Try-On
+
+**Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On.**<br>
+*Raquel Vidaurre, Igor Santesteban, Elena Garces, Dan Casas.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.04592)] [[Project](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn)]
 
 **Learning Color Compatibility in Fashion Outfits.**<br>
 *Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
