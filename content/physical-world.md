@@ -5,21 +5,41 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 
 ## Table of Contents
 - [Hidden Surface or Object Reasoning](#hidden-surface-or-object-reasoning)
-- [Differentiable Physics-Based Simulation](#differentiable-physics-based-simulation)
+- [Differentiable Physics-Based Simulation and Simulation Platform](#differentiable-physics-based-simulation-and-simulation-platform)
 - [Scene Understanding](#scene-understanding)
-- [Human Activity and Action Understanding](#human-activity-and-action-understanding)
 - [Decomposition and Disentanglement](#decomposition-and-disentanglement)
-- [Reconstruction of Transparent Shapes or Thin Structure](#reconstruction-of-transparent-shapes-or-thin-structure)
-- [Human Reconstruction: Face, Pose, Shape, Dynamic](#human-reconstruction--face--pose--shape--dynamic)
-- [2D to 3D Convertion](#2d-to-3d-convertion)
-- [Face, Hand and Object Modeling](#face--hand-and-object-modeling)
-- [Object Skeletonization](#object-skeletonization)
-- [Shape and Viewpoint](#shape-and-viewpoint)
-- [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
+- [Human Reconstruction: Tissue, Pose, Shape, Dynamic](#human-reconstruction--tissue--pose--shape--dynamic)
+  * [Soft-tissue Dynamics](#soft-tissue-dynamics)
+  * [Generating 3D People in Scenes](#generating-3d-people-in-scenes)
+  * [Shape Interpolation](#shape-interpolation)
+  * [3D Pose Transfer](#3d-pose-transfer)
+  * [Human Activity and Action Understanding](#human-activity-and-action-understanding)
+  * [Human Motion and Dynamics](#human-motion-and-dynamics)
+  * [Human Tissue](#human-tissue)
+    + [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
+    + [Face Reconstruction and Animation](#face-reconstruction-and-animation)
+    + [Hand Reconstruction](#hand-reconstruction)
+  * [Human Poses and Shapes](#human-poses-and-shapes)
+- [Object Modeling](#object-modeling)
+  * [Reconstruction of Transparent Shapes or Thin Structure](#reconstruction-of-transparent-shapes-or-thin-structure)
+  * [General Object Reconstruction](#general-object-reconstruction)
+  * [Object Skeletonization](#object-skeletonization)
+  * [Shape and Viewpoint](#shape-and-viewpoint)
 - [Pose Estimation](#pose-estimation)
+- [2D to 3D Convertion](#2d-to-3d-convertion)
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [Depth Estimation](#depth-estimation)
+  * [Dynamic Object](#dynamic-object)
+  * [Accurate Edge](#accurate-edge)
+  * [Depth From Video (Depth, Normal and Camera Motion Estimation)](#depth-from-video--depth--normal-and-camera-motion-estimation-)
+  * [Depth with ToF](#depth-with-tof)
+  * [Temporal- and Scale-Consistent Depth Estimation](#temporal--and-scale-consistent-depth-estimation)
+  * [Depth and Related Tasks](#depth-and-related-tasks)
 - [Learning Temporal Information from Videos](#learning-temporal-information-from-videos)
+  * [FastSlow, Multiple Stream and Temporal Pyramid](#fastslow--multiple-stream-and-temporal-pyramid)
+  * [3D convolutions (C3D)](#3d-convolutions--c3d-)
+  * [Flow](#flow)
+  * [2DCNN + LSTM (Temporal Block)](#2dcnn---lstm--temporal-block-)
 - [Misc (Speediness, Trajectories)](#misc--speediness--trajectories-)
 - [Team and People](#team-and-people)
 - [Good Start of 3D Resources (Python)](#good-start-of-3d-resources--python-)
@@ -108,18 +128,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03967)]
 *Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12212)]
 
-## Human Activity and Action Understanding
-
-HAKE: Human Activity Knowledge Engine. [MVIG](http://hake-mvig.cn/home/) - Shanghai Jiao Tong University.
-
-**Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
-*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
-
-**PaStaNet: Toward Human Activity Knowledge Engine.**<br>
-*Yong-Lu Li, Liang Xu, Xinpeng Liu, Xijie Huang, Yue Xu, Shiyi Wang, Hao-Shu Fang, Ze Ma, Mingyang Chen, Cewu Lu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.cn/)]
-
 ## Decomposition and Disentanglement
 
 **Physics-based Shading Reconstruction for Intrinsic Image Decomposition.**<br>
@@ -142,25 +150,8 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11284)] [[Project](https://anonymou
 *Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
 
-## Reconstruction of Transparent Shapes or Thin Structure
+## Human Reconstruction: Tissue, Pose, Shape, Dynamic
 
-**GeLaTO: Generative Latent Textured Objects.**<br>
-*Ricardo Martin-Brualla, Rohit Pandey, Sofien Bouaziz, Matthew Brown, Dan B Goldman.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04852)] [[Project](https://gelato-paper.github.io/)]
-
-**Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video.**<br>
-*Peng Wang, Lingjie Liu, Nenglun Chen, Hung-Kuo Chu, Christian Theobalt, Wenping Wang.*<br>
-SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)] [[Github](https://github.com/Totoro97/Vid2Curve)]
-
-**ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
-*Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
-[[PDF](https://arxiv.org/abs/1910.02550)] [[Github](https://github.com/Shreeyak/cleargrasp)] [[Project](https://sites.google.com/view/cleargrasp)]
-
-**Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes.**<br>
-*Zhengqin Li, Yu-Ying Yeh, Manmohan Chandraker.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
-
-## Human Reconstruction: Face, Pose, Shape, Dynamic
 [[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]
 
 ### Soft-tissue Dynamics
@@ -170,6 +161,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.github.io/docs/santesteban_Eurographics2020.pdf)] [[Project](http://dancasas.github.io/projects/SoftSMPL)]
 
 ### Generating 3D People in Scenes
+
 **PSI: Generating 3D People in Scenes without People.**<br>
 *Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02923)] [[Project](https://ps.is.tuebingen.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints)] [[Github](https://github.com/yz-cnsdqz/PSI-release)]
@@ -185,6 +177,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05199)]
 **Neural Pose Transfer by Spatially Adaptive Instance Normalization.**<br>
 *Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
+
+### Human Activity and Action Understanding
+
+HAKE: Human Activity Knowledge Engine. [MVIG](http://hake-mvig.cn/home/) - Shanghai Jiao Tong University.
+
+**Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
+*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
+
+**PaStaNet: Toward Human Activity Knowledge Engine.**<br>
+*Yong-Lu Li, Liang Xu, Xinpeng Liu, Xijie Huang, Yue Xu, Shiyi Wang, Hao-Shu Fang, Ze Ma, Mingyang Chen, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.cn/)]
 
 ### Human Motion and Dynamics 
 
@@ -239,6 +243,122 @@ SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](
 **Superpixel Soup: Monocular Dense 3D Reconstruction of a Complex Dynamic Scene.**<br>
 *Suryansh Kumar, Yuchao Dai, Hongdong Li.*<br>
 TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
+
+### Human Tissue
+
+#### Hair Segmentation and Reconstruction
+
+**Dynamic Hair Modeling from Monocular Videos using Deep Neural Networks.**<br>
+*Lingchen Yang, Zefeng Shi, [Youyi Zheng](http://youyizheng.net/research.html), [Kun Zhou](http://kunzhou.net/).*<br>
+ACM Transactions on Graphics (SIGGRAPH ASIA 2019). [[PDF](http://www.cad.zju.edu.cn/home/zyy/docs/dynamic_hair.pdf)]
+
+**Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks.**<br>
+*Meng Zhang, Youyi Zheng.*<br>
+Visual Informatics 2019. [[PDF](http://www.cad.zju.edu.cn/home/zyy/docs/hairgan_final.pdf)]
+
+**Semantic Soft Segmentation.**<br>
+*Yagiz Aksoy, Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
+ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://yaksoy.github.io/papers/TOG18-sss-supp.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github](https://github.com/yaksoy/SemanticSoftSegmentation)] 
+
+**Learning-based Sampling for Natural Image Matting.**<br>
+*Jingwei Tang, Yagiz Aksoy, Cengiz Oztireli, Markus Gross, and Tunc Ozan Aydin.*<br>
+CVPR, 2019. [[PDF](http://yaksoy.github.io/papers/CVPR19-samplenet.pdf)] [[Project](http://yaksoy.github.io/samplenet/)] 
+
+**Soft Segmentation of Images.**<br>
+*Yagiz Aksoy.*<br>
+PhD Thesis, ETH Zurich, 2019. [[PDF](http://yaksoy.github.io/papers/ETH19-PhD-Aksoy.pdf)] [[Project](yaksoy.github.io/ssi/)]
+
+**3D Hair Synthesis Using Volumetric Variational Autoencoders.**<br>
+*Shunsuke Saito, Liwen Hu, Chongyang Ma, Hikaru Ibayashi, Linjie Luo, Hao Li.*<br>
+ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/publications/papers/siggraphAsia2018PAGAN.pdf)]
+
+**HairNet: Single-View Hair Reconstruction using Convolutional Neural Networks.**<br>
+*Yi Zhou, Liwen Hu, Jun Xing, Weikai Chen, Han-Wei Kung, Xin Tong, Hao Li.*<br>
+2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](http://t.cn/AiBvbwNK)] 
+
+#### Face Reconstruction and Animation
+
+**Towards Fast, Accurate and Stable 3D Dense Face Alignment.**<br>
+*Jianzhu Guo, Xiangyu Zhu, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.09960)] [[Github](https://github.com/cleardusk/3DDFA_V2)]
+
+**Audio- and Gaze-driven Facial Animation of Codec Avatars.**<br>
+*Alexander Richard, Colin Lea, Shugao Ma, Juergen Gall, Fernando de la Torre, Yaser Sheikh.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.05023)] [[Project](https://research.fb.com/videos/audio-and-gaze-driven-facial-animation-of-codec-avatars/)]
+
+**TBGAN: Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks.**<br>
+*Baris Gecer, Alexander Lattas, Stylianos Ploumpis, Jiankang Deng, Athanasios Papaioannou, Stylianos Moschoglou, Stefanos Zafeiriou.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1909.02215)] [[Project](https://github.com/barisgecer/TBGAN)]
+
+**Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
+*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
+
+**Deep 3D Portrait from a Single Image.**<br>
+*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
+
+**Adaptive 3D Face Reconstruction from a Single Image.**<br>
+*Kun Li, Jing Yang, Nianhong Jiao, Jinsong Zhang, Yu-Kun Lai.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03979)]
+
+**Real-Time Monocular 4D Face Reconstruction using the LSFM Models.**<br>
+*Mohammad Rami Koujan, Nikolai Dochev, Anastasios Roussos.*<br>
+ACM SIGGRAPH European Conference on Visual Media Production 2020. [[PDF](https://arxiv.org/abs/2006.10499)]
+
+**FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction.**<br>
+*Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13989)] [[Github](https://github.com/zhuhao-nju/facescape)]
+
+**A Morphable Face Albedo Model.**<br>
+*William A.P. Smith, Alassane Seck, Hannah Dee, Bernard Tiddeman, Joshua Tenenbaum, Bernhard Egger.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02711)]
+
+**Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images.**<br>
+*Hang Zhou, Jihao Liu, Ziwei Liu, Yu Liu, Xiaogang Wang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08124)] [[Github](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)]
+
+**Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks.**<br>
+*Jiangke Lin, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05653)]
+
+**Semi-Supervised Monocular 3D Face Reconstruction With End-to-End Shape-Preserved Domain Transfer.**<br>
+*Jingtan Piao, Chen Qian, Hongsheng Li.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Semi-Supervised_Monocular_3D_Face_Reconstruction_With_End-to-End_Shape-Preserved_Domain_Transfer_ICCV_2019_paper.pdf)]
+
+**FML: Face Model Learning From Video.**<br>
+*A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H-P. Seidel, P. Perez, M. Zollhöfer, C.Theobalt.*  <br>
+CVPR 2019. [[PDF](http://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf)] [[MPI Informatics, Saarland Informatics Campus](http://www.mpi-inf.mpg.de/home/)] [[Project](gvv.mpi-inf.mpg.de/projects/FML19)] 
+
+**FacePSNet: Lightweight Photometric Stereo for Facial Details Recovery.**<br>
+*Xueying Wang, Yudong Guo, Bailin Deng, Juyong Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12307)] [[Github](https://github.com/Juyong/FacePSNet)]
+
+**High Accuracy Face Geometry Capture using a Smartphone Video.**<br>
+*Shubham Agrawal, Anuj Pahuja, Simon Lucey.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2003.08583)]
+
+**AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild".**<br>
+*Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)] [[Github](http://github.com/lattas/AvatarMe)]
+
+#### Hand Reconstruction
+
+**HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map.**<br>
+*Jameel Malik, Ibrahim Abdelaziz, Ahmed Elhayek, Soshi Shimada, Sk Aziz Ali, Vladislav Golyanik, Christian Theobalt, Didier Stricker.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01588)]
+
+**Learning Joint Reconstruction of Hands and Manipulated Objects.**<br>
+*Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05767)] [[Project](https://hassony2.github.io/obman.html)] [[ObMan dataset](https://github.com/hassony2/obman)] [[Github](https://github.com/hassony2/obman_train)]
+
+**Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction.**<br>
+*Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13449)] [[Project](https://hassony2.github.io/handobjectconsist.html)]
+
+**DeepHandMesh: A Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling.**<br>
+*Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08213)] [[Project](https://mks0601.github.io/DeepHandMesh/)]
 
 ### Human Poses and Shapes
 
@@ -356,7 +476,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.08804)] [[Github](http://www.robots
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng.*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub](https://github.com/bmild/nerf)]
+arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Github](https://github.com/bmild/nerf)]
 
 **View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
@@ -371,14 +491,33 @@ SIGGRAPH Asia 2018.
 *[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
 SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
 
-## Face, Hand and Object Modeling
+## Object Modeling
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
+
+### Reconstruction of Transparent Shapes or Thin Structure
+
+**GeLaTO: Generative Latent Textured Objects.**<br>
+*Ricardo Martin-Brualla, Rohit Pandey, Sofien Bouaziz, Matthew Brown, Dan B Goldman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04852)] [[Project](https://gelato-paper.github.io/)]
+
+**Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video.**<br>
+*Peng Wang, Lingjie Liu, Nenglun Chen, Hung-Kuo Chu, Christian Theobalt, Wenping Wang.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)] [[Github](https://github.com/Totoro97/Vid2Curve)]
+
+**ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
+*Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
+[[PDF](https://arxiv.org/abs/1910.02550)] [[Github](https://github.com/Shreeyak/cleargrasp)] [[Project](https://sites.google.com/view/cleargrasp)]
+
+**Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes.**<br>
+*Zhengqin Li, Yu-Ying Yeh, Manmohan Chandraker.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
+
+### General Object Reconstruction
 
 **UMR: Self-supervised Single-view 3D Reconstruction via Semantic Consistency.**<br>
 *[Xueting Li](https://sunshineatnoon.github.io/), [Sifei Liu](https://www.sifeiliu.net/), Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06473)] [[Project](https://sites.google.com/nvidia.com/unsup-mesh-2020)] [[Github](https://github.com/NVlabs/UMR)]
-
 
 **Learning Gradient Fields for Shape Generation.**<br>
 *Ruojin Cai, Guandao Yang, Hadar Averbuch-Elor, Zekun Hao, Serge Belongie, Noah Snavely, Bharath Hariharan.*<br>
@@ -391,14 +530,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12356
 **Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images.**<br>
 *Jiahui Lei, Srinath Sridhar, Paul Guerrero, Minhyuk Sung, Niloy Mitra, Leonidas J. Guibas.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07760)]
-
-**DeepHandMesh: A Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling.**<br>
-*Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08213)] [[Project](https://mks0601.github.io/DeepHandMesh/)]
-
-**Audio- and Gaze-driven Facial Animation of Codec Avatars.**<br>
-*Alexander Richard, Colin Lea, Shugao Ma, Juergen Gall, Fernando de la Torre, Yaser Sheikh.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.05023)] [[Project](https://research.fb.com/videos/audio-and-gaze-driven-facial-animation-of-codec-avatars/)]
 
 **MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement.**<br>
 *Rinon Gal, Amit Bermano, Hao Zhang, Daniel Cohen-Or.*<br>
@@ -416,57 +547,17 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13727)] [[Github](https://jasonqsy.
 *Yuan Yao, Nico Schertler, Enrique Rosales, Helge Rhodin, Leonid Sigal, Alla Sheffer.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.10589)]
 
-**TBGAN: Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks.**<br>
-*Baris Gecer, Alexander Lattas, Stylianos Ploumpis, Jiankang Deng, Athanasios Papaioannou, Stylianos Moschoglou, Stefanos Zafeiriou.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/1909.02215)] [[Project](https://github.com/barisgecer/TBGAN)]
-
-**Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
-*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
-
-**Deep 3D Portrait from a Single Image.**<br>
-*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
-
-**Adaptive 3D Face Reconstruction from a Single Image.**<br>
-*Kun Li, Jing Yang, Nianhong Jiao, Jinsong Zhang, Yu-Kun Lai.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03979)]
-
 **Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images.**<br>
 *Haozhe Xie, Hongxun Yao, Shengping Zhang, Shangchen Zhou, Wenxiu Sun.*<br>
 IJCV 2020. [[PDF](https://arxiv.org/abs/2006.12250)]
-
-**Real-Time Monocular 4D Face Reconstruction using the LSFM Models.**<br>
-*Mohammad Rami Koujan, Nikolai Dochev, Anastasios Roussos.*<br>
-ACM SIGGRAPH European Conference on Visual Media Production 2020. [[PDF](https://arxiv.org/abs/2006.10499)]
-
-**Learning to Detect 3D Reflection Symmetry for Single-View Reconstruction.**<br>
-*Yichao Zhou, Shichen Liu, Yi Ma.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10042)]
-
-**Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction.**<br>
-*Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13449)] [[Project](https://hassony2.github.io/handobjectconsist.html)]
-
-**FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction.**<br>
-*Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13989)] [[Github](https://github.com/zhuhao-nju/facescape)]
 
 **Learning Generative Models of Shape Handles.**<br>
 *Matheus Gadelha, Giorgio Gori, Duygu Ceylan, Radomir Mech, Nathan Carr, Tamy Boubekeur, Rui Wang, Subhransu Maji.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03028)]
 
-**A Morphable Face Albedo Model.**<br>
-*William A.P. Smith, Alassane Seck, Hannah Dee, Bernard Tiddeman, Joshua Tenenbaum, Bernhard Egger.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02711)]
-
-**HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map.**<br>
-*Jameel Malik, Ibrahim Abdelaziz, Ahmed Elhayek, Soshi Shimada, Sk Aziz Ali, Vladislav Golyanik, Christian Theobalt, Didier Stricker.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01588)]
-
-**AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild".**<br>
-*Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)] [[Github](http://github.com/lattas/AvatarMe)]
+**Learning to Detect 3D Reflection Symmetry for Single-View Reconstruction.**<br>
+*Yichao Zhou, Shichen Liu, Yi Ma.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10042)]
 
 **DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes.**<br>
 *Mahyar Najibi, Guangda Lai, Abhijit Kundu, Zhichao Lu, Vivek Rathod, Tom Funkhouser, Caroline Pantofaru, David Ross, Larry S. Davis, Alireza Fathi.*<br>
@@ -476,14 +567,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01170)]
 *Cheng Lin, Tingxiang Fan, Wenping Wang, Matthias Nießner.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12397)]
 
-**FacePSNet: Lightweight Photometric Stereo for Facial Details Recovery.**<br>
-*Xueying Wang, Yudong Guo, Bailin Deng, Juyong Zhang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12307)] [[Github](https://github.com/Juyong/FacePSNet)]
-
-**High Accuracy Face Geometry Capture using a Smartphone Video.**<br>
-*Shubham Agrawal, Anuj Pahuja, Simon Lucey.*<br>
-WACV 2020. [[PDF](https://arxiv.org/abs/2003.08583)]
-
 **SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images.**<br>
 *Yifei Shi, Junwen Huang, Hongjia Zhang, Xin Xu, Szymon Rusinkiewicz, Kai Xu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00485)]
@@ -492,17 +575,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00485)]
 *[Shangzhe Wu](https://elliottwu.com/), Christian Rupprecht, Andrea Vedaldi.*<br>
 CVPR 2020 Best Paper. [[PDF](https://arxiv.org/abs/1911.11130)] [[Project](https://elliottwu.com/projects/unsup3d/)]
 
-**Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images.**<br>
-*Hang Zhou, Jihao Liu, Ziwei Liu, Yu Liu, Xiaogang Wang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08124)] [[Github](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)]
-
 **Self-supervised Single-view 3D Reconstruction via Semantic Consistency.**<br>
 *Xueting Li, Sifei Liu, Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz.*<br>
 arxiv, 13 Mar 2020. [[PDF](https://arxiv.org/abs/2003.06473)] [[Project](https://sites.google.com/view/unsup-mesh/home)]
-
-**Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks.**<br>
-*Jiangke Lin, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05653)]
 
 **Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data.**<br>
 *Sebastian Lunz, Yingzhen Li, Andrew Fitzgibbon, Nate Kushman.*<br>
@@ -524,24 +599,12 @@ arxiv, 15 Dec 2019. [[PDF](https://arxiv.org/abs/1912.07109)]
 *Yichao Zhou, [Haozhi Qi](https://people.eecs.berkeley.edu/~hqi/), Yuexiang Zhai, Qi Sun, Zhili Chen, [Li-Yi Wei](https://research.adobe.com/person/li-yi-wei/), [Yi Ma](https://people.eecs.berkeley.edu/~yima/).*<br>
 ICCV 2019. [[PDF](https://people.eecs.berkeley.edu/~hqi/)] [[Video Demonstration](https://youtu.be/l3sUtddPJPY)]
 
-**Semi-Supervised Monocular 3D Face Reconstruction With End-to-End Shape-Preserved Domain Transfer.**<br>
-*Jingtan Piao, Chen Qian, Hongsheng Li.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Semi-Supervised_Monocular_3D_Face_Reconstruction_With_End-to-End_Shape-Preserved_Domain_Transfer_ICCV_2019_paper.pdf)]
-
-**Learning Joint Reconstruction of Hands and Manipulated Objects.**<br>
-*Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05767)] [[Project](https://hassony2.github.io/obman.html)] [[ObMan dataset](https://github.com/hassony2/obman)] [[Github](https://github.com/hassony2/obman_train)]
-
 **Facial Details Synthesis From Single Input Image.**<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1903.10873)] [[Supplemental Material](https://github.com/apchenstu/Facial_Details_Synthesis/blob/master/src/imgs/Supplemental_Material.pdf)] [[Github](https://github.com/apchenstu/Facial_Details_Synthesis)]
 
 **Photo-Realistic Facial Details Synthesis from Single Image.**<br>
 *Anpei Chen, Zhang Chen, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1903.10873)] [[Supplemental Material](https://github.com/apchenstu/Facial_Details_Synthesis/blob/master/src/imgs/Supplemental_Material.pdf)] [[Github](https://github.com/apchenstu/Facial_Details_Synthesis)]
-
-**FML: Face Model Learning From Video.**<br>
-*A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H-P. Seidel, P. Perez, M. Zollhöfer, C.Theobalt.*  <br>
-CVPR 2019. [[PDF](http://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf)] [[MPI Informatics, Saarland Informatics Campus](http://www.mpi-inf.mpg.de/home/)] [[Project](gvv.mpi-inf.mpg.de/projects/FML19)] 
 
 **Unsupervised 3D Reconstruction Networks.**<br>
 *Geonho Cha, Minsik Lee, Songhwai Oh.*<br>
@@ -555,13 +618,13 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pinheiro
 *Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1711.07566)] [[Project](http://hiroharu-kato.com/projects_en/neural_renderer.html)] [[Github](https://github.com/hiroharu-kato/neural_renderer)]
 
-## Object Skeletonization
+### Object Skeletonization
 
 **Image Co-skeletonization via Co-segmentation.**<br>
 *Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2004.05575)]
 
-## Shape and Viewpoint
+### Shape and Viewpoint
 
 **Novel Object Viewpoint Estimation through Reconstruction Alignment.**<br>
 *Mohamed El Banani, Jason J. Corso, David F. Fouhey.*<br>
@@ -574,36 +637,6 @@ IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
 **Self-Supervised Viewpoint Learning From Image Collections.**<br>
 *Siva Karthik Mustikovela, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01793)]
-
-## Hair Segmentation and Reconstruction
-
-**Dynamic Hair Modeling from Monocular Videos using Deep Neural Networks.**<br>
-*Lingchen Yang, Zefeng Shi, [Youyi Zheng](http://youyizheng.net/research.html), [Kun Zhou](http://kunzhou.net/).*<br>
-ACM Transactions on Graphics (SIGGRAPH ASIA 2019). [[PDF](http://www.cad.zju.edu.cn/home/zyy/docs/dynamic_hair.pdf)]
-
-**Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks.**<br>
-*Meng Zhang, Youyi Zheng.*<br>
-Visual Informatics 2019. [[PDF](http://www.cad.zju.edu.cn/home/zyy/docs/hairgan_final.pdf)]
-
-**Semantic Soft Segmentation.**<br>
-*Yagiz Aksoy, Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
-ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://yaksoy.github.io/papers/TOG18-sss-supp.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github](https://github.com/yaksoy/SemanticSoftSegmentation)] 
-
-**Learning-based Sampling for Natural Image Matting.**<br>
-*Jingwei Tang, Yagiz Aksoy, Cengiz Oztireli, Markus Gross, and Tunc Ozan Aydin.*<br>
-CVPR, 2019. [[PDF](http://yaksoy.github.io/papers/CVPR19-samplenet.pdf)] [[Project](http://yaksoy.github.io/samplenet/)] 
-
-**Soft Segmentation of Images.**<br>
-*Yagiz Aksoy.*<br>
-PhD Thesis, ETH Zurich, 2019. [[PDF](http://yaksoy.github.io/papers/ETH19-PhD-Aksoy.pdf)] [[Project](yaksoy.github.io/ssi/)]
-
-**3D Hair Synthesis Using Volumetric Variational Autoencoders.**<br>
-*Shunsuke Saito, Liwen Hu, Chongyang Ma, Hikaru Ibayashi, Linjie Luo, Hao Li.*<br>
-ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/publications/papers/siggraphAsia2018PAGAN.pdf)]
-
-**HairNet: Single-View Hair Reconstruction using Convolutional Neural Networks.**<br>
-*Yi Zhou, Liwen Hu, Jun Xing, Weikai Chen, Han-Wei Kung, Xin Tong, Hao Li.*<br>
-2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](http://t.cn/AiBvbwNK)] 
 
 ## Pose Estimation
 
@@ -1017,7 +1050,6 @@ ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tin
 CVPR 2019. 
 [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf)] 
 [[Github](https://github.com/facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D)]
-
 
 ## Misc (Speediness, Trajectories)
 
