@@ -1081,6 +1081,153 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09760)]
 *Liangji Fang, Qinhong Jiang, Jianping Shi, Bolei Zhou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.12255)]
 
+
+## Gaze Estimation, Tracking, Redirection, Correction and Blink Detection
+
+[[Awesome Work on Gaze Estimation.](https://github.com/cvlab-uob/Awesome-Gaze-Estimation)]
+
+ICCV 2019 WorkShop: [Gaze Estimation and Prediction in the Wild](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_GAZE.py) [[Homepage](http://gazeworkshop.github.io/)]
+
+* A Generalized and Robust Method Towards Practical Gaze Estimation on Smart Phone. [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Guo_A_Generalized_and_Robust_Method_Towards_Practical_Gaze_Estimation_on_ICCVW_2019_paper.pdf)
+Tianchu Guo, Yongchao Liu, Hui Zhang, Xiabing Liu, Youngjun Kwak, Byung In Yoo, Jae-Joon Han, Changkyu Choi.
+
+* Learning to Personalize in Appearance-Based Gaze Tracking. [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Linden_Learning_to_Personalize_in_Appearance-Based_Gaze_Tracking_ICCVW_2019_paper.pdf)
+Erik Linden, Jonas Sjostrand, Alexandre Proutiere.
+
+* On-Device Few-Shot Personalization for Real-Time Gaze Estimation. [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/He_On-Device_Few-Shot_Personalization_for_Real-Time_Gaze_Estimation_ICCVW_2019_paper.pdf)
+Junfeng He, Khoi Pham, Nachiappan Valliappan, Pingmei Xu, Chase Roberts, Dmitry Lagun, Vidhya Navalpakkam.
+
+* RT-BENE: A Dataset and Baselines for Real-Time Blink Estimation in Natural Environments. [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Cortacero_RT-BENE_A_Dataset_and_Baselines_for_Real-Time_Blink_Estimation_in_ICCVW_2019_paper.pdf)
+Kevin Cortacero, Tobias Fischer, Yiannis Demiris.
+
+* SalGaze: Personalizing Gaze Estimation using Visual Saliency. [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Chang_SalGaze_Personalizing_Gaze_Estimation_using_Visual_Saliency_ICCVW_2019_paper.pdf)
+Zhuoqing Chang, J. Matias Di Martino, Qiang Qiu, Steven Espinosa, Guillermo Sapiro.
+
+### Gaze Dataset
+
+**ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation.**<br>
+*Xucong Zhang, Seonwook Park, Thabo Beeler, Derek Bradley, Siyu Tang, Otmar Hilliges.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15837)] [[ETH-XGaze](https://ait.ethz.ch/projects/2020/ETH-XGaze)]
+
+**Columbia Gaze Data Set: Gaze Locking: Passive Eye Contact Detection for Human–Object Interaction.**<br>
+*Brian A. Smith,  Qi Yin,  Steven K. Feiner,  Shree K. Nayar.*<br>
+ACM Symposium on User Interface Software and Technology (UIST), 2013. [[PDF](http://www.cs.columbia.edu/~brian/publications/gaze_locking.html)] [[Columbia Gaze Data Set](http://www.cs.columbia.edu/CAVE/databases/columbia_gaze/)]
+
+**GazeCapture: Eye Tracking for Everyone.**<br>
+*Kyle Krafka*, Aditya Khosla*, Petr Kellnhofer, Harini Kannan, Suchendra Bhandarkar, Wojciech Matusik, Antonio Torralba.*<br>
+CVPR 2016. [[PDF](https://gazecapture.csail.mit.edu/)] [[GazeCapture](https://gazecapture.csail.mit.edu/)] [[Github](https://github.com/CSAILVision/GazeCapture)]
+
+**MPIIGaze: Appearance-based Gaze Estimation in the Wild.**<br>
+*Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling.*<br>
+CVPR 2015. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf)] [[MPIIGaze Dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild/)] [[Max Planck Institute for Informatics](www.mpi-inf.mpg.de/)]
+
+**MPIIFaceGaze: It’s Written All Over Your Face: Full-Face Appearance-Based Gaze Estimation.**<br>
+*X. Zhang, Y. Sugano, M. Fritz and A. Bulling.*<br>
+CVPR Workshop, 2017. [[PDF]](https://perceptual.mpi-inf.mpg.de/files/2017/05/zhang_cvprw2017.pdf) [[Homepage]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/gaze-based-human-computer-interaction/its-written-all-over-your-face-full-face-appearance-based-gaze-estimation/) [MPIIFaceGaze [Original](http://datasets.d2.mpi-inf.mpg.de/MPIIGaze/MPIIFaceGaze.zip) or [Normalized](http://datasets.d2.mpi-inf.mpg.de/MPIIGaze/MPIIFaceGaze_normalized.zip)]
+
+**UT: Learning by Synthesis for Appearance-based 3D Gaze Estimation.**<br>
+*Yusuke Sugano, Yasuyuki Matsushita, Yoichi Sato.*<br>
+CVPR 2014. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Sugano_Learning-by-Synthesis_for_Appearance-based_2014_CVPR_paper.pdf)] [[UT Dataset](www.hci.iis.u-Tokyo.ac.jp/datasets)]
+
+**Monocular Free-head 3D Gaze Tracking with Deep Learning and Geometry Constraints.**
+*Haoping Deng, Wangjiang Zhu.*
+ICCV 2017. [[PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Monocular_Free-Head_3D_ICCV_2017_paper.pdf)]
+
+### Gaze Redirection and Correction
+
+**MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning.**<br> 
+*Jingjing Chen, Jichao Zhang, Jiayuan Fan, Tao Chen, Enver Sangineto, Nicu Sebe.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03064)]
+
+**GazeCorrection: Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks.**<br> 
+*Jichao Zhang, Meng Sun, Jingjing Chen, Hao Tang, Yan Yan, Xueying Qin, Nicu Sebe.*<br> 
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1906.00805)] [[Github](https://github.com/zhangqianhui/GazeCorrection)]
+
+**Look at Me! Correcting Eye Gaze in Live Video Communication.**<br> 
+*Chih-Fan Hsu, Yushuen  Wang, C.-L Lei, Kuan-Ta Chen.*<br> 
+TOMM (ACM Transactions on Multimedia Computing, Communications, and Applications). [[PDF](https://dl.acm.org/doi/10.1145/3311784)] [[Github](https://github.com/chihfanhsu/gaze_correction)]
+
+**Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks.**<br>
+*Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges ([AIT Lab, ETH Zurich](https://ait.ethz.ch/)).*<br> 
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Photo-Realistic_Monocular_Gaze_Redirection_Using_Generative_Adversarial_Networks_ICCV_2019_paper.pdf)] [[Github](https://github.com/HzDmS/gaze_redirection)] [[Columbia Gaze Dataset](http://www.cs.columbia.edu/~brian/projects/columbia_gaze.html)] [[Processed](https://drive.google.com/file/d/1tE3QfFjxtRco4ruLZwYyUhjyYSp2QIJL/view?usp=sharing)]
+
+**Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis.**<br>
+*Yu Yu, Gang Liu, Jean-Marc Odobez.*<br>
+CVPR 2019. [[PDF](http://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.pdf)]
+
+**GazeDirector: Fully Articulated Eye Gaze Redirection in Video.**<br>
+*Erroll Wood, Tadas Baltrusaitis, Louis-Philippe Morency, Peter Robinson, Andreas Bulling.*<br>
+Eurographics 2018 (Best Paper Honourable Mention Award). [[PDF](https://perceptual.mpi-inf.mpg.de/files/2018/03/wood18_eg.pdf)] 
+
+**GazeGAN: Unpaired Adversarial Image Generation for Gaze Estimation.**<br>
+*Matan Sela, Pingmei Xu, Junfeng He, Vidhya Navalpakkam, Dmitry Lagun.*<br>
+2017. [[PDF](https://arxiv.org/abs/1711.09767)]
+
+**DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation.**<br>
+*Yaroslav Ganin, Daniil Kononenko, Diana Sungatullina, Victor Lempitsky.*<br>
+ECCV 2016. [[PDF](http://sites.skoltech.ru/compvision/projects/deepwarp/files/deepwarp_eccv2016.pdf)] [[Project](http://sites.skoltech.ru/compvision/projects/deepwarp/)]
+
+**Learning to look up: Realtime Monocular Gaze Correction using Machine Learning.**<br>
+CVPR 2015. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kononenko_Learning_To_Look_2015_CVPR_paper.pdf)] 
+
+**Gaze Correction for Home Video Conferencing.**<br>
+*C. Kuster, T. Popa, J.C. Bazin, C. Gotsman, M. Gross.*<br>
+ACM TOG 2012.  [[PDF](https://cgl.ethz.ch/disclaimer.php?dlurl=/Downloads/Publications/Papers/2012/Kus12/Kus12.pdf)] [[CGL ETHZ](https://cgl.ethz.ch/publications/papers/paperKus12.php)]
+
+**An Eye For An Eye: A Single Camera Gaze-Replacement Method.**<br>
+*[Lior Wolf](http://www.cs.tau.ac.il/~wolf/), Ziv Freund, Shai Avidan.*<br>
+CVPR 2010. [[PDF](http://www.cs.tau.ac.il/~wolf/papers/eyes_cameraready.pdf)] 
+
+**Eye Gaze Correction with Stereovision For Video-teleconferencing.**<br>
+*Ruigang Yang, Zhengyou Zhang.*<br>
+ECCV 2004. [[PDF](https://www.microsoft.com/en-us/research/publication/eye-gaze-correction-with-stereovision-for-video-teleconferencing/)]
+
+### Gaze Estimation
+
+**Learning to Detect Head Movement in Unconstrained Remote Gaze Estimation in the Wild.**<br>
+*Zhecan Wang, Jian Zhao, Cheng Lu, Han Huang, Fan Yang, Lianji Li, Yandong Guo.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2004.03737)]
+
+**FAZE: Few-Shot Adaptive Gaze Estimation.**<br>
+*Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf)] [[Preprocess](github.com/swook/faze_preprocess)] [[Github](https://github.com/NVlabs/few_shot_gaze)] [[ETH Zurich](https://ait.ethz.ch/projects/2019/faze/)] [[Nvidia](https://research.nvidia.com/publication/2019-10_Few-Shot-Adaptive-Gaze)]
+
+**Gaze360: Physically Unconstrained Gaze Estimation in the Wild.**<br>
+*Petr Kellnhofer*, Adrià Recasens*, Simon Stent, Wojciech Matusik, Antonio Torralba.*<br>
+ICCV 2019. [[PDF](http://gaze360.csail.mit.edu/iccv2019_gaze360.pdf)] [[Github](https://github.com/Erkil1452/gaze360)] [[Project](http://gaze360.csail.mit.edu)] [[Dataset](http://gaze360.csail.mit.edu/download.php)]
+
+**Mixed Effects Neural Networks (MeNets) With Applications to Gaze Estimation.**<br>
+*Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf)]
+
+**Deep Pictorial Gaze Estimation.**<br>
+*Seonwook Park, Adrian Spurr, Otmar Hilliges.*<br>
+ECCV 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seonwook_Park_Deep_Pictorial_Gaze_ECCV_2018_paper.pdf)] 
+
+**RTGENE: Real-Time Gaze Estimation in Natural Environments.**<br>
+*Tobias Fischer, Hyung Jin Chang,Yiannis Demiris.*<br>
+ECCV 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf)]
+[[Github](https://github.com/Tobias-Fischer/rt_gene)]
+
+### Eye Tracking
+
+**EVE: Towards End-to-end Video-based Eye-Tracking.**<br>
+*Seonwook Park, Emre Aksan, Xucong Zhang, Otmar Hilliges.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13120)] [[Project](https://ait.ethz.ch/projects/2020/EVE)]
+
+**Neuro-Inspired Eye Tracking With Eye Movement Dynamics.**<br>
+*Kang Wang, Hui Su, Qiang Ji.*<br>
+CVPR 2019. [[PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf)]
+
+**Generalizing Eye Tracking With Bayesian Adversarial Learning.**<br>
+*Kang Wang, Rui Zhao, Hui Su, Qiang Ji.*<br>
+CVPR 2019. [[PDF](https://www.semanticscholar.org/paper/Generalizing-Eye-Tracking-with-Bayesian-Adversarial-Wang-Zhao/77b9b6786699a236aad0c3fa3734730ece4a780f)]
+
+**EyeDiap: A Database For the Development and Evaluation of Gaze Estimation Algorithms from RGB and RGBD Cameras.**<br>
+*Kenneth Alberto Funes Mora, Florent Monay, Jeanmarc Odobez.*<br>
+ETRA 2014. [[PDF](http://www.idiap.ch/~odobez/publications/FunesMonayOdobez-ETRA2014.pdf)] [[Idiap Research Institute](https://www.idiap.ch)]
+
+
 ## Team and People
 
 [Real Virtual Humans](https://virtualhumans.mpi-inf.mpg.de), MPI-INF.
