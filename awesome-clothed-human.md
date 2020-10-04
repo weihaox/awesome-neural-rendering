@@ -22,6 +22,10 @@ Feedback and contributions are welcome!
 
 ## 3D People Dressing and Clothing Draping
 
+**Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People.**<br>
+*Akin Caliskan, Adrian Hilton.*<br>
+ACCV 2020. [[PDF](https://arxiv.org/abs/2009.14162)] [[Github](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)]
+
 **SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.**<br>
 *Garvita Tiwari, Bharat Lal Bhatnagar, Tony Tung, Gerard Pons-Moll.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11610)]
@@ -93,6 +97,10 @@ ACM Transactions on Graphics (TOG) 2012.
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video.**<br>
+*Donglai Xiang, Fabian Prada, Chenglei Wu, Jessica Hodgins.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.10711)]
 
 **BLSM: A Bone-Level Skinned Model of the Human Mesh.**<br>
 *Haoyang Wang, Riza Alp Güler, Iasonas Kokkinos, George Papandreou, Stefanos Zafeiriou.*<br>
