@@ -153,7 +153,11 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.co
 *Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan.*<br>
 VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
-## Texture and Surface Mapping
+## Texture and Surface Embedding or Mapping
+
+**Continuous Surface Embeddings.**<br>
+*Natalia Neverova, David Novotny, Marc Szafraniec, Vasil Khalidov, Patrick Labatut, Andrea Vedaldi.*<br>
+NerIPS 2020. [[PDF]()]
 
 **Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter.**<br>
 *Guilin Liu, Rohan Taori, Ting-Chun Wang, Zhiding Yu, Shiqiu Liu, Fitsum A. Reda, Karan Sapra, Andrew Tao, Bryan Catanzaro.*<br>

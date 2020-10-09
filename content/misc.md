@@ -56,7 +56,40 @@ CVPR 2019 Oral. [[PDF](https://arxiv.org/abs/1811.10092)]
 *Changan Chen, Unnat Jain, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, Kristen Grauman.*<br>
 arxiv, 24 Dec 2019. [[PDF](https://arxiv.org/abs/1912.11474)] [[Project](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)]
 
+## Reciprocal Computer Vision Tasks
 
+**DSNet: Joint Learning for Scene Segmentation and Disparity Estimation.**<br>
+*Wujing Zhan, Xinqi Ou, Yunyi Yang and Long Chen.*<br>
+ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8793573)] 
 
+**Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations.** <br> 
+*Vladimir Nekrasov, Thanuja Dharmasiri, Andrew Spek, Tom Drummond, Chunhua Shen, Ian Reid.*<br> 
+ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8794220)]
+
+**RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation.** <br>
+*Shaoru Wang, Yongchao Gong, Junliang Xing, Lichao Huang, Chang Huang, Weiming Hu.* <br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/1912.05070)] [[Github](https://github.com/wangsr126/RDSNet)]
+
+**MOTSFusion: Track to Reconstruct and Reconstruct to Track.**<br>
+*Jonathon Luiten, Tobias Fischer, Bastian Leibe.*<br>
+[[PDF](https://arxiv.org/abs/1910.00130v1)] [[Github](https://github.com/tobiasfshr/MOTSFusion)]
+
+**Cooperative Image Segmentation and Restoration in Adverse Environmental Conditions.** <br>
+*Weihao Xia, Zhanglin Cheng, Yujiu Yang, Jing-Hao Xue.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
+
+## Soft Segmentation and Background Matting
+
+**Fast Soft Color Segmentation.**<br>
+*Naofumi Akimoto, Huachun Zhu, Yanghua Jin, Yoshimitsu Aoki.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08096)]
+
+**Background Matting: The World is Your Green Screen.**<br>
+*[Soumyadip Sengupta](https://homes.cs.washington.edu/~soumya91/), [Vivek Jayaram](http://www.vivekjayaram.com/research), Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00626)] [[Github](https://github.com/senguptaumd/Background-Matting)] [[Project](https://grail.cs.washington.edu/projects/background-matting/)]
+
+**Semantic Soft Segmentation.**<br>
+*[Yagiz Aksoy](http://yaksoy.github.io/), Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
+ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/sites/cfg.mit.edu/files/sss_3.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github-Matlab](https://github.com/yaksoy/SemanticSoftSegmentation)] [[Github-Python](https://github.com/iyah4888/SIGGRAPH18SSS)]
 
 

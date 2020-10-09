@@ -98,6 +98,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency.**<br>
+*Fang Zhao, Shengcai Liao, Kaihao Zhang, Ling Shao.*<br>
+NeurIPS 2020. [[PDF]()]
+
 **MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video.**<br>
 *Donglai Xiang, Fabian Prada, Chenglei Wu, Jessica Hodgins.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.10711)]

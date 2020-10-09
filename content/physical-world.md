@@ -515,6 +515,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
 ### General Object Reconstruction
 
+**PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image.**<br>
+*[Chen Liu](http://art-programmer.github.io/), [Kihwan Kim](https://research.nvidia.com/person/kihwan-kim), [Jinwei Gu](http://www.gujinwei.org/), [Yasutaka Furukawa](http://www.cs.sfu.ca/~furukawa/), [Jan Kautz](https://research.nvidia.com/person/jan-kautz).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/pdf/1812.04072.pdf)] [[Github](https://github.com/NVlabs/planercnn)] [[Project](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]
+
+**Monocular Differentiable Rendering for Self-Supervised 3D Object Detection.**<br>
+*Deniz Beker, Hiroharu Kato, Mihai Adrian Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
+
 **UMR: Self-supervised Single-view 3D Reconstruction via Semantic Consistency.**<br>
 *[Xueting Li](https://sunshineatnoon.github.io/), [Sifei Liu](https://www.sifeiliu.net/), Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06473)] [[Project](https://sites.google.com/nvidia.com/unsup-mesh-2020)] [[Github](https://github.com/NVlabs/UMR)]
