@@ -20,7 +20,6 @@ Feedback and contributions are welcome!
 - [Novel-View Synthesis for Objects and Scenes](#novel-view-synthesis-for-objects-and-scenes)
 - [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
-- [Fluid and Smoke Simulation](#fluid-and-smoke-simulation)
 
 ## Intruduction of Neural Rendering
 
@@ -155,6 +154,10 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 
 ## Texture and Surface Embedding or Mapping
 
+**Better Patch Stitching for Parametric Surface Reconstruction.**<br>
+*Zhantao Deng, Jan Bednařík, Mathieu Salzmann, Pascal Fua.*<br>
+3DV 2020. [[PDF](https://arxiv.org/abs/2010.07021)]
+
 **Continuous Surface Embeddings.**<br>
 *Natalia Neverova, David Novotny, Marc Szafraniec, Vasil Khalidov, Patrick Labatut, Andrea Vedaldi.*<br>
 NerIPS 2020. [[PDF]()]
@@ -236,6 +239,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 [[Data](http://geometry.cs.ucl.ac.uk/tuanfeng/texturetransfer/texture_transfer_code_and_data.zip)]
 
 ## Neural Scene Representation and Rendering
+
+**GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering.**<br>
+*[Alex Trevithick](https://alextrevithick.github.io/), [Bo Yang](https://yang7879.github.io/).*<br>
+arxiv 2020. [[https://arxiv.org/abs/2010.04595](PDF)] [[Github](https://github.com/alextrevithick/GRF)]
 
 **[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
@@ -572,6 +579,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
+*Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
+
 **Mesh Guided One-shot Face Reenactment using Graph Convolutional Networks.**<br>
 *Guangming Yao, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.07783)]
@@ -696,39 +707,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.gi
 *Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs.washington.edu/projects/wakeup/)]
 
-## Fluid and Smoke Simulation
-
-**3D Fluid Flow Reconstruction Using Compact Light Field PIV.**<br>
-*Zhong Li, Yu Ji, Jingyi Yu, Jinwei Ye.*<br>
-ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120-supp.zip)]
-
-**Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces.**<br>
-*Tomas Skrivan, Andreas Soderstrom, John Johansson, Christoph Sprenger, Ken Museth, [Chris Wojtan](http://pub.ist.ac.at/group_wojtan/index.html).*<br>
-ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf)]
-
-**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
-*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
-TOG 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)] [[Project](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)] [[Github](https://github.com/rgoldade/ReducedFluids)]
-
-**Chemomechanical Simulation of Soap Film Flow on Spherical Bubbles.**<br>
-*Weizhen Huang, Julian Iseringhausen, Tom Kneiphof, Ziyin Qu, Chenfanfu Jiang, Matthias B. Hullin.*<br>
-TOG 2020. [[PDF](https://light.cs.uni-bonn.de/papers/HuangEtAl-SoapBubbles-SIGGRAPH2020.pdf)] [[Project](https://light.cs.uni-bonn.de/chemomechanical-simulation-of-soap-film-flow-on-spherical-bubbles/)] [[Github]()]
-
-**Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling.**<br>
-*Wei Li, Yixin Chen, Mathieu Desbrun, Changxi Zhang, Xiaopei Liu.*<br>
-SIGGRAPH 2020. [[PDF](http://www.geometry.caltech.edu/pubs/LCDZL20.pdf)]
-
-**Lagrangian Neural Style Transfer for Fluids.**<br>
-*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
-SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.00803)]
-
-**Transport-Based Neural Style Transfer for Smoke Simulations.**<br>
-*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
-SIGGRAPH ASIA 2019. [[PDF](https://arxiv.org/abs/1905.07442)]
-
-**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
-*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
-SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)]
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

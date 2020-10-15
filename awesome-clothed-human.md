@@ -98,6 +98,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**High-Fidelity 3D Digital Human Creation from RGB-D Selfies.**<br>
+*Xiangkai Lin, Yajing Chen, Linchao Bao, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Xinwei Jiang, Jue Wang, Dong Yu, Zhengyou Zhang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05562)] [[Github](https://github.com/tencent-ailab/hifi3dface)] [[Project](https://github.com/tencent-ailab/hifi3dface_projpage)]
+
 **Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency.**<br>
 *Fang Zhao, Shengcai Liao, Kaihao Zhang, Ling Shao.*<br>
 NeurIPS 2020. [[PDF]()]

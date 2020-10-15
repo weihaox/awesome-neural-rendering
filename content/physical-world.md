@@ -491,6 +491,44 @@ SIGGRAPH Asia 2018.
 *[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
 SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
 
+## Fluid and Smoke Simulation
+
+**RBF Liquids: An Adaptive PIC Solver Using RBF-FD.**<br>
+*Rafael Nakanishi Filipe Nascimento Rafael Campos Paulo Pagliosa Afonso Paiva.*<br>
+Siggraph Asia 2020 | ACM Transactions on Graphics. [[PDF](https://rnakanishi.github.io/publications/rbf-liquids-adaptive-pic-solver-using-rbf/)] 
+
+**3D Fluid Flow Reconstruction Using Compact Light Field PIV.**<br>
+*Zhong Li, Yu Ji, Jingyi Yu, Jinwei Ye.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120-supp.zip)]
+
+**Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces.**<br>
+*Tomas Skrivan, Andreas Soderstrom, John Johansson, Christoph Sprenger, Ken Museth, [Chris Wojtan](http://pub.ist.ac.at/group_wojtan/index.html).*<br>
+ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf)]
+
+**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
+*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
+TOG 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)] [[Project](https://cs.uwaterloo.ca/~rgoldade/reducedfluids/)] [[Github](https://github.com/rgoldade/ReducedFluids)]
+
+**Chemomechanical Simulation of Soap Film Flow on Spherical Bubbles.**<br>
+*Weizhen Huang, Julian Iseringhausen, Tom Kneiphof, Ziyin Qu, Chenfanfu Jiang, Matthias B. Hullin.*<br>
+TOG 2020. [[PDF](https://light.cs.uni-bonn.de/papers/HuangEtAl-SoapBubbles-SIGGRAPH2020.pdf)] [[Project](https://light.cs.uni-bonn.de/chemomechanical-simulation-of-soap-film-flow-on-spherical-bubbles/)]
+
+**Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling.**<br>
+*Wei Li, Yixin Chen, Mathieu Desbrun, Changxi Zhang, Xiaopei Liu.*<br>
+SIGGRAPH 2020. [[PDF](http://www.geometry.caltech.edu/pubs/LCDZL20.pdf)]
+
+**Lagrangian Neural Style Transfer for Fluids.**<br>
+*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.00803)]
+
+**Transport-Based Neural Style Transfer for Smoke Simulations.**<br>
+*Byungsoo Kim, Vinicius C. Azevedo, Markus Gross, Barbara Solenthaler.*<br>
+SIGGRAPH ASIA 2019. [[PDF](https://arxiv.org/abs/1905.07442)]
+
+**Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening.**<br>
+*Ryan Goldade, Mridul Aanjaneya, Christopher Batty.*<br>
+SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)]
+
 ## Object Modeling
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
