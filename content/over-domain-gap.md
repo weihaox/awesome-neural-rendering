@@ -68,6 +68,21 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
 
+**Domain Agnostic Learning for Unbiased Authentication.**<br>
+J*ian Liang, Yuren Cao, Shuang Li, Bing Bai, Hao Li, Fei Wang, Kun Bai.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2010.05250)]
+
+**Unveiling Class-Labeling Structure for Universal Domain Adaptation.**<br>
+*Yueming Yin, Zhen Yang, Xiaofu Wu, Haifeng Hu.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2010.04873)]
+
+**The MECCANO Dataset: Understanding Human-Object Interactions from Egocentric Videos in an Industrial-like Domain.**<br>
+*Francesco Ragusa, Antonino Furnari, Salvatore Livatino, Giovanni Maria Farinella.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2010.05654)] [[](https://iplab.dmi.unict.it/MECCANO)]
+
+**Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation.**<br>
+*Yogesh Balaji, Soheil Feizi.*<br>
+NeurIPS 2020. [[PDF](arxiv.org/abs/2010.05862)] [[Github](https://github.com/yogeshbalaji/robustOT)]
 
 **Domain Adaptation Through Task Distillation.**<br>
 *Brady Zhou, Nimit Kalra, Philipp Krähenbühl.*<br>

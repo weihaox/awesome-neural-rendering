@@ -284,6 +284,20 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 
 ## Image-Based Virtual Try-On
 
+[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Do Not Mask What You Do Not Need to Mask: a Parser-Free Virtual Try-On.**<br>
+*Thibaut Issenhuth, Jérémie Mary, Clément Calauzènes.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02721)]
+
+**ClothFlow: A Flow-Based Model for Clothed Person Generation.**<br>
+*Xintong Han, Xiaojun Hu, Weilin Huang, Matthew R. Scott.*<br>
+ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)]
+
+**VTNFP: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation.**<br>
+*Ruiyun Yu, Xiaoqi Wang, Xiaohui Xie.*<br>
+ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_An_Image-Based_Virtual_Try-On_Network_With_Body_and_Clothing_ICCV_2019_paper.html)]
+
 **Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On.**<br>
 *Raquel Vidaurre, Igor Santesteban, Elena Garces, Dan Casas.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.04592)] [[Project](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn)]

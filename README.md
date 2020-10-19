@@ -363,6 +363,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**NeRF++: Analyzing and Improving Neural Radiance Fields.**<br>
+*Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07492)] [[Github](https://github.com/Kai-46/nerfplusplus)]
+
 **X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation.**<br>
 *MOJTABA BEMANA, KAROL MYSZKOWSKI, HANS-PETER SEIDEL, TOBIAS RITSCHEL.*<br>
 Siggraph Asia 2020. [[PDF](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasia_2020.pdf)]
