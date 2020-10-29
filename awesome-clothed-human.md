@@ -98,6 +98,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Synthetic Training for Monocular Human Mesh Recovery.**<br>
+*Yu Sun, Qian Bao, Wu Liu, Wenpeng Gao, Yili Fu, Chuang Gan, Tao Mei.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.14036)]
+
+**3DBooSTeR: 3D Body Shape and Texture Recovery.**<br>
+*Alexandre Saint, Anis Kacem, Kseniya Cherenkova, Djamila Aouada.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.12670)]
+
 **High-Fidelity 3D Digital Human Creation from RGB-D Selfies.**<br>
 *Xiangkai Lin, Yajing Chen, Linchao Bao, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Xinwei Jiang, Jue Wang, Dong Yu, Zhengyou Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05562)] [[Github](https://github.com/tencent-ailab/hifi3dface)] [[Project](https://github.com/tencent-ailab/hifi3dface_projpage)]

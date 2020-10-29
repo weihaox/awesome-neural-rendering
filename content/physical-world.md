@@ -1,4 +1,3 @@
-
 # Inferring Physical World From Images
 
 A collection of papers on inferring the physical world (shape, depth, motion, paint, light, colors, etc) from single RGB, multi-view or temporal images. 
@@ -552,6 +551,18 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)] [[Github](https://githu
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
 ### General Object Reconstruction
+
+**Primal-Dual Mesh Convolutional Neural Networks.**<br>
+*Francesco Milano, Antonio Loquercio, Antoni Rosinol, Davide Scaramuzza, Luca Carlone.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12455)] [[Github](https://github.com/MIT-SPARK/PD-MeshNet)]
+
+**Neural Star Domain as Primitive Representation.**<br>
+*Yuki Kawana, Yusuke Mukuta, Tatsuya Harada.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11248)]
+
+**SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images.**<br>
+*Chen-Hsuan Lin, Chaoyang Wang, Simon Lucey.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.10505)] [[Github](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/)]
 
 **PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image.**<br>
 *[Chen Liu](http://art-programmer.github.io/), [Kihwan Kim](https://research.nvidia.com/person/kihwan-kim), [Jinwei Gu](http://www.gujinwei.org/), [Yasutaka Furukawa](http://www.cs.sfu.ca/~furukawa/), [Jan Kautz](https://research.nvidia.com/person/jan-kautz).*<br>
@@ -1180,6 +1191,10 @@ CVPR 2014. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2014/pap
 ICCV 2017. [[PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Monocular_Free-Head_3D_ICCV_2017_paper.pdf)]
 
 ### Gaze Redirection and Correction
+
+**Self-Learning Transformations for Improving Gaze and Head Redirection.**<br>
+*Yufeng Zheng, Seonwook Park, Xucong Zhang, Shalini De Mello, Otmar Hilliges.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12307)] [[Github](https://ait.ethz.ch/projects/2020/STED-gaze/)] [[Project](https://ait.ethz.ch/projects/2020/STED-gaze/)]
 
 **MGGR: MultiModal-Guided Gaze Redirection with Coarse-to-Fine Learning.**<br> 
 *Jingjing Chen, Jichao Zhang, Jiayuan Fan, Tao Chen, Enver Sangineto, Nicu Sebe.*<br> 

@@ -240,6 +240,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 ## Neural Scene Representation and Rendering
 
+**Neural Unsigned Distance Fields for Implicit Function Learning.**<br>
+*Julian Chibane, Aymen Mir, Gerard Pons-Moll.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.13938)] [[Github](https://virtualhumans.mpi-inf.mpg.de/ndf/)]
+
 **GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering.**<br>
 *[Alex Trevithick](https://alextrevithick.github.io/), [Bo Yang](https://yang7879.github.io/).*<br>
 arxiv 2020. [[https://arxiv.org/abs/2010.04595](PDF)] [[Github](https://github.com/alextrevithick/GRF)]
@@ -472,6 +476,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
 ## Light, Reflectance, lluminance and Shade
+
+**Light Stage Super-Resolution: Continuous High-Frequency Relighting.**<br>
+*Tiancheng Sun, Zexiang Xu, Xiuming Zhang, Sean Fanello, Christoph Rhemann, Paul Debevec, Yun-Ta Tsai, Jonathan T. Barron, Ravi Ramamoorthi.*<br>
+Siggraph Asia 2020. [[PDF](https://arxiv.org/abs/2010.08888)]
 
 **Neural Light Transport for Relighting and View Synthesis.**<br>
 *Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec, Jonathan T. Barron, Ravi Ramamoorthi, William T. Freeman.*<br>

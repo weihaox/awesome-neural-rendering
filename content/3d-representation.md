@@ -154,6 +154,14 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence and Matching
 
+**LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration.**<br>
+*Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12447)]
+
+**Learning Implicit Functions for Topology-Varying Dense 3D Shape Correspondence.**<br>
+*Feng Liu, Xiaoming Liu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12320)]
+
 **Deep Geometric Functional Maps: Robust Feature Learning for Shape Correspondence.**<br>
 *Nicolas Donati, Abhishek Sharma, Maks Ovsjanikov.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.14286)] [[Github](https://github.com/LIX-shape-analysis/GeomFmaps)]
