@@ -208,15 +208,15 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04572)]
 
 **PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization.**<br>
 *Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00452)] [[Project](https://shunsukesaito.github.io/PIFuHD)] [[Github](https://github.com/shunsukesaito/PIFuHD)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00452)] [[Project](https://shunsukesaito.github.io/PIFuHD)] [[Github](https://github.com/facebookresearch/pifuhd)]
 
 **DeepCap: Monocular Human Performance Capture Using Weak Supervision.**<br>
 *Marc Habermann, Weipeng Xu, Michael Zollhoefer, erard Pons-Moll, Christian Theobalt.*<br>
-CVPR 2020. [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-deepcap/data/paper.pdf)] [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-deepcap/)]
+CVPR 2020. [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-deepcap/data/paper.pdf)] [[Project](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-deepcap/)]
 
 **EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera.**<br>
 *Lan XU, Weipeng Xu, Vladislav Golyanik, Marc Habermann, Lu Fang, Christian Theobalt.*<br>
-CVPR 2020. [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)] [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/)]
+CVPR 2020. [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)] [[Project](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/)]
 
 **Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
 *Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
