@@ -591,6 +591,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**Generative Adversarial Networks in Human Emotion Synthesis:A Review.**<br>
+*Noushin Hajarolasvadi, Miguel Arjona Ramírez, Hasan Demirel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.15075)]
+
 **MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
 *Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
 SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]

@@ -7,6 +7,7 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 - [Differentiable Physics-Based Simulation and Simulation Platform](#differentiable-physics-based-simulation-and-simulation-platform)
 - [Scene Understanding](#scene-understanding)
 - [Decomposition and Disentanglement](#decomposition-and-disentanglement)
+- [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [Human Reconstruction: Tissue, Pose, Shape, Dynamic](#human-reconstruction--tissue--pose--shape--dynamic)
   * [Soft-tissue Dynamics](#soft-tissue-dynamics)
   * [Generating 3D People in Scenes](#generating-3d-people-in-scenes)
@@ -25,8 +26,6 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
   * [Object Skeletonization](#object-skeletonization)
   * [Shape and Viewpoint](#shape-and-viewpoint)
 - [Pose Estimation](#pose-estimation)
-- [2D to 3D Convertion](#2d-to-3d-convertion)
-- [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [Depth Estimation](#depth-estimation)
   * [Dynamic Object](#dynamic-object)
   * [Accurate Edge](#accurate-edge)
@@ -148,6 +147,44 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11284)] [[Project](https://anonymou
 **Music Gesture for Visual Sound Separation.**<br>
 *Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
+
+## 3D Representations From Natural Images
+
+**Inverse Graphics: Unsupervised Learning of 3D Shapes from Single Images.**<br>
+*Talip Ucar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1911.07937)]
+
+**Face Video Deblurring Using 3D Facial Priors.**<br>
+*Wenqi Ren, Jiaolong Yang, Senyou Deng, David Wipf, Xiaochun Cao, Xin Tong.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.pdf)]
+
+**TRB: A Novel Triplet Representation for Understanding 2D Human Body.**<br>
+*Haodong Duan, Kwan-Yee Lin, Sheng Jin, Wentao Liu, Chen Qian, Wanli Ouyang.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Duan_TRB_A_Novel_Triplet_Representation_for_Understanding_2D_Human_Body_ICCV_2019_paper.pdf)]
+
+**Learning Object-Specific Distance From a Monocular Image.**<br>
+*Jing Zhu, Yi Fang.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf)]
+
+**HoloGAN: Unsupervised learning of 3D representations from natural images.**<br>
+*Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt Yong-liang Yang.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.01326)] [[GitHub](https://github.com/christopher-beckham/hologan-pytorch)]
+
+**GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs.**<br>
+*Yuan Liu, Zehong Shen, Zhixuan Lin, Sida Peng, Hujun Bao, Xiaowei Zhou.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.05932)] [[Github](https://github.com/zju3dv/GIFT)] [[Project](https://zju3dv.github.io/GIFT/)]
+
+**Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency.**<br>
+*Shubham Tulsiani, Tinghui Zhou, Alexei A. Efros, Jitendra Malik.*<br>
+CVPR 2017 (Oral).[[PDF](https://arxiv.org/abs/1704.06254)]
+
+**Learning View Priors for Single-view 3D Reconstruction.**<br>
+*Hiroharu Kato, Tatsuya Harada.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-kato.com/projects_en/view_prior_learning.html)]
+
+**Self-supervised Learning of 3D Objects from Natural Images.**<br>
+*Hiroharu Kato, Tatsuya Harada.*<br>
+arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
 
 ## Human Reconstruction: Tissue, Pose, Shape, Dynamic
 
@@ -276,6 +313,22 @@ ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/p
 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](http://t.cn/AiBvbwNK)] 
 
 #### Face Reconstruction and Animation
+
+**High-Fidelity 3D Digital Human Creation from RGB-D Selfies.**<br>
+*Xiangkai Lin, Yajing Chen, Linchao Bao, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Xinwei Jiang, Jue Wang, Dong Yu, and Zhengyou Zhang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05562)] [[Github](https://github.com/tencent-ailab/hifi3dface)] [[Project](https://tencent-ailab.github.io/hifi3dface_projpage/)]
+
+**MGCNet: Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency.**<br>
+*Jiaxiang Shang, Tianwei Shen, Shiwei Li, Lei Zhou, Mingmin Zhen, Tian Fang, Long Quan.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12494)] [[Github](https://github.com/jiaxiangshang/MGCNet)]
+
+**DFNRMVS: Deep Facial Non-Rigid Multi-View Stereo.**<br>
+*Ziqian Bai, Zhaopeng Cui, Jamal Ahmed Rahim, Xiaoming Liu, Ping Tan.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Deep_Facial_Non-Rigid_Multi-View_Stereo_CVPR_2020_paper.pdf)] [[Github](https://github.com/zqbai-jeremy/DFNRMVS)]
+
+**Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set.**<br>
+*Yu Deng, Jiaolong Yang, Sicheng Xu, Dong Chen, Yunde Jia, Xin Tong.*<br>
+CVPRW on Analysis and Modeling of Faces and Gestures (AMFG), 2019. (Best Paper Award) [[PDF](https://arxiv.org/abs/1903.08527)] [[Github](https://github.com/microsoft/Deep3DFaceReconstruction)]
 
 **Towards Fast, Accurate and Stable 3D Dense Face Alignment.**<br>
 *Jianzhu Guo, Xiangyu Zhu, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li.*<br>
@@ -443,54 +496,11 @@ ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanti
 *Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, Michael J. Black.*<br>
 ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
-## 2D to 3D Convertion
-
-**One Shot 3D Photography.**<br>
-*Johannes Kopf, Kevin Matzen, Suhib Alsisan, Ocean Quigley, Francis Ge, Yangming Chong, Josh Patterson, Jan-Michael Frahm, Shu Wu, Matthew Yu, Peizhao Zhang, Zijian He, Peter Vajda, Ayush Saraf, Michael Cohen.*<br>
-SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2008.12298)] [[Github](https://github.com/facebookresearch/one_shot_3d_photography)] [[Project](https://facebookresearch.github.io/one_shot_3d_photography/)]
-
-**Deep 3D Portrait from a Single Image.**<br>
-*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
-
-**3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Face Photos.**<br>
-*Zipeng Ye, Ran Yi, Minjing Yu, Juyong Zhang, Yu-Kun Lai, Yong-jin Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.06841)]
-
-**3D Photography using Context-aware Layered Depth Inpainting.**<br>
-*[Meng-Li Shih](https://shihmengli.github.io/), [Shih-Yang Su](https://lemonatsu.github.io/), [Johannes Kopf](https://johanneskopf.de/), and [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
-CVPR 2020. [[PDF](https://drive.google.com/file/d/17ki_YAL1k5CaHHP3pIBFWvw-ztF4CCPP/view?usp=sharing)] [[Project](https://shihmengli.github.io/3D-Photo-Inpainting/)] [[Github](https://github.com/vt-vl-lab/3d-photo-inpainting)]
-
-**Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations.**<br>
-*Berk Kaya, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/pdf/2003.10016)]
-
-**Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom.**<br>
-*Juan Luis Gonzalez Bello, Munchurl Kim.*<br>
-ICLR 2020. [[PDF](https://arxiv.org/abs/1909.09349)] [[Video](https://www.youtube.com/watch?v=Gz76VYwUzZ8)]
-
-**SynSin: End-to-end View Synthesis from a Single Image.**<br>
-*Olivia Wiles, Georgia Gkioxari, Richard Szeliski, Justin Johnson.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.08804)] [[Github](http://www.robots.ox.ac.uk/~ow/synsin.html)]
-
-**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
-*Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng.*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Github](https://github.com/bmild/nerf)]
-
-**View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
-*Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
-
-**Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling.**<br>
-*Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
-SIGGRAPH Asia 2018.
-[[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf)] [[Code,Data - GitHub](https://github.com/Enigma-li/SketchCNN/)]
-
-**BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
-*[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
-SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
-
 ## Fluid and Smoke Simulation
+
+**DUDE: Deep Unsigned Distance Embeddings for Hi-Fidelity Representation of Complex 3D Surfaces.**<br>
+*Rahul Venkatesh, Sarthak Sharma, Aurobrata Ghosh, Laszlo Jeni, Maneesh Singh.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02570)]
 
 **RBF Liquids: An Adaptive PIC Solver Using RBF-FD.**<br>
 *Rafael Nakanishi Filipe Nascimento Rafael Campos Paulo Pagliosa Afonso Paiva.*<br>
@@ -500,7 +510,7 @@ Siggraph Asia 2020 | ACM Transactions on Graphics. [[PDF](https://rnakanishi.git
 *Zhong Li, Yu Ji, Jingyi Yu, Jinwei Ye.*<br>
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610120-supp.zip)]
 
-**Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces.**<br>
+**Wave Curves: Simulating Lagrangian Water Waves on Dynamically Deforming Surfaces.**<br>
 *Tomas Skrivan, Andreas Soderstrom, John Johansson, Christoph Sprenger, Ken Museth, [Chris Wojtan](http://pub.ist.ac.at/group_wojtan/index.html).*<br>
 ACM Transactions on Graphics (SIGGRAPH 2020). [[PDF](http://pub.ist.ac.at/group_wojtan/projects/2020_Skrivan_WaveCurves/wave_curves_2020.pdf)]
 
@@ -551,6 +561,14 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)] [[Github](https://githu
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
 ### General Object Reconstruction
+
+**Learning Deformable Tetrahedral Meshes for 3D Reconstruction.**<br>
+*Jun Gao, Wenzheng Chen, Tommy Xiang, Alec Jacobson, Morgan McGuire, Sanja Fidler.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.01437)]
+
+**FlatNet: Towards Photorealistic Scene Reconstruction from Lensless Measurements.**<br>
+*Salman S. Khan, Varun Sundar, Vivek Boominathan, Ashok Veeraraghavan, Kaushik Mitra.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.15440)] [[Project](https://siddiquesalman.github.io/flatnet/)]
 
 **Primal-Dual Mesh Convolutional Neural Networks.**<br>
 *Francesco Milano, Antonio Loquercio, Antoni Rosinol, Davide Scaramuzza, Luca Carlone.*<br>
@@ -632,6 +650,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00485)]
 *[Shangzhe Wu](https://elliottwu.com/), Christian Rupprecht, Andrea Vedaldi.*<br>
 CVPR 2020 Best Paper. [[PDF](https://arxiv.org/abs/1911.11130)] [[Project](https://elliottwu.com/projects/unsup3d/)]
 
+**GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
+*Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
+
 **Self-supervised Single-view 3D Reconstruction via Semantic Consistency.**<br>
 *Xueting Li, Sifei Liu, Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz.*<br>
 arxiv, 13 Mar 2020. [[PDF](https://arxiv.org/abs/2003.06473)] [[Project](https://sites.google.com/view/unsup-mesh/home)]
@@ -711,40 +733,6 @@ IEEE Trans. CSVT 2019. [[Project](https://www.yangangwang.com/papers/WANG-MCC-20
 **RGBD-Dog: Predicting Canine Pose from RGBD Sensors.**
 *Sinead Kearney, Wenbin Li, Martin Parsons, Kwang In Kim, Darren Cosker.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07788)]
-
-## 3D Representations From Natural Images
-
-**Face Video Deblurring Using 3D Facial Priors.**<br>
-*Wenqi Ren, Jiaolong Yang, Senyou Deng, David Wipf, Xiaochun Cao, Xin Tong.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.pdf)]
-
-**TRB: A Novel Triplet Representation for Understanding 2D Human Body.**<br>
-*Haodong Duan, Kwan-Yee Lin, Sheng Jin, Wentao Liu, Chen Qian, Wanli Ouyang.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Duan_TRB_A_Novel_Triplet_Representation_for_Understanding_2D_Human_Body_ICCV_2019_paper.pdf)]
-
-**Learning Object-Specific Distance From a Monocular Image.**<br>
-*Jing Zhu, Yi Fang.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf)]
-
-**HoloGAN: Unsupervised learning of 3D representations from natural images.**<br>
-*Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt Yong-liang Yang.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1904.01326)] [[GitHub](https://github.com/christopher-beckham/hologan-pytorch)]
-
-**GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs.**<br>
-*Yuan Liu, Zehong Shen, Zhixuan Lin, Sida Peng, Hujun Bao, Xiaowei Zhou.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.05932)] [[Github](https://github.com/zju3dv/GIFT)] [[Project](https://zju3dv.github.io/GIFT/)]
-
-**Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency.**<br>
-*Shubham Tulsiani, Tinghui Zhou, Alexei A. Efros, Jitendra Malik.*<br>
-CVPR 2017 (Oral).[[PDF](https://arxiv.org/abs/1704.06254)]
-
-**Learning View Priors for Single-view 3D Reconstruction.**<br>
-*Hiroharu Kato, Tatsuya Harada.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-kato.com/projects_en/view_prior_learning.html)]
-
-**Self-supervised Learning of 3D Objects from Natural Images.**<br>
-*Hiroharu Kato, Tatsuya Harada.*<br>
-arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
 
 ## Depth Estimation
 

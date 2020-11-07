@@ -16,6 +16,10 @@
 *Chengzhou Tang, Lu Yuan, Ping Tan.*<br>
 CVPR2020. [[PDF](https://arxiv.org/abs/2004.09197)]
 
+**Universal Multi-Source Domain Adaptation.**<br>
+*Yueming Yin, Zhen Yang, Haifeng Hu, Xiaofu Wu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02594)]
+
 ## Self-Supervised
 
 **SimLR: Big Self-Supervised Models are Strong Semi-Supervised Learners.**<br>

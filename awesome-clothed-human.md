@@ -98,6 +98,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**3D Multi-bodies: Fitting Sets of Plausible 3D Human Models to Ambiguous Image Data.**<br>
+*Benjamin Biggs, Sébastien Ehrhadt, Hanbyul Joo, Benjamin Graham, Andrea Vedaldi, David Novotny.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00980)]
+
+**Neural3D: Light-weight Neural Portrait Scanning via Context-aware Correspondence Learning.**<br>
+*Xin Suo, Minye  Wu, Yanshun  Zhang, Yanshun Zhang, Yingliang  Zhang, Yingliang Zhang, Lan  Xu, Qiang  Hu, Jingyi  Yu.*<br>
+ACM MM, 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394171.3413734)]
+
 **Synthetic Training for Monocular Human Mesh Recovery.**<br>
 *Yu Sun, Qian Bao, Wu Liu, Wenpeng Gao, Yili Fu, Chuang Gan, Tao Mei.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.14036)]

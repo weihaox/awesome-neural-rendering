@@ -154,6 +154,18 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence and Matching
 
+**Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs.**<br>
+*Xiangru Huang, Haitao Yang, Etienne Vouga, Qixing Huang.*<br>
+NeurIPS 2020. [[PDF](https://www.cs.utexas.edu/~xrhuang/publications/Neurips2020_HumanCorres.pdf)] [[PDF](https://github.com/xiangruhuang/HumanCorresViaLearn2Sync)]
+
+**Deep Shells: Unsupervised Shape Correspondence with Optimal Transport.**<br>
+*Marvin Eisenberger, Aysim Toker, Laura Leal-Taixé, Daniel Cremers.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.15261)]
+
+**Correspondence Matrices are Underrated.**<br>
+*Tejas Zodage, Rahul Chakwate, Vinit Sarode, Rangaprasad Arun Srivatsan, Howie Choset.*<br>
+3DV 2020. [[PDF](https://arxiv.org/abs/2010.16085)] [[Github](https://github.com/tzodge/PCR-CMU)]
+
 **LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration.**<br>
 *Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12447)]
