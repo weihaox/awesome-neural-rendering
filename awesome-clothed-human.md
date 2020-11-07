@@ -84,7 +84,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1908.06903)]
 
 **CAPE: Learning to Dress 3D People in Generative Clothing.**<br>
 *[Qianli Ma](https://ps.is.tue.mpg.de/person/qma), Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1907.13615v2)] 	[[Projecr](http://ps.is.mpg.de/publications/cape-cvpr-20)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1907.13615v2)] 	[[Project](http://ps.is.mpg.de/publications/cape-cvpr-20)]
 
 **DRAPE: DRessing Any PErson.**<br>
 *Peng Guan, Loretta Reiss, David A. Hirshberg, Alexander Weiss, Michael J. Black.*<br>
@@ -97,6 +97,10 @@ ACM Transactions on Graphics (TOG) 2012.
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration.**<br>
+*Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12447)] [[Github](https://github.com/bharat-b7/LoopReg)]
 
 **3D Multi-bodies: Fitting Sets of Plausible 3D Human Models to Ambiguous Image Data.**<br>
 *Benjamin Biggs, Sébastien Ehrhadt, Hanbyul Joo, Benjamin Graham, Andrea Vedaldi, David Novotny.*<br>
