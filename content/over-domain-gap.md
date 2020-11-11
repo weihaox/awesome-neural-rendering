@@ -42,6 +42,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01458)]
 
 ## Domain Generalization
 
+**Frustratingly Simple Domain Generalization via Image Stylization.**<br>
+*[Nathan Somavarapu](https://nathansomavarapu.github.io/), Chih-Yao Ma, Zsolt Kira.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2006.11207.pdf)] [[Github](https://github.com/GT-RIPL/DomainGeneralization-Stylization)]
+
+**Closing the Generalization Gap in One-Shot Object Detection.**<br>
+*Claudio Michaelis, Matthias Bethge, Alexander S. Ecker.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.04267)]
+
 **Learning to Balance Specificity and Invariance for In and Out of Domain Generalization.**<br>
 *Prithvijit Chattopadhyay, Yogesh Balaji, Judy Hoffman.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.12839)]
@@ -71,6 +79,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**Interventional Domain Adaptation.**<br>
+*Jun Wen, Changjian Shui, Kun Kuang, Junsong Yuan, Zenan Huang, Zhefeng Gong, Nenggan Zheng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03737)]
 
 **Domain Agnostic Learning for Unbiased Authentication.**<br>
 J*ian Liang, Yuren Cao, Shuang Li, Bing Bai, Hao Li, Fei Wang, Kun Bai.*<br>

@@ -1,4 +1,8 @@
-# awesome neural rendering papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome neural rendering papers 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 A collection of resources on neural rendering. 
 
@@ -95,6 +99,16 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.04290)]
 **Revealing Scenes by Inverting Structure from Motion Reconstructions.**<br>
 *Francesco Pittaluga, Sanjeev J. Koppal, Sing Bing Kang, Sudipta N. Sinha.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
+
+## Differentiable Rendering
+
+**Modular Primitives for High-Performance Differentiable Rendering.**<br>
+*Samuli Laine, Janne Hellsten, Tero Karras, Yeongho Seol, Jaakko Lehtinen, Timo Aila.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03277)] [[Github](https://github.com/NVlabs/nvdiffrast)]
+
+**Monocular Differentiable Rendering for Self-Supervised 3D Object Detection.**<br>
+*Deniz Beker, Hiroharu Kato, Mihai Adrian Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
@@ -590,6 +604,14 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**FACEGAN: Facial Attribute Controllable rEenactment GAN.**<br>
+*Soumya Tripathy, Juho Kannala, Esa Rahtu.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.04439)]
+
+**Large-Scale Multilingual Audio Visual Dubbing.**<br>
+*Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
 
 **Generative Adversarial Networks in Human Emotion Synthesis:A Review.**<br>
 *Noushin Hajarolasvadi, Miguel Arjona Ramírez, Hasan Demirel.*<br>

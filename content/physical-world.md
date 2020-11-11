@@ -562,6 +562,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
 ### General Object Reconstruction
 
+**Adversarial Generation of Continuous Implicit Shape Representations.**<br>
+*Marian Kleineberg, Matthias Fey, Frank Weichert.*<br>
+Eurographics 2020. [[PDF](https://arxiv.org/abs/2002.00349)] [[Github](https://github.com/marian42/shapegan)]
+
+**Convolutional Generation of Textured 3D Meshes.**<br>
+*Dario Pavllo, Graham Spinks, Thomas Hofmann, Marie-Francine Moens, and Aurelien Lucchi.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07660)] [[Github](https://github.com/dariopavllo/convmesh)]
+
 **Learning Deformable Tetrahedral Meshes for 3D Reconstruction.**<br>
 *Jun Gao, Wenzheng Chen, Tommy Xiang, Alec Jacobson, Morgan McGuire, Sanja Fidler.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.01437)]
