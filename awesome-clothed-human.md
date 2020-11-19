@@ -102,6 +102,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Realistic Virtual Humans from Smartphone Videos.**<br>
+*Stephan Wenninger, Jascha Achenbach, Andrea Bartl, Marc Erich Latoschik, [Mario Botsch](https://ls7-gv.cs.tu-dortmund.de/).*<br>
+ACM VRST, 2020 (Best Paper Award). [[PDF](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2020/vrst20.pdf)] [[Video](https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2020/vrst20.mp4)] [[Talk](https://youtu.be/Mm318gs_fb8)]
+
 **LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration.**<br>
 *Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12447)] [[Github](https://github.com/bharat-b7/LoopReg)]
