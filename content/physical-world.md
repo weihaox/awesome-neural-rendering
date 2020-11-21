@@ -7,7 +7,6 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 - [Differentiable Physics-Based Simulation and Simulation Platform](#differentiable-physics-based-simulation-and-simulation-platform)
 - [Scene Understanding](#scene-understanding)
 - [Decomposition and Disentanglement](#decomposition-and-disentanglement)
-- [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [Human Reconstruction: Tissue, Pose, Shape, Dynamic](#human-reconstruction--tissue--pose--shape--dynamic)
   * [Soft-tissue Dynamics](#soft-tissue-dynamics)
   * [Generating 3D People in Scenes](#generating-3d-people-in-scenes)
@@ -147,44 +146,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11284)] [[Project](https://anonymou
 **Music Gesture for Visual Sound Separation.**<br>
 *Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
-
-## 3D Representations From Natural Images
-
-**Inverse Graphics: Unsupervised Learning of 3D Shapes from Single Images.**<br>
-*Talip Ucar.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1911.07937)]
-
-**Face Video Deblurring Using 3D Facial Priors.**<br>
-*Wenqi Ren, Jiaolong Yang, Senyou Deng, David Wipf, Xiaochun Cao, Xin Tong.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.pdf)]
-
-**TRB: A Novel Triplet Representation for Understanding 2D Human Body.**<br>
-*Haodong Duan, Kwan-Yee Lin, Sheng Jin, Wentao Liu, Chen Qian, Wanli Ouyang.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Duan_TRB_A_Novel_Triplet_Representation_for_Understanding_2D_Human_Body_ICCV_2019_paper.pdf)]
-
-**Learning Object-Specific Distance From a Monocular Image.**<br>
-*Jing Zhu, Yi Fang.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf)]
-
-**HoloGAN: Unsupervised learning of 3D representations from natural images.**<br>
-*Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt Yong-liang Yang.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1904.01326)] [[GitHub](https://github.com/christopher-beckham/hologan-pytorch)]
-
-**GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs.**<br>
-*Yuan Liu, Zehong Shen, Zhixuan Lin, Sida Peng, Hujun Bao, Xiaowei Zhou.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.05932)] [[Github](https://github.com/zju3dv/GIFT)] [[Project](https://zju3dv.github.io/GIFT/)]
-
-**Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency.**<br>
-*Shubham Tulsiani, Tinghui Zhou, Alexei A. Efros, Jitendra Malik.*<br>
-CVPR 2017 (Oral).[[PDF](https://arxiv.org/abs/1704.06254)]
-
-**Learning View Priors for Single-view 3D Reconstruction.**<br>
-*Hiroharu Kato, Tatsuya Harada.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-kato.com/projects_en/view_prior_learning.html)]
-
-**Self-supervised Learning of 3D Objects from Natural Images.**<br>
-*Hiroharu Kato, Tatsuya Harada.*<br>
-arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
 
 ## Human Reconstruction: Tissue, Pose, Shape, Dynamic
 
@@ -560,7 +521,30 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)] [[Github](https://githu
 *Zhengqin Li, Yu-Ying Yeh, Manmohan Chandraker.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
+### Surface Models
+
+**Deep Active Surface Models.**<br>
+*Udaranga Wickramasinghe, Graham Knott, Pascal Fua.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.08826)]
+
+**Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images.**<br>
+*Jiahui Lei, Srinath Sridhar, Paul Guerrero, Minhyuk Sung, Niloy Mitra, Leonidas J. Guibas.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07760)]
+
+**Surface Normals and Shape From Water.**<br>
+*Satoshi Murai, Meng-Yu Jennifer Kuo, Ryo Kawahara, Shohei Nobuhara, Ko Nishino.*<br> 
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Murai_Surface_Normals_and_Shape_From_Water_ICCV_2019_paper.pdf)]
+
+**Surface Normals in the Wild.**<br>
+*Weifeng Chen, Donglai Xiang, Jia Deng.*<br>
+ICCV 2017, Invited Poster at the Bridges to 3D Workshop, CVPR 2018.
+[[PDF](https://arxiv.org/abs/1704.02956)] [[Dataset](http://www-personal.umich.edu/~wfchen/surface-normals-in-the-wild/)] [[Gihtub](https://github.com/princeton-vl/surface_normals)]
+
 ### General Object Reconstruction
+
+**Learning Canonical Transformations.**<br>
+*Zachary Dulberg, Jonathan Cohen.*<br>
+NeurIPS 2020 Workshop on BabyMind. [[PDF](https://arxiv.org/abs/2011.08822)]
 
 **Adversarial Generation of Continuous Implicit Shape Representations.**<br>
 *Marian Kleineberg, Matthias Fey, Frank Weichert.*<br>
@@ -609,10 +593,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12348
 **Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop.**<br> 
 *Benjamin Biggs, Oliver Boyne, James Charles, Andrew Fitzgibbon, Roberto Cipolla.*<br>
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560188.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560188-supp.zip)]
-
-**Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images.**<br>
-*Jiahui Lei, Srinath Sridhar, Paul Guerrero, Minhyuk Sung, Niloy Mitra, Leonidas J. Guibas.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07760)]
 
 **MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement.**<br>
 *Rinon Gal, Amit Bermano, Hao Zhang, Daniel Cohen-Or.*<br>
@@ -862,10 +842,6 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Garg_Lea
 *Wei Yin, Yifan Liu, Chunhua Shen, Youliang Yan.*<br> 
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yin_Enforcing_Geometric_Constraints_of_Virtual_Normal_for_Depth_Prediction_ICCV_2019_paper.pdf)]
 
-**Surface Normals and Shape From Water.**<br>
-*Satoshi Murai, Meng-Yu Jennifer Kuo, Ryo Kawahara, Shohei Nobuhara, Ko Nishino.*<br> 
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Murai_Surface_Normals_and_Shape_From_Water_ICCV_2019_paper.pdf)]
-
 **Exploiting Temporal Consistency for Real-Time Video Depth Estimation.**<br>
 *Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan.*<br> 
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Exploiting_Temporal_Consistency_for_Real-Time_Video_Depth_Estimation_ICCV_2019_paper.pdf)]
@@ -977,11 +953,6 @@ CVPR 2017. [[PDF](https://arxiv.org/abs/1609.03677)] [[Project](http://visual.cs
 **Learning from Synthetic Humans.**<br>
 *Gül Varol, Javier Romero, Xavier Martin, Naureen Mahmood, Michael J. Black, Ivan Laptev, Cordelia Schmid.*<br>
 CVPR 2017. [[PDF](https://arxiv.org/abs/1701.01370)] [[Project](http://www.di.ens.fr/willow/research/surreal)] [[Github](https://github.com/gulvarol/surreal)]
-
-**Surface Normals in the Wild.**<br>
-*Weifeng Chen, Donglai Xiang, Jia Deng.*<br>
-ICCV 2017, Invited Poster at the Bridges to 3D Workshop, CVPR 2018.
-[[PDF](https://arxiv.org/abs/1704.02956)] [[Dataset](http://www-personal.umich.edu/~wfchen/surface-normals-in-the-wild/)] [[Gihtub](https://github.com/princeton-vl/surface_normals)]
 
 **Single-Image Depth Perception in the Wild.**<br>
 *Weifeng Chen, Zhao Fu, Dawei Yang, Jia Deng.*<br>

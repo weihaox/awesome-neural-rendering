@@ -3,12 +3,51 @@
 This repository is a collection of papers on learning 3D representations from natural images.
 
 ## Table of Contents
+- [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [3D Shape Representation and Feature Embedding](#3d-shape-representation-and-feature-embedding)
 - [Representation of Texture](#representation-of-texture)
 - [Representation of Motion](#representation-of-motion)
 - [Surface Cuts and Parameterization](#surface-cuts-and-parameterization)
 - [Dense Shape Correspondence and Matching](#dense-shape-correspondence-and-matching)
 - [3D Reconstruction with Synthesied Images](#3d-reconstruction-with-synthesied-images)
+
+## 3D Representations From Natural Images
+
+**Inverse Graphics: Unsupervised Learning of 3D Shapes from Single Images.**<br>
+*Talip Ucar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1911.07937)]
+
+**Face Video Deblurring Using 3D Facial Priors.**<br>
+*Wenqi Ren, Jiaolong Yang, Senyou Deng, David Wipf, Xiaochun Cao, Xin Tong.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.pdf)]
+
+**TRB: A Novel Triplet Representation for Understanding 2D Human Body.**<br>
+*Haodong Duan, Kwan-Yee Lin, Sheng Jin, Wentao Liu, Chen Qian, Wanli Ouyang.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Duan_TRB_A_Novel_Triplet_Representation_for_Understanding_2D_Human_Body_ICCV_2019_paper.pdf)]
+
+**Learning Object-Specific Distance From a Monocular Image.**<br>
+*Jing Zhu, Yi Fang.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf)]
+
+**HoloGAN: Unsupervised learning of 3D representations from natural images.**<br>
+*Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt Yong-liang Yang.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.01326)] [[GitHub](https://github.com/christopher-beckham/hologan-pytorch)]
+
+**GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs.**<br>
+*Yuan Liu, Zehong Shen, Zhixuan Lin, Sida Peng, Hujun Bao, Xiaowei Zhou.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.05932)] [[Github](https://github.com/zju3dv/GIFT)] [[Project](https://zju3dv.github.io/GIFT/)]
+
+**Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency.**<br>
+*Shubham Tulsiani, Tinghui Zhou, Alexei A. Efros, Jitendra Malik.*<br>
+CVPR 2017 (Oral).[[PDF](https://arxiv.org/abs/1704.06254)]
+
+**Learning View Priors for Single-view 3D Reconstruction.**<br>
+*Hiroharu Kato, Tatsuya Harada.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-kato.com/projects_en/view_prior_learning.html)]
+
+**Self-supervised Learning of 3D Objects from Natural Images.**<br>
+*Hiroharu Kato, Tatsuya Harada.*<br>
+arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
 
 ## 3D Shape Representation and Feature Embedding
 

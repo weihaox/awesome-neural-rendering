@@ -605,6 +605,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**Photorealistic Audio-driven Video Portraits.**<br>
+*Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen, Shi-Min Hu.*<br>
+TVCG (ISMAR 2020). [[PDF](https://richardt.name/publications/audio-dvp/AudioDVP-WenEtAl-TVCG2020.pdf)] [[Github](https://github.com/xinwen-cs/AudioDVP)] [[Project](https://richardt.name/publications/audio-dvp/)]
+
 **FACEGAN: Facial Attribute Controllable rEenactment GAN.**<br>
 *Soumya Tripathy, Juho Kannala, Esa Rahtu.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2011.04439)]

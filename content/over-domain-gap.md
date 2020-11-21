@@ -80,6 +80,10 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
 
+**FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation.**<br>
+*Jaemin Na, Heechul Jung, HyungJin Chang, Wonjun Hwang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09230)]
+
 **Interventional Domain Adaptation.**<br>
 *Jun Wen, Changjian Shui, Kun Kuang, Junsong Yuan, Zenan Huang, Zhefeng Gong, Nenggan Zheng.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03737)]
