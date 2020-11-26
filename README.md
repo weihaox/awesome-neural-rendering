@@ -254,13 +254,29 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 ## Neural Scene Representation and Rendering
 
+**Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
+*Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
+
+**DeRF: Decomposed Radiance Fields.**<br>
+*Daniel Rebain, Wei Jiang, Soroosh Yazdani, Ke Li, Kwang Moo Yi, Andrea Tagliasacchi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12490)]
+
+**D-NERF: Deformable Neural Radiance Fields.**<br>
+*Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo-Martin Brualla.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)]
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
+*Michael Niemeyer, Andreas Geiger.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12100)]
+
 **Neural Unsigned Distance Fields for Implicit Function Learning.**<br>
 *Julian Chibane, Aymen Mir, Gerard Pons-Moll.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.13938)] [[Github](https://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 **GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering.**<br>
 *[Alex Trevithick](https://alextrevithick.github.io/), [Bo Yang](https://yang7879.github.io/).*<br>
-arxiv 2020. [[https://arxiv.org/abs/2010.04595](PDF)] [[Github](https://github.com/alextrevithick/GRF)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04595)] [[Github](https://github.com/alextrevithick/GRF)]
 
 **[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
@@ -381,6 +397,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**Stable View Synthesis.**<br>
+*Gernot Riegler, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.07233)] [[Video](https://youtu.be/gqgXIY09htI)]
+
 **NeRF++: Analyzing and Improving Neural Radiance Fields.**<br>
 *Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07492)] [[Github](https://github.com/Kai-46/nerfplusplus)]
@@ -490,6 +510,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
 ## Light, Reflectance, lluminance and Shade
+
+**Towards Geometry Guided Neural Relighting with Flash Photography.**<br>
+*Di Qiu, Jin Zeng, Zhanghan Ke, Wenxiu Sun, Chengxi Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.05157v1)]
 
 **Light Stage Super-Resolution: Continuous High-Frequency Relighting.**<br>
 *Tiancheng Sun, Zexiang Xu, Xiuming Zhang, Sean Fanello, Christoph Rhemann, Paul Debevec, Yun-Ta Tsai, Jonathan T. Barron, Ravi Ramamoorthi.*<br>
@@ -604,6 +628,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 ## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Image Animation with Perturbed Masks.**<br>
+*Yoav Shalev, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.06922)] [[Github](https://github.com/itsyoavshalev/Image-Animation-with-Perturbed-Masks)]
 
 **Photorealistic Audio-driven Video Portraits.**<br>
 *Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen, Shi-Min Hu.*<br>

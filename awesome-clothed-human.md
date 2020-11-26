@@ -26,6 +26,10 @@ Feedback and contributions are welcome!
 
 ## 3D People Dressing and Clothing Draping
 
+**Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture.**<br>
+*Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler, Christian Theobalt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12866)]
+
 **Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People.**<br>
 *Akin Caliskan, Adrian Hilton.*<br>
 ACCV 2020. [[PDF](https://arxiv.org/abs/2009.14162)] [[Github](https://github.com/akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction)]
@@ -101,6 +105,10 @@ ACM Transactions on Graphics (TOG) 2012.
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**RIN: Textured Human Model Recovery and Imitation with a Single Image.**<br>
+*Haoxi Ran, Guangfu Wang, Li Lu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12024)]
 
 **Realistic Virtual Humans from Smartphone Videos.**<br>
 *Stephan Wenninger, Jascha Achenbach, Andrea Bartl, Marc Erich Latoschik, [Mario Botsch](https://ls7-gv.cs.tu-dortmund.de/).*<br>
@@ -313,6 +321,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Unpaired Person Image Generation with Semantic Parsing Transformation.**<br>
+*Sijie Song, Wei Zhang, Jiaying Liuv, Zongming Guo, Tao Mei.*<br>
+TPAMI 2020. [[arxiv ](https://arxiv.org/abs/1912.06324)] [[CVPR 2019](https://arxiv.org/abs/1904.03379)] [[TPAMI 2020](https://ieeexplore.ieee.org/document/9085915/authors#authors)] [[Github](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving)]
 
 **Do Not Mask What You Do Not Need to Mask: a Parser-Free Virtual Try-On.**<br>
 *Thibaut Issenhuth, Jérémie Mary, Clément Calauzènes.*<br>

@@ -243,7 +243,11 @@ TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)]
 
 ### Human Tissue
 
-#### Hair Segmentation and Reconstruction
+#### Hair (Subtle) Segmentation and Reconstruction
+
+**MODNet: Is a Green Screen Really Necessary for Real-Time Human Matting?**<br>
+*Zhanghan Ke, Kaican Li, Yurou Zhou, Qiuhua Wu, Xiangyu Mao, Qiong Yan, Rynson W.H. Lau.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11961)] [[GitHub](https://github.com/ZHKKKe/MODNet)]
 
 **Dynamic Hair Modeling from Monocular Videos using Deep Neural Networks.**<br>
 *Lingchen Yang, Zefeng Shi, [Youyi Zheng](http://youyizheng.net/research.html), [Kun Zhou](http://kunzhou.net/).*<br>
@@ -541,6 +545,10 @@ ICCV 2017, Invited Poster at the Bridges to 3D Workshop, CVPR 2018.
 [[PDF](https://arxiv.org/abs/1704.02956)] [[Dataset](http://www-personal.umich.edu/~wfchen/surface-normals-in-the-wild/)] [[Gihtub](https://github.com/princeton-vl/surface_normals)]
 
 ### General Object Reconstruction
+
+**A Divide et Impera Approach for 3D Shape Reconstruction from Multiple Views.**<br>
+*Riccardo Spezialetti, David Joseph Tan, Alessio Tonioni, Keisuke Tateno, Federico Tombari.*<br>
+3DV 2020. [[PDF](https://arxiv.org/abs/2011.08534)]
 
 **Learning Canonical Transformations.**<br>
 *Zachary Dulberg, Jonathan Cohen.*<br>

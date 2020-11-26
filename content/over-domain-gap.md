@@ -80,6 +80,14 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
 
+**Learning to Balance Specificity and Invariance for In and Out of Domain Generalization.**<br>
+*[Prithvijit Chattopadhyay](https://prithv1.xyz/), Yogesh Balaji, Judy Hoffman.*<br>
+ECCV 2020. [[PDF](https://prithv1.xyz/data/0790.pdf)] [[Github](https://github.com/prithv1/DMG)]
+
+**Heuristic Domain Adaptation.**<br>
+*Shuhao Cui, Xuan Jin, Shuhui Wang, Yuan He, Qingming Huang.*<br>
+NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/file/555d6702c950ecb729a966504af0a635-Paper.pdf)]
+
 **FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation.**<br>
 *Jaemin Na, Heechul Jung, HyungJin Chang, Wonjun Hwang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09230)]
@@ -98,7 +106,7 @@ arxiv 2020. [[](https://arxiv.org/abs/2010.04873)]
 
 **The MECCANO Dataset: Understanding Human-Object Interactions from Egocentric Videos in an Industrial-like Domain.**<br>
 *Francesco Ragusa, Antonino Furnari, Salvatore Livatino, Giovanni Maria Farinella.*<br>
-arxiv 2020. [[](https://arxiv.org/abs/2010.05654)] [[](https://iplab.dmi.unict.it/MECCANO)]
+arxiv 2020. [[](https://arxiv.org/abs/2010.05654)] [[Project](https://iplab.dmi.unict.it/MECCANO)]
 
 **Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation.**<br>
 *Yogesh Balaji, Soheil Feizi.*<br>
@@ -227,6 +235,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09989)]
 ICRA 2019. [[PDF](https://hal.archives-ouvertes.fr/hal-01876700/document)]
 
 ## Long-Tailed, Open Set and Small Dataset
+
+**Open-World Learning Without Labels.**<br>
+*Mohsen Jafarzadeh, Akshay Raj Dhamija, Steve Cruz, Chunchun Li, Touqeer Ahmad, Terrance E. Boult.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
 **Feature Space Augmentation for Long-Tailed Data.**<br>
 *Peng Chu, Xiao Bian, Shaopeng Liu, Haibin Ling.*<br>
