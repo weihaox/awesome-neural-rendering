@@ -397,6 +397,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
+*Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)]
+
 **Stable View Synthesis.**<br>
 *Gernot Riegler, Vladlen Koltun.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.07233)] [[Video](https://youtu.be/gqgXIY09htI)]
