@@ -17,13 +17,15 @@ Feedback and contributions are welcome!
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
 - [Neural Rerendering](#neural-rerendering)
-- [Volumetric Performance Capture](#volumetric-performance-capture)
+- [Differentiable Rendering](#differentiable-rendering)
+- [Volumetric Performance Capture (Free Viewpoint Video)](#volumetric-performance-capture--free-viewpoint-video-)
 - [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
-- [Texture and Surface Mapping](#texture-and-surface-mapping)
+- [Texture and Surface Embedding or Mapping](#texture-and-surface-embedding-or-mapping)
 - [Neural Scene Representation and Rendering](#neural-scene-representation-and-rendering)
 - [Novel-View Synthesis for Objects and Scenes](#novel-view-synthesis-for-objects-and-scenes)
 - [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
-- [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
+- [Dubbing and Talking-Head Animation](#dubbing-and-talking-head-animation)
+- [Motion Transfer, Retargeting, and Reenactment](#motion-transfer--retargeting--and-reenactment)
 
 ## Intruduction of Neural Rendering
 
@@ -254,6 +256,8 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 ## Neural Scene Representation and Rendering
 
+[[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
+
 **Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
 *Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
@@ -397,7 +401,11 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
-**Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
+**RGBD-Net: Predicting color and depth images for novel views synthesis.**<br>
+*Phong Nguyen, Animesh Karnewar, Lam Huynh, Esa Rahtu, Jiri Matas, Janne Heikkila.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14398)]
+
+**NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
 *Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)]
 
@@ -515,6 +523,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 
 ## Light, Reflectance, lluminance and Shade
 
+**Cross-Camera Convolutional Color Constancy.**<br>
+*Mahmoud Afifi, Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11890)]
+
 **Towards Geometry Guided Neural Relighting with Flash Photography.**<br>
 *Di Qiu, Jin Zeng, Zhanghan Ke, Wenxiu Sun, Chengxi Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.05157v1)]
@@ -629,7 +641,37 @@ arixv 2016. [[PDF](https://arxiv.org/abs/1603.06078)]
 *Giulio Jiang, Bernhard Kainz.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
-## Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
+## Dubbing and Talking-Head Animation
+
+**One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**<br>
+*Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
+
+**Large-Scale Multilingual Audio Visual Dubbing.**<br>
+*Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
+
+**MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
+*Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
+
+**EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
+*Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
+
+**FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.**<br>
+*Kuangxiao Gu, Yuqian Zhou, Thomas Huang.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/1911.09224)] [[GitHub](https://github.com/kgu3/FLNet_AAAI2020)]
+
+**Text-based Editing of Talking-head Video.**<br>
+*Ohad Fried, Ayush Tewari, Michael Zollhöfer, Adam Finkelstein, Eli Shechtman, Dan B Goldman Kyle Genova, Zeyu Jin, Christian Theobalt,  Maneesh Agrawala.*<br>
+SIGGRAPH 2019. [[PDF](https://www.ohadf.com/projects/text-based-editing/data/text-based-editing.pdf)] [[Project](https://www.ohadf.com/projects/text-based-editing/)]
+
+**Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
+*Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
+
+## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
@@ -645,17 +687,9 @@ TVCG (ISMAR 2020). [[PDF](https://richardt.name/publications/audio-dvp/AudioDVP-
 *Soumya Tripathy, Juho Kannala, Esa Rahtu.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2011.04439)]
 
-**Large-Scale Multilingual Audio Visual Dubbing.**<br>
-*Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
-
 **Generative Adversarial Networks in Human Emotion Synthesis:A Review.**<br>
 *Noushin Hajarolasvadi, Miguel Arjona Ramírez, Hasan Demirel.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.15075)]
-
-**MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
-*Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
-SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
 
 **Mesh Guided One-shot Face Reenactment using Graph Convolutional Networks.**<br>
 *Guangming Yao, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
@@ -664,10 +698,6 @@ ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.07783)]
 **Learning to Generate Diverse Dance Motions with Transformer.**<br>
 *Jiaman Li, Yihang Yin, Hang Chu, Yi Zhou, Tingwu Wang, Sanja Fidler, Hao Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08171)]
-
-**Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
-*Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 
 **Action2Motion: Conditioned Generation of 3D Human Motions.**<br>
 *Chuan Guo, Xinxin Zuo, Sen Wang, Shihao Zou, Qingyao Sun, Annan Deng, Minglun Gong, Li Cheng.*<br>
@@ -693,10 +723,6 @@ SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editin
 *Kfir Aberman, Yijia Weng, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen.*<br>
 SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editing)] [[Project](https://deepmotionediting.github.io/style_transfer)]
 
-**MakeItTalk: Speaker-Aware Talking Head Animation.**<br>
-*Yang Zhou, DIngzeyu Li, Xintong Han, Evangelos Kalogerakis, Eli Shechtman, Jose Echevarria.*<br>
-arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12992)]
-
 **LipGAN: Towards Automatic Face-to-Face Translation.**<br>
 *Prajwal K R, Rudrabha Mukhopadhyay, Jerin Philip, Abhishek Jha, Vinay Namboodiri, C.V. Jawahar.*<br>
 ACM MM 2019. [[PDF](https://arxiv.org/abs/2003.00418v1)] [[Github](https://github.com/Rudrabha/LipGAN)]
@@ -712,10 +738,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12000)]
 **Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
 arriv, 2020. [[PDF](https://arxiv.org/abs/2001.04947v2)]
-
-**Text-based Editing of Talking-head Video.**<br>
-*Ohad Fried, Ayush Tewari, Michael Zollhöfer, Adam Finkelstein, Eli Shechtman, Dan B Goldman Kyle Genova, Zeyu Jin, Christian Theobalt,  Maneesh Agrawala.*<br>
-SIGGRAPH 2019. [[PDF](https://www.ohadf.com/projects/text-based-editing/data/text-based-editing.pdf)] [[Project](https://www.ohadf.com/projects/text-based-editing/)]
 
 **StyleRig: Rigging StyleGAN for 3D Control over Portrait Images.**<br>
 *A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H-P. Seidel, P. Perez, M. Zollhöfer, C.Theobalt.*<br>
@@ -749,10 +771,6 @@ SIGGRAPH Asia, 2019. [[PDF](https://arxiv.org/pdf/1903.10170.pdf)]
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
-**FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.**<br>
-*Kuangxiao Gu, Yuqian Zhou, Thomas Huang.*<br>
-AAAI 2020. [[PDF](https://arxiv.org/abs/1911.09224)] [[GitHub](https://github.com/kgu3/FLNet_AAAI2020)]
-
 **Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis.**<br>
 *Wen Liu, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1909.12224)] [[HomePage]( https://motionretargeting2d.github.io)]   [[Github](https://github.com/svip-lab/impersonator)]. 
@@ -772,14 +790,6 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 **Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.**<br>
 *Dongxu Wei, Haibin Shen, Kejie Huang.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
-
-**EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
-*Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
-
-**Photo Wake-Up: 3D Character Animation from a Single Photo.**<br>
-*Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs.washington.edu/projects/wakeup/)]
 
 ## License
 
