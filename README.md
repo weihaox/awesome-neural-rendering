@@ -401,6 +401,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
+*Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf/)] [[Github](https://github.com/sxyu/pixel-nerf)]
+
 **RGBD-Net: Predicting color and depth images for novel views synthesis.**<br>
 *Phong Nguyen, Animesh Karnewar, Lam Huynh, Esa Rahtu, Jiri Matas, Janne Heikkila.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14398)]
