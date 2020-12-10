@@ -527,6 +527,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
 ### Surface Models
 
+**Continuous Surface Embeddings.**<br>
+*Natalia Neverova, David Novotny, Vasil Khalidov, Marc Szafraniec, Patrick Labatut, Andrea Vedaldi.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.12438)]
+
 **Deep Active Surface Models.**<br>
 *Udaranga Wickramasinghe, Graham Knott, Pascal Fua.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.08826)]

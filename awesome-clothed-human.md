@@ -138,9 +138,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.12670)]
 *Xiangkai Lin, Yajing Chen, Linchao Bao, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Xinwei Jiang, Jue Wang, Dong Yu, Zhengyou Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05562)] [[Github](https://github.com/tencent-ailab/hifi3dface)] [[Project](https://github.com/tencent-ailab/hifi3dface_projpage)]
 
-**Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency.**<br>
+**HPBTT: Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency.**<br>
 *Fang Zhao, Shengcai Liao, Kaihao Zhang, Ling Shao.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/file/a516a87cfcaef229b342c437fe2b95f7-Paper.pdf)] [[Github](https://github.com/zhaofang0627/HPBTT)]
 
 **MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video.**<br>
 *Donglai Xiang, Fabian Prada, Chenglei Wu, Jessica Hodgins.*<br>

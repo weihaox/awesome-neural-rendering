@@ -258,6 +258,22 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
+**NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis.**<br>
+*Pratul P. Srinivasan, Boyang Deng, Xiuming Zhang, Matthew Tancik, Ben Mildenhall, Jonathan T. Barron.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03927)] [[Project](https://people.eecs.berkeley.edu/~pratul/nerv)]
+
+**pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
+*Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf)]
+
+**AutoInt: Automatic Integration for Fast Neural Volume Rendering.**<br>
+*David B. Lindell, Julien N. P. Martel, Gordon Wetzstein.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.01714)]
+
+**Learned Initializations for Optimizing Coordinate-Based Neural Representations.**<br>
+*Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, Ren Ng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02189)] [[Project](https://www.matthewtancik.com/learnit)]
+
 **Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
 *Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
@@ -399,6 +415,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1909.02533)] [[Github](https://github.co
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkulkarni.github.io/csm/)] [[Project](https://nileshkulkarni.github.io/csm/)]
 
 ## Novel-View Synthesis for Objects and Scenes
+
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
 **pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
@@ -528,8 +545,12 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 ## Light, Reflectance, Illuminance and Shade
 
 **NeRD: Neural Reflectance Decomposition from Image Collections.**<br>
-*Mark Boss, Raphael Braun, Varun Jampani, Jonathan T. Barron, Ce Liu, Hendrik P. A. Lensch.*<br>
+*[Mark Boss](https://markboss.me), [Raphael Braun](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/computergrafik/lehrstuhl/mitarbeiter/raphael-braun/), [Varun Jampani](https://varunjampani.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Ce Liu](http://people.csail.mit.edu/celiu/), [Hendrik P. A. Lensch](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/computergrafik/computer-graphics/staff/prof-dr-ing-hendrik-lensch/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03918)] [[Project](https://markboss.me/publication/2021-nerd/)] [[Github](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)]
+
+**Deferred Neural Lighting: Free-viewpoint Relighting from Unstructured Photographs.**<br>
+*[Duan Gao](https://gao-duan.github.io/), [Guojun Chen](https://www.microsoft.com/en-us/research/people/guoch/), [Yue Dong](http://yuedong.shading.me/), [Pieter Peers](http://www.cs.wm.edu/~ppeers/), [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/), [Xin Tong](http://www.xtong.info/).*<br>
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2020)
 
 **Cross-Camera Convolutional Color Constancy.**<br>
 *Mahmoud Afifi, Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
@@ -651,6 +672,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 ## Dubbing and Talking-Head Animation
 
+**DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images.**<br>
+*Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04012)] [[Github](https://github.com/YadiraF/DECA)]
+
 **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**<br>
 *Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
@@ -682,6 +707,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Single-Shot Freestyle Dance Reenactment.**<br>
+*Oran Gafni, Oron Ashual, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.01158)]
 
 **Image Animation with Perturbed Masks.**<br>
 *Yoav Shalev, Lior Wolf.*<br>
