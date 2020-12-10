@@ -18,14 +18,14 @@ Feedback and contributions are welcome!
 - [Inverse Rendering](#inverse-rendering)
 - [Neural Rerendering](#neural-rerendering)
 - [Differentiable Rendering](#differentiable-rendering)
-- [Volumetric Performance Capture (Free Viewpoint Video)](#volumetric-performance-capture--free-viewpoint-video-)
+- [Volumetric Performance Capture (Free Viewpoint Video)](#volumetric-performance-capture-free-viewpoint-video)
 - [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Texture and Surface Embedding or Mapping](#texture-and-surface-embedding-or-mapping)
 - [Neural Scene Representation and Rendering](#neural-scene-representation-and-rendering)
 - [Novel-View Synthesis for Objects and Scenes](#novel-view-synthesis-for-objects-and-scenes)
-- [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
+- [Light, Reflectance, Illuminance and Shade](#light-reflectance-illuminance-and-shade)
 - [Dubbing and Talking-Head Animation](#dubbing-and-talking-head-animation)
-- [Motion Transfer, Retargeting, and Reenactment](#motion-transfer--retargeting--and-reenactment)
+- [Motion Transfer, Retargeting, and Reenactment](#motion-transfer-retargeting-and-reenactment)
 
 ## Intruduction of Neural Rendering
 
@@ -35,12 +35,12 @@ Ayush Tewari et. al. define **Neural Rendering** as
 
 > <p align="justify"> <i>Deep image or video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure.</i></p>
 
-A typical neural rendering approach takes as input images corresponding to certain scene conditions (for example, viewpoint, lighting, layout, etc.), builds a “neural” scene representation from them, and “renders” this repre- sentation under novel scene properties to synthesize novel images.
+A typical neural rendering approach takes as input images corresponding to certain scene conditions (for example, viewpoint, lighting, layout, etc.), builds a “neural” scene representation from them, and “renders” this representation under novel scene properties to synthesize novel images.
 
 CVPR 2020 tutorial define **Neural Rendering** as
 > <p align="justify"> <i>Neural rendering is a new class of deep image and video generation approaches that enable explicit or implicit control of scene properties such as illumination, camera parameters, pose, geometry, appearance, and semantic structure. It combines generative machine learning techniques with physical knowledge from computer graphics to obtain controllable and photo-realistic outputs.</i></p>
 
-Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real- world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene—camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
+Given high-quality scene specifications, **Classic Rendering Methods** can render photorealistic images for a variety of complex real-world phenomena. Moreover, rendering gives us explicit editing control over all the elements of the scene-camera viewpoint, lighting, geometry and materials. However, building high-quality scene models, especially directly from images, requires significant manual effort, and automated scene modeling from images is an open research problem. On the other hand, **Deep Generative Networks** are now starting to produce visually compelling images and videos either from random noise, or conditioned on certain user specifications like scene segmentation and layout. However, they do not yet allow for fine-grained control over scene appearance and cannot always handle the complex, non-local, 3D interactions between scene properties. In contrast, neural rendering methods hold the promise of combining these approaches to enable controllable, high-quality synthesis of novel images from input images/videos. 
 
 ## Related Surveys and Course Notes
 
@@ -525,7 +525,7 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
-## Light, Reflectance, lluminance and Shade
+## Light, Reflectance, Illuminance and Shade
 
 **Cross-Camera Convolutional Color Constancy.**<br>
 *Mahmoud Afifi, Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
