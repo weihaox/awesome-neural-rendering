@@ -527,6 +527,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 
 ## Light, Reflectance, lluminance and Shade
 
+**NeRD: Neural Reflectance Decomposition from Image Collections.**<br>
+*Mark Boss, Raphael Braun, Varun Jampani, Jonathan T. Barron, Ce Liu, Hendrik P. A. Lensch.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03918)] [[Project](https://markboss.me/publication/2021-nerd/)] [[Github](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)]
+
 **Cross-Camera Convolutional Color Constancy.**<br>
 *Mahmoud Afifi, Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11890)]
