@@ -418,6 +418,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**Object-Centric Neural Scene Rendering.**<br>
+*Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://shellguo.com/osf)]
+
 **pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf/)] [[Github](https://github.com/sxyu/pixel-nerf)]
