@@ -236,6 +236,10 @@ ICRA 2019. [[PDF](https://hal.archives-ouvertes.fr/hal-01876700/document)]
 
 ## Long-Tailed, Open Set and Small Dataset
 
+**Rethinking the Value of Labels for Improving Class-Imbalanced Learning.**<br>
+*Yuzhe Yang, Zhi Xu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
+
 **Open-World Learning Without Labels.**<br>
 *Mohsen Jafarzadeh, Akshay Raj Dhamija, Steve Cruz, Chunchun Li, Touqeer Ahmad, Terrance E. Boult.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]

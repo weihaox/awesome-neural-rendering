@@ -26,6 +26,10 @@ Feedback and contributions are welcome!
 
 ## 3D People Dressing and Clothing Draping
 
+**Physically Based Neural Simulator for Garment Animation.**<br>
+*Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11310)]
+
 **Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture.**<br>
 *Yue Li, Marc Habermann, Bernhard Thomaszewski, Stelian Coros, Thabo Beeler, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12866)]
@@ -200,7 +204,7 @@ ECCV 2020. [[PDF](http://virtualhumans.mpi-inf.mpg.de/papers/NASA20/NASA.pdf)]
 
 **SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.**<br>
 *Garvita Tiwari, Bharat Lal Bhatnagar, Tony Tung, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
-ECCV 2020. 
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11610)] [[Data](https://nextcloud.mpi-klsb.mpg.de/index.php/s/nx6wK6BJFZCTF8C)] [[Github](https://github.com/garvita-tiwari/sizer)] [[Project](https://virtualhumans.mpi-inf.mpg.de/sizer/)]
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
 *Chaitanya Patel*, Zhouyingcheng Liao*, Gerard Pons-Moll.*<br>

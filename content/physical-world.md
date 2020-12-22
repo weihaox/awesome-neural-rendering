@@ -15,12 +15,14 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
   * [Human Activity and Action Understanding](#human-activity-and-action-understanding)
   * [Human Motion and Dynamics](#human-motion-and-dynamics)
   * [Human Tissue](#human-tissue)
-    + [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
+    + [Hair (Subtle) Segmentation and Reconstruction](#hair--subtle--segmentation-and-reconstruction)
     + [Face Reconstruction and Animation](#face-reconstruction-and-animation)
     + [Hand Reconstruction](#hand-reconstruction)
   * [Human Poses and Shapes](#human-poses-and-shapes)
+- [Fluid and Smoke Simulation](#fluid-and-smoke-simulation)
 - [Object Modeling](#object-modeling)
   * [Reconstruction of Transparent Shapes or Thin Structure](#reconstruction-of-transparent-shapes-or-thin-structure)
+  * [Surface Models](#surface-models)
   * [General Object Reconstruction](#general-object-reconstruction)
   * [Object Skeletonization](#object-skeletonization)
   * [Shape and Viewpoint](#shape-and-viewpoint)
@@ -38,10 +40,19 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
   * [Flow](#flow)
   * [2DCNN + LSTM (Temporal Block)](#2dcnn---lstm--temporal-block-)
 - [Misc (Speediness, Trajectories)](#misc--speediness--trajectories-)
+- [Gaze Estimation, Tracking, Redirection, Correction, and Blink Detection](#gaze-estimation--tracking--redirection--correction-and-blink-detection)
+  * [Gaze Dataset](#gaze-dataset)
+  * [Gaze Redirection and Correction](#gaze-redirection-and-correction)
+  * [Gaze Estimation](#gaze-estimation)
+  * [Eye Tracking](#eye-tracking)
 - [Team and People](#team-and-people)
 - [Good Start of 3D Resources (Python)](#good-start-of-3d-resources--python-)
 
 ## Hidden Surface or Object Reasoning
+
+**Object-Centric Diagnosis of Visual Reasoning.**<br>
+*Jianwei Yang, Jiayuan Mao, Jiajun Wu, Devi Parikh, David D. Cox, Joshua B. Tenenbaum, Chuang Gan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11587)]
 
 **P3I: Perspective Plane Program Induction from a Single Image.**<br>
 *[Yikai Li](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5pC7fw8AAAAJ), Jiayuan Mao, Xiuming Zhang, William T. Freeman, Joshua B. Tenenbaum, [Jiajun Wu](https://jiajunwu.com/).*<br>
@@ -163,6 +174,10 @@ Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.gi
 *Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02923)] [[Project](https://ps.is.tuebingen.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints)] [[Github](https://github.com/yz-cnsdqz/PSI-release)]
 
+**Synthesizing Long-Term 3D Human Motion and Interaction in 3D Scenes.**<br>
+*[Jiashun Wang](https://github.com/jiashunwang), [Huazhe Xu](http://hxu.rocks/), [Jingwei Xu](https://github.com/xjwxjw), [Sifei Liu](https://www.sifeiliu.net/), [Xiaolong Wang](https://xiaolonw.github.io/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05522)] [[Project](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)]
+
 ### Shape Interpolation
 
 **Hamiltonian Dynamics for Real-World Shape Interpolation.**<br>
@@ -188,6 +203,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.co
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00945)] [[Github](http://hake-mvig.cn/)]
 
 ### Human Motion and Dynamics 
+
+**Learning Complex 3D Human Self-Contact.**<br>
+*Mihai Fieraru, Mihai Zanfir, Elisabeta Oneata, Alin-Ionut Popa, Vlad Olaru, Cristian Sminchisescu.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2012.10366)]
 
 **iMoCap: Motion Capture from Internet Videos.**<br>
 *Junting Dong, Qing Shuai, Yuanqing Zhang, Xian Liu, Xiaowei Zhou, Hujun Bao.*<br>
@@ -279,6 +298,10 @@ ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/p
 
 #### Face Reconstruction and Animation
 
+**Shape My Face: Registering 3D Face Scans by Surface-to-Surface Translation.**<br>
+*Mehdi Bahri, Eimear O' Sullivan, Shunwang Gong, Feng Liu, Xiaoming Liu, Michael M. Bronstein, Stefanos Zafeiriou.*<br>
+IJCV Submission. [[PDF](https://arxiv.org/abs/2012.09235)]
+
 **High-Fidelity 3D Digital Human Creation from RGB-D Selfies.**<br>
 *Xiangkai Lin, Yajing Chen, Linchao Bao, Haoxian Zhang, Sheng Wang, Xuefei Zhe, Xinwei Jiang, Jue Wang, Dong Yu, and Zhengyou Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05562)] [[Github](https://github.com/tencent-ailab/hifi3dface)] [[Project](https://tencent-ailab.github.io/hifi3dface_projpage/)]
@@ -325,7 +348,7 @@ ACM SIGGRAPH European Conference on Visual Media Production 2020. [[PDF](https:/
 
 **FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction.**<br>
 *Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13989)] [[Github](https://github.com/zhuhao-nju/facescape)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13989)] [[Github](https://github.com/zhuhao-nju/facescape)] [[Github](https://github.com/yanght321/Detailed3DFace)]
 
 **A Morphable Face Albedo Model.**<br>
 *William A.P. Smith, Alassane Seck, Hannah Dee, Bernard Tiddeman, Joshua Tenenbaum, Bernhard Egger.*<br>
@@ -359,7 +382,11 @@ WACV 2020. [[PDF](https://arxiv.org/abs/2003.08583)]
 *Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)] [[Github](http://github.com/lattas/AvatarMe)]
 
-#### Hand Reconstruction
+#### Hand or Hand-Object Joint Reconstruction
+
+**Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction.**<br>
+*Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11260)]
 
 **HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map.**<br>
 *Jameel Malik, Ibrahim Abdelaziz, Ahmed Elhayek, Soshi Shimada, Sk Aziz Ali, Vladislav Golyanik, Christian Theobalt, Didier Stricker.*<br>
@@ -507,6 +534,12 @@ SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduce
 
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
 
+### Reconstruction of Deformable or Non-rigid Objects
+
+**Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction.**<br>
+*Aljaž Božič, Pablo Palafox, Michael Zollhöfer, Justus Thies, Angela Dai, Matthias Nießner.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.01451)] [[Video](https://youtu.be/vyq36eFkdWo)]
+
 ### Reconstruction of Transparent Shapes or Thin Structure
 
 **GeLaTO: Generative Latent Textured Objects.**<br>
@@ -526,6 +559,18 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.03372)] [[Github](https://githu
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10904)]
 
 ### Surface Models
+
+**Learning Category-level Shape Saliency via Deep Implicit Surface Networks.**<br>
+*Chaozheng Wu, Lin Sun, Xun Xu, Kui Jia.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07290)]
+
+**Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multi-View Reconstruction.**<br>
+*Andrei Zaharescu, Edmond Boyer, Radu Horaud.*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2012.05536)]
+
+**Diffusion is All You Need for Learning on Surfaces.**<br>
+*Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00888)]
 
 **Continuous Surface Embeddings.**<br>
 *Natalia Neverova, David Novotny, Vasil Khalidov, Marc Szafraniec, Patrick Labatut, Andrea Vedaldi.*<br>
@@ -548,7 +593,37 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Murai_Su
 ICCV 2017, Invited Poster at the Bridges to 3D Workshop, CVPR 2018.
 [[PDF](https://arxiv.org/abs/1704.02956)] [[Dataset](http://www-personal.umich.edu/~wfchen/surface-normals-in-the-wild/)] [[Gihtub](https://github.com/princeton-vl/surface_normals)]
 
+### Scene Reconstruction
+
+**Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.**<br>
+*Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SUMO/Shin_Multi-layer_Depth_and_Epipolar_Feature_Transformers_for_3D_Scene_Reconstruction_CVPRW_2019_paper.pdf)]
+
+**Image-to-Voxel Model Translation for 3D Scene Reconstruction and Segmentation.**<br>
+*Vladimir V. Kniaz, Vladimir A. Knyaz, Fabio Remondino, Artem Bordodymov, Petr Moshkantsev.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520103.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520103-supp.zip)]
+
+**FlatNet: Towards Photorealistic Scene Reconstruction from Lensless Measurements.**<br>
+*Salman S. Khan, Varun Sundar, Vivek Boominathan, Ashok Veeraraghavan, Kaushik Mitra.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.15440)] [[Project](https://siddiquesalman.github.io/flatnet/)]
+
+**Learning to Recover 3D Scene Shape from a Single Image.**<br>
+*Wei Yin, Jianming Zhang, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
+
 ### General Object Reconstruction
+
+**Descriptor-Free Multi-View Region Matching for Instance-Wise 3D Reconstruction.**<br>
+*Takuma Doi, Fumio Okura, Toshiki Nagahara, Yasuyuki Matsushita, Yasushi Yagi.*<br>
+ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]
+
+**Deep Optimized Priors for 3D Shape Modeling and Reconstruction.**<br>
+*Mingyue Yang, Yuxin Wen, Weikai Chen, Yongwei Chen, Kui Jia.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07241)]
+
+**VMR: Online Adaptation for Consistent Mesh Reconstruction in the Wild.**<br>
+*Xueting Li, Sifei Liu, Shalini De Mello, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, Jan Kautz.*<br>
+NeurIPS 2020. [[PDF](https://sites.google.com/nvidia.com/vmr-2020)]
 
 **A Divide et Impera Approach for 3D Shape Reconstruction from Multiple Views.**<br>
 *Riccardo Spezialetti, David Joseph Tan, Alessio Tonioni, Keisuke Tateno, Federico Tombari.*<br>
@@ -569,10 +644,6 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07660)] [[Github](https://github
 **Learning Deformable Tetrahedral Meshes for 3D Reconstruction.**<br>
 *Jun Gao, Wenzheng Chen, Tommy Xiang, Alec Jacobson, Morgan McGuire, Sanja Fidler.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.01437)]
-
-**FlatNet: Towards Photorealistic Scene Reconstruction from Lensless Measurements.**<br>
-*Salman S. Khan, Varun Sundar, Vivek Boominathan, Ashok Veeraraghavan, Kaushik Mitra.*<br>
-TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.15440)] [[Project](https://siddiquesalman.github.io/flatnet/)]
 
 **Primal-Dual Mesh Convolutional Neural Networks.**<br>
 *Francesco Milano, Antonio Loquercio, Antoni Rosinol, Davide Scaramuzza, Luca Carlone.*<br>
@@ -661,14 +732,6 @@ arxiv, 13 Mar 2020. [[PDF](https://arxiv.org/abs/2003.06473)] [[Project](https:/
 **Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data.**<br>
 *Sebastian Lunz, Yingzhen Li, Andrew Fitzgibbon, Nate Kushman.*<br>
 arxiv, 28 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12674)]
-
-**Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.**<br>
-*Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SUMO/Shin_Multi-layer_Depth_and_Epipolar_Feature_Transformers_for_3D_Scene_Reconstruction_CVPRW_2019_paper.pdf)]
-
-**Image-to-Voxel Model Translation for 3D Scene Reconstruction and Segmentation.**<br>
-*Vladimir V. Kniaz, Vladimir A. Knyaz, Fabio Remondino, Artem Bordodymov, Petr Moshkantsev.*<br> 
-ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520103.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520103-supp.zip)]
 
 **SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization.**<br>
 *Yue Jiang, Dantong Ji, Zhizhong Han, Matthias Zwicker.*<br>
@@ -1118,7 +1181,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09760)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.12255)]
 
 
-## Gaze Estimation, Tracking, Redirection, Correction and Blink Detection
+## Gaze Estimation, Tracking, Redirection, Correction, and Blink Detection
 
 [[Awesome Work on Gaze Estimation.](https://github.com/cvlab-uob/Awesome-Gaze-Estimation)]
 

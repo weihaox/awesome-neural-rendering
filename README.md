@@ -94,6 +94,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Neural Rerendering
 
+**StyleUV: Diverse and High-fidelity UV Map Generative Model.**<br>
+*Myunggi Lee, Wonwoong Cho, Moonheum Kim, David Inouye, Nojun Kwak.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12893)]
+
 **Neural Rerendering in the Wild.**<br>
 *Moustafa Meshry, Dan B Goldman, Sameh Khamis, Hugues Hoppe, Rohit Pandey, Noah Snavely, Ricardo Martin-Brualla.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.04290)]
@@ -258,6 +262,38 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
+**Learned Initializations for Optimizing Coordinate-Based Neural Representations.**<br>
+*[Matthew Tancik](https://www.matthewtancik.com/), [[Ben Mildenhall](https://people.eecs.berkeley.edu/~bmild/), [Terrance Wang](), [Divi Schmidt](), [Pratul P. Srinivasan](), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02189)] [[Project](https://www.matthewtancik.com/learnit)]
+
+**Learning Compositional Radiance Fields of Dynamic Human Heads.**<br>
+*Ziyan Wang, Timur Bagautdinov, Stephen Lombardi, Tomas Simon, Jason Saragih, Jessica Hodgins, Michael Zollhöfer.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09955)]
+
+**OSF: Object-Centric Neural Scene Rendering.**<br>
+*Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://shellguo.com/osf)]
+
+**Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
+*Yu Deng, Jiaolong Yang, Xin Tong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13650)]
+
+**Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations.**<br>
+*Wang Yifan, Shihao Wu, Cengiz Oztireli, Olga Sorkine-Hornung.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06434)]
+
+**Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction.**<br>
+*Guy Gafni, Justus Thies, Michael Zollhöfer, Matthias Nießner.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03065)] [[Project](https://gafniguy.github.io/4D-Facial-Avatars/)] [[Video](https://youtu.be/m7oROLdQnjk)]
+
+**Portrait Neural Radiance Fields from a Single Image.**<br>
+*Chen Gao, Yichang Shih, Wei-Sheng Lai, Chia-Kai Liang, Jia-Bin Huang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrait-nerf.github.io/)]
+
+**iNeRF: Inverting Neural Radiance Fields for Pose Estimation.**<br>
+*[Lin Yen-Chen](http://yenchenlin.me/), Pete Florence, Jonathan T. Barron, Alberto Rodriguez, Phillip Isola, Tsung-Yi Lin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05877)] [[Project](http://yenchenlin.me/inerf/)]
+
 **NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis.**<br>
 *Pratul P. Srinivasan, Boyang Deng, Xiuming Zhang, Matthew Tancik, Ben Mildenhall, Jonathan T. Barron.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03927)] [[Project](https://people.eecs.berkeley.edu/~pratul/nerv)]
@@ -323,8 +359,8 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1812.02822)] [[Project](https://www.sfu.
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08939)]
 
 **Equivariant Neural Rendering.**<br>
-*Emilien Dupont, Miguel Angel Bautista, Alex Colburn, Aditya Sankar, Carlos Guestrin, Josh Susskind, Qi Shan.*<br>
-ICML 2020. [[PDF](https://arxiv.org/abs/2006.07630)]
+*[Emilien Dupont](https://emiliendupont.github.io/), Miguel Angel Bautista, [Alex Colburn](https://www.colburn.org/), Aditya Sankar, [Carlos Guestrin](https://homes.cs.washington.edu/~guestrin/), Josh Susskind, [Qi Shan](http://shanqi.github.io/).*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2006.07630)] [[Github](https://github.com/apple/ml-equivariant-neural-rendering)]
 
 **CoReNet: Coherent 3D Scene Reconstruction From a Single RGB Image.**<br>
 *Stefan Popov, Pablo Bauszat, Vittorio Ferrari.*<br>
@@ -417,6 +453,18 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**Neural Radiance Flow for 4D View Synthesis and Video Processing.**<br>
+*Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09790)] [[Project](https://yilundu.github.io/nerflow/)]
+
+**Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image.**<br>
+*Andrew Liu, Richard Tucker, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
+
+**Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image.**<br>
+*Ronghang Hu, Deepak Pathak.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09854)]
 
 **Object-Centric Neural Scene Rendering.**<br>
 *Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser.*<br>
@@ -548,6 +596,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 
 ## Light, Reflectance, Illuminance and Shade
 
+**Relightable 3D Head Portraits from a Smartphone Video.**<br>
+*Artem Sevastopolsky, Savva Ignatiev, Gonzalo Ferrer, Evgeny Burnaev, Victor Lempitsky.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09963)]
+
 **NeRD: Neural Reflectance Decomposition from Image Collections.**<br>
 *[Mark Boss](https://markboss.me), [Raphael Braun](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/computergrafik/lehrstuhl/mitarbeiter/raphael-braun/), [Varun Jampani](https://varunjampani.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Ce Liu](http://people.csail.mit.edu/celiu/), [Hendrik P. A. Lensch](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/computergrafik/computer-graphics/staff/prof-dr-ing-hendrik-lensch/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03918)] [[Project](https://markboss.me/publication/2021-nerd/)] [[Github](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)]
@@ -676,6 +728,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 ## Dubbing and Talking-Head Animation
 
+**HeadGAN: Video-and-Audio-Driven Talking Head Synthesis.**<br>
+*Michail Christos Doukas, Stefanos Zafeiriou, Viktoriia Sharmanska.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08261)]
+
 **DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images.**<br>
 *Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04012)] [[Github](https://github.com/YadiraF/DECA)]
@@ -711,6 +767,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**High-Fidelity Neural Human Motion Transfer from Monocular Video.**<br>
+*Moritz Kappel, Vladislav Golyanik, Mohamed Elgharib, Jann-Ole Henningson, Hans-Peter Seidel, Susana Castillo, Christian Theobalt, Marcus Magnor.*<br>
+arxiv 2020. [[PDF]()] [[Project](https://graphics.tu-bs.de/publications/kappel2020high-fidelity)] 
 
 **Single-Shot Freestyle Dance Reenactment.**<br>
 *Oran Gafni, Oron Ashual, Lior Wolf.*<br>
@@ -807,10 +867,6 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1904.12356)]
 **LOGAN: Unpaired Shape Transform in Latent Overcomplete Space.**<br>
 *Kangxue Yin, Zhiqin Chen, Hui Huang, Daniel Cohen-Or, Hao Zhang.*<br>
 SIGGRAPH Asia, 2019. [[PDF](https://arxiv.org/pdf/1903.10170.pdf)]
-
-**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
-*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
 **Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis.**<br>
 *Wen Liu, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao.*<br>

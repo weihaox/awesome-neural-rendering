@@ -5,9 +5,11 @@ This repository is a collection of papers on learning 3D representations from na
 ## Table of Contents
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [3D Shape Representation and Feature Embedding](#3d-shape-representation-and-feature-embedding)
+- [Homography Estimation](#homography-estimation)
 - [Representation of Texture](#representation-of-texture)
 - [Representation of Motion](#representation-of-motion)
 - [Surface Cuts and Parameterization](#surface-cuts-and-parameterization)
+- [Multi-View or Cross-View Region Matching](#multi-view-or-cross-view-region-matching)
 - [Dense Shape Correspondence and Matching](#dense-shape-correspondence-and-matching)
 - [3D Reconstruction with Synthesied Images](#3d-reconstruction-with-synthesied-images)
 
@@ -152,7 +154,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1909.02533)] [[Github](https://github.co
 *Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkulkarni.github.io/csm/)] [[Project](https://nileshkulkarni.github.io/csm/)]
 
-##Homography Estimation
+## Homography Estimation
 
 **Content-Aware Unsupervised Deep Homography Estimation.**<br>
 *Jirong Zhang, Chuan Wang, Shuaicheng Liu, Lanpeng Jia, Nianjin Ye, Jue Wang, Ji Zhou, Jian Sun.*<br>
@@ -191,7 +193,17 @@ CVPRW, 2019. [[PDF](https://arxiv.org/abs/1806.10309v1)]
 *Minchen Li, Danny M. Kaufman, Vladimir G. Kim, Justin Solomon, Alla Sheffer.*<br>
 ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/doc/OptCuts.pdf)] [[Code and Data](http://www.cs.ubc.ca/labs/imager/tr/2018/OptCuts/)] 
 
+## Multi-View or Cross-View Region Matching
+
+**Descriptor-Free Multi-View Region Matching for Instance-Wise 3D Reconstruction.**<br>
+*Takuma Doi, Fumio Okura, Toshiki Nagahara, Yasuyuki Matsushita, Yasushi Yagi.*<br>
+ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]
+
 ## Dense Shape Correspondence and Matching
+
+**Patch2Pix: Epipolar-Guided Pixel-Level Correspondences.**<br>
+*Qunjie Zhou, Torsten Sattler, Laura Leal-Taixe.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.01909)]
 
 **Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs.**<br>
 *Xiangru Huang, Haitao Yang, Etienne Vouga, Qixing Huang.*<br>
