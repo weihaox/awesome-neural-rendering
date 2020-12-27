@@ -110,6 +110,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**ANR: Articulated Neural Rendering for Virtual Avatars.**<br>
+*Amit Raj, Julian Tanke, James Hays, Minh Vo, Carsten Stoll, Christoph Lassner.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12890)]
+
 **RIN: Textured Human Model Recovery and Imitation with a Single Image.**<br>
 *Haoxi Ran, Guangfu Wang, Li Lu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12024)]

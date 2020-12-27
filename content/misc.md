@@ -58,6 +58,14 @@ arxiv, 24 Dec 2019. [[PDF](https://arxiv.org/abs/1912.11474)] [[Project](http://
 
 ## Reciprocal Computer Vision Tasks
 
+**Three Ways to Improve Semantic Segmentation with Self-Supervised Depth Estimation.**<br>
+*Lukas Hoyer, Dengxin Dai, Yuhua Chen, Adrian Köring, Suman Saha, Luc Van Gool.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10782)]  [[Github](https://github.com/lhoyer/improving_segmentation_with_selfsupervised_depth)]
+
+**Boosting Semantic Segmentation with Multi-task Self-supervised Learning for Autonomous Driving Applications.**<br>
+*Jelena Novosel, Prashanth Viswanath, Bruno Arsenali.*<br>
+arxiv 2020. [[PDF](https://ml4ad.github.io/files/papers/Boosting%20semantic%20segmentation%20with%20multi-task%20self-supervised%20learning%20for%20autonomous%20driving%20applications.pdf)]
+
 **DSNet: Joint Learning for Scene Segmentation and Disparity Estimation.**<br>
 *Wujing Zhan, Xinqi Ou, Yunyi Yang and Long Chen.*<br>
 ICRA 2019. [[PDF](https://ieeexplore.ieee.org/document/8793573)] 

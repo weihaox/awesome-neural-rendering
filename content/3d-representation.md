@@ -15,6 +15,10 @@ This repository is a collection of papers on learning 3D representations from na
 
 ## 3D Representations From Natural Images
 
+**Learning Joint 2D-3D Representations for Depth Completion.**<br>
+*Yun Chen, Bin Yang, Ming Liang, Raquel Urtasun.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/2012.12402)]
+
 **Inverse Graphics: Unsupervised Learning of 3D Shapes from Single Images.**<br>
 *Talip Ucar.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1911.07937)]
