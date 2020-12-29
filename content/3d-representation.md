@@ -57,6 +57,10 @@ arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://h
 
 ## 3D Shape Representation and Feature Embedding
 
+**Deep Implicit Templates for 3D Shape Representation.**<br>
+*Zerong Zheng, Tao Yu, Qionghai Dai, Yebin Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14565)]
+
 **Learning to Compose Hypercolumns for Visual Correspondence.**<br>
 *Juhong Min, Jongmin Lee, Jean Ponce, Minsu Cho.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.10587)]
@@ -205,13 +209,17 @@ ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]
 
 ## Dense Shape Correspondence and Matching
 
+**Space-Time Correspondence as a Contrastive Random Walk.**<br>
+*Allan Jabri, Andrew Owens, Alexei A. Efros.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.14613)] [[Github](https://github.com/ajabri/videowalk)] [[Project](https://ajabri.github.io/videowalk/)]
+
 **Patch2Pix: Epipolar-Guided Pixel-Level Correspondences.**<br>
 *Qunjie Zhou, Torsten Sattler, Laura Leal-Taixe.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.01909)]
 
 **Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs.**<br>
 *Xiangru Huang, Haitao Yang, Etienne Vouga, Qixing Huang.*<br>
-NeurIPS 2020. [[PDF](https://www.cs.utexas.edu/~xrhuang/publications/Neurips2020_HumanCorres.pdf)] [[PDF](https://github.com/xiangruhuang/HumanCorresViaLearn2Sync)]
+NeurIPS 2020. [[PDF](https://www.cs.utexas.edu/~xrhuang/publications/Neurips2020_HumanCorres.pdf)] [[Github](https://github.com/xiangruhuang/HumanCorresViaLearn2Sync)]
 
 **Deep Shells: Unsupervised Shape Correspondence with Optimal Transport.**<br>
 *Marvin Eisenberger, Aysim Toker, Laura Leal-Taixé, Daniel Cremers.*<br>

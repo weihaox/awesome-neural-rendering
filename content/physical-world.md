@@ -842,6 +842,10 @@ WACV 2019. [[PDF](https://arxiv.org/abs/1803.08673)] [[Github](https://github.co
 
 ### Depth From Video (Depth, Normal and Camera Motion Estimation)
 
+**DeepVideoMVS: Multi-View Stereo on Video with Recurrent Spatio-Temporal Fusion.**<br>
+*Arda Düzçeker, Silvano Galliani, Christoph Vogel, Pablo Speciale, Mihai Dusmanu, Marc Pollefeys.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02177)] [[Github](https://github.com/ardaduz/deep-video-mvs)]
+
 **Consistent Video Depth Estimation.**<br>
 *Xuan Luo, Jia-Bin Huang, Richard Szeliski, Kevin Matzen, Johannes Kopf.*<br>
 SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2004.15021)] [[Project](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)]
@@ -1056,6 +1060,10 @@ CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/html/Su_Deep_En
 ICRA 2018. [[PDF](https://arxiv.org/abs/1709.07492)] [[Github](https://github.com/fangchangma/sparse-to-dense.pytorch)]
 
 ### Temporal- and Scale-Consistent Depth Estimation
+
+**DeepVideoMVS: Multi-View Stereo on Video with Recurrent Spatio-Temporal Fusion.**<br>
+*Arda Düzçeker, Silvano Galliani, Christoph Vogel, Pablo Speciale, Mihai Dusmanu, Marc Pollefeys.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02177)] [[Github](https://github.com/ardaduz/deep-video-mvs)]
 
 **TTNet: Real-Time Temporal and Spatial Video Analysis of Table Tennis.**<br>
 *Roman Voeikov, Nikolay Falaleev, Ruslan Baikulov.*<br>

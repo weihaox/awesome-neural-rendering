@@ -34,7 +34,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01484)]
 
 **Matching Guided Distillation.**<br>
 *Kaiyu Yue, Jiangfan Deng, Feng Zhou.*<br>
-ECCV 2020 [[PDF](https://arxiv.org/abs/2008.09958)] [[Project](http://kaiyuyue.com/mgd)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.09958)] [[Project](http://kaiyuyue.com/mgd)]
 
 **Prime-Aware Adaptive Distillation.**<br>
 *Youcai Zhang, Zhonghao Lan, Yuchen Dai, Fangao Zeng, Yan Bai, Jie Chang, Yichen Wei.*<br>
@@ -51,7 +51,7 @@ arxiv 2020. [[PDF](https://arxiv.org/pdf/2006.11207.pdf)] [[Github](https://gith
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.04267)]
 
 **Learning to Balance Specificity and Invariance for In and Out of Domain Generalization.**<br>
-*Prithvijit Chattopadhyay, Yogesh Balaji, Judy Hoffman.*<br>
+*[Prithvijit Chattopadhyay](https://prithv1.xyz/), Yogesh Balaji, Judy Hoffman.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.12839)]
 
 **Zero Shot Domain Generalization.**<br>
