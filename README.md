@@ -268,7 +268,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00373)]
 **DeepSurfels: Learning Online Appearance Fusion.**<br>
 *Marko Mihajlovic, Silvan Weder, Marc Pollefeys, Martin R. Oswald.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14240)]
->>>>>>> Stashed changes
 
 **Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video.**<br>
 *Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Christoph Lassner, Christian Theobalt.*<br>
