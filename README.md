@@ -1,8 +1,6 @@
 # awesome neural rendering papers 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 A collection of resources on neural rendering. 
@@ -265,11 +263,16 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 **Non-line-of-Sight Imaging via Neural Transient Fields.**<br>
 *Siyuan Shen, Zi Wang, Ping Liu, Zhengqing Pan, Ruiqian Li, Tian Gao, Shiying Li, Jingyi Yu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2101.00373)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00373)]
+
+**DeepSurfels: Learning Online Appearance Fusion.**<br>
+*Marko Mihajlovic, Silvan Weder, Marc Pollefeys, Martin R. Oswald.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14240)]
+>>>>>>> Stashed changes
 
 **Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video.**<br>
 *Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Christoph Lassner, Christian Theobalt.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12247)] [[Project](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12247)] [[Project](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)] [[Github](https://github.com/facebookresearch/nonrigid_nerf)]
 
 **Learned Initializations for Optimizing Coordinate-Based Neural Representations.**<br>
 *[Matthew Tancik](https://www.matthewtancik.com/), [[Ben Mildenhall](https://people.eecs.berkeley.edu/~bmild/), [Terrance Wang](), [Divi Schmidt](), [Pratul P. Srinivasan](), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
@@ -462,6 +465,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans.**<br>
+*Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15838)] [[Project](https://zju3dv.github.io/neuralbody/)]
 
 **Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild.**<br>
 *Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
