@@ -217,7 +217,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.04583)] [[Github](https://github.co
 
 **Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.**<br>
 *Tong He, John Collomosse, Hailin Jin, Stefano Soatto.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.08072)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.08072)]  [[Github](https://github.com/simpleig/Geo-PIFu)]
 
 **SparseFusion: Dynamic Human Avatar Modeling from Sparse RGBD Images.**<br>
 *Xinxin Zuo, Sen Wang, Jiangbin Zheng, Weiwei Yu, Minglun Gong, Ruigang Yang, Li Cheng.*<br>

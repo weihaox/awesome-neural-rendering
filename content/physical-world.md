@@ -221,8 +221,8 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11678)]
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08969)]
 
 **MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency.**<br>
-*Mingyi Shi, Kfir Aberman, Andreas Aristidou, Taku Komura, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen.*<br>
-TOG 2020. [[PDF](https://arxiv.org/abs/2006.12075)] [[Project](https://rubbly.cn/publications/motioNet)]
+*[Mingyi Shi](https://rubbly.cn/), [Kfir Aberman](http://kfiraberman.github.io/), [Andreas Aristidou](http://andreasaristidou.com/), [Taku Komura](http://homepages.inf.ed.ac.uk/tkomura/), [Dani Lischinski](https://www.cse.huji.ac.il/~danix/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan).*<br>
+TOG 2020. [[PDF](https://arxiv.org/abs/2006.12075)] [[Project](https://rubbly.cn/publications/motioNet)] [[Github](https://github.com/Shimingyi/MotioNet)]
 
 **Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images.**<br>
 *Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
@@ -264,6 +264,18 @@ TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)]
 
 #### Hair (Subtle) Segmentation and Reconstruction
 
+**Semantic Soft Segmentation.**<br>
+*Yagiz Aksoy, Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
+ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://yaksoy.github.io/papers/TOG18-sss-supp.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github](https://github.com/yaksoy/SemanticSoftSegmentation)] 
+
+**Soft Segmentation of Images.**<br>
+*Yagiz Aksoy.*<br>
+PhD Thesis, ETH Zurich, 2019. [[PDF](http://yaksoy.github.io/papers/ETH19-PhD-Aksoy.pdf)] [[Project](yaksoy.github.io/ssi/)]
+
+**Meticulous Object Segmentation.**<br>
+*Chenglin Yang, Yilin Wang, Jianming Zhang, He Zhang, Zhe Lin, Alan Yuille.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07181)]
+
 **MODNet: Is a Green Screen Really Necessary for Real-Time Human Matting?**<br>
 *Zhanghan Ke, Kaican Li, Yurou Zhou, Qiuhua Wu, Xiangyu Mao, Qiong Yan, Rynson W.H. Lau.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11961)] [[GitHub](https://github.com/ZHKKKe/MODNet)]
@@ -276,17 +288,9 @@ ACM Transactions on Graphics (SIGGRAPH ASIA 2019). [[PDF](http://www.cad.zju.edu
 *Meng Zhang, Youyi Zheng.*<br>
 Visual Informatics 2019. [[PDF](http://www.cad.zju.edu.cn/home/zyy/docs/hairgan_final.pdf)]
 
-**Semantic Soft Segmentation.**<br>
-*Yagiz Aksoy, Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
-ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://yaksoy.github.io/papers/TOG18-sss-supp.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github](https://github.com/yaksoy/SemanticSoftSegmentation)] 
-
 **Learning-based Sampling for Natural Image Matting.**<br>
 *Jingwei Tang, Yagiz Aksoy, Cengiz Oztireli, Markus Gross, and Tunc Ozan Aydin.*<br>
 CVPR, 2019. [[PDF](http://yaksoy.github.io/papers/CVPR19-samplenet.pdf)] [[Project](http://yaksoy.github.io/samplenet/)] 
-
-**Soft Segmentation of Images.**<br>
-*Yagiz Aksoy.*<br>
-PhD Thesis, ETH Zurich, 2019. [[PDF](http://yaksoy.github.io/papers/ETH19-PhD-Aksoy.pdf)] [[Project](yaksoy.github.io/ssi/)]
 
 **3D Hair Synthesis Using Volumetric Variational Autoencoders.**<br>
 *Shunsuke Saito, Liwen Hu, Chongyang Ma, Hikaru Ibayashi, Linjie Luo, Hao Li.*<br>
@@ -594,6 +598,10 @@ ICCV 2017, Invited Poster at the Bridges to 3D Workshop, CVPR 2018.
 [[PDF](https://arxiv.org/abs/1704.02956)] [[Dataset](http://www-personal.umich.edu/~wfchen/surface-normals-in-the-wild/)] [[Gihtub](https://github.com/princeton-vl/surface_normals)]
 
 ### Scene Reconstruction
+
+**Unsupervised Monocular Depth Reconstruction of Non-Rigid Scenes.**<br>
+*Ayça Takmaz, Danda Pani Paudel, Thomas Probst, Ajad Chhatkuli, Martin R. Oswald, Luc Van Gool.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15680)]
 
 **Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.**<br>
 *Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.*<br>
