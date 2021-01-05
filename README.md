@@ -263,6 +263,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
+**Non-line-of-Sight Imaging via Neural Transient Fields.**<br>
+*Siyuan Shen, Zi Wang, Ping Liu, Zhengqing Pan, Ruiqian Li, Tian Gao, Shiying Li, Jingyi Yu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2101.00373)]
+
 **Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video.**<br>
 *Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Christoph Lassner, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12247)] [[Project](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)]
