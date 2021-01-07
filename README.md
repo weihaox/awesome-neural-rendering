@@ -465,6 +465,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**Novel View Synthesis via Depth-guided Skip Connections.**<br>
+*Yuxin Hou, Arno Solin, Juho Kannala.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01619)]
+
 **Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans.**<br>
 *Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15838)] [[Project](https://zju3dv.github.io/neuralbody/)]
