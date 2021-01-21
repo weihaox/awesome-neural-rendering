@@ -209,6 +209,10 @@ ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]
 
 ## Dense Shape Correspondence and Matching
 
+**PDCNet: Learning Accurate Dense Correspondences and When to Trust Them.**<br>
+*Prune Truong, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01710)] [[](https://github.com/PruneTruong/PDCNet)]
+
 **Space-Time Correspondence as a Contrastive Random Walk.**<br>
 *Allan Jabri, Andrew Owens, Alexei A. Efros.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.14613)] [[Github](https://github.com/ajabri/videowalk)] [[Project](https://ajabri.github.io/videowalk/)]

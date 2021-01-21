@@ -111,6 +111,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**PVA: Pixel-aligned Volumetric Avatars.**<br>
+*Amit Raj, Michael Zollhoefer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02697)] [[Project](https://volumetric-avatars.github.io/)]
+
 **ANR: Articulated Neural Rendering for Virtual Avatars.**<br>
 *Amit Raj, Julian Tanke, James Hays, Minh Vo, Carsten Stoll, Christoph Lassner.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12890)]

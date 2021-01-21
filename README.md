@@ -107,6 +107,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 
 ## Differentiable Rendering
 
+**Neural Re-Rendering of Humans from a Single Image.**<br>
+*Kripasindhu Sarkar, Dushyant Mehta, Weipeng Xu, Vladislav Golyanik, Christian Theobalt.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2101.04104)]
+
 **Modular Primitives for High-Performance Differentiable Rendering.**<br>
 *Samuli Laine, Janne Hellsten, Tero Karras, Yeongho Seol, Jaakko Lehtinen, Timo Aila.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03277)] [[Github](https://github.com/NVlabs/nvdiffrast)]
@@ -260,6 +264,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 ## Neural Scene Representation and Rendering
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
+
+**Neural Volume Rendering: NeRF And Beyond.**<br>
+*Frank Dellaert, Lin Yen-Chen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05204)]
 
 **Non-line-of-Sight Imaging via Neural Transient Fields.**<br>
 *Siyuan Shen, Zi Wang, Ping Liu, Zhengqing Pan, Ruiqian Li, Tian Gao, Shiying Li, Jingyi Yu.*<br>

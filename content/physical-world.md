@@ -298,9 +298,13 @@ ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/p
 
 **HairNet: Single-View Hair Reconstruction using Convolutional Neural Networks.**<br>
 *Yi Zhou, Liwen Hu, Jun Xing, Weikai Chen, Han-Wei Kung, Xin Tong, Hao Li.*<br>
-2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](http://t.cn/AiBvbwNK)] 
+arxiv 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](https://github.com/papagina/HairNet_orient2D)] [[GitHub](https://github.com/papagina/HairNet_DataSetGeneration)]
 
 #### Face Reconstruction and Animation
+
+**Practical Face Reconstruction via Differentiable Ray Tracing.**<br>
+*Abdallah Dib, Gaurav Bharaj, Junghyun Ahn, Cédric Thébault, Philippe-Henri Gosselin, Marco Romeo, Louis Chevallier.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05356)]
 
 **Shape My Face: Registering 3D Face Scans by Surface-to-Surface Translation.**<br>
 *Mehdi Bahri, Eimear O' Sullivan, Shunwang Gong, Feng Liu, Xiaoming Liu, Michael M. Bronstein, Stefanos Zafeiriou.*<br>
@@ -620,6 +624,18 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.15440)] [[Project](https://siddiqu
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
+
+**DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors.**<br>
+*Jiahui Huang, Shi-Sheng Huang, Haoxuan Song, Shi-Min Hu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05551)]
+
+**Compositionally Generalizable 3D Structure Prediction.**<br>
+*Songfang Han, Jiayuan Gu, Kaichun Mo, Li Yi, Siyu Hu, Xuejin Chen, Hao Su.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02493)]
+
+**STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering.**<br>
+*Wentao Yuan, Zhaoyang Lv, Tanner Schmidt, Steven Lovegrove.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01602)]
 
 **Descriptor-Free Multi-View Region Matching for Instance-Wise 3D Reconstruction.**<br>
 *Takuma Doi, Fumio Okura, Toshiki Nagahara, Yasuyuki Matsushita, Yasushi Yagi.*<br>
