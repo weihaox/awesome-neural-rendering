@@ -264,6 +264,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
+**Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes.**<br>
+*Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10994)]
+
 **Neural Volume Rendering: NeRF And Beyond.**<br>
 *Frank Dellaert, Lin Yen-Chen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05204)]
@@ -472,6 +476,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**Deep View Synthesis via Self-Consistent Generative Network.**<br>
+*Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, Mingkui Tan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10844)]
+
 **Novel View Synthesis via Depth-guided Skip Connections.**<br>
 *Yuxin Hou, Arno Solin, Juho Kannala.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01619)]
@@ -545,6 +553,7 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12373
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580324.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580324-supp.zip)]
 
 **Semantic View Synthesis.**</br>
+*[Hsin-Ping Huang](https://hhsinping.github.io/), [Hung-Yu Tseng](https://sites.google.com/site/hytseng0509/), [Hsin-Ying Lee](http://vllab.ucmerced.edu/hylee/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*</br>
 ECCV 2020. [[PDF](hhsinping.github.io/svs/link/paper.pdf)] [[Project](hhsinping.github.io/svs/index.htm)]  
 
 **Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
