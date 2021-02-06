@@ -1,6 +1,20 @@
 
 # Msic
 
+## Frequency
+
+**FcaNet: Frequency Channel Attention Networks.**<br>
+*Zequn Qin, Pengyi Zhang, Fei Wu, Xi Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11879)] [[Github](https://github.com/cfzd/FcaNet)]
+
+**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
+*Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng.*<br>
+arxiv 2020. [[PDF]](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
+
+**Focal Frequency Loss for Generative Models.**<br>
+*Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy.*<br>
+arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
+
 ## Holistic 3D Vision
 
 [[awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d)]
@@ -9,11 +23,11 @@
 
 **Fast-SCNN: Fast Semantic Segmentation Network.**<br>
 *Rudra P K Poudel, Stephan Liwicki, Roberto Cipolla.*<br>
-arxiv, 2 Feb 2019. [[PDF](https://arxiv.org/abs/1902.04502)] [[Github](https://github.com/DeepVoltaire/Fast-SCNN)] [[PyTorch](https://github.com/Tramac/Fast-SCNN-pytorch)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/1902.04502)] [[Github](https://github.com/DeepVoltaire/Fast-SCNN)] [[PyTorch](https://github.com/Tramac/Fast-SCNN-pytorch)]
 
 **SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis.**<br>
 *Bohan Zhai, Tianren Gao, Flora Xue, Daniel Rothchild, Bichen Wu, Joseph E. Gonzalez, Kurt Keutzer.*<br>
-arxiv, 16 Jan 2020. [[PDF]](https://arxiv.org/abs/2001.05685)
+arxiv 2020. [[PDF]](https://arxiv.org/abs/2001.05685)
 
 **FastDepth: Fast Monocular Depth Estimation on Embedded Systems.**<br>
 *Diana Wofk, Fangchang Ma, Tien-Ju Yang, Sertac Karaman, Vivienne Sze.*<br>
