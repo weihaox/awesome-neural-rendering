@@ -85,6 +85,14 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
 
+**BA3US: A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation.**<br>
+*[Jian Liang](https://liangjian.xyz/), Yunbo Wang, Dapeng Hu, Ran He, Jiashi Feng.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.02541)] [[Github](https://github.com/tim-learn/BA3US)]
+
+**SHOT: Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation.**<br>
+*Jian Liang, Dapeng Hu, Jiashi Feng.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2002.08546)] [[Github](https://github.com/tim-learn/SHOT)]
+
 **Learning to Balance Specificity and Invariance for In and Out of Domain Generalization.**<br>
 *[Prithvijit Chattopadhyay](https://prithv1.xyz/), Yogesh Balaji, Judy Hoffman.*<br>
 ECCV 2020. [[PDF](https://prithv1.xyz/data/0790.pdf)] [[Github](https://github.com/prithv1/DMG)]

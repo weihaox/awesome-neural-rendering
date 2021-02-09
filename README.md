@@ -10,6 +10,13 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 
 Feedback and contributions are welcome!
 
+markdown format:
+``` markdown
+**Here is the Paper Name.**<br>
+*[Author 1](homepage), Author 2, and Author 3.*<br>
+Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+```
+
 ## Table of Contents
 - [Intruduction of Neural Rendering](#intruduction-of-neural-rendering)
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
@@ -475,6 +482,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**Unsupervised Novel View Synthesis from a Single Image.**<br>
+*Pierluigi Zama Ramirez, Alessio Tonioni, Federico Tombari.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03285)]
 
 **Deep View Synthesis via Self-Consistent Generative Network.**<br>
 *Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, Mingkui Tan.*<br>

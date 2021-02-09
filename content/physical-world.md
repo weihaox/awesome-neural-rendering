@@ -302,6 +302,10 @@ arxiv 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](https://github.c
 
 #### Face Reconstruction and Animation
 
+**MeInGame: Create a Game Character Face from a Single Portrait.**<br>
+*Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.02371)]
+
 **Practical Face Reconstruction via Differentiable Ray Tracing.**<br>
 *Abdallah Dib, Gaurav Bharaj, Junghyun Ahn, Cédric Thébault, Philippe-Henri Gosselin, Marco Romeo, Louis Chevallier.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05356)]
