@@ -99,6 +99,14 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Neural Rerendering
 
+**Neural Re-rendering for Full-frame Video Stabilization.**<br>
+*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://alex04072000.github.io/NeRViS/)]
+
+**Neural Re-Rendering of Humans from a Single Image.**<br>
+*Kripasindhu Sarkar, Dushyant Mehta, Weipeng Xu, Vladislav Golyanik, Christian Theobalt.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2101.04104)]
+
 **StyleUV: Diverse and High-fidelity UV Map Generative Model.**<br>
 *Myunggi Lee, Wonwoong Cho, Moonheum Kim, David Inouye, Nojun Kwak.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12893)]
@@ -270,6 +278,12 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 ## Neural Scene Representation and Rendering
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
+
+[[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+
+**A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering.**<br>
+*[Shih-Yang Su](https://lemonatsu.github.io/), [Frank Yu](https://yu-frank.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Helge Rhodin](http://helge.rhodin.de/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06199)] [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
 
 **Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes.**<br>
 *Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler.*<br>

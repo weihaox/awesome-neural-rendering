@@ -629,6 +629,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
 
+**Shelf-Supervised Mesh Prediction in the Wild.**<br>
+*Yufei Ye, Shubham Tulsiani, Abhinav Gupta.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2102.06195)]
+
 **DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors.**<br>
 *Jiahui Huang, Shi-Sheng Huang, Haoxuan Song, Shi-Min Hu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05551)]

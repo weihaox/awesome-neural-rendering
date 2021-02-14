@@ -19,6 +19,12 @@
 *Rufin VanRullen, Ryota Kanai.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
+## CV in adverse envirmental conditions
+
+**Optical Flow in the Dark.**<br>
+*Yinqiang Zheng, Mingfang Zhang, Feng Lu.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.html)] [[Github](https://github.com/mf-zhang/Optical-Flow-in-the-Dark)]
+
 ## Exploit Domain Knowledge
 
 **LSM: Learning Subspace Minimization for Low-level Vision.**<br>
