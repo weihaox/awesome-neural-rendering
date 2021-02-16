@@ -281,6 +281,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**NeRF--: Neural Radiance Fields Without Known Camera Parameters.**<br>
+*Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07064)] [[Project](http://nerfmm.active.vision/)]
+
 **A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering.**<br>
 *[Shih-Yang Su](https://lemonatsu.github.io/), [Frank Yu](https://yu-frank.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Helge Rhodin](http://helge.rhodin.de/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06199)] [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
