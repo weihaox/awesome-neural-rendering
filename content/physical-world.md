@@ -418,6 +418,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08213)] [[Project](https://mks0601.
 
 ### Human Poses and Shapes
 
+**Capturing Detailed Deformations of Moving Human Bodies.**<br>
+*He Chen, Hyojoon Park, Kutay Macit, Ladislav Kavan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07343)]
+
 **Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose.**<br>
 *Hongsuk Choi, Gyeongsik Moon, Kyoung Mu Lee.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.09047)] [[Github](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)]
@@ -547,6 +551,10 @@ SIGGRAPH 2020. [[PDF](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduce
 CVPR 2020 Workshop on Deep Learning Foundations of Geometric Shape Modeling and Reconstruction. [[Video](http://t.cn/A6LmLlgL)]
 
 ### Reconstruction of Deformable or Non-rigid Objects
+
+**Capturing Detailed Deformations of Moving Human Bodies.**<br>
+*He Chen, Hyojoon Park, Kutay Macit, Ladislav Kavan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07343)]
 
 **Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction.**<br>
 *Aljaž Božič, Pablo Palafox, Michael Zollhöfer, Justus Thies, Angela Dai, Matthias Nießner.*<br>

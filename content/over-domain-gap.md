@@ -45,6 +45,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01458)]
 
 ## Domain Generalization
 
+**Domain Generalization Needs Stochastic Weight Averaging for Robustness on Domain Shifts.**<br>
+*Junbum Cha, Hancheol Cho, Kyungjae Lee, Seunghyun Park, Yunsung Lee, Sungrae Park.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08604)]
+
 **How does the Combined Risk Affect the Performance of Unsupervised Domain Adaptation Approaches?**<br>
 *Li Zhong, Zhen Fang, Feng Liu, Jie Lu, Bo Yuan, Guangquan Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01104)]

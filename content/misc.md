@@ -3,6 +3,10 @@
 
 ## Frequency
 
+**Universal Adversarial Perturbations Through the Lens of Deep Steganography: Towards A Fourier Perspective.**<br>
+*Chaoning Zhang, Philipp Benz, Adil Karjauv, In So Kweon.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.06479)]
+
 **FcaNet: Frequency Channel Attention Networks.**<br>
 *Zequn Qin, Pengyi Zhang, Fei Wu, Xi Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11879)] [[Github](https://github.com/cfzd/FcaNet)]

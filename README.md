@@ -281,8 +281,13 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+
+**ShaRF: Shape-conditioned Radiance Fields from a Single View.**<br>
+*Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krematas.com/sharf/index.html)]
+
 **NeRF--: Neural Radiance Fields Without Known Camera Parameters.**<br>
-*Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu.*<br>
+*Zirui Wang, Shangzhe Wu, [Weidi Xie](https://weidixie.github.io/weidi-personal-webpage/), [Min Chen](https://sites.google.com/site/drminchen/home), [Victor Adrian Prisacariu](https://eng.ox.ac.uk/people/victor-prisacariu/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07064)] [[Project](http://nerfmm.active.vision/)]
 
 **A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering.**<br>
@@ -500,6 +505,14 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**Stable View Synthesis.**<br>
+*Gernot Riegler, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.07233)] [[Github](https://github.com/intel-isl/StableViewSynthesis)]
+
+**Free View Synthesis.**<br>
+*Gernot Riegler, [Vladlen Koltun](http://vladlen.info).*<br>
+ECCV 2020. [[PDF](http://vladlen.info/papers/FVS.pdf)]  [[Github](https://github.com/intel-isl/FreeViewSynthesis)] [[Data]()]
 
 **Unsupervised Novel View Synthesis from a Single Image.**<br>
 *Pierluigi Zama Ramirez, Alessio Tonioni, Federico Tombari.*<br>
