@@ -99,8 +99,8 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Neural Rerendering
 
-**Neural Re-rendering for Full-frame Video Stabilization.**<br>
-*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
+**NeRViS: Neural Re-rendering for Full-frame Video Stabilization.**<br>
+*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/), [Wei-Sheng Lai](https://www.wslai.net/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://alex04072000.github.io/NeRViS/)]
 
 **Neural Re-Rendering of Humans from a Single Image.**<br>
@@ -676,6 +676,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
 ## Light, Reflectance, Illuminance and Shade
+
+**DSRN: an Efficient Deep Network for Image Relighting.**<br>
+*Sourya Dipta Das, Nisarg A. Shah, Saikat Dutta, Himanshu Kumar.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09242)]
 
 **Relightable 3D Head Portraits from a Smartphone Video.**<br>
 *Artem Sevastopolsky, Savva Ignatiev, Gonzalo Ferrer, Evgeny Burnaev, Victor Lempitsky.*<br>

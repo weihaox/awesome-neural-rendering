@@ -506,6 +506,10 @@ ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.d
 
 ## Fluid and Smoke Simulation
 
+**VisuoSpatial Foresight for Physical Sequential Fabric Manipulation.**<br>
+*Ryan Hoque, Daniel Seita, Ashwin Balakrishna, Aditya Ganapathi, Ajay Kumar Tanwani, Nawid Jamali, Katsu Yamane, Soshi Iba, Ken Goldberg.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09754)]
+
 **DUDE: Deep Unsigned Distance Embeddings for Hi-Fidelity Representation of Complex 3D Surfaces.**<br>
 *Rahul Venkatesh, Sarthak Sharma, Aurobrata Ghosh, Laszlo Jeni, Maneesh Singh.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02570)]
