@@ -191,6 +191,10 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 
 ## Texture and Surface Embedding or Mapping
 
+**NeuTex: Neural Texture Mapping for Volumetric Neural Rendering.**<br>
+*Fanbo Xiang, Zexiang Xu, Miloš Hašan, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Hao Su.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00762)]
+
 **Better Patch Stitching for Parametric Surface Reconstruction.**<br>
 *Zhantao Deng, Jan Bednařík, Mathieu Salzmann, Pascal Fua.*<br>
 3DV 2020. [[PDF](https://arxiv.org/abs/2010.07021)]
@@ -505,6 +509,14 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 ## Novel-View Synthesis for Objects and Scenes
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**IBRNet: Learning Multi-View Image-Based Rendering.**<br>
+*Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13090)]
+
+**Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image.**<br>
+*[Ronghang Hu](https://ronghanghu.com/), [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09854)] [[Project](https://worldsheet.github.io/)]
 
 **Stable View Synthesis.**<br>
 *Gernot Riegler, Vladlen Koltun.*<br>

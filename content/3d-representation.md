@@ -57,6 +57,10 @@ arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://h
 
 ## 3D Shape Representation and Feature Embedding
 
+**PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features.**<br>
+*Yang You, Yujing Lou, Ruoxi Shi, Qi Liu, Yu-Wing Tai, Lizhuang Ma, Weiming Wang, Cewu Lu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12093)] [[Github](https://github.com/qq456cvb/SPRIN)]
+
 **Deep Implicit Templates for 3D Shape Representation.**<br>
 *Zerong Zheng, Tao Yu, Qionghai Dai, Yebin Liu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14565)]
