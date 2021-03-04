@@ -201,7 +201,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00762)]
 
 **Continuous Surface Embeddings.**<br>
 *Natalia Neverova, David Novotny, Marc Szafraniec, Vasil Khalidov, Patrick Labatut, Andrea Vedaldi.*<br>
-NerIPS 2020. [[PDF]()]
+NerIPS 2020. [[PDF](https://arxiv.org/abs/2011.12438)]
 
 **Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter.**<br>
 *Guilin Liu, Rohan Taori, Ting-Chun Wang, Zhiding Yu, Shiqiu Liu, Fitsum A. Reda, Karan Sapra, Andrew Tao, Bryan Catanzaro.*<br>
@@ -285,6 +285,9 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Mixture of Volumetric Primitives for Efficient Neural Rendering.**<br>
+*Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01954)]
 
 **ShaRF: Shape-conditioned Radiance Fields from a Single View.**<br>
 *Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
@@ -319,7 +322,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14240)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12247)] [[Project](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)] [[Github](https://github.com/facebookresearch/nonrigid_nerf)]
 
 **Learned Initializations for Optimizing Coordinate-Based Neural Representations.**<br>
-*[Matthew Tancik](https://www.matthewtancik.com/), [[Ben Mildenhall](https://people.eecs.berkeley.edu/~bmild/), [Terrance Wang](), [Divi Schmidt](), [Pratul P. Srinivasan](), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
+*[Matthew Tancik](https://www.matthewtancik.com/), [[Ben Mildenhall](https://people.eecs.berkeley.edu/~bmild/), Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02189)] [[Project](https://www.matthewtancik.com/learnit)]
 
 **Learning Compositional Radiance Fields of Dynamic Human Heads.**<br>
@@ -362,21 +365,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.
 *David B. Lindell, Julien N. P. Martel, Gordon Wetzstein.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.01714)]
 
-**Learned Initializations for Optimizing Coordinate-Based Neural Representations.**<br>
-*Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, Ren Ng.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02189)] [[Project](https://www.matthewtancik.com/learnit)]
-
 **Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
 *Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
 
 **DeRF: Decomposed Radiance Fields.**<br>
 *Daniel Rebain, Wei Jiang, Soroosh Yazdani, Ke Li, Kwang Moo Yi, Andrea Tagliasacchi.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12490)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12490)] [[Project](https://ubc-vision.github.io/derf/)]
 
 **D-NERF: Deformable Neural Radiance Fields.**<br>
 *Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo-Martin Brualla.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)]
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
 *Michael Niemeyer, Andreas Geiger.*<br>
@@ -510,25 +509,87 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
-**IBRNet: Learning Multi-View Image-Based Rendering.**<br>
-*Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13090)]
+### Implicit Neural Representations or Neural Radiance Fields
+
+**DyNeRF: Neural 3D Video Synthesis.**<br>
+*Tianye Li, Mira Slavcheva, Michael Zollhoefer, Simon Green, Christoph Lassner, Changil Kim, Tanner Schmidt, Steven Lovegrove, Michael Goesele, Zhaoyang Lv.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02597)] [[Project](https://neural-3d-video.github.io/)]
+
+**ID-Unet: Iterative Soft and Hard Deformation for View Synthesis.**<br>
+*Mingyu Yin, Li Sun, Qingli Li.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02264)]
+
+**Neural Radiance Flow for 4D View Synthesis and Video Processing.**<br>
+*Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09790)] [[Project](https://yilundu.github.io/nerflow/)]
+
+**Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans.**<br>
+*Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15838)] [[Project](https://zju3dv.github.io/neuralbody/)]
+
+**NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
+*Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)]
+
+**NeRF++: Analyzing and Improving Neural Radiance Fields.**<br>
+*Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07492)] [[Github](https://github.com/Kai-46/nerfplusplus)]
+
+**X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation.**<br>
+*MOJTABA BEMANA, KAROL MYSZKOWSKI, HANS-PETER SEIDEL, TOBIAS RITSCHEL.*<br>
+Siggraph Asia 2020. [[PDF](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasia_2020.pdf)]
+
+**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.**<br>
+*Ricardo Martin-Brualla, Noha Radwan, Mehdi S. M. Sajjadi, Jonathan T. Barron, Alexey Dosovitskiy, Daniel Duckworth.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02268)] [[Github](https://nerf-w.github.io/)]
+
+**pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
+*Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf/)] [[Github](https://github.com/sxyu/pixel-nerf)]
+
+**GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
+*Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02442)]
+
+**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
+*[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
+
+### From Single Image
+
+**Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
+*Tewodros Habtegebrial, Varun Jampani, Orazio Gallo, Didier Stricker.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
+
+**ShaRF: Shape-conditioned Radiance Fields from a Single View.**<br>
+*Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krematas.com/sharf/index.html)]
 
 **Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image.**<br>
 *[Ronghang Hu](https://ronghanghu.com/), [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09854)] [[Project](https://worldsheet.github.io/)]
 
-**Stable View Synthesis.**<br>
-*Gernot Riegler, Vladlen Koltun.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.07233)] [[Github](https://github.com/intel-isl/StableViewSynthesis)]
-
-**Free View Synthesis.**<br>
-*Gernot Riegler, [Vladlen Koltun](http://vladlen.info).*<br>
-ECCV 2020. [[PDF](http://vladlen.info/papers/FVS.pdf)]  [[Github](https://github.com/intel-isl/FreeViewSynthesis)] [[Data]()]
-
 **Unsupervised Novel View Synthesis from a Single Image.**<br>
 *Pierluigi Zama Ramirez, Alessio Tonioni, Federico Tombari.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03285)]
+
+**Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image.**<br>
+*Andrew Liu, Richard Tucker, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
+
+### Others
+
+**IBRNet: Learning Multi-View Image-Based Rendering.**<br>
+*Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13090)]
+
+**SVS: Stable View Synthesis.**<br>
+*Gernot Riegler, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.07233)] [[Github](https://github.com/intel-isl/StableViewSynthesis)] [[Video](https://youtu.be/gqgXIY09htI)]
+
+**FVS: Free View Synthesis.**<br>
+*Gernot Riegler, [Vladlen Koltun](http://vladlen.info).*<br>
+ECCV 2020. [[PDF](http://vladlen.info/papers/FVS.pdf)]  [[Code&Data](https://github.com/intel-isl/FreeViewSynthesis)]
 
 **Deep View Synthesis via Self-Consistent Generative Network.**<br>
 *Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, Mingkui Tan.*<br>
@@ -538,53 +599,17 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10844)]
 *Yuxin Hou, Arno Solin, Juho Kannala.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01619)]
 
-**Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans.**<br>
-*Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15838)] [[Project](https://zju3dv.github.io/neuralbody/)]
-
 **Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild.**<br>
 *Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12884)] [[Project](https://grail.cs.washington.edu/projects/vid2actor/)] [[Video](https://youtu.be/Zec8Us0v23o)]
-
-**Neural Radiance Flow for 4D View Synthesis and Video Processing.**<br>
-*Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09790)] [[Project](https://yilundu.github.io/nerflow/)]
-
-**Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image.**<br>
-*Andrew Liu, Richard Tucker, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
-
-**Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image.**<br>
-*Ronghang Hu, Deepak Pathak.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09854)]
 
 **Object-Centric Neural Scene Rendering.**<br>
 *Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://shellguo.com/osf)]
 
-**pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
-*Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf/)] [[Github](https://github.com/sxyu/pixel-nerf)]
-
-**RGBD-Net: Predicting color and depth images for novel views synthesis.**<br>
+**RGBD-Net: Predicting Color and Depth Images for Novel Views Synthesis.**<br>
 *Phong Nguyen, Animesh Karnewar, Lam Huynh, Esa Rahtu, Jiri Matas, Janne Heikkila.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14398)]
-
-**NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
-*Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)]
-
-**Stable View Synthesis.**<br>
-*Gernot Riegler, Vladlen Koltun.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.07233)] [[Video](https://youtu.be/gqgXIY09htI)]
-
-**NeRF++: Analyzing and Improving Neural Radiance Fields.**<br>
-*Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07492)] [[Github](https://github.com/Kai-46/nerfplusplus)]
-
-**X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation.**<br>
-*MOJTABA BEMANA, KAROL MYSZKOWSKI, HANS-PETER SEIDEL, TOBIAS RITSCHEL.*<br>
-Siggraph Asia 2020. [[PDF](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasia_2020.pdf)]
 
 **Rotationally-Temporally Consistent Novel-View Synthesis of Human Performance Video.**<br> 
 *Youngjoong Kwon, Stefano Petrangeli, Dahun Kim, Haoliang Wang, Eunbyung Park, Viswanathan Swaminathan, Henry Fuchs.*<br>
@@ -610,14 +635,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12358
 *[Hsin-Ping Huang](https://hhsinping.github.io/), [Hung-Yu Tseng](https://sites.google.com/site/hytseng0509/), [Hsin-Ying Lee](http://vllab.ucmerced.edu/hylee/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*</br>
 ECCV 2020. [[PDF](hhsinping.github.io/svs/link/paper.pdf)] [[Project](hhsinping.github.io/svs/index.htm)]  
 
-**Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
-*Tewodros Habtegebrial, Varun Jampani, Orazio Gallo, Didier Stricker.*<br>
-aexiv 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
-
-**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.**<br>
-*Ricardo Martin-Brualla, Noha Radwan, Mehdi S. M. Sajjadi, Jonathan T. Barron, Alexey Dosovitskiy, Daniel Duckworth.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02268)] [[Github](https://nerf-w.github.io/)]
-
 **Deep Multi Depth Panoramas for View Synthesis.**<br>
 *Kai-En Lin, Zexiang Xu, Ben Mildenhall, Pratul P. Srinivasan, Yannick Hold-Geoffroy, Stephen DiVerdi, Qi Sun, Kalyan Sunkavalli, Ravi Ramamoorthi.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01815)]
@@ -634,10 +651,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06620)]
 *Anpei Chen, Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03780)]
 
-**GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
-*Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02442)]
-
 **Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera.**<br>
 *Jae Shin Yoon, Kihwan Kim, Orazio Gallo, Hyun Soo Park, Jan Kautz.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01294)]
@@ -645,10 +658,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01294)]
 **Neural Point-Based Graphics.**<br>
 *Kara-Ali Aliev, Artem Sevastopolsky, Maria Kolos, Dmitry Ulyanov, Victor Lempitsky.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1906.08240)] [[Project](https://saic-violet.github.io/npbg/)]
-
-**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
-*[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
 
 **Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations.**<br>
 *[Vincent Sitzmann](https://vsitzmann.github.io/), Michael Zollhöfer, Gordon Wetzstein.*<br>
@@ -867,7 +876,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 
 **High-Fidelity Neural Human Motion Transfer from Monocular Video.**<br>
 *Moritz Kappel, Vladislav Golyanik, Mohamed Elgharib, Jann-Ole Henningson, Hans-Peter Seidel, Susana Castillo, Christian Theobalt, Marcus Magnor.*<br>
-arxiv 2020. [[PDF]()] [[Project](https://graphics.tu-bs.de/publications/kappel2020high-fidelity)] 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10974)] [[Project](https://graphics.tu-bs.de/publications/kappel2020high-fidelity)] 
 
 **Single-Shot Freestyle Dance Reenactment.**<br>
 *Oran Gafni, Oron Ashual, Lior Wolf.*<br>
