@@ -396,6 +396,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)] [[Github](http://github.com
 
 #### Hand or Hand-Object Joint Reconstruction
 
+**Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration.**<br>
+*Xingyu Chen, Yufeng Liu, Chongyang Ma, Jianlong Chang, Huayan Wang, Tian Chen, Xiaoyan Guo, Pengfei Wan, Wen Zheng.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02845)]
+
 **Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction.**<br>
 *Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11260)]
@@ -505,6 +509,10 @@ ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanti
 ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
 ## Fluid and Smoke Simulation
+
+**Learning Incompressible Fluid Dynamics from Scratch - Towards Fast, Differentiable Fluid Models that Generalize.**<br>
+*Nils Wandel, Michael Weinmann, Reinhard Klein.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=KUDUoRsEphu)]
 
 **VisuoSpatial Foresight for Physical Sequential Fabric Manipulation.**<br>
 *Ryan Hoque, Daniel Seita, Ashwin Balakrishna, Aditya Ganapathi, Ajay Kumar Tanwani, Nawid Jamali, Katsu Yamane, Soshi Iba, Ken Goldberg.*<br>
@@ -767,7 +775,7 @@ CVPR 2020 Best Paper. [[PDF](https://arxiv.org/abs/1911.11130)] [[Project](https
 
 **GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
 *Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
+ICLR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.00844)] [[Github](https://github.com/XingangPan/GAN2Shape)] [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
 
 **Self-supervised Single-view 3D Reconstruction via Semantic Consistency.**<br>
 *Xueting Li, Sifei Liu, Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz.*<br>

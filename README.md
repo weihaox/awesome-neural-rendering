@@ -285,6 +285,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks.**<br>
+*Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03231)] [[Project](https://depthoraclenerf.github.io/)]
+
 **Mixture of Volumetric Primitives for Efficient Neural Rendering.**<br>
 *Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01954)]
@@ -583,6 +587,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
 
 ### Others
 
+**Nex: Real-time View Synthesis with Neural Basis Expansion.**<br>
+*S. Wizadwongsa, P. Phongthawee, J. Yenphraphai, S. Suwajanakorn.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05606)]
+
+**Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis.**<br>
+*Zhipeng Bao, Yu-Xiong Wang, Martial Hebert.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=ESG-DMKQKsD)]
+
 **IBRNet: Learning Multi-View Image-Based Rendering.**<br>
 *Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13090)]
@@ -877,6 +889,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Local Motion Phases for Learning Multi-Contact Character Movements.**<br>
+*[Sebastian Starke](https://www.linkedin.com/in/sebastian-starke-b281a6148/), Yiwei Zhao, Taku Komura, Kazi Zaman.*<br>
+Siggraph 2020. [[PDF](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf)] [[AI4Animation](https://github.com/sebastianstarke/AI4Animation)]
+
+**Neural State Machine for Character-Scene Interactions.**<br>
+*Sebastian Starke, He Zhang, Taku Komura, Jun Saito.*<br>
+Siggraph Asia 2019. [[PDF](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)] [[Code & Data](https://github.com/sebastianstarke/AI4Animation/blob/master/AI4Animation/SIGGRAPH_Asia_2019)]
 
 **High-Fidelity Neural Human Motion Transfer from Monocular Video.**<br>
 *Moritz Kappel, Vladislav Golyanik, Mohamed Elgharib, Jann-Ole Henningson, Hans-Peter Seidel, Susana Castillo, Christian Theobalt, Marcus Magnor.*<br>

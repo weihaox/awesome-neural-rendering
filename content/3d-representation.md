@@ -207,6 +207,10 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Multi-View or Cross-View Region Matching
 
+**SGP: Self-supervised Geometric Perception.**<br>
+*Heng Yang, Wei Dong, Luca Carlone, Vladlen Koltun.*<br>
+CVPR 2021. [[PDF](https://github.com/theNded/SGP)] [[Github](https://github.com/theNded/SGP)]
+
 **Descriptor-Free Multi-View Region Matching for Instance-Wise 3D Reconstruction.**<br>
 *Takuma Doi, Fumio Okura, Toshiki Nagahara, Yasuyuki Matsushita, Yasushi Yagi.*<br>
 ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]

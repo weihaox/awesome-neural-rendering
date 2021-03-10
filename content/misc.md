@@ -1,24 +1,6 @@
 
 # Msic
 
-## Frequency
-
-**Universal Adversarial Perturbations Through the Lens of Deep Steganography: Towards A Fourier Perspective.**<br>
-*Chaoning Zhang, Philipp Benz, Adil Karjauv, In So Kweon.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.06479)]
-
-**FcaNet: Frequency Channel Attention Networks.**<br>
-*Zequn Qin, Pengyi Zhang, Fei Wu, Xi Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11879)] [[Github](https://github.com/cfzd/FcaNet)]
-
-**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
-*Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng.*<br>
-arxiv 2020. [[PDF]](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
-
-**Focal Frequency Loss for Generative Models.**<br>
-*Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy.*<br>
-arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
-
 ## Holistic 3D Vision
 
 [[awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d)]
