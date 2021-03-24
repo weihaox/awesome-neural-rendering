@@ -302,6 +302,10 @@ arxiv 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](https://github.c
 
 #### Face Reconstruction and Animation
 
+**3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction.**<br>
+*Yuda Qiu, Xiaojie Xu, Lingteng Qiu, Yan Pan, Yushuang Wu, Weikai Chen, Xiaoguang Han.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.08204)] [[Project](https://qiuyuda.github.io/3DCaricShop/)]
+
 **MeInGame: Create a Game Character Face from a Single Portrait.**<br>
 *Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2102.02371)]
@@ -396,9 +400,17 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)] [[Github](http://github.com
 
 #### Hand or Hand-Object Joint Reconstruction
 
+**Single Depth View Based Real-time Reconstruction of Hand-objectInteractions.**<br>
+*Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, Feng Xu.*<br>
+TOG 2021. [[PDF](http://xufeng.site/publications/2021/Single%20Depth%20View%20Based%20Real-time%20Reconstruction%20of%20Hand-objectInteractions.pdf)]
+
 **Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration.**<br>
 *Xingyu Chen, Yufeng Liu, Chongyang Ma, Jianlong Chang, Huayan Wang, Tian Chen, Xiaoyan Guo, Pengfei Wan, Wen Zheng.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02845)]
+
+**Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data.**<br>
+*Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.09572)] [[Project](https://calciferzh.github.io/publications/zhou2020monocular)] [[Github](https://github.com/CalciferZh/minimal-hand)]
 
 **Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction.**<br>
 *Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua.*<br>
@@ -649,6 +661,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
 
+**Deep Implicit Moving Least-Squares Functions for 3D Reconstruction.**<br>
+*Shi-Lin Liu, Hao-Xiang Guo, Hao Pan, Peng-Shuai Wang, Xin Tong, Yang Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12266)] [[Github](https://github.com/Andy97/DeepMLS)]
+
 **Shelf-Supervised Mesh Prediction in the Wild.**<br>
 *Yufei Ye, Shubham Tulsiani, Abhinav Gupta.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2102.06195)]
@@ -755,7 +771,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03028)]
 
 **Learning to Detect 3D Reflection Symmetry for Single-View Reconstruction.**<br>
 *Yichao Zhou, Shichen Liu, Yi Ma.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10042)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10042)] [[Github](https://github.com/zhou13/symmetrynet)]
 
 **DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes.**<br>
 *Mahyar Najibi, Guangda Lai, Abhijit Kundu, Zhichao Lu, Vivek Rathod, Tom Funkhouser, Caroline Pantofaru, David Ross, Larry S. Davis, Alireza Fathi.*<br>

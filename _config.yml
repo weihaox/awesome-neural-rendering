@@ -7,7 +7,5 @@ relative_links:
   collections: true
 include:
   - README.md
-  - awesome-clothed-human.md
   - content/physical-world.md
   - content/3d-representation.md
-  - content/over-domain-gap.md
