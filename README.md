@@ -371,11 +371,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03927)] [[Project](https://people.
 
 **pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf)]
 
 **AutoInt: Automatic Integration for Fast Neural Volume Rendering.**<br>
 *David B. Lindell, Julien N. P. Martel, Gordon Wetzstein.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.01714)]
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.01714)] [[Project](http://www.computationalimaging.org/publications/automatic-integration/)]
 
 **Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
 *Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
@@ -586,6 +586,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.co
 
 ### From Single Image
 
+**pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
+*Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf)]
+
 **Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
 *Tewodros Habtegebrial, Varun Jampani, Orazio Gallo, Didier Stricker.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
@@ -610,7 +614,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
 
 **Nex: Real-time View Synthesis with Neural Basis Expansion.**<br>
 *S. Wizadwongsa, P. Phongthawee, J. Yenphraphai, S. Suwajanakorn.*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05606)]
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05606)] [[Project](https://nex-mpi.github.io/)]
 
 **Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis.**<br>
 *Zhipeng Bao, Yu-Xiong Wang, Martial Hebert.*<br>
@@ -618,7 +622,7 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=ESG-DMKQKsD)]
 
 **IBRNet: Learning Multi-View Image-Based Rendering.**<br>
 *Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13090)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2102.13090)] [[Project](https://ibrnet.github.io/)]
 
 **SVS: Stable View Synthesis.**<br>
 *Gernot Riegler, Vladlen Koltun.*<br>
@@ -876,7 +880,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04012)] [[Github](https://github.c
 
 **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**<br>
 *Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
 
 **Large-Scale Multilingual Audio Visual Dubbing.**<br>
 *Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
