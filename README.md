@@ -139,6 +139,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
+**POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture.**<br>
+*Zhe Li, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.15331)] [[Github](http://www.liuyebin.com/posefusion/posefusion.html)]
+
 **Monocular Real-Time Volumetric Performance Capture.**<br>
 *Ruilong Li, Yuliang Xiu, Shunsuke Saito, Zeng Huang, Kyle Olszewski, Hao Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
@@ -288,6 +292,14 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+
+**MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo.**<br>
+*Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15595)]
+
+**PlenOctrees for Real-time Rendering of Neural Radiance Fields.**<br>
+*Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, Angjoo Kanazawa.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14024)]
 
 **FastNeRF: High-Fidelity Neural Rendering at 200FPS.**<br>
 *Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin.*<br>
@@ -540,6 +552,11 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](https://light.pr
 
 ### Implicit Neural Representations or Neural Radiance Fields
 
+
+**Baking Neural Radiance Fields for Real-Time View Synthesis.**<br>
+*Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14645)] [[Project](https://nerf.live/)]
+
 **ID-Unet: Iterative Soft and Hard Deformation for View Synthesis.**<br>
 *Mingyu Yin, Li Sun, Qingli Li.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02264)]
@@ -611,6 +628,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03285)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
 
 ### Others
+
+**Self-Supervised Visibility Learning for Novel View Synthesis.**<br>
+*Yujiao Shi, Hongdong Li, Xin Yu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15407)]
 
 **Nex: Real-time View Synthesis with Neural Basis Expansion.**<br>
 *S. Wizadwongsa, P. Phongthawee, J. Yenphraphai, S. Suwajanakorn.*<br>
@@ -909,6 +930,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling.**<br>
+*Zhichao Huang, Xintong Han, Jia Xu, Tong Zhang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14338)]
 
 **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
 *Yudong Guo, Keyu Chen, Sen Liang, Yongjin Liu, Hujun Bao, Juyong Zhang.*<br>

@@ -1228,6 +1228,19 @@ CVPR 2019.
 
 ## Misc (Speediness, Trajectories)
 
+
+**Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance.**<br>
+*Xu Xie, Chi Zhang, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu.*<br>
+ICRA 2021. [[PDF](https://arxiv.org/abs/2103.14231)] [[Project](https://xuxie1031.github.io/projects/GTA/GTAProj.html)]
+
+**Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution.**<br>
+*Chi Zhang, Baoxiong Jia, Song-Chun Zhu, Yixin Zhu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14230)] [[Project](http://wellyzhang.github.io/project/prae.html)]
+
+**ACRE: Abstract Causal REasoning Beyond Covariation.**<br>
+*Chi Zhang, Baoxiong Jia, Mark Edmonds, Song-Chun Zhu, Yixin Zhu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14232)] [[Project](http://wellyzhang.github.io/project/acre.html)]
+
 **Adversarial Generative Grammars for Human Activity Prediction.**<br>
 *AJ Piergiovanni, Anelia Angelova, Alexander Toshev, Michael S. Ryoo.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04888)]

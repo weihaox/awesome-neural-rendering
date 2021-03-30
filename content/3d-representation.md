@@ -217,9 +217,13 @@ ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]
 
 ## Dense Shape Correspondence and Matching
 
+**HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences.**<br>
+*Feitong Tan, Danhang Tang, Mingsong Dou, Kaiwen Guo, Rohit Pandey, Cem Keskin, Ruofei Du, Deqing Sun, Sofien Bouaziz, Sean Fanello, Ping Tan, Yinda Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15573)] 
+
 **PDCNet: Learning Accurate Dense Correspondences and When to Trust Them.**<br>
 *Prune Truong, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01710)] [[](https://github.com/PruneTruong/PDCNet)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01710)] [[Github](https://github.com/PruneTruong/PDCNet)]
 
 **Space-Time Correspondence as a Contrastive Random Walk.**<br>
 *Allan Jabri, Andrew Owens, Alexei A. Efros.*<br>
