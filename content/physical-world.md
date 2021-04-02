@@ -661,6 +661,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
 
+**NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video.**<br>
+*Jiaming Sun, Yiming Xie, Linghao Chen, Xiaowei Zhou, Hujun Bao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00680)] [[Project](https://zju3dv.github.io/neuralrecon/)]
+
 **Deep Implicit Moving Least-Squares Functions for 3D Reconstruction.**<br>
 *Shi-Lin Liu, Hao-Xiang Guo, Hao Pan, Peng-Shuai Wang, Xin Tong, Yang Liu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12266)] [[Github](https://github.com/Andy97/DeepMLS)]

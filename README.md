@@ -61,6 +61,10 @@ Eurographics 2020.<br>
 
 ## Inverse Rendering
 
+**PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting.**<br>
+*Kai Zhang, Fujun Luan, Qianqian Wang, Kavita Bala, Noah Snavely.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00674)] [[Project](https://kai-46.github.io/PhySG-website/)]
+
 **Invertible Neural BRDF for Object Inverse Rendering.**<br>
 *Zhe Chen, Shohei Nobuhara, Ko Nishino.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04030)]
@@ -198,6 +202,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.co
 VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
 
 ## Texture and Surface Embedding or Mapping
+
+**Neural Surface Maps.**<br>
+*Luca Morreale, Noam Aigerman, Vladimir Kim, Niloy J. Mitra.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.16942)] [[Github](http://geometry.cs.ucl.ac.uk/projects/2021/neuralmaps/)]
 
 **NeuTex: Neural Texture Mapping for Volumetric Neural Rendering.**<br>
 *Fanbo Xiang, Zexiang Xu, Miloš Hašan, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Hao Su.*<br>
@@ -552,6 +560,9 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](https://light.pr
 
 ### Implicit Neural Representations or Neural Radiance Fields
 
+**Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis.**<br>
+*Ajay Jain, Matthew Tancik, Pieter Abbeel.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00677)] [[Project](https://www.ajayj.com/dietnerf)]
 
 **Baking Neural Radiance Fields for Real-Time View Synthesis.**<br>
 *Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec.*<br>
@@ -602,6 +613,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02442)]
 ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
 
 ### From Single Image
+
+**Layout-Guided Novel View Synthesis from a Single Indoor Panorama.**<br>
+*Jiale Xu, Jia Zheng, Yanyu Xu, Rui Tang, Shenghua Gao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.17022)]
 
 **pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
@@ -931,13 +946,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**SimPoE: Simulated Character Control for 3D Human Pose Estimation.**<br>
+*Ye Yuan, Shih-En Wei, Tomas Simon, Kris Kitani, Jason Saragih.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00683)] [[Project](https://www.ye-yuan.com/simpoe/)]
+
 **Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling.**<br>
 *Zhichao Huang, Xintong Han, Jia Xu, Tong Zhang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14338)]
 
 **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
-*Yudong Guo, Keyu Chen, Sen Liang, Yongjin Liu, Hujun Bao, Juyong Zhang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+*[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
 
 **Single-Shot Freestyle Dance Reenactment.**<br>
 *Oren Nuriel, Oron Ashual, Lior Wolf.*<br>
