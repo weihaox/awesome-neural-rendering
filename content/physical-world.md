@@ -661,6 +661,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
 
+**Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction.**<br>
+*Feng Liu, Luan Tran, Xiaoming Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00858)]
+
 **NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video.**<br>
 *Jiaming Sun, Yiming Xie, Linghao Chen, Xiaowei Zhou, Hujun Bao.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00680)] [[Project](https://zju3dv.github.io/neuralrecon/)]

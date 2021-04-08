@@ -217,6 +217,10 @@ ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]
 
 ## Dense Shape Correspondence and Matching
 
+**Warp Consistency for Unsupervised Learning of Dense Correspondences.**<br>
+*Prune Truong, Martin Danelljan, Fisher Yu, Luc Van Gool.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03308)] [[Github](https://github.com/PruneTruong/DenseMatching)]
+
 **HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences.**<br>
 *Feitong Tan, Danhang Tang, Mingsong Dou, Kaiwen Guo, Rohit Pandey, Cem Keskin, Ruofei Du, Deqing Sun, Sofien Bouaziz, Sean Fanello, Ping Tan, Yinda Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15573)] 

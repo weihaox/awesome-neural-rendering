@@ -301,6 +301,11 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Convolutional Neural Opacity Radiance Fields.**<br>
+*Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
+
+
 **MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo.**<br>
 *Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15595)]
@@ -561,7 +566,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](https://light.pr
 ### Implicit Neural Representations or Neural Radiance Fields
 
 **Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis.**<br>
-*Ajay Jain, Matthew Tancik, Pieter Abbeel.*<br>
+*[Ajay Jain](https://www.ajayj.com/), [Matthew Tancik](https://www.matthewtancik.com/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00677)] [[Project](https://www.ajayj.com/dietnerf)]
 
 **Baking Neural Radiance Fields for Real-Time View Synthesis.**<br>
@@ -945,6 +950,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Everything's Talkin': Pareidolia Face Reenactment.**<br>
+*Linsen Song, Wayne Wu, Chaoyou Fu, Chen Qian, Chen Change Loy, Ran He.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03061)]
 
 **SimPoE: Simulated Character Control for 3D Human Pose Estimation.**<br>
 *Ye Yuan, Shih-En Wei, Tomas Simon, Kris Kitani, Jason Saragih.*<br>
