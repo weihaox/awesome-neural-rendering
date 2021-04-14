@@ -108,6 +108,8 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02321)]
 
 ## Scene Understanding
 
+### Space
+
 **Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense.**<br>
 *Yixin Zhu, Tao Gao, Lifeng Fan, Siyuan Huang, Mark Edmonds, Hangxin Liu, Feng Gao, [Chi Zhang](http://wellyzhang.github.io/), Siyuan Qi, Ying Nian Wu, Joshua B. Tenenbaum, Song-Chun Zhu.*<br>
 Engineering 2020. [[PDF](https://arxiv.org/abs/2004.09044)]
@@ -135,6 +137,12 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03967)]
 **Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image.**<br>
 *Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12212)]
+
+### Semantic Segmentation
+
+**Progressive Semantic Segmentation.**<br>
+*Chuong Huynh, Anh Tran, Khoa Luu, Minh Hoai.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03778)]
 
 ## Decomposition and Disentanglement
 
@@ -302,6 +310,14 @@ arxiv 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](https://github.c
 
 #### Face Reconstruction and Animation
 
+**Pixel Codec Avatars.**<br>
+*Shugao Ma, Tomas Simon, Jason Saragih, Dawei Wang, Yuecheng Li, Fernando De La Torre, Yaser Sheikh.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.04638)]
+
+**INORig: Riggable 3D Face Reconstruction via In-Network Optimization.**<br>
+*Ziqian Bai, Zhaopeng Cui, Xiaoming Liu, Ping Tan.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.03493.pdf)] [[Github](https://github.com/zqbai-jeremy/INORig)]
+
 **3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction.**<br>
 *Yuda Qiu, Xiaojie Xu, Lingteng Qiu, Yan Pan, Yushuang Wu, Weikai Chen, Xiaoguang Han.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.08204)] [[Project](https://qiuyuda.github.io/3DCaricShop/)]
@@ -433,6 +449,11 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13449)] [[Project](https://hassony2
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08213)] [[Project](https://mks0601.github.io/DeepHandMesh/)]
 
 ### Human Poses and Shapes
+
+
+**RSC-Net: 3D Human Pose, Shape and Texture from Low-Resolution Images and Videos.**<br>
+*Xiangyu Xu, Hao Chen, Francesc Moreno-Noguer, Laszlo A. Jeni, and Fernando De la Torre.*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.06498)] [[Github](https://github.com/xuxy09/RSC-Net)] [[Project](https://sites.google.com/view/xiangyuxu/3d_eccv20)]
 
 **Capturing Detailed Deformations of Moving Human Bodies.**<br>
 *He Chen, Hyojoon Park, Kutay Macit, Ladislav Kavan.*<br>
@@ -855,6 +876,12 @@ IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
 **Self-Supervised Viewpoint Learning From Image Collections.**<br>
 *Siva Karthik Mustikovela, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01793)]
+
+## Light Estimation
+
+**Spatially-Varying Outdoor Lighting Estimation from Intrinsics.**<br>
+*Yongjie Zhu, Yinda Zhang, Si Li, Boxin Shi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.04160)]
 
 ## Pose Estimation
 

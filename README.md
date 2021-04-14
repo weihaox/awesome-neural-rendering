@@ -301,10 +301,21 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**BARF: Bundle-Adjusting Neural Radiance Fields.**<br>
+*Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06405)]
+
+**SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes.**<br>
+*Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03953)]
+
 **Convolutional Neural Opacity Radiance Fields.**<br>
 *Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
 
+**KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs.**<br>
+*Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2011.05813)]
 
 **MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo.**<br>
 *Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su.*<br>
