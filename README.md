@@ -576,6 +576,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](https://light.pr
 
 ### Implicit Neural Representations or Neural Radiance Fields
 
+**Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes.**<br>
+*Julian Chibane, Aayush Bansal, Verica Lazova, Gerard Pons-Moll.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06935)]
+
 **Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis.**<br>
 *[Ajay Jain](https://www.ajayj.com/), [Matthew Tancik](https://www.matthewtancik.com/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00677)] [[Project](https://www.ajayj.com/dietnerf)]
@@ -659,6 +663,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03285)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
 
 ### Others
+
+**Geometry-Free View Synthesis: Transformers and no 3D Priors.**<br>
+*Robin Rombach, Patrick Esser, Björn Ommer.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07652)]
 
 **Self-Supervised Visibility Learning for Novel View Synthesis.**<br>
 *Yujiao Shi, Hongdong Li, Xin Yu.*<br>

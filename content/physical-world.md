@@ -178,6 +178,10 @@ Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.gi
 
 ### Generating 3D People in Scenes
 
+**LEAP: Learning Articulated Occupancy of People.**<br>
+*Marko Mihajlovic, Yan Zhang, Michael J. Black, Siyu Tang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06849)]
+
 **PSI: Generating 3D People in Scenes without People.**<br>
 *Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02923)] [[Project](https://ps.is.tuebingen.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints)] [[Github](https://github.com/yz-cnsdqz/PSI-release)]
@@ -449,7 +453,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13449)] [[Project](https://hassony2
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08213)] [[Project](https://mks0601.github.io/DeepHandMesh/)]
 
 ### Human Poses and Shapes
-
 
 **RSC-Net: 3D Human Pose, Shape and Texture from Low-Resolution Images and Videos.**<br>
 *Xiangyu Xu, Hao Chen, Francesc Moreno-Noguer, Laszlo A. Jeni, and Fernando De la Torre.*<br>
@@ -1263,7 +1266,6 @@ CVPR 2019.
 
 ## Misc (Speediness, Trajectories)
 
-
 **Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance.**<br>
 *Xu Xie, Chi Zhang, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu.*<br>
 ICRA 2021. [[PDF](https://arxiv.org/abs/2103.14231)] [[Project](https://xuxie1031.github.io/projects/GTA/GTAProj.html)]
@@ -1303,7 +1305,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09760)]
 **TPNet: Trajectory Proposal Network for Motion Prediction.**<br>
 *Liangji Fang, Qinhong Jiang, Jianping Shi, Bolei Zhou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.12255)]
-
 
 ## Gaze Estimation, Tracking, Redirection, Correction, and Blink Detection
 
