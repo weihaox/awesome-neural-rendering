@@ -69,10 +69,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00674)] [[Project](https://kai-46.g
 *Zhe Chen, Shohei Nobuhara, Ko Nishino.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04030)]
 
-**Invertible Neural BRDF for Object Inverse Rendering.**<br>
-*Zhe Chen, Shohei Nobuhara, Ko Nishino.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04030)]
-
 **Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF From a Single Image.**<br>
 *[Zhengqin Li](http://sites.google.com/a/eng.ucsd.edu/zhengqinli/), [Mohammad Shafiei](https://www.linkedin.com/in/mohammadshafiei/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Kalyan Sunkavalli](http://www.kalyans.org/), [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker/).*<br>
 CVPR 2020.[[PDF](https://drive.google.com/file/d/18zG1kzVpL9XsEVBK95hbpnB-FMlChRXP/view?usp=sharing)] [[Project](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/)] [[Github](https://github.com/lzqsd/InverseRenderingOfIndoorScene)]
@@ -930,6 +926,26 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 ## Dubbing and Talking-Head Animation
 
+**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
+*[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+
+**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
+*Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
+CVPR 2021. [[PDF]()] [[Project](https://hangz-nju-cuhk.github.io/)]
+
+**Everything's Talkin': Pareidolia Face Reenactment.**<br>
+*Linsen Song, [Wayne Wu](https://wywu.github.io), Chaoyou Fu, Chen Qian, Chen Change Loy, Ran He.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03061)] [[Project](https://wywu.github.io/projects/ETT/ETT.html)] [[Github](https://github.com/Linsen13/EverythingTalking)]
+
+**One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**<br>
+*Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
+
+**MEAD: A Large-scale Audio-visual Dataset for Emotional Talking Face Generation.**<br>
+*Kaisiyuan Wang, [Qianyi Wu](https://wuqianyi.top/), Linsen Song, [Zhuoqian Yang](https://yzhq97.github.io/), Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy.*<br>
+ECCV 2020. [[PDF](https://wywu.github.io/)] [[Project](https://wywu.github.io/projects/MEAD/MEAD.html)] [[Github](https://github.com/uniBruce/Mead)] 
+
 **HeadGAN: Video-and-Audio-Driven Talking Head Synthesis.**<br>
 *Michail Christos Doukas, Stefanos Zafeiriou, Viktoriia Sharmanska.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08261)]
@@ -938,21 +954,25 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08261)]
 *Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04012)] [[Github](https://github.com/YadiraF/DECA)]
 
-**One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**<br>
-*Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
-
 **Large-Scale Multilingual Audio Visual Dubbing.**<br>
 *Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
 
-**MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
-*Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
-SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
-
 **EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
 *Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
+
+**Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose.**<br>
+*Ran Yi, Zipeng Ye, Juyong Zhang, Hujun Bao, Yong-Jin Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.10137)] [[Github](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
+
+**Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
+*Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
+
+**MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
+*Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
 
 **FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.**<br>
 *Kuangxiao Gu, Yuqian Zhou, Thomas Huang.*<br>
@@ -962,17 +982,17 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1911.09224)] [[GitHub](https://github.co
 *Ohad Fried, Ayush Tewari, Michael Zollhöfer, Adam Finkelstein, Eli Shechtman, Dan B Goldman Kyle Genova, Zeyu Jin, Christian Theobalt,  Maneesh Agrawala.*<br>
 SIGGRAPH 2019. [[PDF](https://www.ohadf.com/projects/text-based-editing/data/text-based-editing.pdf)] [[Project](https://www.ohadf.com/projects/text-based-editing/)]
 
-**Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
-*Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
+**ATVGnet: Hierarchical Cross-Modal Talking Face Generationwith Dynamic Pixel-Wise Loss.**<br>
+*[Lele Chen](http://www.cs.rochester.edu/u/lchen63/), [Ross K. Maddox](https://www.urmc.rochester.edu/labs/maddox.aspx), [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1905.03820)] [[Github](https://github.com/lelechen63/ATVGnet)]
+
+**Talking Face Generation by Adversarially Disentangled Audio-Visual Representation.**<br>
+*Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang.*<br>
+AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)] [[Project](https://liuziwei7.github.io/projects/TalkingFace.html)]
 
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
-
-**Everything's Talkin': Pareidolia Face Reenactment.**<br>
-*Linsen Song, Wayne Wu, Chaoyou Fu, Chen Qian, Chen Change Loy, Ran He.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03061)]
 
 **SimPoE: Simulated Character Control for 3D Human Pose Estimation.**<br>
 *Ye Yuan, Shih-En Wei, Tomas Simon, Kris Kitani, Jason Saragih.*<br>
@@ -981,10 +1001,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00683)] [[Project](https://www.ye-y
 **Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling.**<br>
 *Zhichao Huang, Xintong Han, Jia Xu, Tong Zhang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14338)]
-
-**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
-*[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
 
 **Single-Shot Freestyle Dance Reenactment.**<br>
 *Oren Nuriel, Oron Ashual, Lior Wolf.*<br>
@@ -1029,10 +1045,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08171)]
 **Action2Motion: Conditioned Generation of 3D Human Motions.**<br>
 *Chuan Guo, Xinxin Zuo, Sen Wang, Shihao Zou, Qingyao Sun, Annan Deng, Minglun Gong, Li Cheng.*<br>
 ACM MultiMedia 2020. [[PDF](https://arxiv.org/abs/2007.15240)]
-
-**MEAD: A Large-scale Audio-visual Dataset for Emotional Talking Face Generation.**<br>
-*Kaisiyuan Wang, Qianyi Wu, Linsen Song, Zhuoqian Yang, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy.*<br>
-ECCV 2020. [[PDF](https://wywu.github.io/)] [[Github](https://wywu.github.io/)] [[Project](https://wywu.github.io/)]
 
 **ReenactNet: Real-time Full Head Reenactment.**<br>
 *Mohammad Rami Koujan, Michail Christos Doukas, Anastasios Roussos, Stefanos Zafeiriou.*<br>
