@@ -297,6 +297,11 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+
+**UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction.**<br>
+*Michael Oechsle, [Songyou Peng](https://pengsongyou.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10078)]
+
 **BARF: Bundle-Adjusting Neural Radiance Fields.**<br>
 *Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06405)]
@@ -925,6 +930,10 @@ arixv 2016. [[PDF](https://arxiv.org/abs/1603.06078)]
 arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 ## Dubbing and Talking-Head Animation
+
+**MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement.**<br>
+*Alexander Richard, Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08223)] [[Video](https://research.fb.com/wp-content/uploads/2021/04/mesh_talk.mp4)]
 
 **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
 *[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>

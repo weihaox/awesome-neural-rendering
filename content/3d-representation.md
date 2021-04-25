@@ -3,6 +3,7 @@
 This repository is a collection of papers on learning 3D representations from natural images.
 
 ## Table of Contents
+- [3D Priors](#3d-priors)
 - [3D Representations From Natural Images](#3d-representations-from-natural-images)
 - [3D Shape Representation and Feature Embedding](#3d-shape-representation-and-feature-embedding)
 - [Homography Estimation](#homography-estimation)
@@ -12,6 +13,12 @@ This repository is a collection of papers on learning 3D representations from na
 - [Multi-View or Cross-View Region Matching](#multi-view-or-cross-view-region-matching)
 - [Dense Shape Correspondence and Matching](#dense-shape-correspondence-and-matching)
 - [3D Reconstruction with Synthesied Images](#3d-reconstruction-with-synthesied-images)
+
+## 3D Priors
+
+**Pri3D: Can 3D Priors Help 2D Representation Learning?**<br>
+*Ji Hou, Saining Xie, Benjamin Graham, Angela Dai, Matthias Nießner.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11225)]
 
 ## 3D Representations From Natural Images
 
