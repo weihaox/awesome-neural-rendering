@@ -297,6 +297,9 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields.**<br>
+*[Jonathan T. Barron](https://jonbarron.info/), [Ben Mildenhall](https://bmild.github.io/), [Matthew Tancik](https://www.matthewtancik.com/), [Peter Hedman](https://phogzone.com/cv.html), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13415)] [[Project](http://jonbarron.info/mipnerf)]
 
 **UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction.**<br>
 *Michael Oechsle, [Songyou Peng](https://pengsongyou.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
@@ -403,8 +406,8 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrai
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05877)] [[Project](http://yenchenlin.me/inerf/)]
 
 **NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis.**<br>
-*Pratul P. Srinivasan, Boyang Deng, Xiuming Zhang, Matthew Tancik, Ben Mildenhall, Jonathan T. Barron.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03927)] [[Project](https://people.eecs.berkeley.edu/~pratul/nerv)]
+*[Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Boyang Deng](https://boyangdeng.com/), [Xiuming Zhang](https://people.csail.mit.edu/xiuming/), Matthew Tancik, Ben Mildenhall, Jonathan T. Barron.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03927)] [[Project](https://people.eecs.berkeley.edu/~pratul/nerv)]
 
 **pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
@@ -414,10 +417,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.n
 *David B. Lindell, Julien N. P. Martel, Gordon Wetzstein.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.01714)] [[Project](http://www.computationalimaging.org/publications/automatic-integration/)]
 
-**Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
-*Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
-
 **DeRF: Decomposed Radiance Fields.**<br>
 *Daniel Rebain, Wei Jiang, Soroosh Yazdani, Ke Li, Kwang Moo Yi, Andrea Tagliasacchi.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12490)] [[Project](https://ubc-vision.github.io/derf/)]
@@ -425,6 +424,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12490)] [[Project](https://ubc-visi
 **D-NERF: Deformable Neural Radiance Fields.**<br>
 *Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo-Martin Brualla.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)]
+
+**Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
+*Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
 *Michael Niemeyer, Andreas Geiger.*<br>
