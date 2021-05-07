@@ -146,6 +146,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03778)]
 
 ## Decomposition and Disentanglement
 
+**DeRenderNet: Intrinsic Image Decomposition of Urban Scenes with Shape-(In)dependent Shading Rendering.**<br>
+*Yongjie Zhu, Jiajun Tang, Si Li, Boxin Shi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13602)]
+
 **Physics-based Shading Reconstruction for Intrinsic Image Decomposition.**<br>
 *Anil S. Baslamisli, Yang Liu, Sezer Karaoglu, Theo Gevers.*<br>
 CVIU 2020. [[PDF](https://arxiv.org/abs/2009.01540)]
@@ -684,6 +688,14 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.15440)] [[Project](https://siddiqu
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
+
+**Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images.**<br>
+*Florian Kluger, Hanno Ackermann, Eric Brachmann, Michael Ying Yang, Bodo Rosenhahn.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.02047)]
+
+**Deep Polarization Imaging for 3D shape and SVBRDF Acquisition.**<br>
+*Valentin Deschaintre, Yiming Lin, Abhijeet Ghosh.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.02875)]
 
 **Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction.**<br>
 *Feng Liu, Luan Tran, Xiaoming Liu.*<br>

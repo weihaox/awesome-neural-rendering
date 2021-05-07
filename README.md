@@ -795,6 +795,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 
 ## Light, Reflectance, Illuminance and Shade
 
+**Total Relighting: Learning to Relight Portraits for Background Replacement.**<br>
+*Rohit Pandey, Sergio Orts-Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello.*<br>
+SIGGRAPH 2021. [[PDF](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf)] [[Project](https://augmentedperception.github.io/total_relighting/)]
+
 **DSRN: an Efficient Deep Network for Image Relighting.**<br>
 *Sourya Dipta Das, Nisarg A. Shah, Saikat Dutta, Himanshu Kumar.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09242)]
