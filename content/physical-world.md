@@ -318,6 +318,10 @@ arxiv 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](https://github.c
 
 #### Face Reconstruction and Animation
 
+**StyleRenderer: Inverting Generative Adversarial Renderer for Face Reconstruction.**<br>
+*Jingtan Piao, Keqiang Sun, Kwanyee Lin, Hongshneg Li.*<br>
+arxiv 2021. [[PDF](https://github.com/WestlyPark/StyleRenderer)] [[Github](https://github.com/WestlyPark/StyleRenderer)]
+
 **Pixel Codec Avatars.**<br>
 *Shugao Ma, Tomas Simon, Jason Saragih, Dawei Wang, Yuecheng Li, Fernando De La Torre, Yaser Sheikh.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.04638)]
@@ -688,6 +692,11 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.15440)] [[Project](https://siddiqu
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
+
+**NeRD: Neural 3D Reflection Symmetry Detector.**<br>
+*Yichao Zhou, Shichen Liu, Yi Ma.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.03211)]
+
 
 **Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images.**<br>
 *Florian Kluger, Hanno Ackermann, Eric Brachmann, Michael Ying Yang, Bodo Rosenhahn.*<br>
@@ -1277,6 +1286,10 @@ CVPR 2019.
 [[Github](https://github.com/facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D)]
 
 ## Misc (Speediness, Trajectories)
+
+**Interpretable Social Anchors for Human Trajectory Forecasting in Crowds.**<br>
+*Parth Kothari, Brian Sifringer, Alexandre Alahi.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.03136)]
 
 **Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance.**<br>
 *Xu Xie, Chi Zhang, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu.*<br>

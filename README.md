@@ -139,6 +139,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
+**ST-NeRF: Editable Free-viewpoint Video Using a Layered Neural Representation.**<br>
+*Jiakai Zhang, Xinhang Liu, Xinyi Ye, Fuqiang Zhao, Yanshun Zhang, Minye Wu, Yingliang Zhang, Lan Xu, Jingyi Yu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14786)]
+
 **POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture.**<br>
 *Zhe Li, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.15331)] [[Github](http://www.liuyebin.com/posefusion/posefusion.html)]
