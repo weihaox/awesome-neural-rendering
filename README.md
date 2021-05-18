@@ -584,6 +584,14 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](https://light.pr
 
 ### Implicit Neural Representations or Neural Radiance Fields
 
+**NeLF: Practical Novel View Synthesis with Neural Light Field.**<br>
+*Celong Liu, Zhong Li, Junsong Yuan, Yi Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07112)]
+
+**NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis.**<br>
+*Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Project](https://vincentfung13.github.io/projects/nemi/)]
+
 **Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes.**<br>
 *Julian Chibane, Aayush Bansal, Verica Lazova, Gerard Pons-Moll.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06935)]

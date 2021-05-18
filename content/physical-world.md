@@ -318,6 +318,14 @@ arxiv 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](https://github.c
 
 #### Face Reconstruction and Animation
 
+**Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction.**<br>
+*Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou.*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2105.07474)]
+
+**GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction.**<br>
+*Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1902.05978)] [[Github](https://github.com/barisgecer/GANFit)]
+
 **StyleRenderer: Inverting Generative Adversarial Renderer for Face Reconstruction.**<br>
 *Jingtan Piao, Keqiang Sun, Kwanyee Lin, Hongshneg Li.*<br>
 arxiv 2021. [[PDF](https://github.com/WestlyPark/StyleRenderer)] [[Github](https://github.com/WestlyPark/StyleRenderer)]
@@ -425,6 +433,10 @@ WACV 2020. [[PDF](https://arxiv.org/abs/2003.08583)]
 **AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild".**<br>
 *Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)] [[Github](http://github.com/lattas/AvatarMe)]
+
+**VRN: Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression.**<br>
+*[Aaron S. Jackson](http://aaronsplace.co.uk/), [Adrian Bulat](http://cs.nott.ac.uk/~psxab5), Vasileios Argyriou, [Georgios Tzimiropoulos](http://cs.nott.ac.uk/~pszyt).*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1703.07834)] [[Github](https://github.com/AaronJackson/vrn)] [[Project](http://aaronsplace.co.uk/papers/jackson2017recon/)] [[Demo](https://vrn.aaronsplace.co.uk/)]
 
 #### Hand or Hand-Object Joint Reconstruction
 
@@ -1236,6 +1248,10 @@ NeurIPS, 2019.
 [[Project](https://jwbian.net/sc-sfmlearner)]
 
 ### Depth and Related Tasks
+
+**SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping.**<br>
+*Austin Stone, Daniel Maurer, Alper Ayvaci, Anelia Angelova, Rico Jonschkowski.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.07014)] [[Github](https://github.com/google-research/google-research/tree/master/smurf)]
 
 **Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation.**<br>
 *Zhenyu Zhang, Zhen Cui, Chunyan Xu, Yan Yan, Nicu Sebe, Jian Yang.*<br>
