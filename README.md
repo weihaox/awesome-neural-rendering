@@ -305,6 +305,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 *Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
 ICML 2021. [[PDF]()]
 
+**Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering.**<br>
+*Vincent Sitzmann, Semon Rezchikov, William T. Freeman, Joshua B. Tenenbaum, Fredo Durand.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02634)] [[Project](https://vsitzmann.github.io/lfns/)]
+
 **NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination.**<br>
 *[Xiuming Zhang](http://people.csail.mit.edu/xiuming/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Boyang Deng](https://boyangdeng.com/), [Paul Debevec](), [William T. Freeman](http://billf.mit.edu/), [Jonathan T. Barron](https://jonbarron.info/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.01970)] [[Project](http://people.csail.mit.edu/xiuming/projects/nerfactor/)] [[Github](https://github.com/google/nerfactor)]
@@ -646,7 +650,7 @@ Siggraph Asia 2020. [[PDF](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasi
 
 **NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.**<br>
 *Ricardo Martin-Brualla, Noha Radwan, Mehdi S. M. Sajjadi, Jonathan T. Barron, Alexey Dosovitskiy, Daniel Duckworth.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02268)] [[Github](https://nerf-w.github.io/)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2008.02268)] [[Github](https://nerf-w.github.io/)]
 
 **pixelNeRF: Neural Radiance Fields from One or Few Images.**<br>
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
