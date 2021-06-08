@@ -305,6 +305,18 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 *Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
 ICML 2021. [[PDF]()]
 
+**Deep Medial Fields.**<br>
+*Daniel Rebain, Ke Li, Vincent Sitzmann, Soroosh Yazdani, Kwang Moo Yi, Andrea Tagliasacchi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03804)]
+
+**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
+*Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03798)]
+
+**SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition.**<br>
+*Rishabh Kabra, Daniel Zoran, Goker Erdogan, Loic Matthey, Antonia Creswell, Matthew Botvinick, Alexander Lerc.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03849)]
+
 **Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering.**<br>
 *Vincent Sitzmann, Semon Rezchikov, William T. Freeman, Joshua B. Tenenbaum, Fredo Durand.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02634)] [[Project](https://vsitzmann.github.io/lfns/)]
