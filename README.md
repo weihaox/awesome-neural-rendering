@@ -301,6 +301,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**NeRF in Detail: Learning to Sample for View Synthesis.**<br> 
+*Relja Arandjelović, Andrew Zisserman.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05264)]
+
 **Radiance Fields from a Single Image.**<br> 
 *Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
 ICML 2021. [[PDF]()]
@@ -463,7 +467,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-n
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
 *Michael Niemeyer, Andreas Geiger.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12100)]
+CVPR 2021 (Best Paper). [[PDF](https://arxiv.org/abs/2011.12100)] [[Project](https://m-niemeyer.github.io/project-pages/giraffe/index.html)] [[Github](https://github.com/autonomousvision/giraffe)]
 
 **Neural Unsigned Distance Fields for Implicit Function Learning.**<br>
 *Julian Chibane, Aymen Mir, Gerard Pons-Moll.*<br>
@@ -977,6 +981,10 @@ arixv 2016. [[PDF](https://arxiv.org/abs/1603.06078)]
 arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 ## Dubbing and Talking-Head Animation
+
+**LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization.**<br>
+*Avisek Lahiri, Vivek Kwatra, Christian Frueh, John Lewis, Chris Bregler.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.04185)]
 
 **MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement.**<br>
 *Alexander Richard, Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>

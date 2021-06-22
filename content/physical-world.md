@@ -440,6 +440,10 @@ ICCV 2017. [[PDF](https://arxiv.org/abs/1703.07834)] [[Github](https://github.co
 
 #### Hand or Hand-Object Joint Reconstruction
 
+**Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time.**<br>
+*Shaowei Liu, Hanwen Jiang, Jiarui Xu, Sifei Liu, Xiaolong Wang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.05266)] [[Project](https://stevenlsw.github.io/Semi-Hand-Object)]
+
 **Single Depth View Based Real-time Reconstruction of Hand-objectInteractions.**<br>
 *Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, Feng Xu.*<br>
 TOG 2021. [[PDF](http://xufeng.site/publications/2021/Single%20Depth%20View%20Based%20Real-time%20Reconstruction%20of%20Hand-objectInteractions.pdf)]
