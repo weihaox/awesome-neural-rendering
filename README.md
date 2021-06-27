@@ -301,6 +301,14 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
+*Keunhong Park, Utkarsh Sinha, Peter Hedman, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, Steven M. Seitz.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[PDF](https://hypernerf.github.io/)]
+
+**Volume Rendering of Neural Implicit Surfaces.**<br> 
+*Lior Yariv, Jiatao Gu, Yoni Kasten, Yaron Lipman.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12052)]
+
 **NeRF in Detail: Learning to Sample for View Synthesis.**<br> 
 *Relja Arandjelović, Andrew Zisserman.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05264)]
@@ -355,7 +363,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
 
 **KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs.**<br>
 *Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2011.05813)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2011.05813)] [[Github](https://github.com/creiser/kilonerf)]
 
 **MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo.**<br>
 *Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su.*<br>
