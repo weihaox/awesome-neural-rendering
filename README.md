@@ -851,7 +851,7 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 
 **PVA : Pixel-Aligned Volumetric Avatars.**<br>
 *Amit Raj, Michael Zollhöfer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi.*<br>
-CVPR 2019 [[PDF](https://arxiv.org/pdf/2101.02697.pdf)][[Project](https://volumetric-avatars.github.io/)]
+CVPR 2021 [[PDF](https://arxiv.org/pdf/2101.02697.pdf)][[Project](https://volumetric-avatars.github.io/)]
 
 ## Light, Reflectance, Illuminance and Shade
 
