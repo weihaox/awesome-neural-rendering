@@ -848,6 +848,11 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
+
+**PVA : Pixel-Aligned Volumetric Avatars.**<br>
+*Amit Raj, Michael Zollhöfer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi.*<br>
+CVPR 2021 [[PDF](https://arxiv.org/pdf/2101.02697.pdf)][[Project](https://volumetric-avatars.github.io/)]
+
 ## Light, Reflectance, Illuminance and Shade
 
 **Total Relighting: Learning to Relight Portraits for Background Replacement.**<br>
@@ -1197,6 +1202,10 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 **Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.**<br>
 *Dongxu Wei, Haibin Shen, Kejie Huang.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
+
+**ANR: Articulated Neural Rendering of Virtual Avatars**<br>
+*Amit Raj, Julian Tanke, James Hays, Minh Vo, Carsten Stoll, Christoph Lassner.*<br>
+CVPR 2021 [[PDF](https://arxiv.org/pdf/2012.12890.pdf)][[Project](https://anr-avatars.github.io/)]
 
 ## License
 
