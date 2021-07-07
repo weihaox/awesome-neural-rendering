@@ -301,6 +301,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Depth-supervised NeRF: Fewer Views and Faster Training for Free.**<br>
+*[Kangle Deng](https://andrewhliu.github.io/), [Andrew Liu](https://andrewhliu.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
+
 **HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
 *Keunhong Park, Utkarsh Sinha, Peter Hedman, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, Steven M. Seitz.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[PDF](https://hypernerf.github.io/)]
@@ -848,12 +852,15 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
-
 **PVA : Pixel-Aligned Volumetric Avatars.**<br>
 *Amit Raj, Michael Zollhöfer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi.*<br>
 CVPR 2021 [[PDF](https://arxiv.org/pdf/2101.02697.pdf)][[Project](https://volumetric-avatars.github.io/)]
 
-## Light, Reflectance, Illuminance and Shade
+## Light, Reflectance, Illuminance, and Shade
+
+**Intrinsic Image Transfer for Illumination Manipulation.**<br>
+*Junqing Huang, Michael Ruzhansky, Qianying Zhang, Haihui Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00704)]
 
 **Total Relighting: Learning to Relight Portraits for Background Replacement.**<br>
 *Rohit Pandey, Sergio Orts-Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello.*<br>
