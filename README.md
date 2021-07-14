@@ -306,8 +306,8 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
 
 **HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
-*Keunhong Park, Utkarsh Sinha, Peter Hedman, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, Steven M. Seitz.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[PDF](https://hypernerf.github.io/)]
+*[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
 
 **Volume Rendering of Neural Implicit Surfaces.**<br> 
 *Lior Yariv, Jiatao Gu, Yoni Kasten, Yaron Lipman.*<br> 
@@ -627,6 +627,14 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](https://light.pr
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
 ### Implicit Neural Representations or Neural Radiance Fields
+
+**Fast and Explicit Neural View Synthesis.**<br>
+*Pengsheng Guo, Miguel Angel Bautista, Alex Colburn, Liang Yang, Daniel Ulbricht, Joshua M. Susskind, Qi Shan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.05775)]
+
+**LiveView: Dynamic Target-Centered MPI for View Synthesis.**<br>
+*Sushobhan Ghosh, Zhaoyang Lv, Nathan Matsuda, Lei Xiao, Andrew Berkovich, Oliver Cossairt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05113.pdf)]
 
 **NeLF: Practical Novel View Synthesis with Neural Light Field.**<br>
 *Celong Liu, Zhong Li, Junsong Yuan, Yi Xu.*<br>
