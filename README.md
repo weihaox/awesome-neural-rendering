@@ -99,6 +99,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Neural Rerendering
 
+**Fast Training of Neural Lumigraph Representations using Meta Learning.**<br>
+*Alexander W. Bergman, Petr Kellnhofer, and [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14942)] [[Project](https://www.computationalimaging.org/publications/metanlr/)] [[Video](https://youtu.be/5pBFwyUyW6o)]
+
 **Neural Lumigraph Rendering.**<br>
 *Petr Kellnhofer, Lars Jebe, Andrew Jones, Ryan Spicer, Kari Pulli, Gordon Wetzstein.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11571)] [[Project](http://www.computationalimaging.org/publications/nlr/)] [[Data](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view?usp=sharing)]
