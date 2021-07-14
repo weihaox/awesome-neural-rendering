@@ -477,6 +477,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12490)] [[Project](https://ubc-visi
 *Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo-Martin Brualla.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)]
 
+**D-NeRF: Neural Radiance Fields for Dynamic Scenes.**<br>
+*[Albert Pumarola](https://www.albertpumarola.com/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/), [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13961)] [[Project](https://www.albertpumarola.com/research/D-NeRF/index.html)] [[Github](https://github.com/albertpumarola/D-NeRF)] [[Data](https://www.dropbox.com/s/0bf6fl0ye2vz3vr/data.zip?dl=0)]
+
 **Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
 *Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
