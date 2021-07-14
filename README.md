@@ -387,7 +387,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10380)]
 
 **DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks.**<br>
 *Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03231)] [[Project](https://depthoraclenerf.github.io/)]
+Computer Graphics Forum (EGSR) 2021. [[PDF](https://arxiv.org/abs/2103.03231)] [[Project](https://depthoraclenerf.github.io/)]
 
 **Mixture of Volumetric Primitives for Efficient Neural Rendering.**<br>
 *Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih.*<br>
