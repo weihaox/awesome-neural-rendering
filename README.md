@@ -453,6 +453,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrai
 *[Lin Yen-Chen](http://yenchenlin.me/), Pete Florence, Jonathan T. Barron, Alberto Rodriguez, Phillip Isola, Tsung-Yi Lin.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05877)] [[Project](http://yenchenlin.me/inerf/)]
 
+**Neural Scene Graphs for Dynamic Scenes.**<br>
+*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
+CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](http://light.princeton.edu/neural-scene-graphs)]
+
 **NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis.**<br>
 *[Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Boyang Deng](https://boyangdeng.com/), [Xiuming Zhang](https://people.csail.mit.edu/xiuming/), Matthew Tancik, Ben Mildenhall, Jonathan T. Barron.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03927)] [[Project](https://people.eecs.berkeley.edu/~pratul/nerv)]
@@ -618,10 +622,6 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1909.02533)] [[Github](https://github.co
 *Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkulkarni.github.io/csm/)] [[Project](https://nileshkulkarni.github.io/csm/)]
 
-**Neural Scene Graphs for Dynamic Scenes.**<br>
-*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](https://light.princeton.edu/neural-scene-graphs/)]
-
 ## Novel-View Synthesis for Objects and Scenes
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
@@ -665,7 +665,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02264)]
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)]
 
 **DyNeRF: Neural 3D Video Synthesis.**<br>
-*Tianye Li, Mira Slavcheva, Michael Zollhoefer, Simon Green, Christoph Lassner, Changil Kim, Tanner Schmidt, Steven Lovegrove, Michael Goesele, Zhaoyang Lv.*<br>
+*[Tianye Li](https://tianyeli.github.io/), [Mira Slavcheva](https://scholar.google.de/citations?user=cJKcPcIAAAAJ&hl=en), [Michael Zollhoefer](https://zollhoefer.com/), [Simon Green](https://scholar.google.com/citations?user=VmHZtsEAAAAJ&hl=en), [Christoph Lassner](https://christophlassner.de/), [Changil Kim](https://changilkim.com/), [Tanner Schmidt](https://tschmidt23.github.io/), [Steven Lovegrove](https://scholar.google.com/citations?hl=en&user=JVum8voAAAAJ), [Michael Goesele](https://scholar.google.com/citations?user=56UhAooAAAAJ&hl=en), [Zhaoyang Lv](https://lvzhaoyang.github.io/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02597)] [[Project](https://neural-3d-video.github.io/)]
 
 **Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans.**<br>
