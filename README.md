@@ -99,6 +99,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.
 
 ## Neural Rerendering
 
+**Fast Training of Neural Lumigraph Representations using Meta Learning.**<br>
+*Alexander W. Bergman, Petr Kellnhofer, and [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14942)] [[Project](https://www.computationalimaging.org/publications/metanlr/)] [[Video](https://youtu.be/5pBFwyUyW6o)]
+
 **Neural Lumigraph Rendering.**<br>
 *Petr Kellnhofer, Lars Jebe, Andrew Jones, Ryan Spicer, Kari Pulli, Gordon Wetzstein.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11571)] [[Project](http://www.computationalimaging.org/publications/nlr/)] [[Data](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view?usp=sharing)]
@@ -383,7 +387,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10380)]
 
 **DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks.**<br>
 *Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03231)] [[Project](https://depthoraclenerf.github.io/)]
+Computer Graphics Forum (EGSR) 2021. [[PDF](https://arxiv.org/abs/2103.03231)] [[Project](https://depthoraclenerf.github.io/)]
 
 **Mixture of Volumetric Primitives for Efficient Neural Rendering.**<br>
 *Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih.*<br>
@@ -476,6 +480,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12490)] [[Project](https://ubc-visi
 **D-NERF: Deformable Neural Radiance Fields.**<br>
 *Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo-Martin Brualla.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)]
+
+**D-NeRF: Neural Radiance Fields for Dynamic Scenes.**<br>
+*[Albert Pumarola](https://www.albertpumarola.com/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/), [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13961)] [[Project](https://www.albertpumarola.com/research/D-NeRF/index.html)] [[Github](https://github.com/albertpumarola/D-NeRF)] [[Data](https://www.dropbox.com/s/0bf6fl0ye2vz3vr/data.zip?dl=0)]
 
 **Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
 *Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
