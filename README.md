@@ -477,17 +477,17 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.01714)] [[Project](http://ww
 *Daniel Rebain, Wei Jiang, Soroosh Yazdani, Ke Li, Kwang Moo Yi, Andrea Tagliasacchi.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12490)] [[Project](https://ubc-vision.github.io/derf/)]
 
-**D-NERF: Deformable Neural Radiance Fields.**<br>
-*Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo-Martin Brualla.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)]
+**Nerfies: Deformable Neural Radiance Fields.**<br>
+*[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/), [Steven M. Seitz](https://homes.cs.washington.edu/~seitz/), [Ricardo-Martin Brualla](http://www.ricardomartinbrualla.com/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)] [[Github](https://github.com/google/nerfies)]
 
 **D-NeRF: Neural Radiance Fields for Dynamic Scenes.**<br>
 *[Albert Pumarola](https://www.albertpumarola.com/), [Enric Corona](https://www.iri.upc.edu/people/ecorona/), [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/), [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13961)] [[Project](https://www.albertpumarola.com/research/D-NeRF/index.html)] [[Github](https://github.com/albertpumarola/D-NeRF)] [[Data](https://www.dropbox.com/s/0bf6fl0ye2vz3vr/data.zip?dl=0)]
 
 **Space-time Neural Irradiance Fields for Free-Viewpoint Video.**<br>
-*Wenqi Xian, Jia-Bin Huang, Johannes Kopf, Changil Kim.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
+*[Wenqi Xian](https://www.cs.cornell.edu/~wenqixian/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/), [Johannes Kopf](https://johanneskopf.de/), [Changil Kim](https://changilkim.com/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12950)] [[Project](https://video-nerf.github.io/)]
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
 *Michael Niemeyer, Andreas Geiger.*<br>
@@ -669,8 +669,8 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14645)] [[Project](https://nerf.li
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02264)]
 
 **NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
-*Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)]
+*[Zhengqi Li](https://www.cs.cornell.edu/~zl548/), [Simon Niklaus](https://sniklaus.com/welcome), [Noah Snavely](https://www.cs.cornell.edu/~snavely/), [Oliver Wang](https://research.adobe.com/person/oliver-wang/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)] [[Github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)]
 
 **DyNeRF: Neural 3D Video Synthesis.**<br>
 *[Tianye Li](https://tianyeli.github.io/), [Mira Slavcheva](https://scholar.google.de/citations?user=cJKcPcIAAAAJ&hl=en), [Michael Zollhoefer](https://zollhoefer.com/), [Simon Green](https://scholar.google.com/citations?user=VmHZtsEAAAAJ&hl=en), [Christoph Lassner](https://christophlassner.de/), [Changil Kim](https://changilkim.com/), [Tanner Schmidt](https://tschmidt23.github.io/), [Steven Lovegrove](https://scholar.google.com/citations?hl=en&user=JVum8voAAAAJ), [Michael Goesele](https://scholar.google.com/citations?user=56UhAooAAAAJ&hl=en), [Zhaoyang Lv](https://lvzhaoyang.github.io/).*<br>
@@ -680,7 +680,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02597)] [[Project](https://neural-
 *Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15838)] [[Project](https://zju3dv.github.io/neuralbody/)]
 
-**Neural Radiance Flow for 4D View Synthesis and Video Processing.**<br>
+**NeRFlow: Neural Radiance Flow for 4D View Synthesis and Video Processing.**<br>
 *Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09790)] [[Project](https://yilundu.github.io/nerflow/)]
 
