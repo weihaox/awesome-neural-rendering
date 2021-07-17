@@ -321,9 +321,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12052)]
 *Relja Arandjelović, Andrew Zisserman.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05264)]
 
-**Radiance Fields from a Single Image.**<br> 
-*Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
-ICML 2021. [[PDF]()]
+**ShaRf: Shape-conditioned Radiance Fields from a Single View.**<br> 
+*[Konstantinos Rematas](http://www.krematas.com/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Vittorio Ferrari](https://sites.google.com/view/vittoferrari).*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krematas.com/sharf/)]
 
 **Deep Medial Fields.**<br>
 *Daniel Rebain, Ke Li, Vincent Sitzmann, Soroosh Yazdani, Kwang Moo Yi, Andrea Tagliasacchi.*<br>
@@ -450,7 +450,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06434)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03065)] [[Project](https://gafniguy.github.io/4D-Facial-Avatars/)] [[Video](https://youtu.be/m7oROLdQnjk)]
 
 **Portrait Neural Radiance Fields from a Single Image.**<br>
-*Chen Gao, Yichang Shih, Wei-Sheng Lai, Chia-Kai Liang, Jia-Bin Huang.*<br>
+*[Chen Gao](http://chengao.vision/), [Yichang Shih](https://people.csail.mit.edu/yichangshih/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrait-nerf.github.io/)]
 
 **iNeRF: Inverting Neural Radiance Fields for Pose Estimation.**<br>
@@ -1031,8 +1031,8 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08223)] [[Video](https://research.
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
 
 **Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
-*Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
-CVPR 2021. [[PDF]()] [[Project](https://hangz-nju-cuhk.github.io/)]
+*[Hang Zhou](https://hangz-nju-cuhk.github.io/), Yasheng Sun, [Wayne Wu](https://wywu.github.io/), Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Project](https://hangz-nju-cuhk.github.io/)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
 
 **Everything's Talkin': Pareidolia Face Reenactment.**<br>
 *Linsen Song, [Wayne Wu](https://wywu.github.io), Chaoyou Fu, Chen Qian, Chen Change Loy, Ran He.*<br>
