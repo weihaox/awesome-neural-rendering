@@ -60,6 +60,9 @@ Eurographics 2020.<br>
 *Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
 
 ## Inverse Rendering
+**Unified Shape and SVBRDF Recovery using Differentiable Monte Carlo Rendering.**<br>
+*[Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Shuang Zhao](https://www.shuangz.com/), [Kavita Bala](https://www.cs.cornell.edu/~kb/), [Zhao Dong](http://flycooler.com/).*<br>
+EGSR 2021. [[PDF](https://www.cs.cornell.edu/~fujun/files/egsr2021/paper.pdf)] [[Project](https://luanfujun.github.io/InverseMeshSVBRDF/)] [[Video](https://youtu.be/u9HqKGqvJhQ?t=8404)]
 
 **PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting.**<br>
 *Kai Zhang, Fujun Luan, Qianqian Wang, Kavita Bala, Noah Snavely.*<br>
@@ -171,7 +174,7 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)]
 
 **StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
-Siggraph Asia 2020. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
 
 **Layered Neural Rendering for Retiming People in Video.**<br>
 *Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
@@ -195,7 +198,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1903.07291)] [[Github](https://github.co
 
 **Semantic Bottleneck Scene Generation.**<br>
 *Samaneh Azadi, Michael Tschannen, Eric Tzeng, Sylvain Gelly, Trevor Darrell, Mario Lucic.*<br>
-arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.11357)]
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.11357)] [[Github](https://github.com/azadis/SB-GAN)]
 
 **Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.**<br>
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).*<br>
@@ -761,11 +764,11 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=ESG-DMKQKsD)]
 CVPR 2021. [[PDF](https://arxiv.org/abs/2102.13090)] [[Project](https://ibrnet.github.io/)]
 
 **SVS: Stable View Synthesis.**<br>
-*Gernot Riegler, Vladlen Koltun.*<br>
+*[Gernot Riegler](https://griegler.github.io/), [Vladlen Koltun](http://vladlen.info).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.07233)] [[Github](https://github.com/intel-isl/StableViewSynthesis)] [[Video](https://youtu.be/gqgXIY09htI)]
 
 **FVS: Free View Synthesis.**<br>
-*Gernot Riegler, [Vladlen Koltun](http://vladlen.info).*<br>
+*[Gernot Riegler](https://griegler.github.io/), [Vladlen Koltun](http://vladlen.info).*<br>
 ECCV 2020. [[PDF](http://vladlen.info/papers/FVS.pdf)]  [[Code&Data](https://github.com/intel-isl/FreeViewSynthesis)]
 
 **Deep View Synthesis via Self-Consistent Generative Network.**<br>
