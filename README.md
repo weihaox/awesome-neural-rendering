@@ -312,6 +312,14 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**JIIF: Joint Implicit Image Function for Guided Depth Super-Resolution.**<br>
+*Jiaxiang Tang, Xiaokang Chen, Gang Zeng.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.com/ashawkey/jiif)]
+
+**Unsupervised Discovery of Object Radiance Fields.**<br>
+*[Hong-Xing Yu](https://kovenyu.com/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Jiajun Wu](https://jiajunwu.com/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07905)] [[Github](https://github.com/KovenYu/uORF)] [[Project](https://kovenyu.com/uorf/)]
+
 **Depth-supervised NeRF: Fewer Views and Faster Training for Free.**<br>
 *[Kangle Deng](https://andrewhliu.github.io/), [Andrew Liu](https://andrewhliu.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
@@ -1072,6 +1080,10 @@ arixv 2016. [[PDF](https://arxiv.org/abs/1603.06078)]
 arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 ## Dubbing and Talking-Head Animation
+
+**Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion.**<br>
+*Suzhen Wang, Lincheng Li, Yu Ding, Changjie Fan, Xin Yu.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2107.09293)]
 
 **LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization.**<br>
 *Avisek Lahiri, Vivek Kwatra, Christian Frueh, John Lewis, Chris Bregler.*<br>
