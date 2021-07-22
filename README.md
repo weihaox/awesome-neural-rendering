@@ -216,7 +216,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.16942)] [[Github](http://geometry.
 
 **NeuTex: Neural Texture Mapping for Volumetric Neural Rendering.**<br>
 *Fanbo Xiang, Zexiang Xu, Miloš Hašan, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Hao Su.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00762)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00762)]
 
 **Better Patch Stitching for Parametric Surface Reconstruction.**<br>
 *Zhantao Deng, Jan Bednařík, Mathieu Salzmann, Pascal Fua.*<br>
