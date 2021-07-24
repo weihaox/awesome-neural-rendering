@@ -699,6 +699,10 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 
 ### Implicit Neural Representations (including Neural Radiance Fields)
 
+**Dynamic View Synthesis from Dynamic Monocular Video.**<br>
+*[Chen Gao](http://chengao.vision/), [Ayush Saraf](https://www.linkedin.com/in/ayush29feb/), [Johannes Kopf](http://johanneskopf.de/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2105.06468)] [[Project](https://free-view-video.github.io/)]
+
 **Fast and Explicit Neural View Synthesis.**<br>
 *Pengsheng Guo, Miguel Angel Bautista, Alex Colburn, Liang Yang, Daniel Ulbricht, Joshua M. Susskind, Qi Shan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.05775)]
@@ -722,6 +726,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00677)] [[Project](https://www.aja
 **Baking Neural Radiance Fields for Real-Time View Synthesis.**<br>
 *Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14645)] [[Project](https://nerf.live/)]
+
+**3D Shape Generation with Grid-based Implicit Functions.**<br>
+*Moritz Ibing, Isaak Lim, Leif Kobbelt.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2107.10607)]
 
 **Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes.**<br>
 *Julian Chibane, Aayush Bansal, Verica Lazova, Gerard Pons-Moll.*<br>
@@ -1090,7 +1098,7 @@ IJCAI 2021. [[PDF](https://arxiv.org/abs/2107.09293)]
 CVPR 2021. [[PDF](https://arxiv.org/abs/2106.04185)]
 
 **MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement.**<br>
-*Alexander Richard, Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>
+*[Alexander Richard](https://alexanderrichard.github.io/), Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08223)] [[Video](https://research.fb.com/wp-content/uploads/2021/04/mesh_talk.mp4)]
 
 **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
