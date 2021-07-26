@@ -312,6 +312,14 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs.**<br>
+*Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2011.05813)] [[Github](https://github.com/creiser/kilonerf)]
+
+**UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction.**<br>
+*[Michael Oechsle](https://avg.is.tuebingen.mpg.de/person/moechsle), [Songyou Peng](https://pengsongyou.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.10078)]
+
 **JIIF: Joint Implicit Image Function for Guided Depth Super-Resolution.**<br>
 *Jiaxiang Tang, Xiaokang Chen, Gang Zeng.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.com/ashawkey/jiif)]
@@ -364,10 +372,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.09103)]
 *[Jonathan T. Barron](https://jonbarron.info/), [Ben Mildenhall](https://bmild.github.io/), [Matthew Tancik](https://www.matthewtancik.com/), [Peter Hedman](https://phogzone.com/cv.html), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13415)] [[Project](http://jonbarron.info/mipnerf)]
 
-**UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction.**<br>
-*Michael Oechsle, [Songyou Peng](https://pengsongyou.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10078)]
-
 **BARF: Bundle-Adjusting Neural Radiance Fields.**<br>
 *Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06405)]
@@ -375,10 +379,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06405)]
 **Convolutional Neural Opacity Radiance Fields.**<br>
 *Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
-
-**KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs.**<br>
-*Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2011.05813)] [[Github](https://github.com/creiser/kilonerf)]
 
 **MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo.**<br>
 *Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su.*<br>
