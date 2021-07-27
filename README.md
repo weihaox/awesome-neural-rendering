@@ -148,7 +148,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 **ST-NeRF: Editable Free-viewpoint Video Using a Layered Neural Representation.**<br>
 *Jiakai Zhang, Xinhang Liu, Xinyi Ye, Fuqiang Zhao, Yanshun Zhang, Minye Wu, Yingliang Zhang, Lan Xu, Jingyi Yu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14786)]
+TOG 2021. [[PDF](https://arxiv.org/abs/2104.14786)]
 
 **POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture.**<br>
 *Zhe Li, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu.*<br>
@@ -949,9 +949,21 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 *Junqing Huang, Michael Ruzhansky, Qianying Zhang, Haihui Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00704)]
 
+**NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting.**<br>
+*[Tiancheng Sun](http://kevinkingo.com/), [Kai-En Lin](https://cseweb.ucsd.edu/~k2lin/), [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br>
+EGSR 2021. [[PDF](https://arxiv.org/abs/2107.12351)] [[Project](http://cseweb.ucsd.edu/~viscomp/projects/EGSR21NeLF/)]
+
+**Deep Relightable Appearance Models for Animatable Faces.**<br>
+*[Sai Bi](https://sai-bi.github.io/), Stephen Lombardi*, Shunsuke Saito*, Tomas Simon, Shih-En Wei, Kevyn McPhail, Ravi Ramamoorthi, Yaser Sheikh, Jason Saragih.*<br>
+TOG 2021. [[PDF](https://drive.google.com/file/d/11cj0mdPlpO6_c1rfTeGp7I7j5mu7vtYf/view?usp=sharing)] [[Project](https://cseweb.ucsd.edu/~bisai/project/sig21_avatar/index.html)]
+
 **Total Relighting: Learning to Relight Portraits for Background Replacement.**<br>
 *Rohit Pandey, Sergio Orts-Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello.*<br>
-SIGGRAPH 2021. [[PDF](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf)] [[Project](https://augmentedperception.github.io/total_relighting/)]
+TOG 2021. [[PDF](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf)] [[Project](https://augmentedperception.github.io/total_relighting/)]
+
+**Neural Light Transport for Relighting and View Synthesis.**<br>
+*Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec, Jonathan T. Barron, Ravi Ramamoorthi, William T. Freeman.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2008.03806)] [[Project](http://nlt.csail.mit.edu/)]
 
 **DSRN: an Efficient Deep Network for Image Relighting.**<br>
 *Sourya Dipta Das, Nisarg A. Shah, Saikat Dutta, Himanshu Kumar.*<br>
@@ -967,7 +979,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03918)] [[Project](https://markbos
 
 **Deferred Neural Lighting: Free-viewpoint Relighting from Unstructured Photographs.**<br>
 *[Duan Gao](https://gao-duan.github.io/), [Guojun Chen](https://www.microsoft.com/en-us/research/people/guoch/), [Yue Dong](http://yuedong.shading.me/), [Pieter Peers](http://www.cs.wm.edu/~ppeers/), [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/), [Xin Tong](http://www.xtong.info/).*<br>
-ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2020)
+TOG 2020.
 
 **Cross-Camera Convolutional Color Constancy.**<br>
 *Mahmoud Afifi, Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
@@ -980,10 +992,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.05157v1)]
 **Light Stage Super-Resolution: Continuous High-Frequency Relighting.**<br>
 *Tiancheng Sun, Zexiang Xu, Xiuming Zhang, Sean Fanello, Christoph Rhemann, Paul Debevec, Yun-Ta Tsai, Jonathan T. Barron, Ravi Ramamoorthi.*<br>
 Siggraph Asia 2020. [[PDF](https://arxiv.org/abs/2010.08888)]
-
-**Neural Light Transport for Relighting and View Synthesis.**<br>
-*Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec, Jonathan T. Barron, Ravi Ramamoorthi, William T. Freeman.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03806)] [[Project](http://nlt.csail.mit.edu/)]
 
 **NuI-Go: Recursive Non-Local Encoder-Decoder Network for Retinal Image Non-Uniform Illumination Removal.**<br>
 *Chongyi Li, Huazhu Fu, Runmin Cong, Zechao Li, Qianqian Xu.*<br>
@@ -1007,7 +1015,13 @@ TOG 2020. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3383195)]
 
 **Portrait Shadow Manipulation.**<br>
 *[Xuaner Cecilia Zhang](https://people.eecs.berkeley.edu/~cecilia77/), J onathan T. Barron, Yun-Ta Tsai, Rohit Pandey, Xiuming Zhang, Ren Ng, David E. Jacobs.*<br>
-SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2005.08925)] [[Project](https://people.eecs.berkeley.edu/~cecilia77/project-pages/portrait)]
+TOG 2020. [[PDF](https://arxiv.org/abs/2005.08925)] [[Project](https://people.eecs.berkeley.edu/~cecilia77/project-pages/portrait)]
+
+**Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
+*Lvmin Zhang, Edgar Simo-Serra, Yi Ji, and Chunping Liu.*<br>
+TOG 2020.
+[[Priject](https://lllyasviel.github.io/PaintingLight/)]
+[[Github](https://github.com/lllyasviel/PaintingLight)]
 
 **Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
 *Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely.*<br>
@@ -1025,23 +1039,17 @@ CVPR 2019. [[PDF](https://illumination.cs.princeton.edu/paper.pdf)] [[Project](h
 *Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11812)]
 
-**Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
-*Lvmin Zhang, Edgar Simo-Serra, Yi Ji, and Chunping Liu.*<br>
-SIGGRAPH 2020 (TOG 2020).
-[[Priject](https://lllyasviel.github.io/PaintingLight/)]
-[[Github](https://github.com/lllyasviel/PaintingLight)]
-
 **Deep Single-Image Portrait Relighting.**<br>
 *Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.*<br>
 ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_DPR.pdf)] [[Github](https://github.com/zhhoper/DPR)] [[Project](https://zhhoper.github.io/dpr.html)] [[DPR Dataset](https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing)]
 
 **Single Image Portrait Relighting.**<br>
 *[Tiancheng Sun](http://kevinkingo.com/), Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br> 
-SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.00824)]
+TOG 2019. [[PDF](https://arxiv.org/abs/1905.00824)]
 
 **Multi-view Relighting using a Geometry-Aware Network.**<br>
 *[Julien Philip](https://www-sop.inria.fr/members/Julien.Philip/), [Michael Gharbi](https://research.adobe.com/person/michael-gharbi/), [Tinghui Zhou](https://people.eecs.berkeley.edu/~tinghuiz/), [Alexei (Alyosha) Efros](https://people.eecs.berkeley.edu/~efros/), [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis/).*<br>
-SIGGRAPH 2019. [[PDF](https://repo-sam.inria.fr/fungraph/deep-relighting/)]
+TOG 2019. [[PDF](https://repo-sam.inria.fr/fungraph/deep-relighting/)]
 
 **Illumination Decomposition for Photograph with Multiple Light Sources.**<br>
 *Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao.*<br>
@@ -1049,7 +1057,7 @@ TIP 2017. [[PDF](https://yanqingan.github.io/docs/tip17_illumination.pdf)] [[Git
 
 **Learning to Predict Indoor Illumination from a Single Image.**<br>
 *Marc-André Gardner, [Kalyan Sunkavalli](https://research.adobe.com/person/kalyan-sunkavalli/), [Ersin Yumer](https://research.adobe.com/person/ersin-yumer/), [Xiaohui Shen](https://research.adobe.com/person/xiaohui-shen/), Emiliano Gambaretto, [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), and [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/).*<br>
-ACM Transactions on Graphics (SIGGRAPH Asia), 2017. [[PDF](https://arxiv.org/abs/1704.00090)] [[Dataset](http://indoor.hdrdb.com/)] [[Homepage](vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight)]
+TOG 2017. [[PDF](https://arxiv.org/abs/1704.00090)] [[Dataset](http://indoor.hdrdb.com/)] [[Homepage](vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight)]
 
 **Deep Parametric Indoor Lighting Estimation.**<br>
 *Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.*<br>
@@ -1075,6 +1083,11 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 *Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
+**One Shot Radiance: Global Illumination Using Convolutional Autoencoders.**<br>
+*Giulio Jiang, Bernhard Kainz.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
+
+
 **Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network.**<br>
 *Manu Mathew Thomas, Angus G. Forbes.*<br>
 arxiv 2017. [[PDF](https://arxiv.org/abs/1710.09834)]
@@ -1083,9 +1096,6 @@ arxiv 2017. [[PDF](https://arxiv.org/abs/1710.09834)]
 *Oliver Nalbach, Elena Arabadzhiyska, Dushyant Mehta, Hans-Peter Seidel, Tobias Ritschel.*<br>
 arixv 2016. [[PDF](https://arxiv.org/abs/1603.06078)]
 
-**One Shot Radiance: Global Illumination Using Convolutional Autoencoders.**<br>
-*Giulio Jiang, Bernhard Kainz.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
 
 ## Dubbing and Talking-Head Animation
 
