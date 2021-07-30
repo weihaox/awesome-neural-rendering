@@ -214,6 +214,10 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 *Luca Morreale, Noam Aigerman, Vladimir Kim, Niloy J. Mitra.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.16942)] [[Github](http://geometry.cs.ucl.ac.uk/projects/2021/neuralmaps/)]
 
+**IALS: Learning High-Fidelity Face Texture Completion without Complete Face Texture.**<br>
+*Jongyoo Kim, Jiaolong Yang, Xin Tong.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/pdf/2105.12660.pdf)] [[Github](https://github.com/yxuhan/IALS)]
+
 **NeuTex: Neural Texture Mapping for Volumetric Neural Rendering.**<br>
 *Fanbo Xiang, Zexiang Xu, Miloš Hašan, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Hao Su.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00762)]
@@ -444,10 +448,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09955)]
 *[Michelle Guo](https://shellguo.com/), Alireza Fathi, Jiajun Wu, Thomas Funkhouser.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://shellguo.com/osf)]
 
-**Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
-*Yu Deng, Jiaolong Yang, Xin Tong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13650)]
-
 **Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations.**<br>
 *Wang Yifan, Shihao Wu, Cengiz Oztireli, Olga Sorkine-Hornung.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06434)]
@@ -487,6 +487,10 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2103.01954)]
 **ShaRf: Shape-conditioned Radiance Fields from a Single View.**<br> 
 *[Konstantinos Rematas](http://www.krematas.com/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Vittorio Ferrari](https://sites.google.com/view/vittoferrari).*<br>
 ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krematas.com/sharf/)]
+
+**Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
+*[Yu Deng](https://yudeng.github.io/), [Jiaolong Yang](http://jlyang.org/), [Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13650)]
 
 **SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes.**<br>
 *Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger.*<br>
@@ -697,7 +701,11 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
-### Implicit Neural Representations (including Neural Radiance Fields)
+### By Implicit Neural Representations
+
+**Neural Rays for Occlusion-aware Image-based Rendering.**<br>
+*Yuan Liu, Sida Peng, Lingjie Liu, Qianqian Wang, Peng Wang, Christian Theobalt, Xiaowei Zhou, Wenping Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.13421)]
 
 **Dynamic View Synthesis from Dynamic Monocular Video.**<br>
 *[Chen Gao](http://chengao.vision/), [Ayush Saraf](https://www.linkedin.com/in/ayush29feb/), [Johannes Kopf](http://johanneskopf.de/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
@@ -727,6 +735,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00677)] [[Project](https://www.aja
 *Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14645)] [[Project](https://nerf.live/)]
 
+**Animatable Neural Radiance Fields for Human Body Modeling.**<br>
+*[Sida Peng](https://pengsida.net/), Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2105.02872)] [[Project](https://zju3dv.github.io/animatable_nerf/)] [[Github](https://github.com/zju3dv/animatable_nerf)]
+
 **3D Shape Generation with Grid-based Implicit Functions.**<br>
 *Moritz Ibing, Isaak Lim, Leif Kobbelt.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2107.10607)]
@@ -744,8 +756,8 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02264)]
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)] [[Github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)]
 
 **Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans.**<br>
-*Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.15838)] [[Project](https://zju3dv.github.io/neuralbody/)]
+*[Sida Peng](https://pengsida.net/), Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
+CVPR 2021 (Best paper candidate). [[PDF](https://arxiv.org/abs/2012.15838)] [[Project](https://zju3dv.github.io/neuralbody/)] [[Github](https://github.com/zju3dv/neuralbody)]
 
 **NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.**<br>
 *[Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/), [Noha Radwan](https://scholar.google.com/citations?user=g98QcZUAAAAJ&hl=en), [Mehdi S. M. Sajjadi](https://research.google/people/105804/), [Jonathan T. Barron](https://jonbarron.info/), [Alexey Dosovitskiy](https://scholar.google.com/citations?user=FXNJRDoAAAAJ&hl=en), [Daniel Duckworth](http://www.stronglyconvex.com/about.html).*<br>
@@ -1124,7 +1136,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Project](https://hangz-nj
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03061)] [[Project](https://wywu.github.io/projects/ETT/ETT.html)] [[Github](https://github.com/Linsen13/EverythingTalking)]
 
 **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**<br>
-*Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*<br>
+*[Ting-Chun Wang](https://tcwang0509.github.io/), [Arun Mallya](https://arunmallya.github.io/), [Ming-Yu Liu](http://mingyuliu.net/).*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
 
 **MEAD: A Large-scale Audio-visual Dataset for Emotional Talking Face Generation.**<br>
