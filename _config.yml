@@ -1,9 +1,0 @@
-# https://nicolas-van.github.io/easy-markdown-to-github-pages/
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
