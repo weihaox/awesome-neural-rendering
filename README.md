@@ -1,4 +1,4 @@
-# <p align=center>`awesome neural rendering papers`</p>
+# <p align=center>`awesome neural rendering`</p>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
@@ -6,9 +6,7 @@ A collection of resources on neural rendering.
 
 ## Contributing
 
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls)
-
-Feedback and contributions are welcome!
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls). Feedback and contributions are welcome!
 
 markdown format:
 ``` markdown
@@ -17,7 +15,8 @@ markdown format:
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 ```
 
-## Table of Contents
+<details><summary>Table of Contents</summary><p>
+	
 - [Intruduction of Neural Rendering](#intruduction-of-neural-rendering)
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
@@ -31,6 +30,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Light, Reflectance, Illuminance and Shade](#light-reflectance-illuminance-and-shade)
 - [Dubbing and Talking-Head Animation](#dubbing-and-talking-head-animation)
 - [Motion Transfer, Retargeting, and Reenactment](#motion-transfer-retargeting-and-reenactment)
+</p></details><p></p>
 
 ## Intruduction of Neural Rendering
 
