@@ -16,7 +16,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ```
 
 <details><summary>Table of Contents</summary><p>
-	
+
 - [Intruduction of Neural Rendering](#intruduction-of-neural-rendering)
 - [Related Surveys and Course Notes](#related-surveys-and-course-notes)
 - [Inverse Rendering](#inverse-rendering)
@@ -411,6 +411,10 @@ arxiv 2020. [[](https://arxiv.org/abs/2003.12406)]
 **DeepSDF x Sim(3): Extending DeepSDF for Automatic 3D Shape Retrieval and Similarity Transform Estimation.**<br>
 *Oladapo Afolabi, Allen Yang, Shankar S. Sastry.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09048)]
+
+**Semantic-NeRF: In-Place Scene Labelling and Understanding with Implicit Scene Representation.**<br>
+*[Shuaifeng Zhi](http://shuaifengzhi.com/), [Tristan Laidlow](https://wp.doc.ic.ac.uk/twl15/), [Stefan Leutenegger](https://wp.doc.ic.ac.uk/sleutene/), [Andrew J. Davison](https://www.doc.ic.ac.uk/~ajd/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/pdf/2103.15875.pdf)] [[Project](https://shuaifengzhi.com/Semantic-NeRF/)]
 
 **Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields.**<br>
 *[Jonathan T. Barron](https://jonbarron.info/), [Ben Mildenhall](https://bmild.github.io/), [Matthew Tancik](https://www.matthewtancik.com/), [Peter Hedman](https://phogzone.com/cv.html), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/).*<br>
@@ -972,6 +976,10 @@ EGSR 2021. [[PDF](https://arxiv.org/abs/2107.12351)] [[Project](http://cseweb.uc
 **Deep Relightable Appearance Models for Animatable Faces.**<br>
 *[Sai Bi](https://sai-bi.github.io/), Stephen Lombardi*, Shunsuke Saito*, Tomas Simon, Shih-En Wei, Kevyn McPhail, Ravi Ramamoorthi, Yaser Sheikh, Jason Saragih.*<br>
 TOG 2021. [[PDF](https://drive.google.com/file/d/11cj0mdPlpO6_c1rfTeGp7I7j5mu7vtYf/view?usp=sharing)] [[Project](https://cseweb.ucsd.edu/~bisai/project/sig21_avatar/index.html)]
+
+**Deep Portrait Lighting Enhancement with 3D Guidance.**<br>
+*Fangzhou Han, Can Wang, Hao Du, Jing Liao.*<br>
+Computer Graphics Forum 2021. [[PDF](https://arxiv.org/abs/2108.02121)] [[Project](https://cassiepython.github.io/egsr/index.html)]
 
 **Total Relighting: Learning to Relight Portraits for Background Replacement.**<br>
 *Rohit Pandey, Sergio Orts-Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello.*<br>
