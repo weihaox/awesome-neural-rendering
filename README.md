@@ -317,7 +317,7 @@ CVPR 2019 Workshop.
 *[Frank Dellaert](https://dellaert.github.io/), [Lin Yen-Chen](https://yenchenlin.me/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05204)]
 
-**FLAME-in-NeRF : Neural control of Radiance Fields for Free View Face Animation.**<br>
+**FLAME-in-NeRF: Neural control of Radiance Fields for Free View Face Animation.**<br>
 *ShahRukh Athar, [Zhixin Shu](https://zhixinshu.github.io/), [Dimitris Samaras](http://www3.cs.stonybrook.edu/~samaras/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2108.04913)]
 
@@ -329,19 +329,15 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07905)] [[Github](https://github.c
 *[Kangle Deng](https://andrewhliu.github.io/), [Andrew Liu](https://andrewhliu.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
 
-**HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
-*[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
-
 **FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling.**<br> 
-*Christopher Xie, Keunhong Park, Ricardo Martin-Brualla, Matthew Brown.*<br> 
+*[Christopher Xie](https://chrisdxie.github.io/), [Keunhong Park](https://keunhong.com/), [Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/), [Matthew Brown](http://matthewalunbrown.com/).*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2104.08418.pdf)] [[Project](https://fig-nerf.github.io/)]
 
 **Volume Rendering of Neural Implicit Surfaces.**<br> 
 *Lior Yariv, Jiatao Gu, Yoni Kasten, Yaron Lipman.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12052)]
 
-**NeRF in Detail: Learning to Sample for View Synthesis.**<br> 
+**NeRF in Detail (NeRF-ID): Learning to Sample for View Synthesis.**<br> 
 *Relja Arandjelović, Andrew Zisserman.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05264)]
 
@@ -365,25 +361,17 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02634)] [[Project](https://vsitzma
 *Guo-Wei Yang, Wen-Yang Zhou, Hao-Yang Peng, Dun Liang, Tai-Jiang Mu, Shi-Min Hu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.09103)] [[Github](https://github.com/Gword/Recursive-NeRF)]
 
-**BARF: Bundle-Adjusting Neural Radiance Fields.**<br>
-*Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06405)]
-
 **FastNeRF: High-Fidelity Neural Rendering at 200FPS.**<br>
 *Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10380)]
 
 **NeRF--: Neural Radiance Fields Without Known Camera Parameters.**<br>
 *Zirui Wang, Shangzhe Wu, [Weidi Xie](https://weidixie.github.io/weidi-personal-webpage/), [Min Chen](https://sites.google.com/site/drminchen/home), [Victor Adrian Prisacariu](https://eng.ox.ac.uk/people/victor-prisacariu/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07064)] [[Project](http://nerfmm.active.vision/)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07064)] [[Project](http://nerfmm.active.vision/)] [[Github](https://github.com/ActiveVisionLab/nerfmm)]
 
 **A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering.**<br>
 *[Shih-Yang Su](https://lemonatsu.github.io/), [Frank Yu](https://yu-frank.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Helge Rhodin](http://helge.rhodin.de/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06199)] [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
-
-**Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes.**<br>
-*Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10994)]
 
 **Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video.**<br>
 *Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Christoph Lassner, Christian Theobalt.*<br>
@@ -401,17 +389,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://www.she
 *[Chen Gao](http://chengao.vision/), [Yichang Shih](https://people.csail.mit.edu/yichangshih/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrait-nerf.github.io/)]
 
-**Learning Implicit Surface Light Fields.**<br>
-*Michael Oechsle, Michael Niemeyer, Lars Mescheder, Thilo Strauss, Andreas Geiger.*<br>
-arxiv 2020. [[](https://arxiv.org/abs/2003.12406)]
-
-**DeepSDF x Sim(3): Extending DeepSDF for Automatic 3D Shape Retrieval and Similarity Transform Estimation.**<br>
-*Oladapo Afolabi, Allen Yang, Shankar S. Sastry.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.09048)]
-
 **Convolutional Neural Opacity Radiance Fields.**<br>
 *Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
 ICCP 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
+
+**HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
+*[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
+
+**BARF: Bundle-Adjusting Neural Radiance Fields.**<br>
+*[Chen-Hsuan Lin](https://chenhsuanlin.bitbucket.io/), [Wei-Chiu Ma](http://people.csail.mit.edu/weichium/), Antonio Torralba, Simon Lucey.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.06405)] [[Github](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)]
 
 **MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo.**<br>
 *[Anpei Chen](https://apchenstu.github.io/), [Zexiang Xu](http://cseweb.ucsd.edu/~zex014/), Fuqiang Zhao, Xiaoshuai Zhang, [Fanbo Xiang](https://www.fbxiang.com/), [Jingyi Yu](http://vic.shanghaitech.edu.cn/vrvc/en/people/), [Hao Su](https://cseweb.ucsd.edu/~haosu/).*<br>
@@ -456,6 +444,10 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2011.05813)] [[Github](https://github.co
 **UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction.**<br>
 *[Michael Oechsle](https://avg.is.tuebingen.mpg.de/person/moechsle), [Songyou Peng](https://pengsongyou.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.10078)]
+
+**Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes.**<br>
+*[Towaki Takikawa](https://tovacinni.github.io/), [Joey Litalien](https://joeylitalien.github.io/), [Kangxue Yin](https://kangxue.org/), [Karsten Kreis](https://scholar.google.de/citations?user=rFd-DiAAAAAJ), [Charles Loop](https://research.nvidia.com/person/charles-loop), [Derek Nowrouzezahrai](http://www.cim.mcgill.ca/~derek/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/), [Morgan McGuire](https://casual-effects.com/), [Sanja Fidler](https://www.cs.toronto.edu/~fidler/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.10994)] [[Project](https://nv-tlabs.github.io/nglod/)] [[Github](https://github.com/nv-tlabs/nglod)]
 
 **Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations.**<br>
 *[Wang Yifan](https://yifita.github.io/), [Shihao Wu](http://shihaowu.net/), [Cengiz Oztireli](https://people.inf.ethz.ch/~cengizo/), [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/).*<br>
@@ -564,6 +556,10 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krema
 **PolyGen: An Autoregressive Generative Model of 3D Meshes.**<br>
 *Charlie Nash, Yaroslav Ganin, S. M. Ali Eslami, Peter W. Battaglia.*<br>
 ICML 2020. [[PDF](https://arxiv.org/abs/2002.10880)] [[Github](https://github.com/deepmind/deepmind-research/tree/master/polygen)]
+
+**Learning Implicit Surface Light Fields.**<br>
+*Michael Oechsle, Michael Niemeyer, Lars Mescheder, Thilo Strauss, Andreas Geiger.*<br>
+3DV 2020. [[PDF](https://arxiv.org/abs/2003.12406)] [[Github](https://github.com/autonomousvision/cslf)]
 
 **NSVF: Neural Sparse Voxel Fields.**<br>
 *[Lingjie Liu](https://lingjie0206.github.io/), [Jiatao Gu](http://jiataogu.me/), Kyaw Zaw Lin, [Tat-Seng Chua](https://www.chuatatseng.com/), [Christian Theobalt](http://people.mpi-inf.mpg.de/~theobalt/).*<br>
@@ -810,6 +806,18 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.co
 
 ### From Single Image
 
+**Unsupervised Novel View Synthesis from a Single Image.**<br>
+*Pierluigi Zama Ramirez, Alessio Tonioni, Federico Tombari.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03285)]
+
+**Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image.**<br>
+*[Andrew Liu](https://andrewhliu.github.io/), Richard Tucker, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.09855)] [[Project](https://infinite-nature.github.io/)] [[Gtihub](https://github.com/google-research/google-research/blob/master/infinite_nature)]
+
+**Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image.**<br>
+*[Ronghang Hu](https://ronghanghu.com/), [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.09854)] [[Project](https://worldsheet.github.io/)]
+
 **Layout-Guided Novel View Synthesis from a Single Indoor Panorama.**<br>
 *Jiale Xu, Jia Zheng, Yanyu Xu, Rui Tang, Shenghua Gao.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.17022)]
@@ -818,31 +826,19 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.17022)]
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf)]
 
-**Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
-*Tewodros Habtegebrial, Varun Jampani, Orazio Gallo, Didier Stricker.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
-
 **ShaRF: Shape-conditioned Radiance Fields from a Single View.**<br>
 *Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krematas.com/sharf/index.html)]
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krematas.com/sharf/index.html)]
 
-**Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image.**<br>
-*[Ronghang Hu](https://ronghanghu.com/), [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09854)] [[Project](https://worldsheet.github.io/)]
-
-**Unsupervised Novel View Synthesis from a Single Image.**<br>
-*Pierluigi Zama Ramirez, Alessio Tonioni, Federico Tombari.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03285)]
-
-**Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image.**<br>
-*Andrew Liu, Richard Tucker, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09855)]
+**Generative View Synthesis: From Single-view Semantics to Novel-view Images.**<br>
+*Tewodros Habtegebrial, Varun Jampani, Orazio Gallo, Didier Stricker.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
 
 ### Others
 
 **Geometry-Free View Synthesis: Transformers and no 3D Priors.**<br>
-*Robin Rombach, Patrick Esser, Björn Ommer.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07652)]
+*[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07652)] [[Github](https://github.com/CompVis/geometry-free-view-synthesis)]
 
 **PixelSynth: Generating a 3D-Consistent Experience from a Single Image.**<br>
 *[Chris Rockwell](https://crockwell.github.io/), [David F. Fouhey](https://web.eecs.umich.edu/~fouhey/), [Justin Johnson](https://web.eecs.umich.edu/~justincj/).*<br>
