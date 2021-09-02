@@ -397,6 +397,14 @@ ICCP 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
 *[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
 
+**NeRD: Neural Reflectance Decomposition from Image Collections.**<br>
+*[Mark Boss](https://markboss.me), [Raphael Braun](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/computergrafik/lehrstuhl/mitarbeiter/raphael-braun/), [Varun Jampani](https://varunjampani.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Ce Liu](http://people.csail.mit.edu/celiu/), [Hendrik P. A. Lensch](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/computergrafik/computer-graphics/staff/prof-dr-ing-hendrik-lensch/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.03918)] [[Project](https://markboss.me/publication/2021-nerd/)] [[Github](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)]
+
+**Self-Calibrating Neural Radiance Fields.**<br>
+*Yoonwoo Jeong, Seokjun Ahn, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.13826)]
+
 **BARF: Bundle-Adjusting Neural Radiance Fields.**<br>
 *[Chen-Hsuan Lin](https://chenhsuanlin.bitbucket.io/), [Wei-Chiu Ma](http://people.csail.mit.edu/weichium/), Antonio Torralba, Simon Lucey.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.06405)] [[Github](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)]
@@ -745,8 +753,8 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07112)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Project](https://vincentfung13.github.io/projects/nemi/)]
 
 **Baking Neural Radiance Fields for Real-Time View Synthesis.**<br>
-*Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14645)] [[Project](https://nerf.live/)]
+*[Peter Hedman](https://phogzone.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Ben Mildenhall](https://bmild.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Paul Debevec](https://www.pauldebevec.com/).*<br>
+ICCV 2021 (oral). [[PDF](https://arxiv.org/abs/2103.14645)] [[Project](https://nerf.live/)]
 
 **Animatable Neural Radiance Fields for Human Body Modeling.**<br>
 *[Sida Peng](https://pengsida.net/), Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
@@ -794,7 +802,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07492)] [[Github](https://github.c
 
 **X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation.**<br>
 *MOJTABA BEMANA, KAROL MYSZKOWSKI, HANS-PETER SEIDEL, TOBIAS RITSCHEL.*<br>
-Siggraph Asia 2020. [[PDF](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasia_2020.pdf)]
+TOG 2020. [[PDF](http://xfields.mpi-inf.mpg.de/paper/X_Fields__siggasia_2020.pdf)]
 
 **GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
 *Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
@@ -840,6 +848,35 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsne
 *[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07652)] [[Github](https://github.com/CompVis/geometry-free-view-synthesis)]
 
+**Deep View Synthesis via Self-Consistent Generative Network.**<br>
+*Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, Mingkui Tan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10844)]
+
+**Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild.**<br>
+*Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12884)] [[Project](https://grail.cs.washington.edu/projects/vid2actor/)] [[Video](https://youtu.be/Zec8Us0v23o)]
+
+**Object-Centric Neural Scene Rendering.**<br>
+*Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://shellguo.com/osf)]
+
+**Neural Point-Based Graphics.**<br>
+*Kara-Ali Aliev, Artem Sevastopolsky, Maria Kolos, Dmitry Ulyanov, Victor Lempitsky.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1906.08240)] [[Project](https://saic-violet.github.io/npbg/)] [[Github](https://github.com/alievk/npbg)]
+
+**RGBD-Net: Predicting Color and Depth Images for Novel Views Synthesis.**<br>
+*Phong Nguyen, Animesh Karnewar, Lam Huynh, Esa Rahtu, Jiri Matas, Janne Heikkila.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14398)] [[GIthub](https://github.com/phongnhhn92/RGBDNet)]
+
+**SofGAN: A Portrait Image Generator with Dynamic Styling.**<br>
+*Anpei Chen, Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2007.03780)] [[Github](https://github.com/apchenstu/sofgan)]
+
+
+**Deep 3D Mask Volume for View Synthesis of Dynamic Scenes.**<br>
+*Kai-En Lin, Lei Xiao, Feng Liu, Guowei Yang, Ravi Ramamoorthi.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.13408)] [[Project](https://cseweb.ucsd.edu//~viscomp/projects/ICCV21Deep/)]
+
 **PixelSynth: Generating a 3D-Consistent Experience from a Single Image.**<br>
 *[Chris Rockwell](https://crockwell.github.io/), [David F. Fouhey](https://web.eecs.umich.edu/~fouhey/), [Justin Johnson](https://web.eecs.umich.edu/~justincj/).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2108.05892)] [[Project](https://crockwell.github.io/pixelsynth/)]
@@ -851,10 +888,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15407)]
 **Nex: Real-time View Synthesis with Neural Basis Expansion.**<br>
 *S. Wizadwongsa, P. Phongthawee, J. Yenphraphai, S. Suwajanakorn.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05606)] [[Project](https://nex-mpi.github.io/)]
-
-**Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis.**<br>
-*Zhipeng Bao, Yu-Xiong Wang, Martial Hebert.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=ESG-DMKQKsD)]
 
 **ID-Unet: Iterative Soft and Hard Deformation for View Synthesis.**<br>
 *Mingyu Yin, Li Sun, Qingli Li.*<br>
@@ -868,29 +901,17 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2102.13090)] [[Project](https://ibrnet.g
 *[Gernot Riegler](https://griegler.github.io/), [Vladlen Koltun](http://vladlen.info).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.07233)] [[Github](https://github.com/intel-isl/StableViewSynthesis)] [[Video](https://youtu.be/gqgXIY09htI)]
 
-**FVS: Free View Synthesis.**<br>
-*[Gernot Riegler](https://griegler.github.io/), [Vladlen Koltun](http://vladlen.info).*<br>
-ECCV 2020. [[PDF](http://vladlen.info/papers/FVS.pdf)]  [[Code&Data](https://github.com/intel-isl/FreeViewSynthesis)]
-
-**Deep View Synthesis via Self-Consistent Generative Network.**<br>
-*Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, Mingkui Tan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10844)]
+**Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis.**<br>
+*Zhipeng Bao, Yu-Xiong Wang, Martial Hebert.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=ESG-DMKQKsD)]
 
 **Novel View Synthesis via Depth-guided Skip Connections.**<br>
 *Yuxin Hou, Arno Solin, Juho Kannala.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01619)]
+WACV 2021. [[PDF](https://arxiv.org/abs/2101.01619)] [[Github](https://github.com/AaltoVision/warped-skipconnection-nvs)]
 
-**Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild.**<br>
-*Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12884)] [[Project](https://grail.cs.washington.edu/projects/vid2actor/)] [[Video](https://youtu.be/Zec8Us0v23o)]
-
-**Object-Centric Neural Scene Rendering.**<br>
-*Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://shellguo.com/osf)]
-
-**RGBD-Net: Predicting Color and Depth Images for Novel Views Synthesis.**<br>
-*Phong Nguyen, Animesh Karnewar, Lam Huynh, Esa Rahtu, Jiri Matas, Janne Heikkila.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14398)]
+**FVS: Free View Synthesis.**<br>
+*[Gernot Riegler](https://griegler.github.io/), [Vladlen Koltun](http://vladlen.info).*<br>
+ECCV 2020. [[PDF](http://vladlen.info/papers/FVS.pdf)]  [[Code&Data](https://github.com/intel-isl/FreeViewSynthesis)]
 
 **Rotationally-Temporally Consistent Novel-View Synthesis of Human Performance Video.**<br> 
 *Youngjoong Kwon, Stefano Petrangeli, Dahun Kim, Haoliang Wang, Eunbyung Park, Viswanathan Swaminathan, Henry Fuchs.*<br>
@@ -928,17 +949,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.15627)]
 *Xiaofeng Liu, Tong Che, Yiqun Lu, Chao Yang, Site Li, Jane You.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06620)]
 
-**A Free Viewpoint Portrait Generator with Dynamic Styling.**<br>
-*Anpei Chen, Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03780)]
-
 **Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera.**<br>
 *Jae Shin Yoon, Kihwan Kim, Orazio Gallo, Hyun Soo Park, Jan Kautz.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01294)]
-
-**Neural Point-Based Graphics.**<br>
-*Kara-Ali Aliev, Artem Sevastopolsky, Maria Kolos, Dmitry Ulyanov, Victor Lempitsky.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1906.08240)] [[Project](https://saic-violet.github.io/npbg/)]
 
 **Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis.**<br>
 *Jogendra Nath Kundu, Siddharth Seth, Varun Jampani, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty.*<br>
@@ -964,7 +977,7 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Olszewsk
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
-**PVA : Pixel-Aligned Volumetric Avatars.**<br>
+**PVA: Pixel-Aligned Volumetric Avatars.**<br>
 *Amit Raj, Michael Zollhöfer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi.*<br>
 CVPR 2021 [[PDF](https://arxiv.org/pdf/2101.02697.pdf)][[Project](https://volumetric-avatars.github.io/)]
 
@@ -982,53 +995,49 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 *Junqing Huang, Michael Ruzhansky, Qianying Zhang, Haihui Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00704)]
 
-**NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting.**<br>
-*[Tiancheng Sun](http://kevinkingo.com/), [Kai-En Lin](https://cseweb.ucsd.edu/~k2lin/), [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br>
-EGSR 2021. [[PDF](https://arxiv.org/abs/2107.12351)] [[Project](http://cseweb.ucsd.edu/~viscomp/projects/EGSR21NeLF/)]
-
-**Deep Relightable Appearance Models for Animatable Faces.**<br>
-*[Sai Bi](https://sai-bi.github.io/), Stephen Lombardi*, Shunsuke Saito*, Tomas Simon, Shih-En Wei, Kevyn McPhail, Ravi Ramamoorthi, Yaser Sheikh, Jason Saragih.*<br>
-TOG 2021. [[PDF](https://drive.google.com/file/d/11cj0mdPlpO6_c1rfTeGp7I7j5mu7vtYf/view?usp=sharing)] [[Project](https://cseweb.ucsd.edu/~bisai/project/sig21_avatar/index.html)]
-
-**Deep Portrait Lighting Enhancement with 3D Guidance.**<br>
-*Fangzhou Han, Can Wang, Hao Du, Jing Liao.*<br>
-Computer Graphics Forum 2021. [[PDF](https://arxiv.org/abs/2108.02121)] [[Project](https://cassiepython.github.io/egsr/index.html)]
-
-**Total Relighting: Learning to Relight Portraits for Background Replacement.**<br>
-*Rohit Pandey, Sergio Orts-Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello.*<br>
-TOG 2021. [[PDF](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf)] [[Project](https://augmentedperception.github.io/total_relighting/)]
-
-**Neural Light Transport for Relighting and View Synthesis.**<br>
-*Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec, Jonathan T. Barron, Ravi Ramamoorthi, William T. Freeman.*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2008.03806)] [[Project](http://nlt.csail.mit.edu/)]
-
 **DSRN: an Efficient Deep Network for Image Relighting.**<br>
 *Sourya Dipta Das, Nisarg A. Shah, Saikat Dutta, Himanshu Kumar.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09242)]
 
 **Relightable 3D Head Portraits from a Smartphone Video.**<br>
-*Artem Sevastopolsky, Savva Ignatiev, Gonzalo Ferrer, Evgeny Burnaev, Victor Lempitsky.*<br>
+*[Artem Sevastopolsky](https://seva100.github.io/), Savva Ignatiev, Gonzalo Ferrer, Evgeny Burnaev, Victor Lempitsky.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09963)] [[Project](https://saic-violet.github.io/relightable-portrait/)] [[Video](https://www.youtube.com/watch?v=qQnNalM9hgY)]
 
-**NeRD: Neural Reflectance Decomposition from Image Collections.**<br>
-*[Mark Boss](https://markboss.me), [Raphael Braun](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/computergrafik/lehrstuhl/mitarbeiter/raphael-braun/), [Varun Jampani](https://varunjampani.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Ce Liu](http://people.csail.mit.edu/celiu/), [Hendrik P. A. Lensch](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/computergrafik/computer-graphics/staff/prof-dr-ing-hendrik-lensch/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03918)] [[Project](https://markboss.me/publication/2021-nerd/)] [[Github](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)]
+**C5: Cross-Camera Convolutional Color Constancy.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2011.11890)] [[GIthub](https://github.com/mahmoudnafifi/C5)]
+
+**NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting.**<br>
+*[Tiancheng Sun](http://kevinkingo.com/), [Kai-En Lin](https://cseweb.ucsd.edu/~k2lin/), [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br>
+EGSR 2021. [[PDF](https://arxiv.org/abs/2107.12351)] [[Project](http://cseweb.ucsd.edu/~viscomp/projects/EGSR21NeLF/)]
+
+**Deep Portrait Lighting Enhancement with 3D Guidance.**<br>
+*Fangzhou Han, Can Wang, Hao Du, Jing Liao.*<br>
+CGF 2021. [[PDF](https://arxiv.org/abs/2108.02121)] [[Project](https://cassiepython.github.io/egsr/index.html)]
+
+**Total Relighting: Learning to Relight Portraits for Background Replacement.**<br>
+*Rohit Pandey, Sergio Orts-Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello.*<br>
+TOG 2021. [[PDF](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf)] [[Project](https://augmentedperception.github.io/total_relighting/)]
+
+**Deep Relightable Appearance Models for Animatable Faces.**<br>
+*[Sai Bi](https://sai-bi.github.io/), Stephen Lombardi*, Shunsuke Saito*, Tomas Simon, Shih-En Wei, Kevyn McPhail, Ravi Ramamoorthi, Yaser Sheikh, Jason Saragih.*<br>
+TOG 2021. [[PDF](https://drive.google.com/file/d/11cj0mdPlpO6_c1rfTeGp7I7j5mu7vtYf/view?usp=sharing)] [[Project](https://cseweb.ucsd.edu/~bisai/project/sig21_avatar/index.html)]
+
+**Neural Light Transport for Relighting and View Synthesis.**<br>
+*Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec, Jonathan T. Barron, Ravi Ramamoorthi, William T. Freeman.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2008.03806)] [[Project](http://nlt.csail.mit.edu/)]
 
 **Deferred Neural Lighting: Free-viewpoint Relighting from Unstructured Photographs.**<br>
 *[Duan Gao](https://gao-duan.github.io/), [Guojun Chen](https://www.microsoft.com/en-us/research/people/guoch/), [Yue Dong](http://yuedong.shading.me/), [Pieter Peers](http://www.cs.wm.edu/~ppeers/), [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/), [Xin Tong](http://www.xtong.info/).*<br>
-TOG 2020.
+TOG 2020. [[PDF](https://gao-duan.github.io/publications/neuralrelighting/DeferredNeuralLighting.pdf)]
 
-**Cross-Camera Convolutional Color Constancy.**<br>
-*Mahmoud Afifi, Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11890)]
-
-**Towards Geometry Guided Neural Relighting with Flash Photography.**<br>
-*Di Qiu, Jin Zeng, Zhanghan Ke, Wenxiu Sun, Chengxi Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.05157v1)]
+**Learning Illumination from Diverse Portraits.**<br>
+*Chloe LeGendre, Wan-Chun Ma, Rohit Pandey, Sean Fanello, Christoph Rhemann, Jason Dourgarian, Jay Busch, Paul Debevec.*<br>
+TOG 2020. [[PDF](https://arxiv.org/abs/2008.02396)]
 
 **Light Stage Super-Resolution: Continuous High-Frequency Relighting.**<br>
 *Tiancheng Sun, Zexiang Xu, Xiuming Zhang, Sean Fanello, Christoph Rhemann, Paul Debevec, Yun-Ta Tsai, Jonathan T. Barron, Ravi Ramamoorthi.*<br>
-Siggraph Asia 2020. [[PDF](https://arxiv.org/abs/2010.08888)]
+TOG 2020. [[PDF](https://arxiv.org/abs/2010.08888)]
 
 **NuI-Go: Recursive Non-Local Encoder-Decoder Network for Retinal Image Non-Uniform Illumination Removal.**<br>
 *Chongyi Li, Huazhu Fu, Runmin Cong, Zechao Li, Qianqian Xu.*<br>
@@ -1042,10 +1051,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02796)] [[Project](http://factorize
 *Xin Wei, Guojun Chen, Yue Dong, Stephen Lin, Xin Tong.*<br>
 ECCV 2200. [[PDF](https://arxiv.org/abs/2008.02514)]
 
-**Learning Illumination from Diverse Portraits.**<br>
-*Chloe LeGendre, Wan-Chun Ma, Rohit Pandey, Sean Fanello, Christoph Rhemann, Jason Dourgarian, Jay Busch, Paul Debevec.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02396)]
-
 **Enlighten Me: Importance of Brightness and Shadow for Character Emotion and Appeal.**<br>
 *Pisut Wisessing, Katja Zibrek, Douglas W. Cunningham, John Dingliana, Rachel McDonnell.*<br>
 TOG 2020. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3383195)]
@@ -1056,29 +1061,7 @@ TOG 2020. [[PDF](https://arxiv.org/abs/2005.08925)] [[Project](https://people.ee
 
 **Generating Digital Painting Lighting Effects via RGB-space Geometry.**<br>
 *Lvmin Zhang, Edgar Simo-Serra, Yi Ji, and Chunping Liu.*<br>
-TOG 2020.
-[[Priject](https://lllyasviel.github.io/PaintingLight/)]
-[[Github](https://github.com/lllyasviel/PaintingLight)]
-
-**Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
-*Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08367)] [GitHub](https://github.com/pratulsrinivasan/lighthouse)] [[Project](https://people.eecs.berkeley.edu/~pratul/lighthouse/)]
-
-**Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images.**<br>
-*Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
-
-**Neural Illumination: Lighting Prediction for Indoor Environments.**<br>
-*Shuran Song and Thomas Funkhouser.*<br>
-CVPR 2019. [[PDF](https://illumination.cs.princeton.edu/paper.pdf)] [[Project](https://illumination.cs.princeton.edu/)]
-
-**Learning to Shade Hand-drawn Sketches.**<br>
-*Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11812)]
-
-**Deep Single-Image Portrait Relighting.**<br>
-*Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.*<br>
-ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_DPR.pdf)] [[Github](https://github.com/zhhoper/DPR)] [[Project](https://zhhoper.github.io/dpr.html)] [[DPR Dataset](https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing)]
+TOG 2020. [[Priject](https://lllyasviel.github.io/PaintingLight/)] [[Github](https://github.com/lllyasviel/PaintingLight)]
 
 **Single Image Portrait Relighting.**<br>
 *[Tiancheng Sun](http://kevinkingo.com/), Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br> 
@@ -1088,6 +1071,47 @@ TOG 2019. [[PDF](https://arxiv.org/abs/1905.00824)]
 *[Julien Philip](https://www-sop.inria.fr/members/Julien.Philip/), [Michael Gharbi](https://research.adobe.com/person/michael-gharbi/), [Tinghui Zhou](https://people.eecs.berkeley.edu/~tinghuiz/), [Alexei (Alyosha) Efros](https://people.eecs.berkeley.edu/~efros/), [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis/).*<br>
 TOG 2019. [[PDF](https://repo-sam.inria.fr/fungraph/deep-relighting/)]
 
+**Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.**<br>
+*Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08367)] [GitHub](https://github.com/pratulsrinivasan/lighthouse)] [[Project](https://people.eecs.berkeley.edu/~pratul/lighthouse/)]
+
+**Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images.**<br>
+*Sai Bi, Zexiang Xu, Kalyan Sunkavalli, David Kriegman, Ravi Ramamoorthi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
+
+**DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.**<br>
+*Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
+
+**Learning to Shade Hand-drawn Sketches.**<br>
+*Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11812)]
+
+**Deep Single-Image Portrait Relighting.**<br>
+*Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.*<br>
+ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_DPR.pdf)] [[Github](https://github.com/zhhoper/DPR)] [[Project](https://zhhoper.github.io/dpr.html)] [[DPR Dataset](https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing)]
+
+**Deep Parametric Indoor Lighting Estimation.**<br>
+*Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1910.08812)] [[Supplementary material](https://lvsn.github.io/deepparametric/supplementary/index.html)] [[Laval Indoor HDR Database](http://indoor.hdrdb.com/) and [Depth](http://indoordepth.hdrdb.com/)] [[Project](https://lvsn.github.io/deepparametric/)] 
+
+**GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.**<br>
+*[Hao Zhou](http://zhhoper.github.io), Xiang Yu, David W Jacobs.*<br>
+ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_IID.pdf)] [[Supplement](https://zhhoper.github.io/paper/zhou_ICCV_2019_IID_sup.pdf)] [[Poster](https://zhhoper.github.io/poster/Poster_ICCV_2019_IID.pdf)] [[Spherical Harmonic Tools](shtools.github.io/SHTOOLS)]
+
+
+**Fast Spatially-Varying Indoor Lighting Estimation.**<br>
+*Mathieu Garon, Kalyan Sunkavalli, Sunil Hadap, Nathan Carr, [Jean-François Lalonde](http://www.jflalonde.ca/).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1906.03799)] [[Supplementary material](https://lvsn.github.io/fastindoorlight/supplementary/index.html)] [[Project](https://lvsn.github.io/fastindoorlight/)] [[Lavel Indoor Spatially Varying HDR Dataset / 79 HDR Light Probes](http://indoorsv.hdrdb.com/)]
+
+**Neural Illumination: Lighting Prediction for Indoor Environments.**<br>
+*Shuran Song and Thomas Funkhouser.*<br>
+CVPR 2019. [[PDF](https://illumination.cs.princeton.edu/paper.pdf)] [[Project](https://illumination.cs.princeton.edu/)]
+
+**SfSNet: Learning Shape, Reflectance and llluminance of Faces in the Wild.**<br>
+*Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs.*<br>
+CVPR 2018. [[Project](https://senguptaumd.github.io/SfSNet/)] [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
+
 **Illumination Decomposition for Photograph with Multiple Light Sources.**<br>
 *Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao.*<br>
 TIP 2017. [[PDF](https://yanqingan.github.io/docs/tip17_illumination.pdf)] [[Github](https://github.com/yanqingan/Illumination_Decomposition)]
@@ -1096,49 +1120,23 @@ TIP 2017. [[PDF](https://yanqingan.github.io/docs/tip17_illumination.pdf)] [[Git
 *Marc-André Gardner, [Kalyan Sunkavalli](https://research.adobe.com/person/kalyan-sunkavalli/), [Ersin Yumer](https://research.adobe.com/person/ersin-yumer/), [Xiaohui Shen](https://research.adobe.com/person/xiaohui-shen/), Emiliano Gambaretto, [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), and [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/).*<br>
 TOG 2017. [[PDF](https://arxiv.org/abs/1704.00090)] [[Dataset](http://indoor.hdrdb.com/)] [[Homepage](vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight)]
 
-**Deep Parametric Indoor Lighting Estimation.**<br>
-*Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1910.08812)] [[Supplementary material](https://lvsn.github.io/deepparametric/supplementary/index.html)] [[Laval Indoor HDR Database](http://indoor.hdrdb.com/) and [Depth](http://indoordepth.hdrdb.com/)] [[Project](https://lvsn.github.io/deepparametric/)] 
-
-**Fast Spatially-Varying Indoor Lighting Estimation.**<br>
-*Mathieu Garon, Kalyan Sunkavalli, Sunil Hadap, Nathan Carr, [Jean-François Lalonde](http://www.jflalonde.ca/).*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1906.03799)] [[Supplementary material](https://lvsn.github.io/fastindoorlight/supplementary/index.html)] [[Project](https://lvsn.github.io/fastindoorlight/)] [[Lavel Indoor Spatially Varying HDR Dataset / 79 HDR Light Probes](http://indoorsv.hdrdb.com/)]
-
-**GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.**<br>
-*[Hao Zhou](http://zhhoper.github.io), Xiang Yu, David W Jacobs.*<br>
-ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_IID.pdf)] [[Supplement](https://zhhoper.github.io/paper/zhou_ICCV_2019_IID_sup.pdf)] [[Poster](https://zhhoper.github.io/poster/Poster_ICCV_2019_IID.pdf)] [[Spherical Harmonic Tools](shtools.github.io/SHTOOLS)]
-
-**SfSNet: Learning Shape, Reflectance and llluminance of Faces in the Wild.**<br>
-*Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs.*<br>
-CVPR 2018. [[Project](https://senguptaumd.github.io/SfSNet/)] [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
-
 **Occlusion-aware 3D Morphable Models and an Illumination Prior for Face Image Analysis.**<br>
 *Bernhard Egger, Sandro Schoenborn, Andreas Schneider, Adam Kortylewski, Andreas Morel-Forster, Clemens Blumer and Thomas Vetter.*<br>
 IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](http://gravis.dmi.unibas.ch/publications/2018/2018_Egger_IJCV.pdf)]
 
-**DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.**<br>
-*Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
-
-**One Shot Radiance: Global Illumination Using Convolutional Autoencoders.**<br>
-*Giulio Jiang, Bernhard Kainz.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1910.02480)]
-
-
-**Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network.**<br>
-*Manu Mathew Thomas, Angus G. Forbes.*<br>
-arxiv 2017. [[PDF](https://arxiv.org/abs/1710.09834)]
-
 **Deep Shading: Convolutional Neural Networks for Screen-Space Shading.**<br>
 *Oliver Nalbach, Elena Arabadzhiyska, Dushyant Mehta, Hans-Peter Seidel, Tobias Ritschel.*<br>
-arixv 2016. [[PDF](https://arxiv.org/abs/1603.06078)]
-
+CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com/marcelsan/DeepShading)]
 
 ## Dubbing and Talking-Head Animation
 
 **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
 *[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+
+**FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning.**<br>
+*Chenxu Zhang, Yifan Zhao, Yifei Huang, Ming Zeng, Saifeng Ni, Madhukar Budagavi, Xiaohu Guo.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.07938)]
 
 **MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement.**<br>
 *[Alexander Richard](https://alexanderrichard.github.io/), Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>
@@ -1234,7 +1232,7 @@ Siggraph 2020. [[PDF](https://github.com/sebastianstarke/AI4Animation/blob/maste
 
 **Neural State Machine for Character-Scene Interactions.**<br>
 *Sebastian Starke, He Zhang, Taku Komura, Jun Saito.*<br>
-Siggraph Asia 2019. [[PDF](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)] [[Code & Data](https://github.com/sebastianstarke/AI4Animation/blob/master/AI4Animation/SIGGRAPH_Asia_2019)]
+TOG 2019. [[PDF](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_Asia_2019/Paper.pdf)] [[Code & Data](https://github.com/sebastianstarke/AI4Animation/blob/master/AI4Animation/SIGGRAPH_Asia_2019)]
 
 **High-Fidelity Neural Human Motion Transfer from Monocular Video.**<br>
 *Moritz Kappel, Vladislav Golyanik, Mohamed Elgharib, Jann-Ole Henningson, Hans-Peter Seidel, Susana Castillo, Christian Theobalt, Marcus Magnor.*<br>
