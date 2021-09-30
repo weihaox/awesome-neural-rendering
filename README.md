@@ -313,6 +313,14 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields.**<br>
+*[Wang Yifan](https://yifita.github.io/), Lukas Rahmann, [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05187)] [[Project](https://yifita.github.io/publication/idf/)] [[Github](https://github.com/yifita/idf)]
+
+**CodeNeRF: Disentangled Neural Radiance Fields for Object Categories.**<br>
+*Wonbong Jang, Lourdes Agapito.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.01750)] [[Project](https://sites.google.com/view/wbjang/home/codenerf)] [[Github](https://github.com/wayne1123/code-nerf)]
+
 **Neural Volume Rendering: NeRF And Beyond.**<br>
 *[Frank Dellaert](https://dellaert.github.io/), [Lin Yen-Chen](https://yenchenlin.me/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05204)]
@@ -396,6 +404,18 @@ ICCP 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
 **HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
 *[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
+
+**MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis.**<br>
+*Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Github](https://github.com/vincentfung13/MINE)]
+
+**NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo.**<br>
+*Yi Wei, Shaohui Liu, Yongming Rao, Wang Zhao, Jiwen Lu, Jie Zhou.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/pdf/2109.01129)] [[Project](https://weiyithu.github.io/NerfingMVS/)]
+
+**Continual Neural Mapping: Learning An Implicit Scene Representation from Sequential Observations.**<br>
+*Zike Yan, Yuxin Tian, Xuesong Shi, Ping Guo, Peng Wang, Hongbin Zha.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.05851)]
 
 **NeRD: Neural Reflectance Decomposition from Image Collections.**<br>
 *[Mark Boss](https://markboss.me), [Raphael Braun](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/computergrafik/lehrstuhl/mitarbeiter/raphael-braun/), [Varun Jampani](https://varunjampani.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Ce Liu](http://people.csail.mit.edu/celiu/), [Hendrik P. A. Lensch](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/computergrafik/computer-graphics/staff/prof-dr-ing-hendrik-lensch/).*<br>
@@ -751,6 +771,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07112)]
 **NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis.**<br>
 *Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Project](https://vincentfung13.github.io/projects/nemi/)]
+
+**MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis.**<br>
+*Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Github](https://github.com/vincentfung13/MINE)]
+
 
 **Baking Neural Radiance Fields for Real-Time View Synthesis.**<br>
 *[Peter Hedman](https://phogzone.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Ben Mildenhall](https://bmild.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Paul Debevec](https://www.pauldebevec.com/).*<br>
@@ -1130,9 +1155,34 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com
 
 ## Dubbing and Talking-Head Animation
 
+
 **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
 *[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+
+**Large-Scale Multilingual Audio Visual Dubbing.**<br>
+*Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
+
+**EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
+*Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
+
+**Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose.**<br>
+*Ran Yi, Zipeng Ye, Juyong Zhang, Hujun Bao, Yong-Jin Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.10137)] [[Github](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
+
+**Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
+*Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
+
+**Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation.**<br>
+*Yuanxun Lu, Jinxiang Chai, Xun Cao.*<br>
+SIGGRAPH Asia 2021. [[PDF](https://arxiv.org/abs/2109.10595)]
+
+**DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images.**<br>
+*Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart.*<br>
+SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2012.04012)] [[Github](https://github.com/YadiraF/DECA)]
 
 **FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning.**<br>
 *Chenxu Zhang, Yifan Zhao, Yifei Huang, Ming Zeng, Saifeng Ni, Madhukar Budagavi, Xiaohu Guo.*<br>
@@ -1150,12 +1200,16 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2012.08261)]
 *Suzhen Wang, Lincheng Li, Yu Ding, Changjie Fan, Xin Yu.*<br>
 IJCAI 2021. [[PDF](https://arxiv.org/abs/2107.09293)]
 
+**Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis.**<br>
+*Haozhe Wu, Jia Jia, Haoyu Wang, Yishun Dou, Chao Duan, Qingshan Deng.*<br>
+ACM MM 2021. [[PDF](https://hcsi.cs.tsinghua.edu.cn/Paper/Paper21/MM21-WUHAOZHE.pdf)]
+
 **LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization.**<br>
 *Avisek Lahiri, Vivek Kwatra, Christian Frueh, John Lewis, Chris Bregler.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2106.04185)]
 
 **Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
-*[Hang Zhou](https://hangz-nju-cuhk.github.io/), Yasheng Sun, [Wayne Wu](https://wywu.github.io/), Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
+*[Hang Zhou](https://hangz-nju-cuhk.github.io/), Yasheng Sun, [Wayne Wu](https://wywu.github.io/), Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Project](https://hangz-nju-cuhk.github.io/)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
 
 **Everything's Talkin': Pareidolia Face Reenactment.**<br>
@@ -1169,26 +1223,6 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://n
 **MEAD: A Large-scale Audio-visual Dataset for Emotional Talking Face Generation.**<br>
 *Kaisiyuan Wang, [Qianyi Wu](https://wuqianyi.top/), Linsen Song, [Zhuoqian Yang](https://yzhq97.github.io/), Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy.*<br>
 ECCV 2020. [[PDF](https://wywu.github.io/)] [[Project](https://wywu.github.io/projects/MEAD/MEAD.html)] [[Github](https://github.com/uniBruce/Mead)] 
-
-**DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images.**<br>
-*Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04012)] [[Github](https://github.com/YadiraF/DECA)]
-
-**Large-Scale Multilingual Audio Visual Dubbing.**<br>
-*Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
-
-**EBT: Everybody's Talkin': Let Me Talk as You Want.**<br>
-*Linsen Song, [Wayne Wu](http://wywu.github.io/), Chen Qian, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en), Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05201)] [[Project](https://wywu.github.io/projects/EBT/EBT.html)]
-
-**Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose.**<br>
-*Ran Yi, Zipeng Ye, Juyong Zhang, Hujun Bao, Yong-Jin Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2002.10137)] [[Github](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
-
-**Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
-*Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
 
 **MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
 *Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
@@ -1213,6 +1247,19 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering.**<br>
+*Yurui Ren, Ge Li, Yuanqi Chen, Thomas H. Li, Shan Liu.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2109.08379)]
+
+**HeadGAN: One-shot Neural Head Synthesis and Editing.**<br>
+*Michail Christos Doukas, Stefanos Zafeiriou, Viktoriia Sharmanska.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.08261)]
+
+
+**Contact-Aware Retargeting of Skinned Motion.**<br>
+*Ruben Villegas, Duygu Ceylan, Aaron Hertzmann, Jimei Yang, Jun Saito.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2109.07431)]
 
 **SimPoE: Simulated Character Control for 3D Human Pose Estimation.**<br>
 *Ye Yuan, Shih-En Wei, Tomas Simon, Kris Kitani, Jason Saragih.*<br>
