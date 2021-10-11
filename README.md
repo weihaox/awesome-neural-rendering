@@ -146,6 +146,9 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
+**Geometry-Free View Synthesis: Transformers and No 3D Priors.**<br>
+*Robin Rombach, Patrick Esser, Bjorn Ommer.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Rombach_Geometry-Free_View_Synthesis_Transformers_and_No_3D_Priors_ICCV_2021_paper.html)]
 
 **iButter: Neural Interactive Bullet Time Generator for Human Free-viewpoint Rendering.**<br> 
 *Liao Wang, Ziyu Wang, Pei Lin, Yuheng Jiang, Xin Suo, Minye Wu, Lan Xu, Jingyi Yu.*<br> 
@@ -369,10 +372,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02634)] [[Project](https://vsitzma
 *Guo-Wei Yang, Wen-Yang Zhou, Hao-Yang Peng, Dun Liang, Tai-Jiang Mu, Shi-Min Hu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.09103)] [[Github](https://github.com/Gword/Recursive-NeRF)]
 
-**FastNeRF: High-Fidelity Neural Rendering at 200FPS.**<br>
-*Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10380)]
-
 **NeRF--: Neural Radiance Fields Without Known Camera Parameters.**<br>
 *Zirui Wang, Shangzhe Wu, [Weidi Xie](https://weidixie.github.io/weidi-personal-webpage/), [Min Chen](https://sites.google.com/site/drminchen/home), [Victor Adrian Prisacariu](https://eng.ox.ac.uk/people/victor-prisacariu/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07064)] [[Project](http://nerfmm.active.vision/)] [[Github](https://github.com/ActiveVisionLab/nerfmm)]
@@ -404,6 +403,31 @@ ICCP 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
 **HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
 *[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
+
+**TöRF: Time-of-Flight Radiance Fields for Dynamic Scene View Synthesis.**<br>
+*Benjamin Attal, Eliot Laidlaw, Aaron Gokaslan, Changil Kim, Christian Richardt, James Tompkin, Matthew O'Toole.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2109.15271)] [[Github](https://imaging.cs.cmu.edu/torf/)]
+
+**GRF: Learning a General Radiance Field for 3D Representation and Rendering.**<br>
+*Alex Trevithick, Bo Yang.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Trevithick_GRF_Learning_a_General_Radiance_Field_for_3D_Representation_and_ICCV_2021_paper.html)]
+
+
+**FastNeRF: High-Fidelity Neural Rendering at 200FPS.**<br>
+*Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.10380)]
+
+**Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies.**<br>
+*Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Xiaowei Zhou, Hujun Bao.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.html)]
+
+**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
+*[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+
+**In-Place Scene Labelling and Understanding With Implicit Scene Representation.**<br>
+*Shuaifeng Zhi, Tristan Laidlow, Stefan Leutenegger, Andrew J. Davison.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Zhi_In-Place_Scene_Labelling_and_Understanding_With_Implicit_Scene_Representation_ICCV_2021_paper.html)]
 
 **MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis.**<br>
 *Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
@@ -469,6 +493,10 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2104.00677)] [[Project](https://www.ajay
 *Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2011.05813)] [[Github](https://github.com/creiser/kilonerf)]
 
+**SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes.**<br>
+*Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03953)]
+
 **UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction.**<br>
 *[Michael Oechsle](https://avg.is.tuebingen.mpg.de/person/moechsle), [Songyou Peng](https://pengsongyou.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2104.10078)]
@@ -496,10 +524,6 @@ CVPR 2021. [[PDF](http://arxiv.org/abs/2104.01508)]
 **Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
 *[Yu Deng](https://yudeng.github.io/), [Jiaolong Yang](http://jlyang.org/), [Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13650)]
-
-**SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes.**<br>
-*Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03953)]
 
 **Learned Initializations for Optimizing Coordinate-Based Neural Representations.**<br>
 *[Matthew Tancik](https://www.matthewtancik.com/), [[Ben Mildenhall](https://people.eecs.berkeley.edu/~bmild/), Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
@@ -776,6 +800,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Project](https://vincent
 *Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Github](https://github.com/vincentfung13/MINE)]
 
+**NeRFlow: Neural Radiance Flow for 4D View Synthesis and Video Processing.**<br>
+*Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.09790)] [[Project](https://yilundu.github.io/nerflow/)]
+
+**Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video.**<br>
+*Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhofer, Christoph Lassner, Christian Theobalt.*<br>
+ICCV 2021 (oral). [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Tretschk_Non-Rigid_Neural_Radiance_Fields_Reconstruction_and_Novel_View_Synthesis_of_ICCV_2021_paper.html)]
+
 
 **Baking Neural Radiance Fields for Real-Time View Synthesis.**<br>
 *[Peter Hedman](https://phogzone.com/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Ben Mildenhall](https://bmild.github.io/), [Jonathan T. Barron](https://jonbarron.info/), [Paul Debevec](https://www.pauldebevec.com/).*<br>
@@ -816,10 +848,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.n
 **DyNeRF: Neural 3D Video Synthesis.**<br>
 *[Tianye Li](https://tianyeli.github.io/), [Mira Slavcheva](https://scholar.google.de/citations?user=cJKcPcIAAAAJ&hl=en), [Michael Zollhoefer](https://zollhoefer.com/), [Simon Green](https://scholar.google.com/citations?user=VmHZtsEAAAAJ&hl=en), [Christoph Lassner](https://christophlassner.de/), [Changil Kim](https://changilkim.com/), [Tanner Schmidt](https://tschmidt23.github.io/), [Steven Lovegrove](https://scholar.google.com/citations?hl=en&user=JVum8voAAAAJ), [Michael Goesele](https://scholar.google.com/citations?user=56UhAooAAAAJ&hl=en), [Zhaoyang Lv](https://lvzhaoyang.github.io/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02597)] [[Project](https://neural-3d-video.github.io/)]
-
-**NeRFlow: Neural Radiance Flow for 4D View Synthesis and Video Processing.**<br>
-*Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09790)] [[Project](https://yilundu.github.io/nerflow/)]
 
 **NeRF++: Analyzing and Improving Neural Radiance Fields.**<br>
 *Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun.*<br>
@@ -897,6 +925,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14398)] [[GIthub](https://github.c
 *Anpei Chen, Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2007.03780)] [[Github](https://github.com/apchenstu/sofgan)]
 
+**Dynamic View Synthesis From Dynamic Monocular Video.**<br>
+*Chen Gao, Ayush Saraf, Johannes Kopf, Jia-Bin Huang.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Dynamic_View_Synthesis_From_Dynamic_Monocular_Video_ICCV_2021_paper.html)]
+
+
+**Embedding Novel Views in a Single JPEG Image.**<br>
+*Yue Wu, Guotao Meng, Qifeng Chen.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Embedding_Novel_Views_in_a_Single_JPEG_Image_ICCV_2021_paper.html)]
+
+**Learning To Stylize Novel Views.**<br>
+*Hsin-Ping Huang, Hung-Yu Tseng, Saurabh Saini, Maneesh Singh, Ming-Hsuan Yang.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Learning_To_Stylize_Novel_Views_ICCV_2021_paper.html)]
 
 **Deep 3D Mask Volume for View Synthesis of Dynamic Scenes.**<br>
 *Kai-En Lin, Lei Xiao, Feng Liu, Guowei Yang, Ravi Ramamoorthi.*<br>
@@ -1156,10 +1196,6 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com
 ## Dubbing and Talking-Head Animation
 
 
-**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
-*[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
-
 **Large-Scale Multilingual Audio Visual Dubbing.**<br>
 *Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
@@ -1183,6 +1219,22 @@ SIGGRAPH Asia 2021. [[PDF](https://arxiv.org/abs/2109.10595)]
 **DECA: Learning an Animatable Detailed 3D Face Model from In-The-Wild Images.**<br>
 *Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart.*<br>
 SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2012.04012)] [[Github](https://github.com/YadiraF/DECA)]
+
+**Learned Spatial Representations for Few-Shot Talking-Head Synthesis.**<br>
+*Moustafa Meshry, Saksham Suri, Larry S. Davis, Abhinav Shrivastava.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Meshry_Learned_Spatial_Representations_for_Few-Shot_Talking-Head_Synthesis_ICCV_2021_paper.html)]
+
+**The Right To Talk: An Audio-Visual Transformer Approach.**<br>
+*Thanh-Dat Truong, Chi Nhan Duong, The De Vu, Hoang Anh Pham, Bhiksha Raj, Ngan Le, Khoa Luu.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Truong_The_Right_To_Talk_An_Audio-Visual_Transformer_Approach_ICCV_2021_paper.html)]
+
+**Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates.**<br>
+*Shenhan Qian, Zhi Tu, Yihao Zhi, Wen Liu, Shenghua Gao.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.html)]
+
+**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
+*[Yudong Guo](https://yudongguo.github.io/), [Keyu Chen](http://kychern.github.io/), Sen Liang, [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
 
 **FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning.**<br>
 *Chenxu Zhang, Yifan Zhao, Yifei Huang, Ming Zeng, Saifeng Ni, Madhukar Budagavi, Xiaohu Guo.*<br>
@@ -1248,14 +1300,21 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**Contact-Aware Retargeting of Skinned Motion.**<br>
+*Ruben Villegas, Duygu Ceylan, Aaron Hertzmann, Jimei Yang, Jun Saito.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Villegas_Contact-Aware_Retargeting_of_Skinned_Motion_ICCV_2021_paper.html)]
+
 **PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering.**<br>
 *Yurui Ren, Ge Li, Yuanqi Chen, Thomas H. Li, Shan Liu.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.08379)]
 
+*Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing.*<br>
+*Aiyu Cui, Daniel McKee, Svetlana Lazebnik.*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.html)]
+
 **HeadGAN: One-shot Neural Head Synthesis and Editing.**<br>
 *Michail Christos Doukas, Stefanos Zafeiriou, Viktoriia Sharmanska.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2012.08261)]
-
 
 **Contact-Aware Retargeting of Skinned Motion.**<br>
 *Ruben Villegas, Duygu Ceylan, Aaron Hertzmann, Jimei Yang, Jun Saito.*<br>
