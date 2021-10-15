@@ -316,6 +316,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**Seeing Implicit Neural Representations as Fourier Series.**<br>
+*Nuri Benbarka, Timon Höfer, Hamd ul-moqeet Riaz, Andreas Zell.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2109.00249.pdf)]
+
 **Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields.**<br>
 *[Wang Yifan](https://yifita.github.io/), Lukas Rahmann, [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05187)] [[Project](https://yifita.github.io/publication/idf/)] [[Github](https://github.com/yifita/idf)]
@@ -396,22 +400,33 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://www.she
 *[Chen Gao](http://chengao.vision/), [Yichang Shih](https://people.csail.mit.edu/yichangshih/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrait-nerf.github.io/)]
 
-**Convolutional Neural Opacity Radiance Fields.**<br>
-*Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
-ICCP 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
-
-**HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
-*[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
+**NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild.**<br>
+*[Jason Y. Zhang](https://jasonyzhang.com/), [Gengshan Yang](https://gengshan-y.github.io/), [Shubham Tulsiani](https://shubhtuls.github.io/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/).*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.07604)] [[Project](https://jasonyzhang.com/ners/)] [[Github](https://github.com/jasonyzhang/ners)] [[Data](https://jasonyzhang.com/ners/meshes)]
 
 **TöRF: Time-of-Flight Radiance Fields for Dynamic Scene View Synthesis.**<br>
 *Benjamin Attal, Eliot Laidlaw, Aaron Gokaslan, Changil Kim, Christian Richardt, James Tompkin, Matthew O'Toole.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2109.15271)] [[Github](https://imaging.cs.cmu.edu/torf/)]
 
+**Non-line-of-Sight Imaging via Neural Transient Fields.**<br>
+*Siyuan Shen, Zi Wang, Ping Liu, Zhengqing Pan, Ruiqian Li, Tian Gao, Shiying Li, [Jingyi Yu](http://www.yu-jingyi.com/cv/).*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2101.00373)]
+
+**NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination.**<br>
+*[Xiuming Zhang](http://people.csail.mit.edu/xiuming/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Boyang Deng](https://boyangdeng.com/), [Paul Debevec](http://www.pauldebevec.com/), [William T. Freeman](http://billf.mit.edu/), [Jonathan T. Barron](https://jonbarron.info/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2106.01970)] [[Project](http://people.csail.mit.edu/xiuming/projects/nerfactor/)] [[Github](https://github.com/google/nerfactor)]
+
+**Mixture of Volumetric Primitives for Efficient Neural Rendering.**<br>
+*Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2103.01954)]
+
+**HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields.**<br>
+*[Keunhong Park](https://keunhong.com/), [Utkarsh Sinha](https://utkarshsinha.com/), [Peter Hedman](https://phogzone.com/), [Jonathan T. Barron](https://jonbarron.info/), [Sofien Bouaziz](http://sofienbouaziz.com/), [Dan B Goldman](https://www.danbgoldman.com/home/), [Ricardo Martin-Brualla](http://ricardomartinbrualla.com/), [Steven M. Seitz](https://www.smseitz.com/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2106.13228)] [[Project](https://hypernerf.github.io/)]
+
 **GRF: Learning a General Radiance Field for 3D Representation and Rendering.**<br>
 *Alex Trevithick, Bo Yang.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Trevithick_GRF_Learning_a_General_Radiance_Field_for_3D_Representation_and_ICCV_2021_paper.html)]
-
 
 **FastNeRF: High-Fidelity Neural Rendering at 200FPS.**<br>
 *Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin.*<br>
@@ -577,18 +592,6 @@ Computer Graphics Forum (EGSR) 2021. [[PDF](https://arxiv.org/abs/2103.03231)] [
 *[Lin Yen-Chen](http://yenchenlin.me/), Pete Florence, Jonathan T. Barron, Alberto Rodriguez, Phillip Isola, Tsung-Yi Lin.*<br>
 IROS 2021. [[PDF](https://arxiv.org/abs/2012.05877)] [[Project](http://yenchenlin.me/inerf/)]
 
-**Non-line-of-Sight Imaging via Neural Transient Fields.**<br>
-*Siyuan Shen, Zi Wang, Ping Liu, Zhengqing Pan, Ruiqian Li, Tian Gao, Shiying Li, [Jingyi Yu](http://www.yu-jingyi.com/cv/).*<br>
-TPAMI 2021. [[PDF](https://arxiv.org/abs/2101.00373)]
-
-**NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination.**<br>
-*[Xiuming Zhang](http://people.csail.mit.edu/xiuming/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Boyang Deng](https://boyangdeng.com/), [Paul Debevec](http://www.pauldebevec.com/), [William T. Freeman](http://billf.mit.edu/), [Jonathan T. Barron](https://jonbarron.info/).*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2106.01970)] [[Project](http://people.csail.mit.edu/xiuming/projects/nerfactor/)] [[Github](https://github.com/google/nerfactor)]
-
-**Mixture of Volumetric Primitives for Efficient Neural Rendering.**<br>
-*Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih.*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2103.01954)]
-
 **JIIF: Joint Implicit Image Function for Guided Depth Super-Resolution.**<br>
 *Jiaxiang Tang, Xiaokang Chen, Gang Zeng.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.com/ashawkey/jiif)]
@@ -596,6 +599,10 @@ ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.
 **Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields.**<br>
 *Peng-Shuai Wang, Yang Liu, Yu-Qi Yang, and Xin Tong.*<br>
 IJCAI 2021. [[PDF](https://arxiv.org/abs/2106.01553)]
+
+**Convolutional Neural Opacity Radiance Fields.**<br>
+*Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
+ICCP 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
 
 **O-CNN: Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination.**<br>
 *[Peng-Shuai Wang](https://wang-ps.github.io/), Yu-Qi Yang, Qian-Fang Zou, Zhirong Wu, Yang Liu, Xin Tong.*<br>
@@ -776,10 +783,6 @@ TOG 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://github.com
 *Yuan Liu, Sida Peng, Lingjie Liu, Qianqian Wang, Peng Wang, Christian Theobalt, Xiaowei Zhou, Wenping Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.13421)]
 
-**Dynamic View Synthesis from Dynamic Monocular Video.**<br>
-*[Chen Gao](http://chengao.vision/), [Ayush Saraf](https://www.linkedin.com/in/ayush29feb/), [Johannes Kopf](http://johanneskopf.de/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2105.06468)] [[Project](https://free-view-video.github.io/)]
-
 **Fast and Explicit Neural View Synthesis.**<br>
 *Pengsheng Guo, Miguel Angel Bautista, Alex Colburn, Liang Yang, Daniel Ulbricht, Joshua M. Susskind, Qi Shan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.05775)]
@@ -795,6 +798,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07112)]
 **NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis.**<br>
 *Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Project](https://vincentfung13.github.io/projects/nemi/)]
+
+**LENS: Localization enhanced by NeRF synthesis.**<br>
+*Arthur Moreau, Nathan Piasco, Dzmitry Tsishkou, Bogdan Stanciulescu, Arnaud de La Fortelle.*<br>
+CoRL 2021. [[PDF](https://arxiv.org/abs/2110.06558)]
+
+**Dynamic View Synthesis from Dynamic Monocular Video.**<br>
+*[Chen Gao](http://chengao.vision/), [Ayush Saraf](https://www.linkedin.com/in/ayush29feb/), [Johannes Kopf](http://johanneskopf.de/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2105.06468)] [[Project](https://free-view-video.github.io/)]
 
 **MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis.**<br>
 *Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
@@ -1299,6 +1310,18 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Mesh Draping: Parametrization-Free Neural Mesh Transfer.**<br>
+*Amir Hertz, Or Perel, Raja Giryes, Olga Sorkine-Hornung, Daniel Cohen-Or.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.05433)]
+
+**Self-appearance-aided Differential Evolution for Motion Transfer.**<br>
+*Peirong Liu, Rui Wang, Xuefei Cao, Yipin Zhou, Ashish Shah, Maxime Oquab, Camille Couprie, Ser-Nam Lim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2110.04658.pdf)]
+
+**Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency.**<br>
+*Soubhik Sanyal, Alex Vorobiov, Timo Bolkart, Matthew Loper, Betty Mohler, Larry Davis, Javier Romero, Michael J. Black.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/pdf/2110.05458.pdf)] 
 
 **Contact-Aware Retargeting of Skinned Motion.**<br>
 *Ruben Villegas, Duygu Ceylan, Aaron Hertzmann, Jimei Yang, Jun Saito.*<br>
