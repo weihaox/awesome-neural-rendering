@@ -53,6 +53,10 @@ Given high-quality scene specifications, **Classic Rendering Methods** can rende
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer.*<br>
 Eurographics 2020.<br>
 
+**[Advances in Neural Rendering.]()**<br>
+*Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik.*<br>
+ACM SIGGRAPH 2021 Courses. [[PDF](https://arxiv.org/abs/2111.05849)]
+
 **[CVPR 2020 tutorial on Neural Rendering.](https://www.neuralrender.com/)**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit K. Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B. Goldman, Michael Zollhöfer.*<br>
 
@@ -60,6 +64,7 @@ Eurographics 2020.<br>
 *Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
 
 ## Inverse Rendering
+
 **Unified Shape and SVBRDF Recovery using Differentiable Monte Carlo Rendering.**<br>
 *[Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Shuang Zhao](https://www.shuangz.com/), [Kavita Bala](https://www.cs.cornell.edu/~kb/), [Zhao Dong](http://flycooler.com/).*<br>
 EGSR 2021. [[PDF](https://www.cs.cornell.edu/~fujun/files/egsr2021/paper.pdf)] [[Project](https://luanfujun.github.io/InverseMeshSVBRDF/)] [[Video](https://youtu.be/u9HqKGqvJhQ?t=8404)]
@@ -145,6 +150,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2101.04104)]
 ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
+
+**Appearance Editing with Free-viewpoint Neural Rendering.**<br>
+*Pulkit Gera, Aakash KT, Dhawal Sirikonda, Parikshit Sakurikar, P.J. Narayanan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2110.07674.pdf)]
 
 **Geometry-Free View Synthesis: Transformers and No 3D Priors.**<br>
 *Robin Rombach, Patrick Esser, Bjorn Ommer.*<br>
@@ -316,6 +325,14 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**Learning Neural Transmittance for Efficient Rendering of Reflectance Fields.**<br>
+*Mohammad Shafiei, Sai Bi, Zhengqin Li, Aidas Liaudanskas, Rodrigo Ortiz-Cayon, Ravi Ramamoorthi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.13272)]
+
+**CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis.**<br>
+*Peng Zhou, Lingxi Xie, Bingbing Ni, Qi Tian.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2110.09788.pdf)] [[Github](https://github.com/PeterouZh/CIPS-3D)]
+
 **Seeing Implicit Neural Representations as Fourier Series.**<br>
 *Nuri Benbarka, Timon Höfer, Hamd ul-moqeet Riaz, Andreas Zell.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2109.00249.pdf)]
@@ -323,6 +340,11 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2109.00249.pdf)]
 **Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields.**<br>
 *[Wang Yifan](https://yifita.github.io/), Lukas Rahmann, [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05187)] [[Project](https://yifita.github.io/publication/idf/)] [[Github](https://github.com/yifita/idf)]
+
+**StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis.**<br>
+*Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.08985)] [[Project](http://jiataogu.me/style_nerf/)]
+
 
 **CodeNeRF: Disentangled Neural Radiance Fields for Object Categories.**<br>
 *Wonbong Jang, Lourdes Agapito.*<br>
@@ -399,6 +421,22 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://www.she
 **Portrait Neural Radiance Fields from a Single Image.**<br>
 *[Chen Gao](http://chengao.vision/), [Yichang Shih](https://people.csail.mit.edu/yichangshih/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrait-nerf.github.io/)]
+
+**A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.**<br>
+*Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.15678)]
+
+**OctField: Hierarchical Implicit Functions for 3D Modeling.**<br>
+*Jia-Heng Tang, Weikai Chen, Jie Yang, Bo Wang, Songrun Liu, Bo Yang, Lin Gao.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.01067)]
+
+**Neural Relightable Participating Media Rendering.**<br>
+*Quan Zheng, Gurprit Singh, Hans-Peter Seidel.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.12993)]
+
+**NeRV: Neural Representations for Videos.**<br>
+*Hao Chen, Bo He, Hanyu Wang, Yixuan Ren, Ser-Nam Lim, Abhinav Shrivastava.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.13903)] [[Github](https://github.com/haochen-rye/NeRV.git)]
 
 **NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild.**<br>
 *[Jason Y. Zhang](https://jasonyzhang.com/), [Gengshan Yang](https://gengshan-y.github.io/), [Shubham Tulsiani](https://shubhtuls.github.io/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/).*<br>
@@ -1079,6 +1117,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09242)]
 *[Artem Sevastopolsky](https://seva100.github.io/), Savva Ignatiev, Gonzalo Ferrer, Evgeny Burnaev, Victor Lempitsky.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09963)] [[Project](https://saic-violet.github.io/relightable-portrait/)] [[Video](https://www.youtube.com/watch?v=qQnNalM9hgY)]
 
+**A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.**<br>
+*Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.15678)]
+
+**Neural-PIL: Neural Pre-Integrated Lighting for Reflectance Decomposition.**<br>
+*[Mark Boss](https://markboss.me), Varun Jampani, Raphael Braun, Ce Liu, Jonathan T. Barron, Hendrik P.A. Lensch.*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.14373)] [[Project](https://markboss.me/publication/2021-neural-pil/)]
+
 **C5: Cross-Camera Convolutional Color Constancy.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), Jonathan T. Barron, Chloe LeGendre, Yun-Ta Tsai, Francois Bleibel.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2011.11890)] [[GIthub](https://github.com/mahmoudnafifi/C5)]
@@ -1206,7 +1252,6 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com
 
 ## Dubbing and Talking-Head Animation
 
-
 **Large-Scale Multilingual Audio Visual Dubbing.**<br>
 *Yi Yang, Brendan Shillingford, Yannis Assael, Miaosen Wang, Wendi Liu, Yutian Chen, Yu Zhang, Eren Sezener, Luis C. Cobo, Misha Denil, Yusuf Aytar, Nando de Freitas.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03530)] [[Video](https://www.youtube.com/playlist?list=PLSi232j2ZA6_1Exhof5vndzyfbxAhhEs5)]
@@ -1222,6 +1267,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.10137)] [[Github](https://github.c
 **Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
 *Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
+
+**Talking Head Generation with Audio and Speech Related Facial Action Units.**<br>
+*Sen Chen, Zhilei Liu, Jiaxing Liu, Zhengxiang Yan, Longbiao Wang.*<br>
+BMVC 2021. [[PDF](https://arxiv.org/abs/2110.09951)]
 
 **Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation.**<br>
 *Yuanxun Lu, Jinxiang Chai, Xun Cao.*<br>
@@ -1265,7 +1314,7 @@ IJCAI 2021. [[PDF](https://arxiv.org/abs/2107.09293)]
 
 **Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis.**<br>
 *Haozhe Wu, Jia Jia, Haoyu Wang, Yishun Dou, Chao Duan, Qingshan Deng.*<br>
-ACM MM 2021. [[PDF](https://hcsi.cs.tsinghua.edu.cn/Paper/Paper21/MM21-WUHAOZHE.pdf)]
+ACM MM 2021. [[PDF](https://hcsi.cs.tsinghua.edu.cn/Paper/Paper21/MM21-WUHAOZHE.pdf)] [[GIthub](https://github.com/wuhaozhe/style_avatar)]
 
 **LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization.**<br>
 *Avisek Lahiri, Vivek Kwatra, Christian Frueh, John Lewis, Chris Bregler.*<br>
@@ -1311,6 +1360,10 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**Towards Using Clothes Style Transfer for Scenario-aware Person Video Generation.**<br>
+*Jingning Xu, benlai Tang, Mingjie Wang, Siyuan Bian, Wenyi Guo, Xiang Yin, Zejun Ma.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.11894)] [[Github](https://github.com/XSimba123/demos-of-csf-sa/)]
+
 **Mesh Draping: Parametrization-Free Neural Mesh Transfer.**<br>
 *Amir Hertz, Or Perel, Raja Giryes, Olga Sorkine-Hornung, Daniel Cohen-Or.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.05433)]
@@ -1330,6 +1383,10 @@ ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Villegas_C
 **PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering.**<br>
 *Yurui Ren, Ge Li, Yuanqi Chen, Thomas H. Li, Shan Liu.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.08379)]
+
+**Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer.**<br>
+*[Haoyu Chen](https://www.oulu.fi/university/researcher/haoyu-chen), Hao Tang, Henglin Shi, Wei Peng, Nicu Sebe, Guoying Zhao.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2108.07520)] [[Github](https://github.com/mikecheninoulu/Unsupervised_IEPGAN)]
 
 *Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing.*<br>
 *Aiyu Cui, Daniel McKee, Svetlana Lazebnik.*<br>
