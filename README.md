@@ -325,6 +325,11 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**LOLNeRF: Learn from One Look.**<br>
+*Daniel Rebain, Mark Matthews, Kwang Moo Yi, Dmitry Lagun, Andrea Tagliasacchi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.09996)]
+
+
 **Learning Neural Transmittance for Efficient Rendering of Reflectance Fields.**<br>
 *Mohammad Shafiei, Sai Bi, Zhengqin Li, Aidas Liaudanskas, Rodrigo Ortiz-Cayon, Ravi Ramamoorthi.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.13272)]
@@ -402,10 +407,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.09103)] [[Github](https://github.c
 *Zirui Wang, Shangzhe Wu, [Weidi Xie](https://weidixie.github.io/weidi-personal-webpage/), [Min Chen](https://sites.google.com/site/drminchen/home), [Victor Adrian Prisacariu](https://eng.ox.ac.uk/people/victor-prisacariu/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07064)] [[Project](http://nerfmm.active.vision/)] [[Github](https://github.com/ActiveVisionLab/nerfmm)]
 
-**A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering.**<br>
-*[Shih-Yang Su](https://lemonatsu.github.io/), [Frank Yu](https://yu-frank.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Helge Rhodin](http://helge.rhodin.de/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06199)] [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
-
 **Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video.**<br>
 *Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Christoph Lassner, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12247)] [[Project](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)] [[Github](https://github.com/facebookresearch/nonrigid_nerf)]
@@ -422,6 +423,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://www.she
 *[Chen Gao](http://chengao.vision/), [Yichang Shih](https://people.csail.mit.edu/yichangshih/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrait-nerf.github.io/)]
 
+**A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering.**<br>
+*[Shih-Yang Su](https://lemonatsu.github.io/), [Frank Yu](https://yu-frank.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Helge Rhodin](http://helge.rhodin.de/).*<br>
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2102.06199)] [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
+
+**H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion .**<br>
+*Hongyi Xu, Thiemo Alldieck, Cristian Sminchisescu.*<br>
+NeurIPS 2021. [[PDF](https://papers.nips.cc/paper/2021/hash/7d62a275027741d98073d42b8f735c68-Abstract.html)]
+
 **A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.**<br>
 *Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.15678)]
@@ -433,6 +442,10 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2111.01067)]
 **Neural Relightable Participating Media Rendering.**<br>
 *Quan Zheng, Gurprit Singh, Hans-Peter Seidel.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.12993)]
+
+**NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction.**<br>
+*Peng Wang, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, Wenping Wang.*<br>
+NeurIPS 2021. [[PDF](https://papers.nips.cc/paper/2021/hash/e41e164f7485ec4a28741a2d0ea41c74-Abstract.html)]
 
 **NeRV: Neural Representations for Videos.**<br>
 *Hao Chen, Bo He, Hanyu Wang, Yixuan Ren, Ser-Nam Lim, Abhinav Shrivastava.*<br>
