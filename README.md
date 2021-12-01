@@ -325,10 +325,53 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**NeRFReN: Neural Radiance Fields with Reflections.**<br>
+*Yuan-Chen Guo, Di Kang, Linchao Bao, Yu He, Song-Hai Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15234)] [[Project](https://bennyguo.github.io/nerfren/]
+
+**Hallucinated Neural Radiance Fields in the Wild.**<br>
+*Xingyu Chen, Qi Zhang, Xiaoyu Li, Yue Chen, Feng Ying, Xuan Wang, Jue Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15246)] 
+
+**FENeRF: Face Editing in Neural Radiance Fields.**<br>
+*Jingxiang Sun, Xuan Wang, Yong Zhang, Xiaoyu Li, Qi Zhang, Yebin Liu, Jue Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15490)] 
+
+**NeuSample: Neural Sample Field for Efficient View Synthesis.**<br>
+*Jiemin Fang, Lingxi Xie, Xinggang Wang, Xiaopeng Zhang, Wenyu Liu, Qi Tian.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15552)] [[Project](https://jaminfong.cn/neusample/]
+
+**Learning Continuous Environment Fields via Implicit Functions.**<br>
+*Xueting Li, Shalini De Mello, Xiaolong Wang, Ming-Hsuan Yang, Jan Kautz, Sifei Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.13997)]
+
+**HDR-NeRF: High Dynamic Range Neural Radiance Fields.**<br>
+*Xin Huang, Qi Zhang, Feng Ying, Hongdong Li, Xuan Wang, Qing Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.14451)] [[Project](https://shsf0817.github.io/hdr-nerf/]
+
+**Deblur-NeRF: Neural Radiance Fields from Blurry Images.**<br>
+*Li Ma, Xiaoyu Li, Jing Liao, Qi Zhang, Xuan Wang, Jue Wang, Pedro V. Sander.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.14292)]
+
+**Urban Radiance Fields.**<br>
+*Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.14643)] [[Project](https://urban-radiance-fields.github.io/)]
+
+**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images.**<br>
+*Ben Mildenhall, Peter Hedman, Ricardo Martin-Brualla, Pratul Srinivasan, Jonathan T. Barron.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.13679)] 
+
+**Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields.**<br>
+*Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.12077)] 
+
+**Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction.**<br>
+*Cheng Sun, Min Sun, Hwann-Tzong Chen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.11215)] [[Github](https://github.com/sunset1995/DirectVoxGO)]
+
 **LOLNeRF: Learn from One Look.**<br>
 *Daniel Rebain, Mark Matthews, Kwang Moo Yi, Dmitry Lagun, Andrea Tagliasacchi.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.09996)]
-
 
 **Learning Neural Transmittance for Efficient Rendering of Reflectance Fields.**<br>
 *Mohammad Shafiei, Sai Bi, Zhengqin Li, Aidas Liaudanskas, Rodrigo Ortiz-Cayon, Ravi Ramamoorthi.*<br>
@@ -349,7 +392,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05187)] [[Project](https://yifita.
 **StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis.**<br>
 *Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.08985)] [[Project](http://jiataogu.me/style_nerf/)]
-
 
 **CodeNeRF: Disentangled Neural Radiance Fields for Object Categories.**<br>
 *Wonbong Jang, Lourdes Agapito.*<br>
