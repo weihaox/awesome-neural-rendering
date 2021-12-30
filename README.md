@@ -151,6 +151,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
+**HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture.**<br>
+*Ziyan Wang, Giljoo Nam, Tuur Stuyck, Stephen Lombardi, Michael Zollhoefer, Jessica Hodgins, Christoph Lassner.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.06904)]
+
 **Appearance Editing with Free-viewpoint Neural Rendering.**<br>
 *Pulkit Gera, Aakash KT, Dhawal Sirikonda, Parikshit Sakurikar, P.J. Narayanan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2110.07674.pdf)]
@@ -325,12 +329,24 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**3D-aware Image Synthesis via Learning Structural and Textural Representations.**<br>
+*Yinghao Xu, Sida Peng, Ceyuan Yang, Yujun Shen, Bolei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.10759)] [[Project](https://genforce.github.io/volumegan/)] [[Github](https://github.com/genforce/VolumeGAN)]
+
+**Improving Neural Implicit Surfaces Geometry with Patch Warping.**<br>
+*[François Darmon](http://imagine.enpc.fr/~darmonf/), Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2112.09648.pdf)] [[Project](http://imagine.enpc.fr/~darmonf/NeuralWarp/)] [[Github](https://github.com/fdarmon/NeuralWarp)]
+
+**GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation.**<br>
+*Yu Deng, Jiaolong Yang, Jianfeng Xiang, Xin Tong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.08867)] [[Project](https://yudeng.github.io/GRAM/)] [[Github](https://yudeng.github.io/GRAM/)]
+
 **UNIST: Unpaired Neural Implicit Shape Translation Network.**<br>
 *Qimin Chen, Johannes Merz, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Project](https://qiminchen.github.io/unist/)]
 
 **HeadNeRF: A Real-time NeRF-based Parametric Head Model.**<br>
-*Yang Hong, Peng Bo, Haiyao Xiao, Ligang Liu, Juyong Zhang.*<br>
+*[Yang Hong](https://hy1995.top/), Peng Bo, Haiyao Xiao, Ligang Liu, Juyong Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05637)] [[Project](https://crishy1995.github.io/HeadNeRF-Project/)]
 
 **PERF: Performant, Explicit Radiance Fields.**<br>
@@ -541,7 +557,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08503)] [[Project](https://www.she
 *[Chen Gao](http://chengao.vision/), [Yichang Shih](https://people.csail.mit.edu/yichangshih/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05903)] [[Project](https://portrait-nerf.github.io/)]
 
-**A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering.**<br>
+**A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose.**<br>
 *[Shih-Yang Su](https://lemonatsu.github.io/), [Frank Yu](https://yu-frank.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Helge Rhodin](http://helge.rhodin.de/).*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2102.06199)] [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
 
