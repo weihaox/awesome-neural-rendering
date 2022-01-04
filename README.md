@@ -329,6 +329,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering.**<br>
+*Mijeong Kim, Seonguk Seo, Bohyung Han.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.15399)] [[Project](https://cv.snu.ac.kr/research/InfoNeRF/)]
+
 **3D-aware Image Synthesis via Learning Structural and Textural Representations.**<br>
 *Yinghao Xu, Sida Peng, Ceyuan Yang, Yujun Shen, Bolei Zhou.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.10759)] [[Project](https://genforce.github.io/volumegan/)] [[Github](https://github.com/genforce/VolumeGAN)]
