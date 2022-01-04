@@ -329,9 +329,13 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.**<br>
+*Shunyu Yao, RuiZhe Zhong, Yichao Yan, Guangtao Zhai, Xiaokang Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2201.00791)]
+
 **InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering.**<br>
-*Mijeong Kim, Seonguk Seo, Bohyung Han.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.15399)] [[Project](https://cv.snu.ac.kr/research/InfoNeRF/)]
+*[Mijeong Kim](https://mjmjeong.github.io/), [Seonguk Seo](https://seoseong.uk/), [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2112.15399)] [[Project](https://cv.snu.ac.kr/research/InfoNeRF/)] [[Github](https://github.com/mjmjeong/InfoNeRF)]
 
 **3D-aware Image Synthesis via Learning Structural and Textural Representations.**<br>
 *Yinghao Xu, Sida Peng, Ceyuan Yang, Yujun Shen, Bolei Zhou.*<br>
@@ -976,10 +980,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01422)]
 *Yuan Liu, Sida Peng, Lingjie Liu, Qianqian Wang, Peng Wang, Christian Theobalt, Xiaowei Zhou, Wenping Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.13421)]
 
-**Fast and Explicit Neural View Synthesis.**<br>
-*Pengsheng Guo, Miguel Angel Bautista, Alex Colburn, Liang Yang, Daniel Ulbricht, Joshua M. Susskind, Qi Shan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.05775)]
-
 **LiveView: Dynamic Target-Centered MPI for View Synthesis.**<br>
 *Sushobhan Ghosh, Zhaoyang Lv, Nathan Matsuda, Lei Xiao, Andrew Berkovich, Oliver Cossairt.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05113.pdf)]
@@ -991,6 +991,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07112)]
 **NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis.**<br>
 *Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14910)] [[Project](https://vincentfung13.github.io/projects/nemi/)]
+
+**Novel-View Synthesis of Human Tourist Photos.**<br>
+*Jonathan Freer, Kwang Moo Yi, Wei Jiang, Jongwon Choi, Hyung Jin Chang.*<br>
+WACV 2022. [[PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Freer_Novel-View_Synthesis_of_Human_Tourist_Photos_WACV_2022_paper.pdf)]
+
+**Fast and Explicit Neural View Synthesis.**<br>
+*Pengsheng Guo, Miguel Angel Bautista, Alex Colburn, Liang Yang, Daniel Ulbricht, Joshua M. Susskind, Qi Shan.*<br>
+WACV 2022. [[PDF](https://arxiv.org/abs/2107.05775)]
 
 **LENS: Localization enhanced by NeRF synthesis.**<br>
 *Arthur Moreau, Nathan Piasco, Dzmitry Tsishkou, Bogdan Stanciulescu, Arnaud de La Fortelle.*<br>
@@ -1415,6 +1423,10 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com
 
 ## Dubbing and Talking-Head Animation
 
+**DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.**<br>
+*Shunyu Yao, RuiZhe Zhong, Yichao Yan, Guangtao Zhai, Xiaokang Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2201.00791)]
+
 **FaceFormer: Speech-Driven 3D Facial Animation with Transformers.**<br>
 *Yingruo Fan, Zhaojiang Lin, Jun Saito, Wenping Wang, Taku Komura.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2112.05329)] 
@@ -1434,6 +1446,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.10137)] [[Github](https://github.c
 **Speech Driven Talking Face Generation from a Single Image and an Emotion Condition.**<br>
 *Sefik Emre Eskimez, You Zhang, Zhiyao Duan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03592)]
+
+**SAFA: Structure Aware Face Animation.**<br>
+*Qiulin Wang, Lu Zhang, Bo Li.*<br>
+3DV 2021. [[PDF](https://arxiv.org/abs/2111.04928)] [[Github](https://github.com/Qiulin-W/SAFA)]
 
 **One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning.**<br>
 *Suzhen Wang, Lincheng Li, Yu Ding, Xin Yu.*<br>
