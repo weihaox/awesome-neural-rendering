@@ -333,6 +333,27 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+**Differentiable Gradient Sampling for Learning Implicit 3D Scene Reconstructions from a Single Image.**<br> 
+*Shizhan Zhu, Sayna Ebrahimi, Angjoo Kanazawa, Trevor Darrell.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=U8pbd00cCWB)]
+
+**Unsupervised Discovery of Object Radiance Fields.**<br>
+*Hong-Xing Yu, Leonidas Guibas, Jiajun Wu.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=rwE8SshAlxw)]
+
+**CoordX: Accelerating Implicit Neural Representation with a Split MLP Architecture.**<br> 
+*Ruofan Liang, Hongyi Sun, Nandita Vijaykumar.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=oAy7yPmdNz)]
+
+
+**Point-NeRF: Point-based Neural Radiance Fields.**<br>
+*Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2201.08845)] 
+
+**ImpliCity: City Modeling from Satellite Images with Deep Implicit Occupancy Fields.**<br>
+*Corinne Stucker, Bingxin Ke, Yuanwen Yue, Shengyu Huang, Iro Armeni, Konrad Schindler.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2201.09968)] 
+
 **Instant Neural Graphics Primitives with a Multiresolution Hash Encoding.**<br>
 *[Thomas Müller]()https://tom94.net/, [Alex Evans](https://research.nvidia.com/person/alex-evans), [Christoph Schied](https://research.nvidia.com/person/christoph-schied), [Alexander Keller](https://research.nvidia.com/person/alex-keller).*<br>
 arxiv 2021. [[PDF](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)] [[Project](https://nvlabs.github.io/instant-ngp)][[Github](https://github.com/NVlabs/instant-ngp)]
@@ -1160,7 +1181,6 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2007.03780)] [[Github](https://github.com
 **Dynamic View Synthesis From Dynamic Monocular Video.**<br>
 *Chen Gao, Ayush Saraf, Johannes Kopf, Jia-Bin Huang.*<br>
 ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Dynamic_View_Synthesis_From_Dynamic_Monocular_Video_ICCV_2021_paper.html)]
-
 
 **Embedding Novel Views in a Single JPEG Image.**<br>
 *Yue Wu, Guotao Meng, Qifeng Chen.*<br>
