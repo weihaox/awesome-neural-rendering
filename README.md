@@ -337,6 +337,22 @@ CVPR 2019 Workshop.
 *[Lin Yen-Chen](https://yenchenlin.me/), [Pete Florence](http://www.peteflorence.com/), [Jonathan T. Barron](https://jonbarron.info/), [Tsung-Yi Lin](https://tsungyilin.info/), [Alberto Rodriguez](https://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU), [Phillip Isola](http://web.mit.edu/phillipi/).*<br>
 ICRA 2022. [[PDF](https://arxiv.org/abs/2203.01913)] [[Project](https://yenchenlin.me/nerf-supervision/)] [[Github](https://github.com/yenchenlin/nerf-supervision-public)]
 
+**BANMo: Building Animatable 3D Neural Models from Many Casual Videos.**<br>
+*[Gengshan Yang](https://gengshan-y.github.io/), [Minh Vo](https://minhpvo.github.io/), [Natalia Neverova](https://nneverova.github.io/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/), [Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/), [Hanbyul Joo](https://jhugestar.github.io/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.12761)] [[Project](https://banmo-www.github.io/)] [[Github](https://github.com/facebookresearch/banmo)]
+
+**LISA: Learning Implicit Shape and Appearance of Hands.**<br>
+*Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, and Lingni Ma.*<br>
+CVPR 2022. [[PDF](https://minhpvo.github.io/)] [[Project](https://minhpvo.github.io/)]
+
+**NeReF: Neural Refractive Field for Fluid Surface Reconstruction and Implicit Representation.**<br>
+*Ziyu Wang, Wei Yang, Junming Cao, Lan Xu, Junqing Yu, Jingyi Yu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.04130)]
+
+**RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering.**<br>
+*Di Chang, Aljaž Božič, Tong Zhang, Qingsong Yan, Yingcong Chen, Sabine Süsstrunk, Matthias Nießner.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.03949)] [[Github](https://github.com/Boese0601/RC-MVSNet)]
+
 **NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields.**<br>
 *Shanyan Guan, Huayu Deng, Yunbo Wang, Xiaokang Yang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01762)]
@@ -599,7 +615,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07905)] [[Github](https://github.c
 
 **Depth-supervised NeRF: Fewer Views and Faster Training for Free.**<br>
 *[Kangle Deng](https://andrewhliu.github.io/), [Andrew Liu](https://andrewhliu.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
 
 **FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling.**<br> 
 *[Christopher Xie](https://chrisdxie.github.io/), [Keunhong Park](https://keunhong.com/), [Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/), [Matthew Brown](http://matthewalunbrown.com/).*<br> 
@@ -699,7 +715,7 @@ TPAMI 2021. [[PDF](https://arxiv.org/abs/2101.00373)]
 
 **NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination.**<br>
 *[Xiuming Zhang](http://people.csail.mit.edu/xiuming/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Boyang Deng](https://boyangdeng.com/), [Paul Debevec](http://www.pauldebevec.com/), [William T. Freeman](http://billf.mit.edu/), [Jonathan T. Barron](https://jonbarron.info/).*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2106.01970)] [[Project](http://people.csail.mit.edu/xiuming/projects/nerfactor/)] [[Github](https://github.com/google/nerfactor)]
+SIGGRAPH Asia (TOG) 2021. [[PDF](https://arxiv.org/abs/2106.01970)] [[Project](http://people.csail.mit.edu/xiuming/projects/nerfactor/)] [[Github](https://github.com/google/nerfactor)]
 
 **Mixture of Volumetric Primitives for Efficient Neural Rendering.**<br>
 *Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih.*<br>
