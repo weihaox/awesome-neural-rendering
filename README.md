@@ -333,6 +333,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
 CVPR 2019 Workshop.
 
+*ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers.**<br>
+*Jonáš Kulhánek, Erik Derner, Torsten Sattler, Robert Babuška.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10157)] 
+
 **TensoRF: Tensorial Radiance Fields.**<br>
 *[Anpei Chen](https://apchenstu.github.io/), [Zexiang Xu](https://cseweb.ucsd.edu//~zex014/), Andreas Geiger, Jingyi Yu, Hao Su.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.09517)] [[Project](https://apchenstu.github.io/TensoRF/)] [[Github](https://github.com/apchenstu/TensoRF)]
@@ -788,6 +792,10 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2103.15595)] [[Project](https://apchenst
 **GNeRF: GAN-based Neural Radiance Field without Posed Camera.**<br>
 *Quan Meng, Anpei Chen, Haimin Luo, Minye Wu, Hao Su, Lan Xu, Xuming He, Jingyi Yu.*<br>
 ICCV 2021 (Oral). [[PDF](https://arxiv.org/abs/2103.15606)] [[Github](https://github.com/MQ66/gnerf)]
+
+**ConvNeRF: Convolutional Neural Opacity Radiance Fields.**<br>
+*Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
+ICCP 2021. [[PDF](https://arxiv.org/abs/2104.01772)]
 
 **Semantic-NeRF: In-Place Scene Labelling and Understanding with Implicit Scene Representation.**<br>
 *[Shuaifeng Zhi](http://shuaifengzhi.com/), [Tristan Laidlow](https://wp.doc.ic.ac.uk/twl15/), [Stefan Leutenegger](https://wp.doc.ic.ac.uk/sleutene/), [Andrew J. Davison](https://www.doc.ic.ac.uk/~ajd/).*<br>
@@ -1258,7 +1266,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1906.08240)] [[Project](https://saic-vi
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14398)] [[GIthub](https://github.com/phongnhhn92/RGBDNet)]
 
 **SofGAN: A Portrait Image Generator with Dynamic Styling.**<br>
-*Anpei Chen, Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>
+*[Anpei Chen](https://apchenstu.github.io/), Ruiyang Liu, Ling Xie, Jingyi Yu.*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2007.03780)] [[Github](https://github.com/apchenstu/sofgan)]
 
 **Dynamic View Synthesis From Dynamic Monocular Video.**<br>
