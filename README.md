@@ -235,13 +235,17 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 
 ## Texture and Surface Embedding or Mapping
 
+**Fine Detailed Texture Learning for 3D Meshes with Generative Models.**<br>
+*[Aysegul Dundar](http://www.cs.bilkent.edu.tr/~adundar/), [Jun Gao](http://www.cs.toronto.edu/~jungao/), [Andrew Tao](https://scholar.google.com/citations?user=Wel9l1wAAAAJ&hl=en), [Bryan Catanzaro](https://ctnzr.io/).*<br>
+arxiv 2022. [[PDF](https://nv-adlr.github.io/textured-3d-learning)] [[Project](https://nv-adlr.github.io/textured-3d-learning)]
+
 **Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter.**<br>
-*Guilin Liu, Rohan Taori, Ting-Chun Wang, Zhiding Yu, Shiqiu Liu, Fitsum A. Reda, Karan Sapra, Andrew Tao, Bryan Catanzaro.*<br>
+*[Guilin Liu](https://liuguilin1225.github.io/), Rohan Taori, Ting-Chun Wang, Zhiding Yu, Shiqiu Liu, Fitsum A. Reda, Karan Sapra, Andrew Tao, Bryan Catanzaro.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.07243)]
 
 **Wasserstein Generative Models for Patch-based Texture Synthesis.**<br>
 *Antoine Houdard, Arthur Leclaire, Nicolas Papadakis, Julien Rabin.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03408)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03408)] [[Github](https://github.com/ahoudard/wgenpatex)]
 
 **GramGAN: Deep 3D Texture Synthesis From 2D Exemplars.**<br>
 *Tiziano Portenier, Siavash Bigdeli, Orçun Göksel.*<br>
@@ -329,11 +333,11 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
-**[3D Scene Generation.](https://3dscenegen.github.io/)**<br>
-*[Angel X. Chang](https://angelxuanchang.github.io/), [Daniel Ritchie](https://dritchie.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Manolis Savva](http://msavva.github.io/).*<br>
-CVPR 2019 Workshop.
+**NeuMan: Neural Human Radiance Field from a Single Video.**<br>
+*Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10157)] 
 
-*ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers.**<br>
+**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers.**<br>
 *Jonáš Kulhánek, Erik Derner, Torsten Sattler, Robert Babuška.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10157)] 
 
@@ -1402,6 +1406,10 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 **Active Exploration for Neural Global Illumination of Variable Scenes.**<br>
 *[Stavros Diolatzis](https://www-sop.inria.fr/members/Stavros.Diolatzis/), [Julien Philip](https://julienphilip.com/), [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis/).*<br>
 TOG 2022. [[PDF](https://arxiv.org/abs/2203.08272)] [[Project](http://repo-sam.inria.fr/fungraph/active-exploration/)]
+
+**Deep Portrait Delighting.**<br>
+*Joshua Weir, Junhong Zhao, Andrew Chalmers, Taehyun Rhee.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.12088)]
 
 **Learning to Adapt to Light.**<br>
 *Kai-Fu Yang, Cheng Cheng, Shi-Xuan Zhao, Xian-Shi Zhang, Yong-Jie Li.*<br>
