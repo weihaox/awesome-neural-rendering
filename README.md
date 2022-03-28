@@ -25,7 +25,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Volumetric Performance Capture (Free Viewpoint Video)](#volumetric-performance-capture--free-viewpoint-video-)
 - [Semantic Photo Synthesis and Manipulation](#semantic-photo-synthesis-and-manipulation)
 - [Texture and Surface Embedding or Mapping](#texture-and-surface-embedding-or-mapping)
-- [Implicit Neural Scene Representation and Rendering](#implicit-neural-scene-representation-and-rendering)
+- [Implicit Neural Representation and Rendering](#implicit-neural-representation-and-rendering)
 - [Novel-View Synthesis for Objects and Scenes](#novel-view-synthesis-for-objects-and-scenes)
 - [Light, Reflectance, Illuminance, and Shade](#light--reflectance--illuminance--and-shade)
 - [Dubbing and Talking-Head Animation](#dubbing-and-talking-head-animation)
@@ -327,11 +327,15 @@ ECCV 2018. [[PDF](https://www.gcc.tu-darmstadt.de/media/gcc/papers/Waechter-2014
 *[Tuanfeng Yand Wang](http://geometry.cs.ucl.ac.uk/tuanfeng/), [Hao Su](http://ai.ucsd.edu/~haosu/), Qixing Huang, Jingwei Huang, Leonidas J. Guibas, [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/index.html).*<br>
 TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.pdf)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2016/texture_transfer/)] [[Data](http://geometry.cs.ucl.ac.uk/tuanfeng/texturetransfer/texture_transfer_code_and_data.zip)]
 
-## Implicit Neural Scene Representation and Rendering
+## Implicit Neural Representation and Rendering
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+
+**AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling.**<br>
+*[Ziqian Bai](https://zqbai-jeremy.github.io/), [Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en), [Javier Romero](http://ps.is.tuebingen.mpg.de/person/jromero), [Michael Zollhöfer](https://zollhoefer.com/), [Ping Tan](https://www2.cs.sfu.ca/~pingtan/), [Shunsuke Saito](http://www-scf.usc.edu/~saitos/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.13817)] [[Project](https://zqbai-jeremy.github.io/autoavatar/)]
 
 **NeuMan: Neural Human Radiance Field from a Single Video.**<br>
 *Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan.*<br>
@@ -655,11 +659,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03804)]
 
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
 
 **SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition.**<br>
 *Rishabh Kabra, Daniel Zoran, Goker Erdogan, Loic Matthey, Antonia Creswell, Matthew Botvinick, Alexander Lerc.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03849)]
+NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.03849)]
 
 **Light Field Networks (LFNS): Neural Scene Representations with Single-Evaluation Rendering.**<br>
 *Vincent Sitzmann, Semon Rezchikov, William T. Freeman, Joshua B. Tenenbaum, Fredo Durand.*<br>
@@ -1570,6 +1574,10 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com
 
 ## Dubbing and Talking-Head Animation
 
+**Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation.**<br>
+*Xian Liu, Qianyi Wu, Hang Zhou, Yinghao Xu, Rui Qian, Xinyi Lin, Xiaowei Zhou, Wayne Wu, Bo Dai, Bolei Zhou.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13161)]
+
 **Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation.**<br>
 *Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/pdf/2104.07995v2.pdf)]
@@ -1713,6 +1721,10 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**3D GAN Inversion for Controllable Portrait Image Animation.**<br>
+*[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.13441)] [[Project](https://www.computationalimaging.org/publications/3dganinversion/)]
 
 **FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment.**<br>
 *Yuval Nirkin, Yosi Keller, Tal Hassner.*<br>
