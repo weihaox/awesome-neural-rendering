@@ -333,6 +333,22 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Structured Local Radiance Fields for Human Avatar Modeling.**<br>
+*Zerong Zheng, Han Huang, Tao Yu, Hongwen Zhang, Yandong Guo, Yebin Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14478)]
+
+**ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations.**<br>
+*Mingwu Zheng, Hongyu Yang, Di Huang, Liming Chen.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14510)]
+
+**DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
+*[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
+arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
+
+**Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation.**<br>
+*[Xiao Fu](https://fuxiao0719.github.io/), Shangzhan Zhang, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao.*<br>
+arxiv 2022. [[Project](https://fuxiao0719.github.io/projects/panopticnerf/)]
+
 **AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling.**<br>
 *[Ziqian Bai](https://zqbai-jeremy.github.io/), [Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en), [Javier Romero](http://ps.is.tuebingen.mpg.de/person/jromero), [Michael Zollhöfer](https://zollhoefer.com/), [Ping Tan](https://www2.cs.sfu.ca/~pingtan/), [Shunsuke Saito](http://www-scf.usc.edu/~saitos/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.13817)] [[Project](https://zqbai-jeremy.github.io/autoavatar/)]
@@ -1573,6 +1589,10 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com/marcelsan/DeepShading)]
 
 ## Dubbing and Talking-Head Animation
+
+**Thin-Plate Spline Motion Model for Image Animation.**<br>
+*Jian Zhao, Hui Zhang.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14367)]
 
 **Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation.**<br>
 *Xian Liu, Qianyi Wu, Hang Zhou, Yinghao Xu, Rui Qian, Xinyi Lin, Xiaowei Zhou, Wayne Wu, Bo Dai, Bolei Zhou.*<br>
