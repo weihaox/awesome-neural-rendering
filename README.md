@@ -333,6 +333,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Continuous Scene Representations for Embodied AI.**<br>
+*Samir Yitzhak Gadre, Kiana Ehsani, Shuran Song, Roozbeh Mottaghi.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.17251)]
+
 **Structured Local Radiance Fields for Human Avatar Modeling.**<br>
 *Zerong Zheng, Han Huang, Tao Yu, Hongwen Zhang, Yandong Guo, Yebin Liu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14478)]
@@ -340,6 +344,22 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14478)]
 **ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations.**<br>
 *Mingwu Zheng, Hongyu Yang, Di Huang, Liming Chen.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.14510)]
+
+**MPS-NeRF: Generalizable 3D Human Rendering from Multiview Images.**<br>
+*Xiangjun Gao, Jiaolong Yang, Jongyoo Kim, Sida Peng, Zicheng Liu, Xin Tong.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.16875)]
+
+**DDNeRF: Depth Distribution Neural Radiance Fields.**<br>
+*David Dadon, Ohad Fried, Yacov Hel-Or.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.16626)]
+
+**3D Equivariant Graph Implicit Functions.**<br>
+*Yunlu Chen, Basura Fernando, Hakan Bilen, Matthias Nießner, Efstratios Gavves.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.17178)]
+
+**R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis.**<br>
+*Huan Wang, Jian Ren, Zeng Huang, Kyle Olszewski, Menglei Chai, Yun Fu, Sergey Tulyakov.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.17261)] [[Project](https://snap-research.github.io/R2L)]
 
 **DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
 *[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
@@ -1054,7 +1074,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10333)] [[Github](https://github.co
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-kato.com/projects_en/view_prior_learning.html)] [[Github](https://github.com/hiroharu-kato/view_prior_learning)]
 
 **IM-Net: Learning Implicit Fields for Generative Shape Modeling.**<br>
-*Zhiqin Chen, Hao Zhang.*<br>
+*[Zhiqin Chen](https://czq142857.github.io/), [Hao Zhang](https://www.cs.sfu.ca/~haoz/).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02822)] [[Project](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)] [[Github](https://github.com/czq142857/implicit-decoder)]
 
 **C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion.**<br>
@@ -1422,6 +1442,10 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.00889)] [[Project](https://peop
 SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://github.com/facebookresearch/neuralvolumes)]
 
 ## Light, Reflectance, Illuminance, and Shade
+
+**Face Relighting with Geometrically Consistent Shadows.**<br>
+*Andrew Hou, Michel Sarkis, Ning Bi, Yiying Tong, Xiaoming Liu.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2203.16681)]
 
 **Active Exploration for Neural Global Illumination of Variable Scenes.**<br>
 *[Stavros Diolatzis](https://www-sop.inria.fr/members/Stavros.Diolatzis/), [Julien Philip](https://julienphilip.com/), [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis/).*<br>
