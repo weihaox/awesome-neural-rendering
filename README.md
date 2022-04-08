@@ -239,6 +239,10 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 
 ## Texture and Surface Embedding or Mapping
 
+**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis.**<br>
+*Zhiqin Chen, Kangxue Yin, Sanja Fidler.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2204.03105)] [[Project](https://nv-tlabs.github.io/AUV-NET)]
+
 **Texturify: Generating Textures on 3D Shape Surfaces.**<br>
 *Yawar Siddiqui, Justus Thies, Fangchang Ma, Qi Shan, Matthias Nießner, Angela Dai.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.02411)] [[Project](https://nihalsid.github.io/texturify)]
@@ -344,6 +348,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+
+**AutoRF: Learning 3D Object Radiance Fields from Single View Observations.**<br>
+*[Norman Müller](https://niessnerlab.org/members/norman_mueller/profile.html), [Andrea Simonelli](https://simonelli-andrea.github.io/), [Lorenzo Porzi](https://scholar.google.com/citations?user=vW1gaVEAAAAJ), [Samuel Rota Bulò](https://scholar.google.com/citations?hl=de&user=484sccEAAAAJ), [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Peter Kontschieder](https://scholar.google.com/citations?user=CxbDDRMAAAAJ&hl=en).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2204.03593)] [[Project](https://sirwyver.github.io/AutoRF/)]
 
 **Learning Neural Acoustic Fields.**<br>
 *[Andrew Luo](https://github.com/aluo-x/), [Yilun Du](https://yilundu.github.io/), [Michael J. Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/people/michael-j-tarr), [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/).*<br>
@@ -1498,6 +1506,10 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.16681)]
 **Active Exploration for Neural Global Illumination of Variable Scenes.**<br>
 *[Stavros Diolatzis](https://www-sop.inria.fr/members/Stavros.Diolatzis/), [Julien Philip](https://julienphilip.com/), [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis/).*<br>
 TOG 2022. [[PDF](https://arxiv.org/abs/2203.08272)] [[Project](http://repo-sam.inria.fr/fungraph/active-exploration/)]
+
+**SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage.**<br>
+*[Yifan Wang](https://homes.cs.washington.edu/~yifan1), [Aleksander Holynski](https://homes.cs.washington.edu/~holynski), [Xiuming Zhang](https://xiuming.info/), [Xuaner Cecilia Zhang](https://ceciliavision.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.03648)] [[Project](https://grail.cs.washington.edu/projects/sunstage/)]
 
 **Deep Portrait Delighting.**<br>
 *Joshua Weir, Junhong Zhao, Andrew Chalmers, Taehyun Rhee.*<br>
