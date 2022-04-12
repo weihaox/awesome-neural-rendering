@@ -160,8 +160,8 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
 **HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture.**<br>
-*Ziyan Wang, Giljoo Nam, Tuur Stuyck, Stephen Lombardi, Michael Zollhoefer, Jessica Hodgins, Christoph Lassner.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.06904)]
+*[Ziyan Wang](https://ziyanw1.github.io/), [Giljoo Nam](https://sites.google.com/view/gjnam), [Tuur Stuyck](https://tuurstuyck.github.io/), [Stephen Lombardi](https://tuurstuyck.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Jessica Hodgins](https://www.cs.cmu.edu/~jkh/), [Christoph Lassner](https://christophlassner.de/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.06904)] [[Project](https://ziyanw1.github.io/hvh/)]
 
 **Appearance Editing with Free-viewpoint Neural Rendering.**<br>
 *Pulkit Gera, Aakash KT, Dhawal Sirikonda, Parikshit Sakurikar, P.J. Narayanan.*<br>
@@ -177,7 +177,7 @@ ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.05577)]
 
 **ST-NeRF: Editable Free-viewpoint Video Using a Layered Neural Representation.**<br>
 *Jiakai Zhang, Xinhang Liu, Xinyi Ye, Fuqiang Zhao, Yanshun Zhang, Minye Wu, Yingliang Zhang, Lan Xu, Jingyi Yu.*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2104.14786)]
+SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2104.14786)] [[Project](https://jiakai-zhang.github.io/st-nerf/)] [[Github](https://github.com/DarlingHang/st-nerf)]
 
 **POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture.**<br>
 *Zhe Li, Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu.*<br>
@@ -240,11 +240,11 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 ## Texture and Surface Embedding or Mapping
 
 **AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis.**<br>
-*Zhiqin Chen, Kangxue Yin, Sanja Fidler.*<br>
+*[Zhiqin Chen](https://czq142857.github.io/), [Kangxue Yin](https://kangxue.org/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2204.03105)] [[Project](https://nv-tlabs.github.io/AUV-NET)]
 
 **Texturify: Generating Textures on 3D Shape Surfaces.**<br>
-*Yawar Siddiqui, Justus Thies, Fangchang Ma, Qi Shan, Matthias Nießner, Angela Dai.*<br>
+*[Yawar Siddiqui](https://niessnerlab.org/members/yawar_siddiqui/profile.html), [Justus Thies](https://justusthies.github.io/), [Fangchang Ma](https://fangchangma.github.io/), [Qi Shan](http://shanqi.github.io/), [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Angela Dai](https://www.3dunderstanding.org/team.html).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.02411)] [[Project](https://nihalsid.github.io/texturify)]
 
 **Learning Texture Generators for 3D Shape Collections from Internet Photo Sets.**<br>
@@ -486,8 +486,8 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.12825)]
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.08345)]
 
 **Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time.**<br>
-*Liao Wang, Jiakai Zhang, Xinhang Liu, Fuqiang Zhao, Yanshun Zhang, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2202.08614)]
+*[Liao Wang](https://aoliao12138.github.io/), [Jiakai Zhang](https://jiakai-zhang.github.io/), Xinhang Liu, Fuqiang Zhao, Yanshun Zhang, Yingliang Zhang, Minye Wu, Lan Xu, Jingyi Yu.*<br>
+CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2202.08614)] [[Project](https://aoliao12138.github.io/FPO/)]
 
 **NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing.**<br>
 *Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
@@ -1340,6 +1340,10 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krema
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
 
 ### Others
+
+**ProbNVS: Fast Novel View Synthesis with Learned Probability-Guided Sampling.**<br>
+*Yuemei Zhou, Tao Yu, Zerong Zheng, Ying Fu, Yebin Liu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.03476)]
 
 **Geometry-Free View Synthesis: Transformers and no 3D Priors.**<br>
 *[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
