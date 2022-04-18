@@ -927,7 +927,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2104.00677)] [[Project](https://www.ajay
 
 **KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs.**<br>
 *Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger.*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2011.05813)] [[Github](https://github.com/creiser/kilonerf)]
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.13744)] [[Github](https://github.com/creiser/kilonerf)]
 
 **SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes.**<br>
 *Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger.*<br>
