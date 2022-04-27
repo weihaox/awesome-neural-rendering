@@ -349,6 +349,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Revealing Occlusions with 4D Neural Fields.**<br>
+*Basile Van Hoorick, Purva Tendulka, Didac Suris, Dennis Park, Simon Stent, Carl Vondrick.*<br>
+CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2204.10916)]
+
 **GIFS: Neural Implicit Function for General Shape Representation.**<br>
 *Jianglong Ye, Yuntao Chen, Naiyan Wang, Xiaolong Wang.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2204.07126)] [[Project](https://jianglongye.com/gifs)] 
@@ -452,6 +456,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.c
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
+
+**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis.**<br>
+*Wei Cheng, Su Xu, Jingtan Piao, Chen Qian, Wayne Wu, Kwan-Yee Lin, Hongsheng Li.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11798)] [[Project](https://generalizable-neural-performer.github.io/)] [[Github](https://generalizable-neural-performer.github.io/genebody.html/)]
+
+**Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation.**<br>
+*Verica Lazova, Vladimir Guzov, Kyle Olszewski, Sergey Tulyakov, Gerard Pons-Moll.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.10850)]
 
 **A Level Set Theory for Neural Implicit Evolution under Explicit Flows.**<br>
 *[Ishit Mehta](https://ishit.github.io/), [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br>
@@ -1355,6 +1367,10 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krema
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
 
 ### Others
+
+**Learning Dynamic View Synthesis With Few RGBD Cameras.**<br>
+*Shengze Wang, YoungJoong Kwon, Yuan Shen, Qian Zhang, Andrei State, Jia-Bin Huang, Henry Fuchs.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.10477)]
 
 **ProbNVS: Fast Novel View Synthesis with Learned Probability-Guided Sampling.**<br>
 *Yuemei Zhou, Tao Yu, Zerong Zheng, Ying Fu, Yebin Liu.*<br>
