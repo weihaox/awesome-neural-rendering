@@ -457,6 +457,18 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.c
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
 
+**BlobGAN: Spatially Disentangled Scene Representations.**<br>
+*Dave Epstein, Taesung Park, Richard Zhang, Eli Shechtman, Alexei A. Efros.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.02837)] [[Project](http://www.dave.ml/blobgan)] [[Github](https://github.com/dave-epstein/blobgan)]
+
+**Neural Implicit Representations for Physical Parameter Inference from a Single Video.**<br>
+*Florian Hofherr, Lukas Koestler, Florian Bernard, Daniel Cremers.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.14030)]
+
+**AE-NeRF: Auto-Encoding Neural Radiance Fields for 3D-Aware Object Manipulation.**<br>
+*Mira Kim, Jaehoon Ko, Kyusun Cho, Junmyeong Choi, Daewon Choi, Seungryong Kim.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.13426)]
+
 **Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis.**<br>
 *Wei Cheng, Su Xu, Jingtan Piao, Chen Qian, Wayne Wu, Kwan-Yee Lin, Hongsheng Li.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11798)] [[Project](https://generalizable-neural-performer.github.io/)] [[Github](https://generalizable-neural-performer.github.io/genebody.html/)]
@@ -1367,6 +1379,10 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krema
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
 
 ### Others
+
+**NeurMiPs: Neural Mixture of Planar Experts for View Synthesis.**<br>
+*[Zhi-Hao Lin](https://zhihao-lin.github.io/), [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), [Hao-Yu Hsu](https://zhihao-lin.github.io/neurmips/), [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/ycwang.html), [Shenlong Wang](https://shenlong.web.illinois.edu/).*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2204.13696)] [[Project](https://zhihao-lin.github.io/neurmips/)] [[Github](https://github.com/zhihao-lin/neurmips)]
 
 **Learning Dynamic View Synthesis With Few RGBD Cameras.**<br>
 *Shengze Wang, YoungJoong Kwon, Yuan Shen, Qian Zhang, Andrei State, Jia-Bin Huang, Henry Fuchs.*<br>
