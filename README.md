@@ -239,6 +239,10 @@ VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com
 
 ## Texture and Surface Embedding or Mapping
 
+**Clustered Vector Textures.**<br>
+*[Peihan Tu](http://www.cs.umd.edu/~phtu/), [Li-Yi Wei](https://www.liyiwei.org/), [Matthias Zwicker](http://www.cs.umd.edu/~zwicker/).*<br>
+TOG (SIGGRAPH) 2022. [[PDF]()] [[Project](https://phtu-cs.github.io/cvt-sig22/)]
+
 **Texturify: Generating Textures on 3D Shape Surfaces.**<br>
 *[Yawar Siddiqui](https://niessnerlab.org/members/yawar_siddiqui/profile.html), [Justus Thies](https://justusthies.github.io/), [Fangchang Ma](https://fangchangma.github.io/), [Qi Shan](http://shanqi.github.io/), [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Angela Dai](https://www.3dunderstanding.org/team.html).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.02411)] [[Project](https://nihalsid.github.io/texturify)]
@@ -548,6 +552,10 @@ ICRA 2022. [[PDF](https://arxiv.org/abs/2112.05124)] [[Project](https://yilundu.
 **ImpliCity: City Modeling from Satellite Images with Deep Implicit Occupancy Fields.**<br>
 *Corinne Stucker, Bingxin Ke, Yuanwen Yue, Shengyu Huang, [Iro Armeni](https://ir0.github.io/), Konrad Schindler.*<br>
 ISPRS Congress 2022. [[PDF](https://arxiv.org/abs/2201.09968)] 
+
+**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields.**<br>
+*Arnab Dey, Yassine Ahmine, Andrew I. Comport.*<br>
+WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 
 **Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation.**<br>
 *Jian Zhang, Yuanqing Zhang, Huan Fu, Xiaowei Zhou, Bowen Cai, Jinchi Huang, Rongfei Jia, Binqiang Zhao, Xing Tang.*<br>
@@ -1904,6 +1912,10 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**One-Shot Face Reenactment on Megapixels.**<br>
+*Wonjun Kang, Geonsu Lee, Hyung Il Koo, Nam Ik Cho.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.13368)]
 
 **3D GAN Inversion for Controllable Portrait Image Animation.**<br>
 *[Connor Z. Lin](https://connorzlin.com/), David B. Lindell, Eric R. Chan, [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
