@@ -557,6 +557,26 @@ ISPRS Congress 2022. [[PDF](https://arxiv.org/abs/2201.09968)]
 *Arnab Dey, Yassine Ahmine, Andrew I. Comport.*<br>
 WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 
+**MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction.**<br>
+*Zehao Yu, Songyou Peng, Michael Niemeyer, Torsten Sattler, Andreas Geiger.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.00665)] [[Project](https://niujinshuchong.github.io/monosdf/)]
+
+**Decomposing NeRF for Editing via Feature Field Distillation.**<br>
+*Sosuke Kobayashi, Eiichi Matsumoto, Vincent Sitzmann.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.15585)] [[Project](https://pfnet-research.github.io/distilled-feature-fields/)]
+
+**DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes.**<br>
+*Jia-Wei Liu, Yan-Pei Cao, Weijia Mao, Wenqiao Zhang, David Junhao Zhang, Jussi Keppo, Ying Shan, Xiaohu Qie, Mike Zheng Shou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.15723)]
+
+**Differentiable Point-Based Radiance Fields for Efficient View Synthesis.**<br>
+*Qiang Zhang, Seung-Hwan Baek, Szymon Rusinkiewicz, Felix Heide.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.14330)]
+
+**Fast Dynamic Radiance Fields with Time-Aware Neural Voxels.**<br>
+*Jiemin Fang, Taoran Yi, Xinggang Wang, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Matthias Nießner, Qi Tian.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.15285)] [[Project](https://jaminfong.cn/tineuvox)]
+
 **Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation.**<br>
 *Jian Zhang, Yuanqing Zhang, Huan Fu, Xiaowei Zhou, Bowen Cai, Jinchi Huang, Rongfei Jia, Binqiang Zhao, Xing Tang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2205.05922)]
@@ -1412,6 +1432,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsne
 *[Zhi-Hao Lin](https://zhihao-lin.github.io/), [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), [Hao-Yu Hsu](https://zhihao-lin.github.io/neurmips/), [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/ycwang.html), [Shenlong Wang](https://shenlong.web.illinois.edu/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2204.13696)] [[Project](https://zhihao-lin.github.io/neurmips/)] [[Github](https://github.com/zhihao-lin/neurmips)]
 
+**Novel View Synthesis for High-fidelity Headshot Scenes.**<br>
+*Satoshi Tsutsui, Weijia Mao, Sijing Lin, Yunyi Zhu, Murong Ma, Mike Zheng Shou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.15595)]
+
 **Learning Dynamic View Synthesis With Few RGBD Cameras.**<br>
 *Shengze Wang, YoungJoong Kwon, Yuan Shen, Qian Zhang, Andrei State, Jia-Bin Huang, Henry Fuchs.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.10477)]
@@ -1912,6 +1936,10 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**Video2StyleGAN: Disentangling Local and Global Variations in a Video.**<br>
+*Rameen Abdal, Peihao Zhu, Niloy J. Mitra, Peter Wonka.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.13996)]
 
 **One-Shot Face Reenactment on Megapixels.**<br>
 *Wonjun Kang, Geonsu Lee, Hyung Il Koo, Nam Ik Cho.*<br>
