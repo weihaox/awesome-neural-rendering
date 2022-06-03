@@ -353,6 +353,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
+*Yue Chen, Xuan Wang, Xingyu Chen, Qi Zhang, Xiaoyu Li, Yu Guo, Jue Wang, Fei Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
+
 **Artemis: Articulated Neural Pets with Appearance and Motion Synthesis.**<br>
 *Haimin Luo, Teng Xu, Yuheng Jiang, Chenglin Zhou, Qiwei Qiu, Yingliang Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
 SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.05628)] [[Project](https://haiminluo.github.io/publication/artemis/)] [[Github](https://github.com/HaiminLuo/Artemis)]
@@ -771,7 +775,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15234)] [[Project](https://bennygu
 
 **Hallucinated Neural Radiance Fields in the Wild.**<br>
 *Xingyu Chen, Qi Zhang, Xiaoyu Li, Yue Chen, Feng Ying, Xuan Wang, Jue Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15246)] 
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15246)] [[Project](https://rover-xingyu.github.io/Ha-NeRF/)] [[Github](https://github.com/rover-xingyu/Ha-NeRF)]
 
 **NeuSample: Neural Sample Field for Efficient View Synthesis.**<br>
 *Jiemin Fang, Lingxi Xie, Xinggang Wang, Xiaopeng Zhang, Wenyu Liu, Qi Tian.*<br>
