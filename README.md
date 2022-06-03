@@ -486,11 +486,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2111.12077)]
 CVPR 2022. [[PDF](https://arxiv.org/abs/2107.02791)] [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
 
 **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields.**<br>
-*[Can Wang](https://cassiepython.github.io/),
-[Menglei Chai](https://mlchai.com/),
-[Mingming He](http://mingminghe.com/),
-[Dongdong Chen](http://www.dongdongchen.bid/),
-[Jing Liao](https://liaojing.github.io/html/).*<br>
+*[Can Wang](https://cassiepython.github.io/), [Menglei Chai](https://mlchai.com/), [Mingming He](http://mingminghe.com/), [Dongdong Chen](http://www.dongdongchen.bid/), [Jing Liao](https://liaojing.github.io/html/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.05139)] [[Project](https://cassiepython.github.io/clipnerf/)] [[Github](https://github.com/cassiePython/CLIPNeRF)]
 
 **Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation.**<br>
@@ -556,6 +552,10 @@ ISPRS Congress 2022. [[PDF](https://arxiv.org/abs/2201.09968)]
 **Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields.**<br>
 *Arnab Dey, Yassine Ahmine, Andrew I. Comport.*<br>
 WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
+
+**EfficientNeRF: Efficient Neural Radiance Fields.**<br>
+*Tao Hu, Shu Liu, Yilun Chen, Tiancheng Shen, Jiaya Jia.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.00878)] 
 
 **MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction.**<br>
 *Zehao Yu, Songyou Peng, Michael Niemeyer, Torsten Sattler, Andreas Geiger.*<br>
