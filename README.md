@@ -352,6 +352,8 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
 
+[[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
+
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
 **UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
