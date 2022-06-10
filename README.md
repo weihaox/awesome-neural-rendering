@@ -354,6 +354,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**NeMF: Neural Motion Fields for Kinematic Animation.**<br>
+*Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03287)]
+
 **UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
 *Yue Chen, Xuan Wang, Xingyu Chen, Qi Zhang, Xiaoyu Li, Yu Guo, Jue Wang, Fei Wang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
@@ -369,6 +373,10 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.08345)] [[Project](https://nv-t
 **Instant Neural Graphics Primitives with a Multiresolution Hash Encoding.**<br>
 *[Thomas Müller]()https://tom94.net/, [Alex Evans](https://research.nvidia.com/person/alex-evans), [Christoph Schied](https://research.nvidia.com/person/christoph-schied), [Alexander Keller](https://research.nvidia.com/person/alex-keller).*<br>
 ACM Transactions on Graphics (SIGGRAPH) 2022. [[PDF](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)] [[Project](https://nvlabs.github.io/instant-ngp)][[Github](https://github.com/NVlabs/instant-ngp)]
+
+**VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution.**<br>
+*Zeyuan Chen, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2206.04647)] [[Project](http://zeyuan-chen.com/VideoINR/)]
 
 **Plenoxels: Radiance Fields without Neural Networks.**<br>
 *Alex Yu, Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin Recht, Angjoo Kanazawa.*<br>
@@ -546,6 +554,10 @@ ICLR 2022. [[PDF](https://arxiv.org/abs/2106.05187)] [[Project](https://yifita.g
 *[Anthony Simeonov](https://anthonysimeonov.github.io/), [Yilun Du](https://yilundu.github.io/), [Andrea Tagliasacchi](https://taiya.github.io/), [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Alberto Rodriguez](http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU), [Pulkit Agrawal](http://people.csail.mit.edu/pulkitag/), [Vincent Sitzmann](https://www.vincentsitzmann.com/).*<br>
 ICRA 2022. [[PDF](https://arxiv.org/abs/2112.05124)] [[Project](https://yilundu.github.io/ndf/)] [[GIthub](https://github.com/anthonysimeonov/ndf_robot)]
 
+**NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields.**<br>
+*Shanyan Guan, Huayu Deng, Yunbo Wang, Xiaokang Yang.*<br>
+ICML 2022. [[PDF](https://arxiv.org/abs/2203.01762)]
+
 **FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling.**<br> 
 *[Christopher Xie](https://chrisdxie.github.io/), [Keunhong Park](https://keunhong.com/), [Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/), [Matthew Brown](http://matthewalunbrown.com/).*<br> 
 3DV 2021. [[PDF](https://arxiv.org/pdf/2104.08418.pdf)] [[Project](https://fig-nerf.github.io/)]
@@ -681,10 +693,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.04130)]
 **RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering.**<br>
 *Di Chang, Aljaž Božič, Tong Zhang, Qingsong Yan, Yingcong Chen, Sabine Süsstrunk, Matthias Nießner.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.03949)] [[Github](https://github.com/Boese0601/RC-MVSNet)]
-
-**NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields.**<br>
-*Shanyan Guan, Huayu Deng, Yunbo Wang, Xiaokang Yang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.01762)]
 
 **NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing.**<br>
 *Jiakai Zhang, Liao Wang, Xinhang Liu, Fuqiang Zhao, Minzhang Li, Haizhao Dai, Boyuan Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
@@ -1941,6 +1949,10 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 ## Motion Transfer, Retargeting, and Reenactment
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**NeMF: Neural Motion Fields for Kinematic Animation.**<br>
+*Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03287)]
 
 **Video2StyleGAN: Disentangling Local and Global Variations in a Video.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy J. Mitra, Peter Wonka.*<br>
