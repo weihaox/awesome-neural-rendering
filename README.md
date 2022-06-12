@@ -384,11 +384,15 @@ CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2112.05131)] [[Project](https://a
 
 **DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering.**<br>
 *[Liwen Wu](https://lwwu2.github.io/), [Jae Yong Lee](https://jyl.kr/), [Anand Bhattad](https://anandbhattad.github.io/), [Yuxiong Wang](https://yxw.web.illinois.edu/), [David A. Forsyth](http://luthuli.cs.uiuc.edu/~daf/).*<br>
-CVPR, 2022. [[PDF](https://arxiv.org/abs/2111.10427)] [[Project](https://lwwu2.github.io/diver/)] [[Github](https://github.com/lwwu2/diver)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.10427)] [[Project](https://lwwu2.github.io/diver/)] [[Github](https://github.com/lwwu2/diver)]
 
 **Revealing Occlusions with 4D Neural Fields.**<br>
 *Basile Van Hoorick, Purva Tendulka, Didac Suris, Dennis Park, Simon Stent, Carl Vondrick.*<br>
 CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2204.10916)]
+
+**GeoNeRF: Generalizing NeRF With Geometry Priors.**<br>
+*Mohammad Mahdi Johari, Yann Lepoittevin, François Fleuret.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2204.07126)]
 
 **GIFS: Neural Implicit Function for General Shape Representation.**<br>
 *Jianglong Ye, Yuntao Chen, Naiyan Wang, Xiaolong Wang.*<br>
@@ -408,7 +412,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2204.03593)] [[Project](https://sirwyver
 
 **Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Augmentations.**<br>
 *Tianlong Chen, Peihao Wang, Zhiwen Fan, Zhangyang Wang.*<br>
-CVPR 2022. [[PDF]()]
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Aug-NeRF_Training_Stronger_Neural_Radiance_Fields_With_Triple-Level_Physically-Grounded_Augmentations_CVPR_2022_paper.html)]
 
 **RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo.**<br>
 *Junhua Xi, Yifei Shi, Yijie Wang, Yulan Guo, Kai Xu.*<br>
@@ -525,6 +529,14 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2112.15399)] [[Project](https://cv.snu.a
 **UNIST: Unpaired Neural Implicit Shape Translation Network.**<br>
 *[Qimin Chen](https://qiminchen.github.io/), [Johannes Merz](https://qiminchen.github.io/), [Aditya Sanghi](https://qiminchen.github.io/), [Hooman Shayani](https://qiminchen.github.io/), [Ali Mahdavi-Amiri](https://qiminchen.github.io/), [Hao Zhang](https://qiminchen.github.io/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2110.00966)] [[Project](https://qiminchen.github.io/unist/)]
+
+**CoNeRF: Controllable Neural Radiance Fields.**<br>
+*Kacper Kania, Kwang Moo Yi, Marek Kowalski, Tomasz Trzciński, Andrea Taliasacchi.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.01983)] [[Project](https://conerf.github.io/)]
+
+**Hallucinated Neural Radiance Fields in the Wild.**<br>
+*Xingyu Chen, Qi Zhang, Xiaoyu Li, Yue Chen, Feng Ying, Xuan Wang, Jue Wang.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15246)] [[Project](https://rover-xingyu.github.io/Ha-NeRF/)] [[Github](https://github.com/rover-xingyu/Ha-NeRF)]
 
 **NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields.**<br>
 *[Lin Yen-Chen](https://yenchenlin.me/), [Pete Florence](http://www.peteflorence.com/), [Jonathan T. Barron](https://jonbarron.info/), [Tsung-Yi Lin](https://tsungyilin.info/), [Alberto Rodriguez](https://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU), [Phillip Isola](http://web.mit.edu/phillipi/).*<br>
@@ -762,10 +774,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02308)]
 *Fuqiang Zhao, Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02789)]
 
-**CoNeRF: Controllable Neural Radiance Fields.**<br>
-*Kacper Kania, Kwang Moo Yi, Marek Kowalski, Tomasz Trzciński, Andrea Taliasacchi.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01983)] [[Project](https://conerf.github.io/)]
-
 **NeSF: Neural Shading Field for Image Harmonization.**<br>
 *Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01314)]
@@ -781,10 +789,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01455)] [[Project](https://ajayj.c
 **NeRFReN: Neural Radiance Fields with Reflections.**<br>
 *Yuan-Chen Guo, Di Kang, Linchao Bao, Yu He, Song-Hai Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.15234)] [[Project](https://bennyguo.github.io/nerfren/]
-
-**Hallucinated Neural Radiance Fields in the Wild.**<br>
-*Xingyu Chen, Qi Zhang, Xiaoyu Li, Yue Chen, Feng Ying, Xuan Wang, Jue Wang.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15246)] [[Project](https://rover-xingyu.github.io/Ha-NeRF/)] [[Github](https://github.com/rover-xingyu/Ha-NeRF)]
 
 **NeuSample: Neural Sample Field for Efficient View Synthesis.**<br>
 *Jiemin Fang, Lingxi Xie, Xinggang Wang, Xiaopeng Zhang, Wenyu Liu, Qi Tian.*<br>
