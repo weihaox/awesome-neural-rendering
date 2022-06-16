@@ -380,13 +380,17 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2202.08345)] [[Project](https://nv-t
 *[Thomas Müller]()https://tom94.net/, [Alex Evans](https://research.nvidia.com/person/alex-evans), [Christoph Schied](https://research.nvidia.com/person/christoph-schied), [Alexander Keller](https://research.nvidia.com/person/alex-keller).*<br>
 ACM Transactions on Graphics (SIGGRAPH) 2022. [[PDF](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)] [[Project](https://nvlabs.github.io/instant-ngp)][[Github](https://github.com/NVlabs/instant-ngp)]
 
+**Neural 3D Video Synthesis from Multi-view Video.**<br>
+*[Tianye Li](https://tianyeli.github.io/), [Mira Slavcheva](https://campar.in.tum.de/Main/MiraSlavcheva), Michael Zollhoefer, Simon Green, Christoph Lassner, Changil Kim, Tanner Schmidt, Steven Lovegrove, Michael Goesele, Richard Newcombe, Zhaoyang Lv.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2103.02597)] [[Project](https://neural-3d-video.github.io/)]
+
 **VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution.**<br>
 *Zeyuan Chen, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2206.04647)] [[Project](http://zeyuan-chen.com/VideoINR/)]
 
 **Motion-Adjustable Neural Implicit Video Representation.**<br>
-*Long Mai, Feng Liu.*<br>
-CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Mai_Motion-Adjustable_Neural_Implicit_Video_Representation_CVPR_2022_paper.html)]
+*[Long Mai](http://mai-t-long.com/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/).*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Mai_Motion-Adjustable_Neural_Implicit_Video_Representation_CVPR_2022_paper.html)] [[Project](https://mai-t-long.com/Phase_NIVR/index.html)]
 
 **Plenoxels: Radiance Fields without Neural Networks.**<br>
 *Alex Yu, Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin Recht, Angjoo Kanazawa.*<br>
@@ -627,6 +631,18 @@ ISPRS Congress 2022. [[PDF](https://arxiv.org/abs/2201.09968)]
 **Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields.**<br>
 *Arnab Dey, Yassine Ahmine, Andrew I. Comport.*<br>
 WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
+
+**VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids.**<br>
+*Katja Schwarz, Axel Sauer, Michael Niemeyer, Yiyi Liao, Andreas Geiger.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/pdf/2206.07695.pdf)]
+
+**ARF: Artistic Radiance Fields.**<br>
+*[Kai Zhang](https://kai-46.github.io/website/), [Nick Kolkin](https://home.ttic.edu/~nickkolkin/home.html), [Sai Bi](https://sai-bi.github.io/), [Fujun Luan](https://luanfujun.github.io/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Noah Snavely](http://www.cs.cornell.edu/~snavely/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.06360)] [[Project](https://www.cs.cornell.edu/projects/arf/)] [[Github](https://github.com/Kai-46/ARF-svox2)]
+
+**NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors.**<br>
+*[Hao-Kang Liu](https://jdily.github.io/), [I-Chao Shen](http://jdily.github.io/), [Bing-Yu Chen](http://graphics.im.ntu.edu.tw/~robin/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.04901)] [[Project](https://jdily.github.io/proj_site/nerfin_proj.html)]
 
 **MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction.**<br>
 *Zehao Yu, Songyou Peng, Michael Niemeyer, Torsten Sattler, Andreas Geiger.*<br>
@@ -2052,6 +2068,22 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2110.05433)]
 *Peirong Liu, Rui Wang, Xuefei Cao, Yipin Zhou, Ashish Shah, Maxime Oquab, Camille Couprie, Ser-Nam Lim.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2110.04658.pdf)]
 
+**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
+*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
+
+**Generative Adversarial Networks in Human Emotion Synthesis:A Review.**<br>
+*Noushin Hajarolasvadi, Miguel Arjona Ramírez, Hasan Demirel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.15075)]
+
+**Learning to Generate Diverse Dance Motions with Transformer.**<br>
+*Jiaman Li, Yihang Yin, Hang Chu, Yi Zhou, Tingwu Wang, Sanja Fidler, Hao Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08171)]
+
+**Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation.**<br>
+*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947v2)]
+
 **Dual-Generator Face Reenactment.**<br>
 *Gee-Sern Hsu, Chun-Hung Tsai, Hung-Yi Wu.*<br>
 CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.html)] 
@@ -2065,8 +2097,8 @@ CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Danecek_EM
 CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Audio-Driven_Neural_Gesture_Reenactment_With_Video_Motion_Graphs_CVPR_2022_paper.html)] 
 
 **RigNeRF: Fully Controllable Neural 3D Portraits.**<br>
-*ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu.*<br>
-CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)] 
+*[ShahRukh Athar](https://shahrukhathar.github.io/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014/), [Kalyan Sunkavalli](http://www.kalyans.org/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), Zhixin Shu](https://zhixinshu.github.io/).*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)]  [[Project](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html)]
 
 **Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency.**<br>
 *Soubhik Sanyal, Alex Vorobiov, Timo Bolkart, Matthew Loper, Betty Mohler, Larry Davis, Javier Romero, Michael J. Black.*<br>
@@ -2108,6 +2140,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14338)]
 *Oren Nuriel, Oron Ashual, Lior Wolf.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.01158)]
 
+**Human Motion Transfer from Poses in the Wild.**<br>
+*Jian Ren, Menglei Chai, Sergey Tulyakov, Chen Fang, Xiaohui Shen, Jianchao Yang.*<br>
+ECCV 2020 Workshop. [[PDF](https://arxiv.org/abs/2004.03142)]
+
 **Local Motion Phases for Learning Multi-Contact Character Movements.**<br>
 *[Sebastian Starke](https://www.linkedin.com/in/sebastian-starke-b281a6148/), Yiwei Zhao, Taku Komura, Kazi Zaman.*<br>
 Siggraph 2020. [[PDF](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf)] [[AI4Animation](https://github.com/sebastianstarke/AI4Animation)]
@@ -2132,17 +2168,9 @@ TVCG (ISMAR 2020). [[PDF](https://richardt.name/publications/audio-dvp/AudioDVP-
 *Soumya Tripathy, Juho Kannala, Esa Rahtu.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2011.04439)]
 
-**Generative Adversarial Networks in Human Emotion Synthesis:A Review.**<br>
-*Noushin Hajarolasvadi, Miguel Arjona Ramírez, Hasan Demirel.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.15075)]
-
 **Mesh Guided One-shot Face Reenactment using Graph Convolutional Networks.**<br>
 *Guangming Yao, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.07783)]
-
-**Learning to Generate Diverse Dance Motions with Transformer.**<br>
-*Jiaman Li, Yihang Yin, Hang Chu, Yi Zhou, Tingwu Wang, Sanja Fidler, Hao Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08171)]
 
 **Action2Motion: Conditioned Generation of 3D Human Motions.**<br>
 *Chuan Guo, Xinxin Zuo, Sen Wang, Shihao Zou, Qingyao Sun, Annan Deng, Minglun Gong, Li Cheng.*<br>
@@ -2176,10 +2204,6 @@ arriv, 2020. [[PDF](https://arxiv.org/abs/2004.12452)]
 *Egor Burkov, Igor Pasechnik, Artur Grigorev, Victor Lempitsky.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12000)]
 
-**Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation.**<br>
-*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
-arriv, 2020. [[PDF](https://arxiv.org/abs/2001.04947v2)]
-
 **StyleRig: Rigging StyleGAN for 3D Control over Portrait Images.**<br>
 *A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H-P. Seidel, P. Perez, M. Zollhöfer, C.Theobalt.*<br>
 CVPR 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/StyleRig/data/paper.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/StyleRig/)]
@@ -2188,17 +2212,9 @@ CVPR 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/StyleRig/data/paper.pdf)] [
 *Zhuoqian Yang, Wentao Zhu, Wayne Wu, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.14401)] [[Github](https://github.com/yzhq97/transmomo.pytorch)] [[Project](https://yzhq97.github.io/transmomo)]
 
-**Human Motion Transfer from Poses in the Wild.**<br>
-*Jian Ren, Menglei Chai, Sergey Tulyakov, Chen Fang, Xiaohui Shen, Jianchao Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03142)]
-
 **First Order Motion Model for Image Animation.**<br>
 *[Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/), [Stéphane Lathuilière](http://stelat.eu/), [Sergey Tulyakov](http://stulyakov.com/), [Elisa Ricci](http://elisaricci.eu/), [Nicu Sebe](http://disi.unitn.it/~sebe/).*<br>
 NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation)] [[Project](https://aliaksandrsiarohin.github.io/first-order-model-website)] [[Github](https://github.com/AliaksandrSiarohin/first-order-model)]
-
-**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
-*Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947)]
 
 **Deferred Neural Rendering: Image Synthesis using Neural.**<br>
 *Justus Thies, Michael Zollhöfer, Matthias Nießner.*<br>
