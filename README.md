@@ -360,13 +360,21 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
-**NeMF: Neural Motion Fields for Kinematic Animation.**<br>
-*Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03287)]
+**Implicit Neural Representation for Physics-driven Actuated Soft Bodies.**<br>
+*Lingchen Yang, Byungsoo Kim, Gaspard Zoss, Baran Gozcu, Markus Gross, Barbara Solenthaler.*<br>
+SIGGRAPH 2022. [[PDF]()]
 
-**UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
-*Yue Chen, Xuan Wang, Xingyu Chen, Qi Zhang, Xiaoyu Li, Yu Guo, Jue Wang, Fei Wang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
+**SNeRF: Stylized Neural Implicit Representations for 3D Scenes.**<br>
+*Thu Nguyen-Phuoc, Feng Liu, Lei Xiao.*<br>
+SIGGRAPH 2022. [[PDF]()]
+
+**SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation.**<br>
+*Amir Hertz, Or Perel, Raja Giryes, Olga Sorkine-Hornung, Daniel Cohen-Or.*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2201.13168)] [[Github](https://github.com/amirhertz/spaghetti)] 
+
+**NeROIC: Neural Object Capture and Rendering from Online Image Collections.**<br>
+*[Zhengfei Kuang](https://zhengfeikuang.com), [Kyle Olszewski](https://kyleolsz.github.io/), [Menglei Chai](https://mlchai.com/), [Zeng Huang](https://zeng.science/), [Panos Achlioptas](https://optas.github.io/), [Sergey Tulyakov](http://stulyakov.com).*<br>
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2201.02533)] [[Project](https://formyfamily.github.io/NeROIC/)] [[Github](https://formyfamily.github.io/NeROIC/)]
 
 **Artemis: Articulated Neural Pets with Appearance and Motion Synthesis.**<br>
 *Haimin Luo, Teng Xu, Yuheng Jiang, Chenglin Zhou, Qiwei Qiu, Yingliang Zhang, Wei Yang, Lan Xu, Jingyi Yu.*<br>
@@ -632,6 +640,14 @@ ISPRS Congress 2022. [[PDF](https://arxiv.org/abs/2201.09968)]
 *Arnab Dey, Yassine Ahmine, Andrew I. Comport.*<br>
 WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 
+**NeMF: Neural Motion Fields for Kinematic Animation.**<br>
+*Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03287)]
+
+**UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
+*Yue Chen, Xuan Wang, Xingyu Chen, Qi Zhang, Xiaoyu Li, Yu Guo, Jue Wang, Fei Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
+
 **VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids.**<br>
 *Katja Schwarz, Axel Sauer, Michael Niemeyer, Yiyi Liao, Andreas Geiger.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/pdf/2206.07695.pdf)]
@@ -772,17 +788,9 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.06088)]
 *Darius Rückert, Yuanhao Wang, Rui Li, Ramzi Idoughi, Wolfgang Heidrich.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.02171)] [[Data](https://repository.kaust.edu.sa/handle/10754/676019)]
 
-**SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation.**<br>
-*Amir Hertz, Or Perel, Raja Giryes, Olga Sorkine-Hornung, Daniel Cohen-Or.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2201.13168)] [[Github](https://github.com/amirhertz/spaghetti)] 
-
 **VaxNeRF: Revisiting the Classic for Voxel-Accelerated Neural Radiance Field.**<br>
 *Naruya Kondo, Yuya Ikeda, Andrea Tagliasacchi, Yutaka Matsuo, Yoichi Ochiai, Shixiang Shane Gu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2111.13112)] [[Github](https://github.com/naruya/VaxNeRF)]
-
-**NeROIC: Neural Rendering of Objects from Online Image Collections.**<br>
-*[Zhengfei Kuang](https://zhengfeikuang.com), [Kyle Olszewski](https://kyleolsz.github.io/), [Menglei Chai](https://mlchai.com/), [Zeng Huang](https://zeng.science/), [Panos Achlioptas](https://optas.github.io/), [Sergey Tulyakov](http://stulyakov.com).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2201.02533)] [[Project](https://formyfamily.github.io/NeROIC/)] [[Github](https://formyfamily.github.io/NeROIC/)]
 
 **DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering.**<br>
 *Shunyu Yao, RuiZhe Zhong, Yichao Yan, Guangtao Zhai, Xiaokang Yang.*<br>
