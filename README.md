@@ -68,7 +68,7 @@ ACM SIGGRAPH 2021 Courses. [[PDF](https://arxiv.org/abs/2111.05849)] -->
 **[Differentiable Rendering: A Survey.](https://arxiv.org/abs/2006.12057)**<br>
 *Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
 
-## Inverse Rendering (de-rendering)
+## Neural Inverse Rendering (Neural De-rendering)
 
 **Modeling Indirect Illumination for Inverse Rendering.**<br>
 *Yuanqing Zhang, Jiaming Sun, Xingyi He, Huan Fu, Rongfei Jia, Xiaowei Zhou.*<br>
@@ -81,6 +81,10 @@ CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_IRISfo
 **De-rendering 3D Objects in the Wild.**<br>
 *[Felix Wimbauer](https://www.linkedin.com/in/felixwimbauer/), [Shangzhe Wu](https://elliottwu.com/), [Christian Rupprecht](https://chrirupp.github.io/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2201.02279)] [[Project](https://www.robots.ox.ac.uk/~vgg/research/derender3d/)]
+
+**NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination.**<br>
+*[Xiuming Zhang](http://people.csail.mit.edu/xiuming/), [Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Boyang Deng](https://boyangdeng.com/), [Paul Debevec](http://www.pauldebevec.com/), [William T. Freeman](http://billf.mit.edu/), [Jonathan T. Barron](https://jonbarron.info/).*<br>
+SIGGRAPH Asia (TOG) 2021. [[PDF](https://arxiv.org/abs/2106.01970)] [[Project](http://people.csail.mit.edu/xiuming/projects/nerfactor/)] [[Github](https://github.com/google/nerfactor)]
 
 **Unified Shape and SVBRDF Recovery using Differentiable Monte Carlo Rendering.**<br>
 *[Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Shuang Zhao](https://www.shuangz.com/), [Kavita Bala](https://www.cs.cornell.edu/~kb/), [Zhao Dong](http://flycooler.com/).*<br>
@@ -101,6 +105,10 @@ CVPR 2020.[[PDF](https://drive.google.com/file/d/18zG1kzVpL9XsEVBK95hbpnB-FMlChR
 **Polarimetric Multi-View Inverse Rendering.**<br>
 *Jinyu Zhao, Yusuke Monno, Masatoshi Okutomi.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08830)]
+
+**GAN2X: Non-Lambertian Inverse Rendering of Image GANs.**<br>
+*[Xingang Pan](https://xingangpan.github.io/), [Ayush Tewari](https://ayushtewari.com/), [Lingjie Liu](https://lingjie0206.github.io/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.09244)] [[Project](https://people.mpi-inf.mpg.de/~xpan/GAN2X/)]
 
 **NiLBS: Neural Inverse Linear Blend Skinning.**<br>
 *Timothy Jeruzalski, David I.W. Levin, Alec Jacobson, Paul Lalonde, Mohammad Norouzi, Andrea Tagliasacchi.*<br>
@@ -359,6 +367,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+
+**EyeNeRF: A Hybrid Representation for Photorealistic Synthesis, Animation and Relighting of Human Eyes.**<br>
+*[Gengyan Li](https://ait.ethz.ch/people/lig/), Abhimitra Meka, Franziska Müller, Marcel C. Bühler, Otmar Hilliges.*<br>
+TOG 2022. [[PDF](https://arxiv.org/abs/2206.08428)]
 
 **Implicit Neural Representation for Physics-driven Actuated Soft Bodies.**<br>
 *Lingchen Yang, Byungsoo Kim, Gaspard Zoss, Baran Gozcu, Markus Gross, Barbara Solenthaler.*<br>
@@ -639,6 +651,14 @@ ISPRS Congress 2022. [[PDF](https://arxiv.org/abs/2201.09968)]
 **Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields.**<br>
 *Arnab Dey, Yassine Ahmine, Andrew I. Comport.*<br>
 WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
+
+**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera.**<br>
+*Viktor Rudnev, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.11896)] [[Github](https://4dqv.mpi-inf.mpg.de/EventNeRF/)]
+
+**TAVA: Template-free Animatable Volumetric Actors.**<br>
+*Ruilong Li, Julian Tanke, Minh Vo, Michael Zollhofer, Jurgen Gall, Angjoo Kanazawa, Christoph Lassner.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.08929)] [[Project](https://www.liruilong.cn/projects/tava/)] [[Github](https://github.com/facebookresearch/tava)]
 
 **NeMF: Neural Motion Fields for Kinematic Animation.**<br>
 *Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>
