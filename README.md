@@ -1429,6 +1429,10 @@ TOG 2019. [[PDF](https://arxiv.org/abs/1905.00889)] [[Project](https://people.ee
 *Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh.*<br>
 TOG 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://github.com/facebookresearch/neuralvolumes)]
 
+**Neural Scene Representation and Rendering.**<br>
+*[S M Ali Eslami](http://arkitus.com/research/), [Danilo Jimenez Rezende](https://danilorezende.com/), Frederic Besse, Fabio Viola, Ari S Morcos, Marta Garnelo, Avraham Ruderman, Andrei A Rusu, Ivo Danihelka, Karol Gregor, David P Reichert, Lars Buesing, Theophane Weber, Oriol Vinyals, Dan Rosenbaum, Neil Rabinowitz, Helen King, Chloe Hillier, Matt Botvinick, Daan Wierstra, Koray Kavukcuoglu, Demis Hassabis.*<br>
+Science 360(6394) 2018. [[PDF](https://www.science.org/doi/10.1126/science.aar6170)] [[Project](https://www.deepmind.com/blog/neural-scene-representation-and-rendering)] [[Data](https://github.com/deepmind/gqn-datasets)]
+
 ## Novel-View Synthesis for Objects and Scenes
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
