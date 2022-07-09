@@ -368,6 +368,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Learning Local Implicit Fourier Representation for Image Warping.**<br>
+*Jaewon Lee, Kwang Pyo Choi, Kyong Hwan Jin.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.01831)] [[Project](https://ipl.dgist.ac.kr/LTEW.pdf)]
+
 **EyeNeRF: A Hybrid Representation for Photorealistic Synthesis, Animation and Relighting of Human Eyes.**<br>
 *[Gengyan Li](https://ait.ethz.ch/people/lig/), Abhimitra Meka, Franziska Müller, Marcel C. Bühler, Otmar Hilliges.*<br>
 TOG 2022. [[PDF](https://arxiv.org/abs/2206.08428)]
@@ -378,7 +382,7 @@ SIGGRAPH 2022. [[PDF]()]
 
 **SNeRF: Stylized Neural Implicit Representations for 3D Scenes.**<br>
 *Thu Nguyen-Phuoc, Feng Liu, Lei Xiao.*<br>
-SIGGRAPH 2022. [[PDF]()]
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2207.02363)] [[Project](https://research.facebook.com/publications/snerf-stylized-neural-implicit-representations-for-3d-scenes/)]
 
 **SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation.**<br>
 *Amir Hertz, Or Perel, Raja Giryes, Olga Sorkine-Hornung, Daniel Cohen-Or.*<br>
@@ -651,6 +655,30 @@ ISPRS Congress 2022. [[PDF](https://arxiv.org/abs/2201.09968)]
 **Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields.**<br>
 *Arnab Dey, Yassine Ahmine, Andrew I. Comport.*<br>
 WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
+
+**SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation.**<br>
+*Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
+Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
+
+**3D-Aware Video Generation.**<br>
+*[Sherwin Bahmani](https://sherwinbahmani.github.io/), [Jeong Joon Park](https://jjparkcv.github.io/), [Despoina Paschalidou](https://paschalidoud.github.io/), [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html/), [Radu Timofte](https://ee.ethz.ch/the-department/people-a-z/person-detail.MjAxNjc4.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.14797)] [[Project](https://sherwinbahmani.github.io/3dvidgen/)] [[Github](https://github.com/sherwinbahmani/3dvideogeneration/)]
+
+**VMRF: View Matching Neural Radiance Fields.**<br>
+*Jiahui Zhang, Fangneng Zhan, Rongliang Wu, Yingchen Yu, Wenqing Zhang, Bai Song, Xiaoqin Zhang, Shijian Lu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.02621)]
+
+**LaTeRF: Label and Text Driven Object Radiance Fields.**<br>
+*Ashkan Mirzaei, Yash Kant, Jonathan Kelly, Igor Gilitschenski.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.01583)]
+
+**Generative Neural Articulated Radiance Fields.**<br>
+*Alexander W. Bergman, Petr Kellnhofer, Yifan Wang, Eric R. Chan, David B. Lindell, Gordon Wetzstein.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.14314)]
+
+**NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors.**<br>
+*Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2206.13597)] [[Github](https://jiepengwang.github.io/NeuRIS/)]
 
 **EventNeRF: Neural Radiance Fields from a Single Colour Event Camera.**<br>
 *Viktor Rudnev, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik.*<br>
@@ -1728,6 +1756,11 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.16681)]
 **Active Exploration for Neural Global Illumination of Variable Scenes.**<br>
 *[Stavros Diolatzis](https://www-sop.inria.fr/members/Stavros.Diolatzis/), [Julien Philip](https://julienphilip.com/), [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis/).*<br>
 TOG 2022. [[PDF](https://arxiv.org/abs/2203.08272)] [[Project](http://repo-sam.inria.fr/fungraph/active-exploration/)]
+
+**Local Relighting of Real Scenes.**<br>
+*Audrey Cui, Ali Jahanian, Agata Lapedriza, Antonio Torralba, Shahin Mahdizadehaghdam, Rohit Kumar, David Bau.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.02774)]
+
 
 **SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage.**<br>
 *[Yifan Wang](https://homes.cs.washington.edu/~yifan1), [Aleksander Holynski](https://homes.cs.washington.edu/~holynski), [Xiuming Zhang](https://xiuming.info/), [Xuaner Cecilia Zhang](https://ceciliavision.github.io/).*<br>
