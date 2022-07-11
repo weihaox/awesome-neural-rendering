@@ -524,7 +524,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.08845)]
 *Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.08652)] [[Github](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)] 
 
-*LISA: Learning Implicit Shape and Appearance of Hands.**<br>
+**LISA: Learning Implicit Shape and Appearance of Hands.**<br>
 *Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, and Lingni Ma.*<br>
 CVPR 2022. [[PDF](https://minhpvo.github.io/)] [[Project](https://minhpvo.github.io/)]
 
