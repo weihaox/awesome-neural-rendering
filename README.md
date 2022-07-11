@@ -162,6 +162,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 
 ## Differentiable Rendering
 
+**Differentiable Volumetric Rendering (DVR): Learning Implicit 3D Representations without 3D Supervision.**<br>
+*Michael Niemeyer, Lars Mescheder, Michael Oechsle, Andreas Geiger.*<br>
+CVPR 2020. [[PDF](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)] [[Github](https://github.com/autonomousvision/differentiable_volumetric_rendering)]
+
 **Modular Primitives for High-Performance Differentiable Rendering.**<br>
 *Samuli Laine, Janne Hellsten, Tero Karras, Yeongho Seol, Jaakko Lehtinen, Timo Aila.*<br>
 TOG 2020. [[PDF](https://arxiv.org/abs/2011.03277)] [[Github](https://github.com/NVlabs/nvdiffrast)]
