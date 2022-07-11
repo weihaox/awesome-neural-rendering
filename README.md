@@ -162,6 +162,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 
 ## Differentiable Rendering
 
+**Differentiable Volumetric Rendering (DVR): Learning Implicit 3D Representations without 3D Supervision.**<br>
+*Michael Niemeyer, Lars Mescheder, Michael Oechsle, Andreas Geiger.*<br>
+CVPR 2020. [[PDF](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)] [[Github](https://github.com/autonomousvision/differentiable_volumetric_rendering)]
+
 **Modular Primitives for High-Performance Differentiable Rendering.**<br>
 *Samuli Laine, Janne Hellsten, Tero Karras, Yeongho Seol, Jaakko Lehtinen, Timo Aila.*<br>
 TOG 2020. [[PDF](https://arxiv.org/abs/2011.03277)] [[Github](https://github.com/NVlabs/nvdiffrast)]
@@ -524,7 +528,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2201.08845)]
 *Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.08652)] [[Github](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)] 
 
-*LISA: Learning Implicit Shape and Appearance of Hands.**<br>
+**LISA: Learning Implicit Shape and Appearance of Hands.**<br>
 *Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, and Lingni Ma.*<br>
 CVPR 2022. [[PDF](https://minhpvo.github.io/)] [[Project](https://minhpvo.github.io/)]
 
@@ -1423,7 +1427,7 @@ CVPR 2019 (Oral). [[Project](http://vsitzmann.github.io/deepvoxels/)] [[PDF](htt
 
 **Occupancy Networks: Learning 3D Reconstruction in Function Space.**<br>
 *Lars Mescheder, Michael Oechsle, Michael Niemeyer, Sebastian Nowozin, Andreas Geiger.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1812.03828)] [[Github](http://avg.is.tuebingen.mpg.de/publications/occupancy-networks)]
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.03828)] [[Project](https://avg.is.mpg.de/publications/occupancy-networks)] [[Github](http://avg.is.tuebingen.mpg.de/publications/occupancy-networks)]
 
 **LLFF: Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), Pratul Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar.*<br>
