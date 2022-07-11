@@ -1423,7 +1423,7 @@ CVPR 2019 (Oral). [[Project](http://vsitzmann.github.io/deepvoxels/)] [[PDF](htt
 
 **Occupancy Networks: Learning 3D Reconstruction in Function Space.**<br>
 *Lars Mescheder, Michael Oechsle, Michael Niemeyer, Sebastian Nowozin, Andreas Geiger.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1812.03828)] [[Github](http://avg.is.tuebingen.mpg.de/publications/occupancy-networks)]
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.03828)] [[Project](https://avg.is.mpg.de/publications/occupancy-networks)] [[Github](http://avg.is.tuebingen.mpg.de/publications/occupancy-networks)]
 
 **LLFF: Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), Pratul Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar.*<br>
