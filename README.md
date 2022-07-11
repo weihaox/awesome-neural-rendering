@@ -176,6 +176,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.14524)]
 
 ## Volumetric Performance Capture (Free Viewpoint Video)
 
+**Free-Viewpoint RGB-D Human Performance Capture and Rendering.**<br>
+*[Phong Nguyen](https://www.phongnhhn.info/), [Nikolaos Sarafianos ](https://nsarafianos.github.io/), [Christoph Lassner](https://christophlassner.de/), [Janne Heikkila](https://www.oulu.fi/university/researcher/janne-heikkila), [Tony Tung](https://sites.google.com/site/tony2ng/).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.13889)] [[Project](https://www.phongnhhn.info/HVS_Net/index.html)]
+
 **HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture.**<br>
 *[Ziyan Wang](https://ziyanw1.github.io/), [Giljoo Nam](https://sites.google.com/view/gjnam), [Tuur Stuyck](https://tuurstuyck.github.io/), [Stephen Lombardi](https://tuurstuyck.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Jessica Hodgins](https://www.cs.cmu.edu/~jkh/), [Christoph Lassner](https://christophlassner.de/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.06904)] [[Project](https://ziyanw1.github.io/hvh/)]
