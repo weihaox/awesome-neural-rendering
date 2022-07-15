@@ -368,6 +368,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**BungeeNeRF: Progressive Neural Radiance Field for Extreme Multiscale Scene Rendering.**<br>
+*Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, and Dahua Lin.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05504)] [[Project](https://city-super.github.io/citynerf/)]
+
 **Learning Local Implicit Fourier Representation for Image Warping.**<br>
 *Jaewon Lee, Kwang Pyo Choi, Kyong Hwan Jin.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.01831)] [[Project](https://ipl.dgist.ac.kr/LTEW.pdf)]
@@ -659,6 +663,10 @@ WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 **SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation.**<br>
 *Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
 Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
+
+**3D Concept Grounding on Neural Fields.**<br>
+*[Yining Hong](https://evelinehong.github.io/), [Yilun Du](https://yilundu.github.io/), [Chunru Lin](https://xhrlyb.github.io/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.06403)] [[Project](http://3d-cg.csail.mit.edu/)]
 
 **3D-Aware Video Generation.**<br>
 *[Sherwin Bahmani](https://sherwinbahmani.github.io/), [Jeong Joon Park](https://jjparkcv.github.io/), [Despoina Paschalidou](https://paschalidoud.github.io/), [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html/), [Radu Timofte](https://ee.ethz.ch/the-department/people-a-z/person-detail.MjAxNjc4.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html/).*<br>
@@ -1439,6 +1447,10 @@ Science 360(6394) 2018. [[PDF](https://www.science.org/doi/10.1126/science.aar61
 
 ### By Implicit Neural Representations
 
+**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image.**<br>
+*Kai-En Lin, Lin Yen-Chen, Wei-Sheng Lai, Tsung-Yi Lin, Yi-Chang Shih, Ravi Ramamoorthi.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
+
 **Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations.**<br>
 *Atsuhiro Noguchi, Xiao Sun, Stephen Lin, Tatsuya Harada.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.08839)] [[Project](https://nogu-atsu.github.io/ENARF-GAN/)] [[Github](https://github.com/nogu-atsu/ENARF-GAN)]
@@ -1752,6 +1764,10 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.00889)] [[Project](https://peop
 SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://github.com/facebookresearch/neuralvolumes)]
 
 ## Light, Reflectance, Illuminance, and Shade
+
+**Relighting4D: Neural Relightable Human from Videos.**<br>
+*[Zhaoxi Chen](https://frozenburning.github.io/), Ziwei Liu.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.07104)] [[Project](https://frozenburning.github.io/projects/relighting4d)] [[Github](https://github.com/FrozenBurning/Relighting4D)]
 
 **Face Relighting with Geometrically Consistent Shadows.**<br>
 *Andrew Hou, Michel Sarkis, Ning Bi, Yiying Tong, Xiaoming Liu.*<br>
