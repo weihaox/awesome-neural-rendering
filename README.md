@@ -1469,7 +1469,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2202.04879)]
 
 **3D-Aware Semantic-Guided Generative Model for Human Synthesis.**<br>
 *Jichao Zhang, Enver Sangineto, Hao Tang, Aliaksandr Siarohin, Zhun Zhong, Nicu Sebe, Wei Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.01422)]
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.01422)] [[Github](https://github.com/zhangqianhui/3DSGAN)]
 
 **LiveView: Dynamic Target-Centered MPI for View Synthesis.**<br>
 *Sushobhan Ghosh, Zhaoyang Lv, Nathan Matsuda, Lei Xiao, Andrew Berkovich, Oliver Cossairt.*<br>
