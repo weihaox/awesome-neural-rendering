@@ -1773,6 +1773,10 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 
 ## Light, Reflectance, Illuminance, and Shade
 
+**Geometry-aware Single-image Full-body Human Relighting.**<br>
+*Chaonan Ji, Tao Yu, Kaiwen Guo, Jingxin Liu, Yebin Liu.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.04750)]
+
 **Relighting4D: Neural Relightable Human from Videos.**<br>
 *[Zhaoxi Chen](https://frozenburning.github.io/), Ziwei Liu.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.07104)] [[Project](https://frozenburning.github.io/projects/relighting4d)] [[Github](https://github.com/FrozenBurning/Relighting4D)]
