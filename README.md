@@ -376,6 +376,18 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse views.**<br>
+*[Xiaoxiao Long](https://www.xxlong.site/), Cheng Lin, Peng Wang, Taku Komura, Wenping Wang.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.05737.pdf)] [[Project](https://www.xxlong.site/SparseNeuS/)] [[Github](https://github.com/xxlong0/SparseNeuS)]
+
+**Unified Implicit Neural Stylization.**<br>
+*Zhiwen Fan, Yifan Jiang, Peihao Wang, Xinyu Gong, Dejia Xu, Zhangyang Wang.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2204.01943)] [[Project](https://zhiwenfan.github.io/INS/)] [[Github](https://github.com/VITA-Group/INS)]
+
+**SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image.**<br>
+*[Dejia Xu](https://ir1d.github.io/), [Yifan Jiang](https://yifanjiang.net/), [Peihao Wang](https://peihaowang.github.io/), [Zhiwen Fan](https://zhiwenfan.github.io/), [Humphrey Shi](https://www.humphreyshi.com/), [Zhangyang Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2204.00928)] [[Project](https://vita-group.github.io/SinNeRF/)] [[Github](https://github.com/VITA-Group/SinNeRF)]
+
 **BungeeNeRF: Progressive Neural Radiance Field for Extreme Multiscale Scene Rendering.**<br>
 *Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, and Dahua Lin.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05504)] [[Project](https://city-super.github.io/citynerf/)]
@@ -783,10 +795,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2204.06552)]
 **Learning Neural Acoustic Fields.**<br>
 *[Andrew Luo](https://github.com/aluo-x/), [Yilun Du](https://yilundu.github.io/), [Michael J. Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/people/michael-j-tarr), [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.00628)] [[Project](https://www.andrew.cmu.edu/user/afluo/Neural_Acoustic_Fields/)] [[Github](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields)]
-
-**SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image.**<br>
-*[Dejia Xu](https://ir1d.github.io/), [Yifan Jiang](https://yifanjiang.net/), [Peihao Wang](https://peihaowang.github.io/), [Zhiwen Fan](https://zhiwenfan.github.io/), [Humphrey Shi](https://www.humphreyshi.com/), [Zhangyang Wang](https://spark.adobe.com/page/CAdrFMJ9QeI2y/).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.00928)] [[Project](https://vita-group.github.io/SinNeRF/)] [[Github](https://github.com/VITA-Group/SinNeRF)]
 
 **Unified Implicit Neural Stylization.**<br>
 *[Zhiwen Fan](https://zhiwenfan.github.io/), Yifan Jiang, Peihao Wang, Xinyu Gong, Dejia Xu, Zhangyang Wang.*<br>
