@@ -376,6 +376,30 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Neural-Sim: Learning to Generate Training Data with NeRF.**<br>
+*Yunhao Ge, Harkirat Behl, Jiashu Xu, Suriya Gunasekar, Neel Joshi, Yale Song, Xin Wang, Laurent Itti, Vibhav Vineet.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11368)]
+
+**PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo.**<br>
+*Wenqi Yang, Guanying Chen, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11406)] [[Project](https://ywq.github.io/psnerf)]
+
+**Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis.**<br>
+*Shuai Shen, Wanhua Li, Zheng Zhu, Yueqi Duan, Jie Zhou, Jiwen Lu.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11770)] [[Project](https://sstzal.github.io/DFRF/)]
+
+**NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing.**<br>
+*Bangbang Yang, Chong Bao, Junyi Zeng, Hujun Bao, Yinda Zhang, Zhaopeng Cui, Guofeng Zhang.*<br>
+ECCV 2022 (oral). [[PDF](https://arxiv.org/abs/2207.11911)]  [[Project](https://zju3dv.github.io/neumesh/)]
+
+**Deforming Radiance Fields with Cages.**<br>
+*Tianhan Xu, Tatsuya Harada.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.12298)]  [[Project](https://xth430.github.io/deforming-nerf/)]
+
+**AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields.**<br>
+*Andreas Kurz, Thomas Neff, Zhaoyang Lv, Michael Zollhöfer, Markus Steinberger.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10312)] [[Project](https://thomasneff.github.io/adanerf)]
+
 **SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse views.**<br>
 *[Xiaoxiao Long](https://www.xxlong.site/), Cheng Lin, Peng Wang, Taku Komura, Wenping Wang.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.05737.pdf)] [[Project](https://www.xxlong.site/SparseNeuS/)] [[Github](https://github.com/xxlong0/SparseNeuS)]
@@ -1463,6 +1487,10 @@ Science 360(6394) 2018. [[PDF](https://www.science.org/doi/10.1126/science.aar61
 
 ### By Implicit Neural Representations
 
+**Seeing 3D Objects in a Single Image via Self-Supervised Static-Dynamic Disentanglement.**<br>
+*[Prafull Sharma](https://prafullsharma.net/), [Ayush Tewari](https://ayushtewari.com/), Yilun Du, Sergey Zakharov, Rares Ambrus, Adrien Gaidon, William T. Freeman, Fredo Durand, Joshua B. Tenenbaum, Vincent Sitzmann.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.11232)] [[Project](https://prafullsharma.net/see3d/)]
+
 **Vision Transformer for NeRF-Based View Synthesis from a Single Input Image.**<br>
 *Kai-En Lin, Lin Yen-Chen, Wei-Sheng Lai, Tsung-Yi Lin, Yi-Chang Shih, Ravi Ramamoorthi.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
@@ -1606,6 +1634,10 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.08860)] [[Project](http://www.krema
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsnet.github.io/)]
 
 ### Others
+
+**CompNVS: Novel View Synthesis with Scene Completion.**<br>
+*Zuoyue Li, Tianxing Fan, Zhenqiang Li, Zhaopeng Cui, Yoichi Sato, Marc Pollefeys, Martin R. Oswald.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11467)]
 
 **NeurMiPs: Neural Mixture of Planar Experts for View Synthesis.**<br>
 *[Zhi-Hao Lin](https://zhihao-lin.github.io/), [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), [Hao-Yu Hsu](https://zhihao-lin.github.io/neurmips/), [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/ycwang.html), [Shenlong Wang](https://shenlong.web.illinois.edu/).*<br>
