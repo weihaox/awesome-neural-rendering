@@ -162,6 +162,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 
 ## Differentiable Rendering
 
+**ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization**. <br>
+*Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon*<br>
+ECCV 2022. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
+
 **Differentiable Volumetric Rendering (DVR): Learning Implicit 3D Representations without 3D Supervision.**<br>
 *Michael Niemeyer, Lars Mescheder, Michael Oechsle, Andreas Geiger.*<br>
 CVPR 2020. [[PDF](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)] [[Github](https://github.com/autonomousvision/differentiable_volumetric_rendering)]
@@ -376,10 +380,6 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
-**ShAPO :tophat:: Implicit Representations for Multi Object Shape Appearance and Pose Optimization**. <br>
-*Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon*<br>
-ECCV 2022. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
-
 **Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images.**<br>
 *Radu Alexandru Rosu, Shunsuke Saito, Ziyan Wang, Chenglei Wu, Sven Behnke, Giljoo Nam.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14067)] [[Github](https://radualexandru.github.io/neural_strands/)]
@@ -387,6 +387,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14067)] [[Github](https://radualexa
 **Depth Field Networks for Generalizable Multi-view Scene Representation.**<br>
 *Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Greg Shakhnarovich, Matthew Walter, Adrien Gaidon.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14287)] [[Github](https://sites.google.com/view/tri-define)]
+
+**ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization**. <br>
+*Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon*<br>
+ECCV 2022. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
 
 **Neural Radiance Fields for Outdoor Scene Relighting.**<br>
 *[Viktor Rudnev](https://vrudnev.me/), [Mohamed Elgharib](https://people.mpi-inf.mpg.de/~elgharib/), [William Smith](https://www-users.cs.york.ac.uk/wsmith/), [Lingjie Liu](https://lingjie0206.github.io/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/).*<br>
