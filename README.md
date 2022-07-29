@@ -376,6 +376,22 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images.**<br>
+*Radu Alexandru Rosu, Shunsuke Saito, Ziyan Wang, Chenglei Wu, Sven Behnke, Giljoo Nam.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14067)] [[Github](https://radualexandru.github.io/neural_strands/)]
+
+**Depth Field Networks for Generalizable Multi-view Scene Representation.**<br>
+*Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Greg Shakhnarovich, Matthew Walter, Adrien Gaidon.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14287)] [[Github](https://sites.google.com/view/tri-define)]
+
+**ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization.**<br>
+*Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.13691)]
+
+**Neural Radiance Fields for Outdoor Scene Relighting.**<br>
+*[Viktor Rudnev](https://vrudnev.me/), [Mohamed Elgharib](https://people.mpi-inf.mpg.de/~elgharib/), [William Smith](https://www-users.cs.york.ac.uk/wsmith/), [Lingjie Liu](https://lingjie0206.github.io/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/).*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05140)] [[Project](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)] [[Code](https://nextcloud.mpi-klsb.mpg.de/index.php/s/mGXYKpD8raQ8nMk)]
+
 **Neural-Sim: Learning to Generate Training Data with NeRF.**<br>
 *Yunhao Ge, Harkirat Behl, Jiashu Xu, Suriya Gunasekar, Neel Joshi, Yale Song, Xin Wang, Laurent Itti, Vibhav Vineet.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11368)]
@@ -708,6 +724,14 @@ WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 *Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
 Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
 
+**Is Attention All NeRF Needs?**<br>
+*Mukund Varma T, Peihao Wang, Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.13298)]
+
+**Neural Radiance Transfer Fields for Relightable Novel-view Synthesis with Global Illumination.**<br>
+*[Linjie Lyu](https://people.mpi-inf.mpg.de/~llyu/), Ayush Tewari, Thomas Leimkuehler, Marc Habermann, Christian Theobalt.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.13607)]
+
 **3D Concept Grounding on Neural Fields.**<br>
 *[Yining Hong](https://evelinehong.github.io/), [Yilun Du](https://yilundu.github.io/), [Chunru Lin](https://xhrlyb.github.io/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2207.06403)] [[Project](http://3d-cg.csail.mit.edu/)]
@@ -907,10 +931,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05504)] [[Project](https://city-su
 **DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation.**<br>
 *Guangming Yao, Hongzhi Wu, Yi Yuan, Kun Zhou.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.12390)]
-
-**Neural Radiance Fields for Outdoor Scene Relighting.**<br>
-*Viktor Rudnev, Mohamed Elgharib, William Smith, Lingjie Liu, Vladislav Golyanik, Christian Theobalt.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05140)] [[Project](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)]
 
 **Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering.**<br>
 *[Mingfei Chen](https://www.mingfeichen.com/), [Jianfeng Zhang](http://jeff95.me/), [Xiangyu Xu](https://sites.google.com/view/xiangyuxu/), [Lijuan Liu](https://scholar.google.com/citations?user=nANxp5wAAAAJ&hl=zh-CN/), [Jiashi Feng](https://sites.google.com/site/jshfeng/), [Shuicheng Yan](https://yanshuicheng.ai/).*<br>
