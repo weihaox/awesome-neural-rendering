@@ -384,10 +384,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14067)] [[Github](https://radualexa
 *Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Greg Shakhnarovich, Matthew Walter, Adrien Gaidon.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14287)] [[Github](https://sites.google.com/view/tri-define)]
 
-**ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization.**<br>
-*Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon.*<br>
-ECCV 2022. [[PDF](https://arxiv.org/abs/2207.13691)]
-
 **Neural Radiance Fields for Outdoor Scene Relighting.**<br>
 *[Viktor Rudnev](https://vrudnev.me/), [Mohamed Elgharib](https://people.mpi-inf.mpg.de/~elgharib/), [William Smith](https://www-users.cs.york.ac.uk/wsmith/), [Lingjie Liu](https://lingjie0206.github.io/), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/), [Christian Theobalt](https://www.mpi-inf.mpg.de/~theobalt/).*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05140)] [[Project](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)] [[Code](https://nextcloud.mpi-klsb.mpg.de/index.php/s/mGXYKpD8raQ8nMk)]
