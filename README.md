@@ -1,6 +1,7 @@
 # <p align=center>`awesome neural rendering`</p>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox.awesome-neural-rendering)  -->
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 A collection of resources on neural rendering. 
@@ -69,7 +70,6 @@ ACM SIGGRAPH 2021 Courses. [[PDF](https://arxiv.org/abs/2111.05849)] -->
 *Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
 
 ## Neural Inverse Rendering (Neural De-rendering)
-
 
 **GAN2X: Non-Lambertian Inverse Rendering of Image GANs.**<br>
 *[Xingang Pan](https://xingangpan.github.io/), [Ayush Tewari](https://ayushtewari.com/), [Lingjie Liu](https://lingjie0206.github.io/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
@@ -384,6 +384,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+
+**LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling.**<br>
+*Boyan Jiang, Xinlin Ren, Mingsong Dou, Xiangyang Xue, Yanwei Fu, Yinda Zhang.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.08622)] [[Github](https://boyanjiang.github.io/LoRD/)]
 
 **PRIF: Primary Ray-based Implicit Function.**<br>
 *Brandon Yushan Feng, Yinda Zhang, Danhang Tang, Ruofei Du, Amitabh Varshney.*<br>
