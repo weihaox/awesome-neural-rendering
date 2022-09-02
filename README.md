@@ -796,7 +796,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2208.07227)] [[Github](https://github.c
 
 **UPST-NeRF: Universal Photorealistic Style Transfer of Neural Radiance Fields for 3D Scene.**<br>
 *Yaosen Chen, Qi Yuan, Zhiqiang Li, Yuegen Liu Wei Wang Chaoping Xie, Xuming Wen, Qien Yu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2208.07059)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.07059)][[Github](https://github.com/semchan/UPST-NeRF)] [[Project]([https://sherwinbahmani.github.io/3dvidgen/](https://semchan.github.io/UPST_NeRF/)]
 
 **FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing.**<br>
 *Jingbo Zhang, Xiaoyu Li, Ziyu Wan, Can Wang, Jing Liao.*<br>
