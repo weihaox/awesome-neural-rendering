@@ -385,6 +385,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces.**<br>
+*Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao.*<br>
+3DV 2022. [[PDF](https://arxiv.org/abs/2208.14851)] 
+
 **LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling.**<br>
 *Boyan Jiang, Xinlin Ren, Mingsong Dou, Xiangyang Xue, Yanwei Fu, Yinda Zhang.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2208.08622)] [[Github](https://boyanjiang.github.io/LoRD/)]
@@ -484,7 +488,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.00928)] [[Project](https://vita-gro
 
 **BungeeNeRF: Progressive Neural Radiance Field for Extreme Multiscale Scene Rendering.**<br>
 *Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, and Dahua Lin.*<br>
-ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05504)] [[Project](https://city-super.github.io/citynerf/)]
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05504)] [[Project](https://city-super.github.io/citynerf/)] [[Github](https://github.com/city-super/BungeeNeRF)]
 
 **Learning Local Implicit Fourier Representation for Image Warping.**<br>
 *Jaewon Lee, Kwang Pyo Choi, Kyong Hwan Jin.*<br>
@@ -781,6 +785,10 @@ WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 **SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation.**<br>
 *Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
 Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
+
+**PeRFception: Perception using Radiance Fields.**<br>
+*Yoonwoo Jeong, Seungjoo Shin, Junha Lee, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.11537)] [[Project](https://postech-cvlab.github.io/PeRFception/)] [[Github](https://github.com/POSTECH-CVLab/PeRFception)]
 
 **DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images.**<br>
 *Bing Wang, Lu Chen, Bo Yang.*<br>
@@ -1717,6 +1725,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsne
 
 ### Others
 
+**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes.**<br>
+*Tianjia Zhang, Yuen-Fui Lau, Qifeng Chen.*<br>
+IROS 2022. [[PDF](https://arxiv.org/abs/2208.14433)]
+
 **CompNVS: Novel View Synthesis with Scene Completion.**<br>
 *Zuoyue Li, Tianxing Fan, Zhenqiang Li, Zhaopeng Cui, Yoichi Sato, Marc Pollefeys, Martin R. Oswald.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11467)]
@@ -2098,6 +2110,10 @@ arxiv 2022. [[PDF](https://arxiv.org/pdf/2208.02210.pdf)]
 **Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions.**<br>
 *Zipeng Ye, Zhiyao Sun, Yu-Hui Wen, Yanan Sun, Tian Lv, Ran Yi, Yong-Jin Liu.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.06180)]
+
+**StableFace: Analyzing and Improving Motion Stability for Talking Face Generation.**<br>
+*Jun Ling, Xu Tan, Liyang Chen, Runnan Li, Yuchao Zhang, Sheng Zhao, Li Song.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2208.13717)]
 
 **Speech Driven Tongue Animation.**<br>
 *Salvador Medina, Denis Tome, Carsten Stoll, Mark Tiede, Kevin Munhall, Alexander G. Hauptmann, Iain Matthews.*<br>
