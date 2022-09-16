@@ -385,9 +385,17 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation.**<br>
+*[Xiao Fu](https://fuxiao0719.github.io/), Shangzhan Zhang, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao.*<br>
+3DV 2022. [[PDF](http://arxiv.org/abs/2203.15224)] [[Project](https://fuxiao0719.github.io/projects/panopticnerf/)] [[Github](https://github.com/fuxiao0719/PanopticNeRF)]
+
 **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces.**<br>
 *Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao.*<br>
 3DV 2022. [[PDF](https://arxiv.org/abs/2208.14851)] 
+
+**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects.**<br>
+*Ziyu Wang, Yu Deng, Jiaolong Yang, Jingyi Yu, Xin Tong.*<br>
+Pacific Graphics & CGF 2022. [[PDF](https://arxiv.org/abs/2209.04183)] [[Github](https://ziyuwang98.github.io/GDRF/)]
 
 **LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling.**<br>
 *Boyan Jiang, Xinlin Ren, Mingsong Dou, Xiangyang Xue, Yanwei Fu, Yinda Zhang.*<br>
@@ -786,6 +794,18 @@ WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 *Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
 Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
 
+**StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints.**<br>
+*Zheng Chen, Chen Wang, Yuan-Chen Guo, Song-Hai Zhang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.05277)]
+
+**im2nerf: Image to Neural Radiance Field in the Wild.**<br>
+*Lu Mi, Abhijit Kundu, David Ross, Frank Dellaert, Noah Snavely, Alireza Fathi.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.04061)]
+
+**Multi-NeuS: 3D Head Portraits from Single Image with Neural Implicit Functions.**<br>
+*Egor Burkov, Ruslan Rakhimov, Aleksandr Safin, Evgeny Burnaev, Victor Lempitsky.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.04436)]
+
 **PeRFception: Perception using Radiance Fields.**<br>
 *Yoonwoo Jeong, Seungjoo Shin, Junha Lee, Christopher Choy, Animashree Anandkumar, Minsu Cho, Jaesik Park.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2208.11537)] [[Project](https://postech-cvlab.github.io/PeRFception/)] [[Github](https://github.com/POSTECH-CVLab/PeRFception)]
@@ -945,10 +965,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.17261)] [[Project](https://snap-re
 **DRaCoN: Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars.**<br>
 *[Amit Raj](https://amitraj93.github.io/), [Umar Iqbal](http://www.umariqbal.info/), [Koki Nagano](https://luminohope.org/), [Sameh Khamis](https://www.samehkhamis.com/), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [James Hays](https://www.cc.gatech.edu/~hays/), [Jan Kautz](https://jankautz.com/).*<br>
 arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Project](https://dracon-avatars.github.io/)]
-
-**Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation.**<br>
-*[Xiao Fu](https://fuxiao0719.github.io/), Shangzhan Zhang, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao.*<br>
-arxiv 2022. [[Project](https://fuxiao0719.github.io/projects/panopticnerf/)]
 
 **AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling.**<br>
 *[Ziqian Bai](https://zqbai-jeremy.github.io/), [Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en), [Javier Romero](http://ps.is.tuebingen.mpg.de/person/jromero), [Michael Zollhöfer](https://zollhoefer.com/), [Ping Tan](https://www2.cs.sfu.ca/~pingtan/), [Shunsuke Saito](http://www-scf.usc.edu/~saitos/).*<br>
@@ -2102,6 +2118,10 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com/marcelsan/DeepShading)]
 
 ## Dubbing and Talking-Head Animation
+
+**Talking Head from Speech Audio using a Pre-trained Image Generator.**<br>
+*Mohammed M. Alghamdi, He Wang, Andrew J. Bulpitt, David C. Hogg.*<br>
+ACM Multimedia 2022. [[PDF](https://arxiv.org/abs/2209.04252)] [[Github](https://mohammedalghamdi.github.io/talking-heads-acm-mm)]
 
 **Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control.**<br>
 *Michail Christos Doukas, Evangelos Ververas, Viktoriia Sharmanska, Stefanos Zafeiriou.*<br>
