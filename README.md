@@ -1,7 +1,6 @@
 # <p align=center>`awesome neural rendering`</p>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox) 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox.awesome-neural-rendering)  -->
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-neural-rendering) 
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 A collection of resources on neural rendering. 
@@ -384,6 +383,14 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+
+**NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review.**<br>
+*Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.00379)]
+
+**S3-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint.**<br>
+*[Wenqi Yang](https://ywq.github.io/), [Guanying Chen](https://guanyingc.github.io/), [Chaofeng Chen](http://chaofengc.github.io/), [Zhenfang Chen](https://zfchenunique.github.io/), [Kwan-Yee K. Wong](http://i.cs.hku.hk/~kykwong/).*<br>
+NeurIPS. [[PDF](http://arxiv.org/abs/2203.15224)]
 
 **Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation.**<br>
 *[Xiao Fu](https://fuxiao0719.github.io/), Shangzhan Zhang, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao.*<br>
@@ -793,6 +800,22 @@ WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 **SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation.**<br>
 *Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
 Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
+
+**X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360∘ Insufficient RGB-D Views.**<br>
+*Haoyi Zhu, Hao-Shu Fang, Cewu Lu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.05135)]
+
+**NerfAcc: A General NeRF Acceleration Toolbox.**<br>
+*Ruilong Li, Matthew Tancik, Angjoo Kanazawa.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04847)] [[Project](https://www.nerfacc.com/)]
+
+**Structure-Aware NeRF without Posed Camera via Epipolar Constraint.**<br>
+*Shu Chen, Yang Zhang, Yaxin Xu, Beiji Zou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.00183)]
+
+**LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF.**<br>
+*Zhenxin Zhu, Yuantao Chen, Zirui Wu, Chao Hou, Yongliang Shi, Chuxuan Li, Pengfei Li, Hao Zhao, Guyue Zhou.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.08498)]
 
 **StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints.**<br>
 *Zheng Chen, Chen Wang, Yuan-Chen Guo, Song-Hai Zhang.*<br>
@@ -1923,6 +1946,10 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 
 ## Light, Reflectance, Illuminance, and Shade
 
+**Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation.**<br>
+*Yu-Ying Yeh, Koki Nagano, Sameh Khamis, Jan Kautz, Ming-Yu Liu, Ting-Chun Wang.*<br>
+TOG (SIGGRAPH Asia 2022). [[PDF](https://arxiv.org/abs/2209.10510)] [[Project](https://deepimagination.cc/Lumos/)]
+
 **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing.**<br>
 *Guangcong Wang, Yinuo Yang, Chen Change Loy, Ziwei Liu.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.14811)] [[Project](https://style-light.github.io/)] [[Github](https://github.com/Wanggcong/StyleLight)]
@@ -2123,6 +2150,10 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com
 *Mohammed M. Alghamdi, He Wang, Andrew J. Bulpitt, David C. Hogg.*<br>
 ACM Multimedia 2022. [[PDF](https://arxiv.org/abs/2209.04252)] [[Github](https://mohammedalghamdi.github.io/talking-heads-acm-mm)]
 
+**FNeVR: Neural Volume Rendering for Face Animation.**<br>
+*Bohan Zeng, Boyu Liu, Hong Li, Xuhui Liu, Jianzhuang Liu, Dapeng Chen, Wei Peng, Baochang Zhang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.10340)]
+
 **Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control.**<br>
 *Michail Christos Doukas, Evangelos Ververas, Viktoriia Sharmanska, Stefanos Zafeiriou.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/pdf/2208.02210.pdf)]
@@ -2295,6 +2326,10 @@ AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Github](https://github.co
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**Motion Transformer for Unsupervised Image Animation.**<br>
+*Jiale Tao, Biao Wang, Tiezheng Ge, Yuning Jiang, Wen Li, Lixin Duan.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.14024)]
+
 **NeMF: Neural Motion Fields for Kinematic Animation.**<br>
 *Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03287)]
@@ -2342,6 +2377,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08171)]
 **Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04947v2)]
+
+**Implicit Warping for Animation with Image Sets.**<br>
+*Arun Mallya, Ting-Chun Wang, Ming-Yu Liu.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.01794)] [[Project](https://deepimagination.cc/implicit_warping/)]
 
 **Dual-Generator Face Reenactment.**<br>
 *Gee-Sern Hsu, Chun-Hung Tsai, Hung-Yi Wu.*<br>
