@@ -388,9 +388,33 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 *Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.00379)]
 
+**Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations.**<br>
+*Fukun Yin, Wen Liu, Zilong Huang, Pei Cheng, Tao Chen, Gang Yu.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.11170)] [[Project](https://hangg7.com/dycheck/)]
+
+**Monocular Dynamic View Synthesis: A Reality Check.**<br>
+*Hang Gao, Ruilong Li, Shubham Tulsiani, Bryan Russell, Angjoo Kanazawa.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.13445)] [[Project](https://hangg7.com/dycheck/)] [[Github](https://github.com/KAIR-BAIR/dycheck)]
+
+**S3-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint.**<br>
+*Wenqi Yang, Guanying Chen, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.08936)] 
+
+**Signal Processing for Implicit Neural Representations.**<br>
+*Dejia Xu, Peihao Wang, Yifan Jiang, Zhiwen Fan, Zhangyang Wang.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.08772)] [[Project](https://vita-group.github.io/INSP/)]
+
+**Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations.**<br>
+*Fukun Yin, Wen Liu, Zilong Huang, Pei Cheng, Tao Chen, Gang YU.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.11170)] [[Github](https://github.com/fukunyin/CoCo-NeRF)]
+
 **S3-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint.**<br>
 *[Wenqi Yang](https://ywq.github.io/), [Guanying Chen](https://guanyingc.github.io/), [Chaofeng Chen](http://chaofengc.github.io/), [Zhenfang Chen](https://zfchenunique.github.io/), [Kwan-Yee K. Wong](http://i.cs.hku.hk/~kykwong/).*<br>
-NeurIPS. [[PDF](http://arxiv.org/abs/2203.15224)]
+NeurIPS. [[PDF](https://arxiv.org/abs/2210.08936)] [[Project](https://ywq.github.io/s3nerf)]
+
+**Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces.**<br>
+*Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao.*<br>
+3DV 2022. [[PDF](https://arxiv.org/abs/2208.14851)] [[Github](https://github.com/zyhbili/Dual-Space-NeRF)]
 
 **Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation.**<br>
 *[Xiao Fu](https://fuxiao0719.github.io/), Shangzhan Zhang, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao.*<br>
@@ -801,6 +825,22 @@ WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 *Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
 Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
 
+**Compressing Explicit Voxel Grid Representations: fast NeRFs become also small.**<br>
+*Chenxi Lola Deng, Enzo Tartaglione.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.12782)]
+
+**SPIDR: SDF-based Neural Point Fields for Illumination and Deformation.**<br>
+*Ruofan Liang, Jiahao Zhang, Haoda Li, Chen Yang, Nandita Vijaykumar.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08398)]
+
+**IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields.**<br>
+*Changwoon Choi, Juhyeon Kim, Young Min Kim.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08202)]
+
+**Controllable Style Transfer via Test-time Training of Implicit Neural Representation.**<br>
+*Sunwoo Kim, Youngjo Min, Younghun Jung, Seungryong Kim.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.07762)] [[Project](https://ku-cvlab.github.io/INR-st/)]
+
 **X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360∘ Insufficient RGB-D Views.**<br>
 *Haoyi Zhu, Hao-Shu Fang, Cewu Lu.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.05135)]
@@ -1033,9 +1073,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05637)] [[Project](https://crishy1
 *Sverker Rasmuson, Erik Sintorn, Ulf Assarsson.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05598)] 
 
-**CityNeRF: Building NeRF at City Scale.**<br>
+**BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering.**<br>
 *Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, Dahua Lin.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.05504)] [[Project](https://city-super.github.io/citynerf)]
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05504)] [[Project](https://city-super.github.io/citynerf)]
 
 **DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation.**<br>
 *Guangming Yao, Hongzhi Wu, Yi Yuan, Kun Zhou.*<br>
@@ -1173,6 +1213,10 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.03849)]
 *Vincent Sitzmann, Semon Rezchikov, William T. Freeman, Joshua B. Tenenbaum, Fredo Durand.*<br>
 NeurIPS 2021. [[PDF](https://arxiv.org/abs/2106.02634)] [[Project](https://vsitzmann.github.io/lfns/)]
 
+**Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations.**<br>
+*Mehdi S. M. Sajjadi, Henning Meyer, Etienne Pot, Urs Bergmann, Klaus Greff, Noha Radwan, Suhani Vora, Mario Lucic, Daniel Duckworth, Alexey Dosovitskiy, Jakob Uszkoreit, Thomas Funkhouser, Andrea Tagliasacchi.*<br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.13152)]
+
 **Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering.**<br>
 *[Bangbang Yang](https://github.com/ybbbbt/), [Yinda Zhang](https://www.zhangyinda.com/), [Yinghao Xu](https://justimyhxu.github.io/), [Yijin Li](https://github.com/eugenelyj/), [Han Zhou](https://github.com/asdiuzd/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/), Zhaopeng Cui](https://zhpcui.github.io/).*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2109.01847)] [[Project](https://zju3dv.github.io/object_nerf)] [[Github](https://github.com/zju3dv/object_nerf)]
@@ -1184,6 +1228,10 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2012.12247)] [[Project](https://gvv.mpi-
 **Learning Compositional Radiance Fields of Dynamic Human Heads.**<br>
 *Ziyan Wang, Timur Bagautdinov, Stephen Lombardi, Tomas Simon, Jason Saragih, Jessica Hodgins, Michael Zollhöfer.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.09955)]
+
+**NeRF-VAE: A Geometry Aware 3D Scene Generative Model.**<br>
+*Adam R. Kosiorek, Heiko Strathmann, Daniel Zoran, Pol Moreno, Rosalia Schneider, Soňa Mokrá, Danilo J. Rezende.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2104.00587)]
 
 **OSF: Object-Centric Neural Scene Rendering.**<br>
 *[Michelle Guo](https://shellguo.com/), [Alireza Fathi](https://www.alirezafathi.org/), [Jiajun Wu](https://jiajunwu.com/), [Thomas Funkhouser](https://www.cs.princeton.edu/~funk/).*<br>
