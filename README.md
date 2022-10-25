@@ -384,6 +384,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera.**<br>
+*Hongrui Cai, Wanquan Feng, Xuetao Feng, Yan Wang, Juyong Zhang.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/pdf/2206.15258.pdf)] [[Project](https://ustc3dv.github.io/ndr/)] [[Github](https://github.com/USTC3DV/NDR-code)]
+
 **NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review.**<br>
 *Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.00379)]
@@ -1271,7 +1275,7 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.12993)]
 
 **NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction.**<br>
 *Peng Wang, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, Wenping Wang.*<br>
-NeurIPS 2021. [[PDF](https://papers.nips.cc/paper/2021/hash/e41e164f7485ec4a28741a2d0ea41c74-Abstract.html)]
+NeurIPS 2021. [[PDF](https://papers.nips.cc/paper/2021/hash/e41e164f7485ec4a28741a2d0ea41c74-Abstract.html)] [[Github](https://github.com/Totoro97/NeuS)]
 
 **NeRV: Neural Representations for Videos.**<br>
 *Hao Chen, Bo He, Hanyu Wang, Yixuan Ren, Ser-Nam Lim, Abhinav Shrivastava.*<br>
