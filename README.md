@@ -517,6 +517,26 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2207.12298)]  [[Project](https://xth430.
 *Andreas Kurz, Thomas Neff, Zhaoyang Lv, Michael Zollhöfer, Markus Steinberger.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.10312)] [[Project](https://thomasneff.github.io/adanerf)]
 
+**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers.**<br>
+*Jonáš Kulhánek, Erik Derner, Torsten Sattler, Robert Babuška.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2203.10157)] [[Github](https://github.com/jkulhanek/viewformer)]
+
+**MoFaNeRF: Morphable Facial Neural Radiance Field.**<br>
+*Yiyu Zhuang, Hao Zhu, Xusen Sun, Xun Cao.*<br>
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.02308)]
+
+**KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints.**<br>
+*Marko Mihajlovic, Aayush Bansal, Michael Zollhöfer, Siyu Tang, Shunsuke Saito.*<br>
+ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1322_ECCV_2022_paper.php)]
+
+**Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification.**<br>
+*Jianxiong Shen, Antonio Agudo, Francesc Moreno-Noguer, Adria Ruiz.*<br>
+ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7028_ECCV_2022_paper.php)]
+
+**ActiveNeRF: Learning Where to See with Uncertainty Estimation.**<br>
+*Xuran Pan, Zihang Lai, Shiji Song, Gao Huang.*<br>
+ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7175_ECCV_2022_paper.php)]
+
 **SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse views.**<br>
 *[Xiaoxiao Long](https://www.xxlong.site/), Cheng Lin, Peng Wang, Taku Komura, Wenping Wang.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/pdf/2206.05737.pdf)] [[Project](https://www.xxlong.site/SparseNeuS/)] [[Github](https://github.com/xxlong0/SparseNeuS)]
@@ -1037,10 +1057,6 @@ arxiv 2022. [[PDF](https://dracon-avatars.github.io/resources/paper.pdf)] [[Proj
 *[Ziqian Bai](https://zqbai-jeremy.github.io/), [Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en), [Javier Romero](http://ps.is.tuebingen.mpg.de/person/jromero), [Michael Zollhöfer](https://zollhoefer.com/), [Ping Tan](https://www2.cs.sfu.ca/~pingtan/), [Shunsuke Saito](http://www-scf.usc.edu/~saitos/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.13817)] [[Project](https://zqbai-jeremy.github.io/autoavatar/)]
 
-**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers.**<br>
-*Jonáš Kulhánek, Erik Derner, Torsten Sattler, Robert Babuška.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.10157)] 
-
 **TensoRF: Tensorial Radiance Fields.**<br>
 *[Anpei Chen](https://apchenstu.github.io/), [Zexiang Xu](https://cseweb.ucsd.edu//~zex014/), Andreas Geiger, Jingyi Yu, Hao Su.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.09517)] [[Project](https://apchenstu.github.io/TensoRF/)] [[Github](https://github.com/apchenstu/TensoRF)]
@@ -1136,10 +1152,6 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2112.01523)] [[Project](https://neural-l
 **HDR-NeRF: High Dynamic Range Neural Radiance Fields.**<br>
 *Xin Huang, Qi Zhang, Feng Ying, Hongdong Li, Xuan Wang, Qing Wang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2111.14451)] [[Project](https://shsf0817.github.io/hdr-nerf/]
-
-**MoFaNeRF: Morphable Facial Neural Radiance Field.**<br>
-*Yiyu Zhuang, Hao Zhu, Xusen Sun, Xun Cao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2112.02308)]
 
 **HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs.**<br>
 *Fuqiang Zhao, Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
