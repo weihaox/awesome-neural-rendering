@@ -100,7 +100,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00674)] [[Project](https://kai-46.g
 
 **Invertible Neural BRDF for Object Inverse Rendering.**<br>
 *Zhe Chen, Shohei Nobuhara, Ko Nishino.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04030)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.04030)] [[Github](https://github.com/chenzhekl/iBRDF)]
 
 **Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF From a Single Image.**<br>
 *[Zhengqin Li](http://sites.google.com/a/eng.ucsd.edu/zhengqinli/), [Mohammad Shafiei](https://www.linkedin.com/in/mohammadshafiei/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Kalyan Sunkavalli](http://www.kalyans.org/), [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker/).*<br>
@@ -116,7 +116,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05980)]
 
 **Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer.**<br>
 *Wenzheng Chen, Jun Gao, Huan Ling, Edward J. Smith, Jaakko Lehtinen, Alec Jacobson, Sanja Fidler.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01210)]
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01210)] [[Github](https://github.com/nv-tlabs/DIB-R)]
 
 **DRWR: A Differentiable Renderer without Rendering for Unsupervised 3D Structure Learning from Silhouette Images.**<br>
 *Zhizhong Han, Chao Chen, Yu-Shen Liu, Matthias Zwicker.*<br>
@@ -192,13 +192,13 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2112.13889)] [[Project](https://www.phon
 *[Ziyan Wang](https://ziyanw1.github.io/), [Giljoo Nam](https://sites.google.com/view/gjnam), [Tuur Stuyck](https://tuurstuyck.github.io/), [Stephen Lombardi](https://tuurstuyck.github.io/), [Michael Zollhoefer](https://zollhoefer.com/), [Jessica Hodgins](https://www.cs.cmu.edu/~jkh/), [Christoph Lassner](https://christophlassner.de/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.06904)] [[Project](https://ziyanw1.github.io/hvh/)]
 
-**Appearance Editing with Free-viewpoint Neural Rendering.**<br>
+**Neural view synthesis with appearance editing from unstructured images.**<br>
 *Pulkit Gera, Aakash KT, Dhawal Sirikonda, Parikshit Sakurikar, P.J. Narayanan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2110.07674.pdf)]
+ICVGIP 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3490035.3490299)] [[Github](https://github.com/darthgera123/Appearance-Editing)]
 
 **Geometry-Free View Synthesis: Transformers and No 3D Priors.**<br>
 *Robin Rombach, Patrick Esser, Bjorn Ommer.*<br>
-ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Rombach_Geometry-Free_View_Synthesis_Transformers_and_No_3D_Priors_ICCV_2021_paper.html)]
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Rombach_Geometry-Free_View_Synthesis_Transformers_and_No_3D_Priors_ICCV_2021_paper.html)] [[Github](https://github.com/CompVis/geometry-free-view-synthesis)]
 
 **iButter: Neural Interactive Bullet Time Generator for Human Free-viewpoint Rendering.**<br> 
 *Liao Wang, Ziyu Wang, Pei Lin, Yuheng Jiang, Xin Suo, Minye Wu, Lan Xu, Jingyi Yu.*<br> 
@@ -218,7 +218,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.11571)] [[Project](https://lingj
 
 **Monocular Real-Time Volumetric Performance Capture.**<br>
 *[Ruilong Li](https://www.liruilong.cn/), Yuliang Xiu, Shunsuke Saito, Zeng Huang, Kyle Olszewski, Hao Li.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13988)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13988)] [[Github](https://github.com/Project-Splinter/MonoPort)]
 
 **Volumetric Capture of Humans with a Single RGBD Camera via Semi-Parametric Learning.**<br>
 *Rohit Pandey, Anastasia Tkach, Shuoran Yang, Pavel Pidlypenskyi, Jonathan Taylor, Ricardo Martin-Brualla, Andrea Tagliasacchi, George Papandreou, Philip Davidson, Cem Keskin, Shahram Izadi, Sean Fanello.*<br>
@@ -226,7 +226,7 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pandey_V
 
 **Neural Volumes: Learning Dynamic Renderable Volumes from Images.**<br>
 *Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh.*<br>
-TOG 2019. [[PDF](https://arxiv.org/abs/1906.07751)]
+TOG 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://github.com/facebookresearch/neuralvolumes)]
 
 ## Semantic Photo Synthesis and Manipulation
 
