@@ -65,6 +65,9 @@ ACM SIGGRAPH 2021 Courses. [[PDF](https://arxiv.org/abs/2111.05849)] -->
 **[CVPR 2020 tutorial on Neural Rendering.](https://www.neuralrender.com/)**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit K. Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B. Goldman, Michael Zollhöfer.*<br>
 
+**[A Systematic Survey of Generative 3D-aware Image Synthesis.](https://arxiv.org/abs/2210.14267)**<br>
+*Weihao Xia, Jing-Hao Xue.*<br>
+
 **[Differentiable Rendering: A Survey.](https://arxiv.org/abs/2006.12057)**<br>
 *Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
 
@@ -848,6 +851,10 @@ WSCG 2022. [[PDF](https://arxiv.org/abs/2205.09351)]
 **SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation.**<br>
 *Xin-Yang Zheng, Yang Liu, Peng-Shuai Wang, Xin Tong.*<br>
 Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
+
+**Streaming Radiance Fields for 3D Video Synthesis.**<br>
+*Lingzhi Li, Zhen Shen, Zhongshu Wang, Li Shen, Ping Tan.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.14831)]
 
 **Compressing Explicit Voxel Grid Representations: fast NeRFs become also small.**<br>
 *Chenxi Lola Deng, Enzo Tartaglione.*<br>
