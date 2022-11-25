@@ -77,6 +77,10 @@ ACM SIGGRAPH 2021 Courses. [[PDF](https://arxiv.org/abs/2111.05849)] -->
 *[Xingang Pan](https://xingangpan.github.io/), [Ayush Tewari](https://ayushtewari.com/), [Lingjie Liu](https://lingjie0206.github.io/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
 3DV 2022. [[PDF](https://arxiv.org/abs/2206.09244)] [[Project](https://people.mpi-inf.mpg.de/~xpan/GAN2X/)]
 
+**Extracting Triangular 3D Models, Materials, and Lighting From Images.**<br>
+*[Jacob Munkberg](https://research.nvidia.com/person/jacob-munkberg), [Jon Hasselgren](https://research.nvidia.com/person/jon-hasselgren), [Tianchang Shen](http://www.cs.toronto.edu/~shenti11/), [Jun Gao](http://www.cs.toronto.edu/~jungao/), [Wenzheng Chen](http://www.cs.toronto.edu/~wenzheng/), [Alex Evans](https://research.nvidia.com/person/alex-evans), [Thomas Müller](https://research.nvidia.com/person/thomas-mueller), [Sanja Fidler](https://www.cs.toronto.edu/~fidler/).*<br>
+CVPR 2022. [[PDF](http://arxiv.org/abs/2111.12503)] [[Github](https://github.com/NVlabs/nvdiffrec)] [[Project](https://nvlabs.github.io/nvdiffrec/)]
+
 **Modeling Indirect Illumination for Inverse Rendering.**<br>
 *Yuanqing Zhang, Jiaming Sun, Xingyi He, Huan Fu, Rongfei Jia, Xiaowei Zhou.*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2204.06837)]
@@ -387,13 +391,80 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
-**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera.**<br>
-*Hongrui Cai, Wanquan Feng, Xuetao Feng, Yan Wang, Juyong Zhang.*<br>
-NeurIPS 2022. [[PDF](https://arxiv.org/pdf/2206.15258.pdf)] [[Project](https://ustc3dv.github.io/ndr/)] [[Github](https://github.com/USTC3DV/NDR-code)]
-
 **NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review.**<br>
 *Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.00379)]
+
+
+**Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition.**<br>
+*Jiaxiang Tang, Kaisiyuan Wang, Hang Zhou, Xiaokang Chen, Dongliang He, Tianshu Hu, Jingtuo Liu, Gang Zeng, Jingdong Wang.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12368)]
+[[Project](https://me.kiui.moe/radnerf/)]
+
+**Generalizable Implicit Neural Representations via Instance Pattern Composers.**<br>
+*Chiheon Kim, Doyup Lee, Saehoon Kim, Minsu Cho, Wook-Shin Han.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.13223)]
+
+**LISA: Localized Image Stylization with Audio via Implicit Neural Representation.**<br>
+*Seung Hyun Lee, Chanyoung Kim, Wonmin Byeon, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.11381)]
+
+**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields.**<br>
+*Peng Wang, Lingzhe Zhao, Ruijie Ma, Peidong Liu.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12853)]
+
+**Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields.**<br>
+*Yue Chen, Xingyu Chen, Xuan Wang, Qi Zhang, Yu Guo, Ying Shan, Fei Wang.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.11505)]
+
+**SPARF: Neural Radiance Fields from Sparse and Noisy Poses.**<br>
+*Prune Truong, Marie-Julie Rakotosaona, Fabian Manhardt, Federico Tombari.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.11738)]
+
+**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures.**<br>
+*Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.07600)]
+
+**ParticleNeRF: Particle Based Encoding for Online Neural Radiance Fields in Dynamic Scenes.**<br>
+*Jad Abou-Chakra, Feras Dayoub, Niko Sünderhauf.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.04041)]
+
+**nerf2nerf: Pairwise Registration of Neural Radiance Fields.**<br>
+*Lily Goli, Daniel Rebain, Sara Sabour, Animesh Garg, Andrea Tagliasacchi.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.01600)]
+
+**NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes.**<br>
+*[Zhiwen Fan](https://zhiwenfan.github.io/), [Peihao Wang](https://peihaowang.github.io//), [Yifan Jiang](https://yifanjiang.net//), [Xinyu Gong](https://gongxinyuu.github.io/), [Dejia Xu](https://ir1d.github.io/), [Zhangyang Wang](https://vita-group.github.io/).*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.08776)] [[Project](https://zhiwenfan.github.io/NeRF-SOS/)]
+
+**gCoRF: Generative Compositional Radiance Fields.**<br>
+*Mallikarjun BR, Ayush Tewari, Xingang Pan, Mohamed Elgharib, Christian Theobalt.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.17344)] [[Project](https://vcai.mpi-inf.mpg.de/projects/gCoRF/)]
+
+**NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields.**<br>
+*Liangchen Song, Anpei Chen, Zhong Li, Zhang Chen, Lele Chen, Junsong Yuan, Yi Xu, Andreas Geiger.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.15947)] [[Project](https://lsongx.github.io/projects/nerfplayer.html)]
+
+**ProbNeRF: Uncertainty-Aware Inference of 3D Shapes from 2D Images.**<br>
+*Matthew D. Hoffman, Tuan Anh Le, Pavel Sountsov, Christopher Suter, Ben Lee, Vikash K. Mansinghka, Rif A. Saurous.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.17415)]
+
+**Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video.**<br>
+*Xuan Gao, Chenglai Zhong, Jun Xiang, Yang Hong, Yudong Guo, Juyong Zhang.*<br> 
+SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2210.06108)] [[Project](https://ustc3dv.github.io/NeRFBlendShape/)] [[Github](https://github.com/USTC3DV/NeRFBlendShape-code)]
+
+**NeMF: Neural Motion Fields for Kinematic Animation.**<br>
+*[Chengan He](https://cs.yale.edu/homes/che/), [Jun Saito](https://research.adobe.com/person/jun-saito/), [James Zachary](https://jameszachary.com/), [Holly Rushmeier](https://graphics.cs.yale.edu/people/holly-rushmeier), [Yi Zhou](https://zhouyisjtu.github.io/).*<br> 
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2206.03287)]
+[[Project](https://cs.yale.edu/homes/che/projects/nemf/)] [[Github](https://github.com/c-he/NeMF)]
+
+**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera.**<br>
+*[Hongrui Cai](https://rainbowrui.github.io/), [Wanquan Feng](https://github.com/WanquanF), [Xuetao Feng](https://scholar.google.com/citations?hl=en&user=5G-2EFcAAAAJ), [Yan Wang](), [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2206.15258)] [[Project](https://ustc3dv.github.io/ndr/)] [[Github](https://github.com/USTC3DV/NDR-code)]
+
+**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera.**<br>
+*Hongrui Cai, Wanquan Feng, Xuetao Feng, Yan Wang, Juyong Zhang.*<br>
+NeurIPS 2022. [[PDF](https://arxiv.org/pdf/2206.15258.pdf)] [[Project](https://ustc3dv.github.io/ndr/)] [[Github](https://github.com/USTC3DV/NDR-code)]
 
 **Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations.**<br>
 *Fukun Yin, Wen Liu, Zilong Huang, Pei Cheng, Tao Chen, Gang Yu.*<br>
@@ -403,9 +474,6 @@ NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.11170)] [[Project](https://hangg
 *Hang Gao, Ruilong Li, Shubham Tulsiani, Bryan Russell, Angjoo Kanazawa.*<br>
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.13445)] [[Project](https://hangg7.com/dycheck/)] [[Github](https://github.com/KAIR-BAIR/dycheck)]
 
-**S3-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint.**<br>
-*Wenqi Yang, Guanying Chen, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong.*<br>
-NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.08936)] 
 
 **Signal Processing for Implicit Neural Representations.**<br>
 *Dejia Xu, Peihao Wang, Yifan Jiang, Zhiwen Fan, Zhangyang Wang.*<br>
@@ -417,7 +485,7 @@ NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.11170)] [[Github](https://github
 
 **S3-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint.**<br>
 *[Wenqi Yang](https://ywq.github.io/), [Guanying Chen](https://guanyingc.github.io/), [Chaofeng Chen](http://chaofengc.github.io/), [Zhenfang Chen](https://zfchenunique.github.io/), [Kwan-Yee K. Wong](http://i.cs.hku.hk/~kykwong/).*<br>
-NeurIPS. [[PDF](https://arxiv.org/abs/2210.08936)] [[Project](https://ywq.github.io/s3nerf)]
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.08936)] [[Project](https://ywq.github.io/s3nerf)]
 
 **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces.**<br>
 *Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao.*<br>
@@ -446,6 +514,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.06143)] [[Project](https://augmenta
 **Neural Radiance Transfer Fields for Relightable Novel-view Synthesis with Global Illumination.**<br>
 *[Linjie Lyu](https://people.mpi-inf.mpg.de/~llyu/), Ayush Tewari, Thomas Leimkuehler, Marc Habermann, Christian Theobalt.*<br>
 ECCV 2022. [[PDF](https://arxiv.org/abs/2207.13607)] [[Project](https://people.mpi-inf.mpg.de/~llyu/projects/2022-NRTF/)]
+
+**Editable indoor lighting estimation.**<br>
+*Henrique Weber, Mathieu Garon, Jean-François Lalonde.*<br> 
+ECCV 2022. [[PDF](https://arxiv.org/abs/2211.03928)]
 
 **Implicit Feature Networks for Texture Completion from Partial 3D Data.**<br>
 *[Julian Chibane](http://virtualhumans.mpi-inf.mpg.de/people/Chibane.html), [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html).*<br>
@@ -486,7 +558,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05140)] [[Project](https://4dqv.mpi
 
 **Neural-Sim: Learning to Generate Training Data with NeRF.**<br>
 *Yunhao Ge, Harkirat Behl, Jiashu Xu, Suriya Gunasekar, Neel Joshi, Yale Song, Xin Wang, Laurent Itti, Vibhav Vineet.*<br>
-ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11368)]
+ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11368)] [[Github](https://github.com/gyhandy/Neural-Sim-NeRF)]
 
 **PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo.**<br>
 *Wenqi Yang, Guanying Chen, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong.*<br>
@@ -1159,6 +1231,15 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2112.01523)] [[Project](https://neural-l
 **HDR-NeRF: High Dynamic Range Neural Radiance Fields.**<br>
 *Xin Huang, Qi Zhang, Feng Ying, Hongdong Li, Xuan Wang, Qing Wang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2111.14451)] [[Project](https://shsf0817.github.io/hdr-nerf/]
+
+
+**Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry.**<br>
+*Dawa Derksen, Dario Izzo.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09877)]
+
+**Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry.**<br>
+*Dawa Derksen, Dario Izzo.*<br> 
+CVPR2021. [[PDF](https://arxiv.org/abs/2104.09877)]
 
 **HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs.**<br>
 *Fuqiang Zhao, Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>
@@ -2220,6 +2301,14 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Github](https://github.com
 **Talking Head from Speech Audio using a Pre-trained Image Generator.**<br>
 *Mohammed M. Alghamdi, He Wang, Andrew J. Bulpitt, David C. Hogg.*<br>
 ACM Multimedia 2022. [[PDF](https://arxiv.org/abs/2209.04252)] [[Github](https://mohammedalghamdi.github.io/talking-heads-acm-mm)]
+
+**SPACEx: Speech-driven Portrait Animation with Controllable Expression.**<br>
+*Siddharth Gururani, Arun Mallya, Ting-Chun Wang, Rafael Valle, Ming-Yu Liu.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.09809)] [[Project](https://deepimagination.cc/SPACEx/)]
+
+**Instant Volumetric Head Avatars.**<br>
+*Wojciech Zielonka, Timo Bolkart, Justus Thies.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12499)] [[Project](https://zielon.github.io/insta/)] [[Video](https://youtu.be/HOgaeWTih7Q)]
 
 **FNeVR: Neural Volume Rendering for Face Animation.**<br>
 *Bohan Zeng, Boyu Liu, Hong Li, Xuhui Liu, Jianzhuang Liu, Dapeng Chen, Wei Peng, Baochang Zhang.*<br>
