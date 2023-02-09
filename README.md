@@ -58,9 +58,9 @@ Eurographics State-of-the-Art Report 2022.
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer.*<br>
 Eurographics 2020.<br>
 
-<!-- **[Advances in Neural Rendering.]()**<br>
+**[Advances in Neural Rendering.](https://arxiv.org/abs/2111.05849)**<br>
 *Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik.*<br>
-ACM SIGGRAPH 2021 Courses. [[PDF](https://arxiv.org/abs/2111.05849)] -->
+ACM SIGGRAPH 2021 Courses.
 
 **[CVPR 2020 tutorial on Neural Rendering.](https://www.neuralrender.com/)**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit K. Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B. Goldman, Michael Zollhöfer.*<br>
@@ -70,6 +70,13 @@ ACM SIGGRAPH 2021 Courses. [[PDF](https://arxiv.org/abs/2111.05849)] -->
 
 **[Differentiable Rendering: A Survey.](https://arxiv.org/abs/2006.12057)**<br>
 *Hiroharu Kato, Deniz Beker, Mihai Morariu, Takahiro Ando, Toru Matsuoka, Wadim Kehl, Adrien Gaidon.*<br>
+
+**[NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review.](https://arxiv.org/abs/2210.00379)**<br>
+*Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li.*<br>
+
+**[Nerfstudio: A Modular Framework for Neural Radiance Field Development.](https://docs.nerf.studio/en/latest/)**<br>
+*Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa.*<br> 
+arXiv 2022. [[PDF](https://arxiv.org/abs/2302.04264)] [[Project](https://docs.nerf.studio/en/latest/)] [[Github](https://github.com/nerfstudio-project/nerfstudio/)]
 
 ## Neural Inverse Rendering (Neural De-rendering)
 
@@ -390,11 +397,6 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
-
-**NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review.**<br>
-*Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2210.00379)]
-
 
 **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition.**<br>
 *Jiaxiang Tang, Kaisiyuan Wang, Hang Zhou, Xiaokang Chen, Dongliang He, Tianshu Hu, Jingtuo Liu, Gang Zeng, Jingdong Wang.*<br> 
@@ -1422,8 +1424,8 @@ ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Peng_Anima
 ICCV 2021. [[PDF](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
 
 **In-Place Scene Labelling and Understanding With Implicit Scene Representation.**<br>
-*Shuaifeng Zhi, Tristan Laidlow, Stefan Leutenegger, Andrew J. Davison.*<br>
-ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Zhi_In-Place_Scene_Labelling_and_Understanding_With_Implicit_Scene_Representation_ICCV_2021_paper.html)]
+*[Shuaifeng Zhi](https://shuaifengzhi.com/), [Tristan Laidlow](https://wp.doc.ic.ac.uk/twl15/), [Stefan Leutenegger](https://wp.doc.ic.ac.uk/sleutene/), [Andrew J. Davison](https://www.doc.ic.ac.uk/~ajd/).*<br>
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Zhi_In-Place_Scene_Labelling_and_Understanding_With_Implicit_Scene_Representation_ICCV_2021_paper.html)] [[GIthub](https://github.com/Harry-Zhi/semantic_nerf)]
 
 **MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis.**<br>
 *Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee.*<br>
