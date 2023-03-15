@@ -398,6 +398,14 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields.**<br>
+*Yue Chen, Xingyu Chen, Xuan Wang, Qi Zhang, Yu Guo, Ying Shan, Fei Wang.*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.11505)] [[Project](https://rover-xingyu.github.io/L2G-NeRF/)] [[Github](https://github.com/rover-xingyu/L2G-NeRF)]
+
+**UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
+*[Yue Chen](https://fanegg.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Xingyu Chen](http://rover-xingyu.github.io/), [Qi Zhang](https://qzhang-cv.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yu Guo](https://yuguo-xjtu.github.io/), [Jue Wang](https://juewang725.github.io/), [Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm).*<br>
+CVPR 2023. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
+
 **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition.**<br>
 *Jiaxiang Tang, Kaisiyuan Wang, Hang Zhou, Xiaokang Chen, Dongliang He, Tianshu Hu, Jingtuo Liu, Gang Zeng, Jingdong Wang.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12368)]
@@ -414,10 +422,6 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.11381)]
 **BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields.**<br>
 *Peng Wang, Lingzhe Zhao, Ruijie Ma, Peidong Liu.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12853)]
-
-**Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields.**<br>
-*Yue Chen, Xingyu Chen, Xuan Wang, Qi Zhang, Yu Guo, Ying Shan, Fei Wang.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.11505)]
 
 **SPARF: Neural Radiance Fields from Sparse and Noisy Poses.**<br>
 *Prune Truong, Marie-Julie Rakotosaona, Fabian Manhardt, Federico Tombari.*<br> 
@@ -1033,10 +1037,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2206.08929)] [[Project](https://www.lir
 **NeMF: Neural Motion Fields for Kinematic Animation.**<br>
 *[Chengan He](https://cs.yale.edu/homes/che/), [Jun Saito](https://research.adobe.com/person/jun-saito/), [James Zachary](https://jameszachary.com/), [Holly Rushmeier](https://graphics.cs.yale.edu/people/holly-rushmeier), [Yi Zhou](https://zhouyisjtu.github.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2206.03287)] [[Project](https://cs.yale.edu/homes/che/projects/nemf/)]
-
-**UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
-*[Yue Chen](https://fanegg.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Xingyu Chen](http://rover-xingyu.github.io/), [Qi Zhang](https://qzhang-cv.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yu Guo](https://yuguo-xjtu.github.io/), [Jue Wang](https://juewang725.github.io/), [Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm).*<br>
-arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
 
 **VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids.**<br>
 *[Katja Schwarz](https://katjaschwarz.github.io/), [Axel Sauer](https://axelsauer.com/), [Michael Niemeyer](https://m-niemeyer.github.io/), [Yiyi Liao](https://yiyiliao.github.io/), [Andreas Geiger](http://cvlibs.net/).*<br>
