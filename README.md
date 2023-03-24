@@ -455,6 +455,10 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.15947)] [[Project](https://lsongx.
 *Matthew D. Hoffman, Tuan Anh Le, Pavel Sountsov, Christopher Suter, Ben Lee, Vikash K. Mansinghka, Rif A. Saurous.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.17415)]
 
+**PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
+*[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
+
 **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video.**<br>
 *Xuan Gao, Chenglai Zhong, Jun Xiang, Yang Hong, Yudong Guo, Juyong Zhang.*<br> 
 SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2210.06108)] [[Project](https://ustc3dv.github.io/NeRFBlendShape/)] [[Github](https://github.com/USTC3DV/NeRFBlendShape-code)]
@@ -479,7 +483,6 @@ NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.11170)] [[Project](https://hangg
 **Monocular Dynamic View Synthesis: A Reality Check.**<br>
 *Hang Gao, Ruilong Li, Shubham Tulsiani, Bryan Russell, Angjoo Kanazawa.*<br>
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.13445)] [[Project](https://hangg7.com/dycheck/)] [[Github](https://github.com/KAIR-BAIR/dycheck)]
-
 
 **Signal Processing for Implicit Neural Representations.**<br>
 *Dejia Xu, Peihao Wang, Yifan Jiang, Zhiwen Fan, Zhangyang Wang.*<br>
@@ -933,6 +936,30 @@ Computer Graphics Forum 2022. [[PDF](https://arxiv.org/abs/2206.12055)]
 **Streaming Radiance Fields for 3D Video Synthesis.**<br>
 *Lingzhi Li, Zhen Shen, Zhongshu Wang, Li Shen, Ping Tan.*<br>
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.14831)]
+
+**SHERF: Generalizable Human NeRF from a Single Image.**<br>
+*Shoukang Hu, Fangzhou Hong, Liang Pan, Haiyi Mei, Lei Yang, Ziwei Liu.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12791)]
+[[Project](https://skhu101.github.io/SHERF/)]
+
+**SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation.**<br>
+*Juil Koo, Seungwoo Yoo, Minh Hieu Nguyen, Minhyuk Sung.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12236)]
+[[Project](https://salad3d.github.io)]
+
+**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields.**<br>
+*Ahmad AlMughrabi, Umair Haroon, Ricardo Marques, Petia Radeva.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12234)]
+
+**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions.**<br>
+*Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12789)]
+[[Project](https://instruct-nerf2nerf.github.io)]
+
+**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models.**<br>
+*Jianglong Ye, Naiyan Wang, Xiaolong Wang.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12786)]
+[[Project](https://jianglongye.com/featurenerf/)]
 
 **Compressing Explicit Voxel Grid Representations: fast NeRFs become also small.**<br>
 *Chenxi Lola Deng, Enzo Tartaglione.*<br>
