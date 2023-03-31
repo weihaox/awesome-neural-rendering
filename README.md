@@ -389,6 +389,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**Balanced Spherical Grid for Egocentric View Synthesis.**<br>
+*[Changwoon Choi](https://changwoon.info) Sang Min Kim, Young Min Kim.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.12408)] [[Project](https://changwoon.info/publications/EgoNeRF)] [[Github](https://github.com/changwoonchoi/EgoNeRF)] [[Data](https://drive.google.com/drive/u/4/folders/1kqLAATjSSDwfLHI5O7RTfM9NOUi7PvcK)]
+
 **L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields.**<br>
 *Yue Chen, Xingyu Chen, Xuan Wang, Qi Zhang, Yu Guo, Ying Shan, Fei Wang.*<br> 
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.11505)] [[Project](https://rover-xingyu.github.io/L2G-NeRF/)] [[Github](https://github.com/rover-xingyu/L2G-NeRF)]
