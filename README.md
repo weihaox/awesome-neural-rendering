@@ -967,8 +967,8 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.12782)]
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08398)]
 
 **IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields.**<br>
-*Changwoon Choi, Juhyeon Kim, Young Min Kim.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08202)]
+*[Changwoon Choi](https://changwoon.info), Juhyeon Kim, Young Min Kim.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08202)] [[Project](https://changwoon.info/publications/IBL-NeRF)] [[Github](https://github.com/changwoonchoi/IBL-NeRF)] [[Data](https://drive.google.com/drive/u/5/folders/1hNcZBgHAM0SBiULJiiS1V8NGdLe4xt7j)]
 
 **Controllable Style Transfer via Test-time Training of Implicit Neural Representation.**<br>
 *Sunwoo Kim, Youngjo Min, Younghun Jung, Seungryong Kim.*<br>
