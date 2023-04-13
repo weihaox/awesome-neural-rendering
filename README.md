@@ -6,9 +6,8 @@ A collection of resources on neural rendering.
 
 ## Contributing
 
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls). Feedback and contributions are welcome!
+Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-neural-rendering/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format provided below.
 
-markdown format:
 ```Markdown
 **Here is the Paper Name.**<br>
 *[Author 1](homepage), Author 2, and Author 3.*<br>
@@ -389,6 +388,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
 
+**DINER: Disorder-Invariant Implicit Neural Representation.**<br>
+*Shaowen Xie, Hao Zhu, Zhen Liu, Qi Zhang, You Zhou, Xun Cao, Zhan Ma.*<br>
+CVPR 2023 (Highlight). [[PDF](https://arxiv.org/abs/2211.07871)] 
+
 **Balanced Spherical Grid for Egocentric View Synthesis.**<br>
 *[Changwoon Choi](https://changwoon.info) Sang Min Kim, Young Min Kim.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2303.12408)] [[Project](https://changwoon.info/publications/EgoNeRF)] [[Github](https://github.com/changwoonchoi/EgoNeRF)] [[Data](https://drive.google.com/drive/u/4/folders/1kqLAATjSSDwfLHI5O7RTfM9NOUi7PvcK)]
@@ -397,9 +400,25 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2303.12408)] [[Project](https://changwoo
 *Yue Chen, Xingyu Chen, Xuan Wang, Qi Zhang, Yu Guo, Ying Shan, Fei Wang.*<br> 
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.11505)] [[Project](https://rover-xingyu.github.io/L2G-NeRF/)] [[Github](https://github.com/rover-xingyu/L2G-NeRF)]
 
+**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields.**<br>
+*Peng Wang, Lingzhe Zhao, Ruijie Ma, Peidong Liu.*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12853)]
+
+**SPARF: Neural Radiance Fields from Sparse and Noisy Poses.**<br>
+*Prune Truong, Marie-Julie Rakotosaona, Fabian Manhardt, Federico Tombari.*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.11738)]
+
+**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures.**<br>
+*Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or.*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.07600)]
+
 **UV Volumes for Real-time Rendering of Editable Free-view Human Performance.**<br>
 *[Yue Chen](https://fanegg.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Xingyu Chen](http://rover-xingyu.github.io/), [Qi Zhang](https://qzhang-cv.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yu Guo](https://yuguo-xjtu.github.io/), [Jue Wang](https://juewang725.github.io/), [Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm).*<br>
 CVPR 2023. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
+
+**PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
+*[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
 
 **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition.**<br>
 *Jiaxiang Tang, Kaisiyuan Wang, Hang Zhou, Xiaokang Chen, Dongliang He, Tianshu Hu, Jingtuo Liu, Gang Zeng, Jingdong Wang.*<br> 
@@ -413,18 +432,6 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2211.13223)]
 **LISA: Localized Image Stylization with Audio via Implicit Neural Representation.**<br>
 *Seung Hyun Lee, Chanyoung Kim, Wonmin Byeon, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim.*<br> 
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.11381)]
-
-**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields.**<br>
-*Peng Wang, Lingzhe Zhao, Ruijie Ma, Peidong Liu.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.12853)]
-
-**SPARF: Neural Radiance Fields from Sparse and Noisy Poses.**<br>
-*Prune Truong, Marie-Julie Rakotosaona, Fabian Manhardt, Federico Tombari.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.11738)]
-
-**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures.**<br>
-*Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or.*<br> 
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.07600)]
 
 **ParticleNeRF: Particle Based Encoding for Online Neural Radiance Fields in Dynamic Scenes.**<br>
 *Jad Abou-Chakra, Feras Dayoub, Niko Sünderhauf.*<br> 
@@ -449,10 +456,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.15947)] [[Project](https://lsongx.
 **ProbNeRF: Uncertainty-Aware Inference of 3D Shapes from 2D Images.**<br>
 *Matthew D. Hoffman, Tuan Anh Le, Pavel Sountsov, Christopher Suter, Ben Lee, Vikash K. Mansinghka, Rif A. Saurous.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.17415)]
-
-**PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
-*[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
 
 **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video.**<br>
 *Xuan Gao, Chenglai Zhong, Jun Xiang, Yang Hong, Yudong Guo, Juyong Zhang.*<br> 
