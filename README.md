@@ -382,11 +382,7 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 ## Implicit Neural Representation and Rendering
 
-[[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)]
-
-[[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
-
-[[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]
+There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
 **DINER: Disorder-Invariant Implicit Neural Representation.**<br>
 *Shaowen Xie, Hao Zhu, Zhen Liu, Qi Zhang, You Zhou, Xun Cao, Zhan Ma.*<br>
@@ -419,6 +415,14 @@ CVPR 2023. [[PDF](https://arxiv.org/pdf/2203.14402.pdf)] [[Project](https://fane
 **PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
 *[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Github]()]
+
+**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields.**<br>
+*Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06706v1)] [[Link](https://jonbarron.info/zipnerf/)]
+
+**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction.**<br>
+*Hansheng Chen, Jiatao Gu, Anpei Chen, Wei Tian, Zhuowen Tu, Lingjie Liu, Hao Su.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06714v1)] [[Link](https://lakonik.github.io/ssdnerf)]
 
 **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition.**<br>
 *Jiaxiang Tang, Kaisiyuan Wang, Hang Zhou, Xiaokang Chen, Dongliang He, Tianshu Hu, Jingtuo Liu, Gang Zeng, Jingdong Wang.*<br> 
