@@ -384,6 +384,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
+**Differentiable Rendering with Reparameterized Volume Sampling.**<br>
+*Nikita Morozov, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky.*<br>
+ICLR 2023 Wokrshop [Neural Fields across Fields](https://sites.google.com/view/neural-fields/). [[PDF](https://arxiv.org/abs/2302.10970)] [[Github](https://github.com/GreatDrake/reparameterized-volume-sampling)]
+
 **DINER: Disorder-Invariant Implicit Neural Representation.**<br>
 *Shaowen Xie, Hao Zhu, Zhen Liu, Qi Zhang, You Zhou, Xun Cao, Zhan Ma.*<br>
 CVPR 2023 (Highlight). [[PDF](https://arxiv.org/abs/2211.07871)] 
