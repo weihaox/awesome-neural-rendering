@@ -166,6 +166,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03303)]
 
 ## Differentiable Rendering
 
+**Differentiable Rendering with Reparameterized Volume Sampling.**<br>
+*Nikita Morozov, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky.*<br>
+ICLR 2023 Workshops on [Neural Fields across Fields](https://sites.google.com/view/neural-fields/). [[PDF](https://arxiv.org/abs/2302.10970)] [[Github](https://github.com/GreatDrake/reparameterized-volume-sampling)]
+
 **ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization**. <br>
 *Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon*<br>
 ECCV 2022. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
@@ -384,13 +388,33 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
-**Differentiable Rendering with Reparameterized Volume Sampling.**<br>
-*Nikita Morozov, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky.*<br>
-ICLR 2023 Wokrshop [Neural Fields across Fields](https://sites.google.com/view/neural-fields/). [[PDF](https://arxiv.org/abs/2302.10970)] [[Github](https://github.com/GreatDrake/reparameterized-volume-sampling)]
+**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis.**<br>
+*[Ziyu Wan](http://raywzy.com/), [Christian Richardt](https://richardt.name/), [Aljaž Božič](https://aljazbozic.github.io/), [Chao Li](https://mrbetacat.github.io/), [Vijay Rengarajan](https://apvijay.github.io/), [Seonghyeon Nam](https://shnnam.github.io/), [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1), Tuotuo Li, Bo Zhu, Rakesh Ranjan, [Jing Liao](https://liaojing.github.io/html/index.html).*<br>
+CVPR 2023 (Highlight). [[PDF](http://raywzy.com/NDRF/2023_NDRF.pdf)] [[Project](http://raywzy.com/NDRF/)]
+
+**F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories.**<br>
+*[Peng Wang](https://nearlyemptystring.com/about), [Yuan Liu](https://liuyuan-pal.github.io/), [Zhaoxi Chen](https://frozenburning.github.io/), [Lingjie Liu](https://lingjie0206.github.io/), [Ziwei Liu](https://liuziwei7.github.io/), [Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping).*<br>
+CVPR 2023 (highlight). [[PDF](https://arxiv.org/abs/2303.15951)] [[Project](https://totoro97.github.io/projects/f2-nerf)] [[Github](https://github.com/Totoro97/f2-nerf)] [[Data](https://www.dropbox.com/sh/jmfao2c4dp9usji/AAC7Ydj6rrrhy1-VvlAVjyE_a?dl=0)]
+
+**NeUDF: Leaning Neural Unsigned Distance Fields with Volume Rendering.**<br>
+*Yu-Tao Liu, Li Wang, Jie yang, Weikai Chen, Xiaoxu Meng, Bo Yang, Lin Gao.*<br>
+CVPR 2023 (Highlight). [[PDF](https://arxiv.org/abs/2304.10080)] [[Project](http://geometrylearning.com/neudf/)]
 
 **DINER: Disorder-Invariant Implicit Neural Representation.**<br>
 *Shaowen Xie, Hao Zhu, Zhen Liu, Qi Zhang, You Zhou, Xun Cao, Zhan Ma.*<br>
 CVPR 2023 (Highlight). [[PDF](https://arxiv.org/abs/2211.07871)] 
+
+**MonoHuman: Animatable Human Neural Field from Monocular Video.**<br>
+*Zhengming Yu, Wei Cheng, Xian Liu, Wayne Wu, Kwan-Yee Lin.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2304.02001)] [[Project](https://yzmblog.github.io/projects/MonoHuman/)]
+
+**FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views.**<br>
+*Vinoj Jayasundara, Amit Agrawal, Nicolas Heron, Abhinav Shrivastava, Larry S. Davis.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.14368)]
+
+**HumanGen: Generating Human Radiance Fields with Explicit Priors.**<br>
+*Suyi Jiang, Haoran Jiang, Ziyu Wang, Haimin Luo, Wenzheng Chen, Lan Xu.*<br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2212.05321)]
 
 **Balanced Spherical Grid for Egocentric View Synthesis.**<br>
 *[Changwoon Choi](https://changwoon.info) Sang Min Kim, Young Min Kim.*<br>
@@ -2635,7 +2659,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.01158)]
 
 **Human Motion Transfer from Poses in the Wild.**<br>
 *Jian Ren, Menglei Chai, Sergey Tulyakov, Chen Fang, Xiaohui Shen, Jianchao Yang.*<br>
-ECCV 2020 Workshop. [[PDF](https://arxiv.org/abs/2004.03142)]
+ECCV 2020 Workshops. [[PDF](https://arxiv.org/abs/2004.03142)]
 
 **Local Motion Phases for Learning Multi-Contact Character Movements.**<br>
 *[Sebastian Starke](https://www.linkedin.com/in/sebastian-starke-b281a6148/), Yiwei Zhao, Taku Komura, Kazi Zaman.*<br>
@@ -2667,7 +2691,7 @@ FG 2020. [[PDF](https://arxiv.org/abs/2006.10500)]
 
 **FaR-GAN for One-Shot Face Reenactment.**<br>
 *Hanxiang Hao, Sriram Baireddy, Amy R. Reibman, Edward J. Delp.*<br>
-AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.06402)]
+CVPR 2020 workshops on AI for Content Creation . [[PDF](https://arxiv.org/abs/2005.06402)]
 
 **Skeleton-Aware Networks for Deep Motion Retargeting.**<br>
 *Kfir Aberman, Peizhuo Li, Dani Lischinski, Olga Sorkine-Hornung, Daniel Cohen-Or, Baoquan Chen.*<br>
