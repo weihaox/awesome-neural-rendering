@@ -78,6 +78,10 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2302.04264)] [[Project](https://docs.ne
 
 ## Neural Inverse Rendering (Neural De-rendering)
 
+**TensoIR: Tensorial Inverse Rendering.**<br>
+*Haian Jin, Isabella Liu, Peijia Xu, Xiaoshuai Zhang, Songfang Han, Sai Bi, Xiaowei Zhou, Zexiang Xu, Hao Su.*<br> 
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.12461)] [[Project](https://haian-jin.github.io/TensoIR)]
+
 **GAN2X: Non-Lambertian Inverse Rendering of Image GANs.**<br>
 *[Xingang Pan](https://xingangpan.github.io/), [Ayush Tewari](https://ayushtewari.com/), [Lingjie Liu](https://lingjie0206.github.io/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
 3DV 2022. [[PDF](https://arxiv.org/abs/2206.09244)] [[Project](https://people.mpi-inf.mpg.de/~xpan/GAN2X/)]
@@ -404,9 +408,21 @@ CVPR 2023 (Highlight). [[PDF](https://arxiv.org/abs/2304.10080)] [[Project](http
 *Shaowen Xie, Hao Zhu, Zhen Liu, Qi Zhang, You Zhou, Xun Cao, Zhan Ma.*<br>
 CVPR 2023 (Highlight). [[PDF](https://arxiv.org/abs/2211.07871)] 
 
+**Local Implicit Ray Function for Generalizable Radiance Field Representation.**<br>
+*Xin Huang, Qi Zhang, Ying Feng, Xiaoyu Li, Xuan Wang, Qing Wang.*<br> 
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.12746)] [[Project](https://xhuangcv.github.io/lirf/)]
+
+**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization.**<br>
+*[Jiawei Yang](https://jiawei-yang.github.io/), [Marco Pavone](https://web.stanford.edu/~pavone/index.html), [Yue Wang](https://yuewang.xyz/).*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.07418)] [[Project](https://jiawei-yang.github.io/FreeNeRF/)] [[Github](https://github.com/Jiawei-Yang/FreeNeRF)]
+
+**ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision.**<br>
+*[Jingwang Ling](https://gerwang.github.io/), [Zhibo Wang](https://sireer.github.io/), [Feng Xu](http://xufeng.site/).*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.14086)] [[Project](https://gerwang.github.io/shadowneus/)] [[Github](https://github.com/gerwang/ShadowNeuS)] [[Dataset](https://drive.google.com/drive/folders/1Sr30kdvCD2tXNAONzcnF5xnoMXasylyA)]
+
 **Implicit Neural Head Synthesis Via Controllable Local Deformation Fields.**<br>
 *Chuhan Chen, Matthew O'Toole, Gaurav Bharaj, Pablo Garrido.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11113v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11113)]
 
 **MonoHuman: Animatable Human Neural Field from Monocular Video.**<br>
 *Zhengming Yu, Wei Cheng, Xian Liu, Wayne Wu, Kwan-Yee Lin.*<br>
@@ -450,23 +466,27 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs
 
 **Implicit Neural Head Synthesis Via Controllable Local Deformation Fields.**<br>
 *Chuhan Chen, Matthew O'Toole, Gaurav Bharaj, Pablo Garrido.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11113v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11113)]
 
 **Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting.**<br>
 *Ruichen Zheng, Peng Li, Haoqian Wang, Tao Yu.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900)]
 
 **ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects.**<br>
 *Marco Toschi, Riccardo De Matteo, Riccardo Spezialetti, Daniele De Gregorio, Luigi Di Stefano, Samuele Salti.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2304.10448v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2304.10448)]
+
+**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs.**<br>
+*Jiteng Mu, Shen Sang, Nuno Vasconcelos, Xiaolong Wang.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.14401)] [[Project](https://jitengmu.github.io/ActorsNeRF/)]
 
 **Explicit Correspondence Matching for Generalizable Neural Radiance Fields.**<br>
 *Yuedong Chen, Haofei Xu, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.12294v1)] [[Github](https://github.com/donydchen/matchnerf)] [[Project](https://donydchen.github.io/matchnerf/)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.12294)] [[Github](https://github.com/donydchen/matchnerf)] [[Project](https://donydchen.github.io/matchnerf/)]
 
 **Segment Anything in 3D with NeRFs.**<br>
-*Jiazhong Cen, Zanwei Zhou, Jiemin Fang, Wei Shen, Lingxi Xie, Xiaopeng Zhang, Qi Tian.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.12308v1)] [[Project](https://jumpat.github.io/SA3D/)]
+*[Jiazhong Cen](https://github.com/Jumpat), [Zanwei Zhou](https://github.com/Zanue), [Jiemin Fang](https://jaminfong.cn/), [Wei Shen](https://shenwei1231.github.io/), [Lingxi Xie](http://lingxixie.com/), [Dongsheng Jiang](https://sites.google.com/site/dongshengjiangbme/), [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/), [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ).*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.12308)] [[Project](https://jumpat.github.io/SA3D/)] [[Github](https://github.com/Jumpat/SegmentAnythingin3D)]
 
 **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs.**<br>
 *[Frederik Warburg](https://frederikwarburg.github.io/), [Ethan Weber](https://ethanweber.me/), [Matthew Tancik](https://www.matthewtancik.com/), [Aleksander Holynski](https://holynski.org/), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/).*<br> 
@@ -474,11 +494,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.10532)] [[Project](https://ethanwe
 
 **Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields.**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06706v1)] [[Project](https://jonbarron.info/zipnerf/)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06706)] [[Project](https://jonbarron.info/zipnerf/)]
 
 **Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction.**<br>
 *Hansheng Chen, Jiatao Gu, Anpei Chen, Wei Tian, Zhuowen Tu, Lingjie Liu, Hao Su.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06714v1)] [[Project](https://lakonik.github.io/ssdnerf)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.06714)] [[Project](https://lakonik.github.io/ssdnerf)]
 
 **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition.**<br>
 *Jiaxiang Tang, Kaisiyuan Wang, Hang Zhou, Xiaokang Chen, Dongliang He, Tianshu Hu, Jingtuo Liu, Gang Zeng, Jingdong Wang.*<br> 
@@ -2332,7 +2352,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12642)]
 
 **DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.**<br>
 *Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
+CVPR 2020. [[PDF](https://arxiv.org/pdf/1911.11530.pdf)]
 
 **Learning to Shade Hand-drawn Sketches.**<br>
 *Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
@@ -2731,7 +2751,7 @@ SIGGRAPH 2020. [[Github](https://github.com/DeepMotionEditing/deep-motion-editin
 
 **LipGAN: Towards Automatic Face-to-Face Translation.**<br>
 *Prajwal K R, Rudrabha Mukhopadhyay, Jerin Philip, Abhishek Jha, Vinay Namboodiri, C.V. Jawahar.*<br>
-ACM MM 2019. [[PDF](https://arxiv.org/abs/2003.00418v1)] [[Github](https://github.com/Rudrabha/LipGAN)]
+ACM MM 2019. [[PDF](https://arxiv.org/abs/2003.00418)] [[Github](https://github.com/Rudrabha/LipGAN)]
 
 **One-Shot Identity-Preserving Portrait Reenactment.**<br>
 *Sitao Xiang, Yuming Gu, Pengda Xiang, Mingming He, Koki Nagano, Haiwei Chen, Hao Li.*<br>
