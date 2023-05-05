@@ -392,6 +392,18 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
+**Live 3D Portrait: Real-Time Radiance Fields for Single-Image Portrait View Synthesis.**<br>
+*Alex Trevithick, Matthew Chan, Michael Stengel, Eric R. Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano.*<br>
+SIGGRAPH 2023 (ACM Transactions on Graphics). [[PDF](https://research.nvidia.com/labs/nxp/lp3d//media/paper.pdf)] [[Project](https://research.nvidia.com/labs/nxp/lp3d//)] [[Github]()]
+
+**3D Gaussian Splatting for Real-Time Radiance Field Rendering.**<br>
+*[Bernhard Kerbl](https://scholar.google.at/citations?user=jeasMB0AAAAJ&hl=en), [Georgios Kopanas](https://grgkopanas.github.io/), [Thomas Leimkühler](https://people.mpi-inf.mpg.de/~tleimkue/), [George Drettakis](https://people.mpi-inf.mpg.de/~tleimkue/).*<br>
+SIGGRAPH 2023. [[PDF](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf)] [[Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Github]()]
+
+**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields.**<br>
+*[Nagabhushan Somraj](https://nagabhushansn95.github.io/index.html), [Rajiv Soundararajan](https://ece.iisc.ac.in/~rajivs).*<br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.00041)] [[Project](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html)] [[Github](https://github.com/NagabhushanSN95/ViP-NeRF)] [[Slides](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html)]
+
 **Learning Neural Duplex Radiance Fields for Real-Time View Synthesis.**<br>
 *[Ziyu Wan](http://raywzy.com/), [Christian Richardt](https://richardt.name/), [Aljaž Božič](https://aljazbozic.github.io/), [Chao Li](https://mrbetacat.github.io/), [Vijay Rengarajan](https://apvijay.github.io/), [Seonghyeon Nam](https://shnnam.github.io/), [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1), Tuotuo Li, Bo Zhu, Rakesh Ranjan, [Jing Liao](https://liaojing.github.io/html/index.html).*<br>
 CVPR 2023 (Highlight). [[PDF](http://raywzy.com/NDRF/2023_NDRF.pdf)] [[Project](http://raywzy.com/NDRF/)]
@@ -475,6 +487,31 @@ CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900)]
 **ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects.**<br>
 *Marco Toschi, Riccardo De Matteo, Riccardo Spezialetti, Daniele De Gregorio, Luigi Di Stefano, Samuele Salti.*<br> 
 CVPR 2023. [[PDF](http://arxiv.org/abs/2304.10448)]
+
+**Shap-E: Generating Conditional 3D Implicit Functions.**<br>
+*Heewoo Jun, Alex Nichol.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02463v1)]
+
+**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads.**<br>
+*Tobias Kirschstein, Shenhan Qian, Simon Giebenhain, Tim Walter, Matthias Nießner.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03027v1)] [[Project](https://tobias-kirschstein.github.io/nersemble/)]
+[[Link](https://youtu.be/a-OAWqBzldU)]
+
+**TUVF: Learning Generalizable Texture UV Radiance Fields.**<br>
+*An-Chieh Cheng, Xueting Li, Sifei Liu, Xiaolong Wang.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03040v1)] [[Project](https://www.anjiecheng.me/TUVF)]
+
+**NeuralEditor: Editing Neural Radiance Fields Via Manipulating Point Clouds.**<br>
+*Jun-Kun Chen, Jipeng Lyu, Yu-Xiong Wang.*<br> 
+CVPR 2023. [[PDF](http://arxiv.org/abs/2305.03049v1)]
+
+**Real-Time Radiance Fields for Single-Image Portrait View Synthesis.**<br>
+*Alex Trevithick, Matthew Chan, Michael Stengel, Eric R. Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02310v1)] [[Project](https://research.nvidia.com/labs/nxp/lp3d/)]
+
+**Learning a Diffusion Prior for NeRFs.**<br>
+*Guandao Yang, Abhijit Kundu, Leonidas J. Guibas, Jonathan T. Barron, Ben Poole.*<br> 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2304.14473)] 
 
 **ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs.**<br>
 *Jiteng Mu, Shen Sang, Nuno Vasconcelos, Xiaolong Wang.*<br> 
