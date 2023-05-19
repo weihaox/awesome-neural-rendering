@@ -392,6 +392,10 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
+**3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models.**<br>
+*[Biao Zhang](https://1zb.github.io/), [Jiapeng Tang](https://tangjiapeng.github.io/), [Matthias Niessner](https://www.niessnerlab.org/), [Peter Wonka](http://peterwonka.net/).*<br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2301.11445)] [[Project](https://1zb.github.io/3DShape2VecSet/)] [[Github](https://github.com/1zb/3DShape2VecSet)]
+
 **HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion.**<br>
 *[Mustafa Işık](https://www.mustafaisik.net/), Martin Rünz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nießner.*<br> 
 SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.06356)] [[Project](http://www.synthesiaresearch.github.io/humanrf)] [[Data](http://www.actors-hq.com/)]
@@ -412,9 +416,29 @@ SIGGRAPH 2023. [[PDF](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3
 *[Nagabhushan Somraj](https://nagabhushansn95.github.io/index.html), [Rajiv Soundararajan](https://ece.iisc.ac.in/~rajivs).*<br>
 SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.00041)] [[Project](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html)] [[Github](https://github.com/NagabhushanSN95/ViP-NeRF)] [[Slides](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html)]
 
+**SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields.**<br>
+*Lin Gao, Feng-Lin Liu, Shu-Yu Chen, Kaiwen Jiang, Chunpeng Li, Yu-Kun Lai, [Hongbo Fu](https://sweb.cityu.edu.hk/hongbofu/).*<br>
+SIGGRAPH 2023. [[PDF](https://orca.cardiff.ac.uk/id/eprint/159468/1/NeRFFaceSketch_SIG23.pdf)] 
+
+**DE-NeRF: DEcoupled Neural Radiance Fields for View-Consistent Appearance Editing and High-Frequency Environmental Relighting.**<br>
+*Tong Wu, Jia-Mu Sun, Yu-Kun Lai, Lin Gao.*<br>
+SIGGRAPH 2023. [[PDF]()]
+
+**NeRF-Texture: Texture Synthesis with Neural Radiance Fields.**<br>
+*Yi-Hua Huang, Yan-Pei Cao, Yu-Kun Lai, Ying Shan, Lin Gao.*<br>
+SIGGRAPH 2023. [[PDF]()]
+
+**NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields.**<br>
+*Kaiwen Jiang, Shu-Yu Chen, Hongbo Fu, Lin Gao.*<br>
+TOG 2023. [[PDF]()]
+
 **General Neural Gauge Fields.**<br>
 *Fangneng Zhan, Lingjie Liu, Adam Kortylewski, Christian Theobalt.*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2305.03462)]
+
+**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images.**<br> 
+*[Yunfan Ye](https://yunfan1202.github.io/), [Renjiao Yi](https://renjiaoyi.github.io/), [Zhirui Gao](https://yunfan1202.github.io/NEF/), [Chenyang Zhu](http://www.zhuchenyang.net/), Zhiping Cai, [Kai Xu](http://kevinkaixu.net/).*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.07653)] [[Project](https://yunfan1202.github.io/NEF/)] [[Github](https://github.com/yunfan1202/NEF_code)]
 
 **PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces.**<br> 
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka.*<br> 
