@@ -450,7 +450,7 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2303.14001)] [[Project](https://city-sup
 
 **Multi-Space Neural Radiance Fields.**<br>
 *Ze-Xin Yin, Jiaxiong Qiu, Ming-Ming Cheng, Bo Ren.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2305.04268v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2305.04268)]
 
 **Learning Neural Duplex Radiance Fields for Real-Time View Synthesis.**<br>
 *[Ziyu Wan](http://raywzy.com/), [Christian Richardt](https://richardt.name/), [Aljaž Božič](https://aljazbozic.github.io/), [Chao Li](https://mrbetacat.github.io/), [Vijay Rengarajan](https://apvijay.github.io/), [Seonghyeon Nam](https://shnnam.github.io/), [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1), Tuotuo Li, Bo Zhu, Rakesh Ranjan, [Jing Liao](https://liaojing.github.io/html/index.html).*<br>
@@ -536,22 +536,34 @@ CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900)]
 *Marco Toschi, Riccardo De Matteo, Riccardo Spezialetti, Daniele De Gregorio, Luigi Di Stefano, Samuele Salti.*<br> 
 CVPR 2023. [[PDF](http://arxiv.org/abs/2304.10448)]
 
+**Deceptive-NeRF: Enhancing NeRF Reconstruction Using Pseudo-Observations from Diffusion Models.**<br>
+*Xinhang Liu, Shiu-hong Kao, Jiaben Chen, Yu-Wing Tai, Chi-Keung Tang.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15171)]
+
+**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields.**<br>
+*Dongqing Wang, Tong Zhang, Alaa Abboud, Sabine Süsstrunk.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15094)]
+
+**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields.**<br>
+*Zhiwen Yan, Chen Li, Gim Hee Lee.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.14831)]
+
 **Shap-E: Generating Conditional 3D Implicit Functions.**<br>
 *Heewoo Jun, Alex Nichol.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02463v1)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02463)]
 
 **NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads.**<br>
 *Tobias Kirschstein, Shenhan Qian, Simon Giebenhain, Tim Walter, Matthias Nießner.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03027v1)] [[Project](https://tobias-kirschstein.github.io/nersemble/)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03027)] [[Project](https://tobias-kirschstein.github.io/nersemble/)]
 [[Link](https://youtu.be/a-OAWqBzldU)]
 
 **TUVF: Learning Generalizable Texture UV Radiance Fields.**<br>
 *An-Chieh Cheng, Xueting Li, Sifei Liu, Xiaolong Wang.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03040v1)] [[Project](https://www.anjiecheng.me/TUVF)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03040)] [[Project](https://www.anjiecheng.me/TUVF)]
 
 **NeuralEditor: Editing Neural Radiance Fields Via Manipulating Point Clouds.**<br>
 *Jun-Kun Chen, Jipeng Lyu, Yu-Xiong Wang.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2305.03049v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2305.03049)]
 
 **NerfAcc: Efficient Sampling Accelerates NeRFs.**<br> 
 *Ruilong Li, Hang Gao, Matthew Tancik, Angjoo Kanazawa.*<br> 
@@ -559,7 +571,7 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2305.04966)] [[Project](https://www.ner
 
 **Real-Time Radiance Fields for Single-Image Portrait View Synthesis.**<br>
 *Alex Trevithick, Matthew Chan, Michael Stengel, Eric R. Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02310v1)] [[Project](https://research.nvidia.com/labs/nxp/lp3d/)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02310)] [[Project](https://research.nvidia.com/labs/nxp/lp3d/)]
 
 **Learning a Diffusion Prior for NeRFs.**<br>
 *Guandao Yang, Abhijit Kundu, Leonidas J. Guibas, Jonathan T. Barron, Ben Poole.*<br> 
@@ -2298,7 +2310,7 @@ CVPR 2023. [[PDF](http://arxiv.org/abs/2304.10448)]
 
 **Controllable Light Diffusion for Portraits.**<br>
 *David Futschik, Kelvin Ritland, James Vecore, Sean Fanello, Sergio Orts-Escolano, Brian Curless, Daniel Sýkora, Rohit Pandey.*<br> 
-CVPR 2023. [[PDF](http://arxiv.org/abs/2305.04745v1)]
+CVPR 2023. [[PDF](http://arxiv.org/abs/2305.04745)]
 
 **SunStage: Portrait Reconstruction and Relighting Using The Sun as A Light Stage.**<br>
 *[Yifan Wang](https://homes.cs.washington.edu/~yifan1), [Aleksander Holynski](https://homes.cs.washington.edu/~holynski), [Xiuming Zhang](https://xiuming.info/), [Xuaner Cecilia Zhang](https://ceciliavision.github.io/).*<br>
