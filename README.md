@@ -536,6 +536,23 @@ CVPR 2023. [[PDF](http://arxiv.org/abs/2304.11900)]
 *Marco Toschi, Riccardo De Matteo, Riccardo Spezialetti, Daniele De Gregorio, Luigi Di Stefano, Samuele Salti.*<br> 
 CVPR 2023. [[PDF](http://arxiv.org/abs/2304.10448)]
 
+**HyP-NeRF: Learning Improved NeRF Priors Using A HyperNetwork.**<br>
+*Bipasha Sen, Gaurav Singh, Aditya Agarwal, Rohith Agaram, K Madhava Krishna, Srinath Sridhar.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.06093)]
+
+**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields.**<br>
+*Barbara Roessle, Norman Müller, Lorenzo Porzi, Samuel Rota Bulò, Peter Kontschieder, Matthias Nießner.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.06044)]
+[[Link](https://youtu.be/EUWW8nUxpl0)]
+
+**FlowCam: Training Generalizable 3D Radiance Fields Without Camera Poses Via Pixel-Aligned Scene Flow.**<br>
+*Cameron Smith, Yilun Du, Ayush Tewari, Vincent Sitzmann.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2306.00180)] [[Project](http://cameronosmith.github.io/flowcam)]
+
+**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation.**<br>
+*Jiuhn Song, Seonghoon Park, Honggyu An, Seokju Cho, Min-Seop Kwak, Sungjin Cho, Seungryong Kim.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.19201)] [[Project](https://ku-cvlab.github.io/DaRF/)]
+
 **Deceptive-NeRF: Enhancing NeRF Reconstruction Using Pseudo-Observations from Diffusion Models.**<br>
 *Xinhang Liu, Shiu-hong Kao, Jiaben Chen, Yu-Wing Tai, Chi-Keung Tang.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15171)]
@@ -555,7 +572,7 @@ arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02463)]
 **NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads.**<br>
 *Tobias Kirschstein, Shenhan Qian, Simon Giebenhain, Tim Walter, Matthias Nießner.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03027)] [[Project](https://tobias-kirschstein.github.io/nersemble/)]
-[[Link](https://youtu.be/a-OAWqBzldU)]
+[[Demo](https://youtu.be/a-OAWqBzldU)]
 
 **TUVF: Learning Generalizable Texture UV Radiance Fields.**<br>
 *An-Chieh Cheng, Xueting Li, Sifei Liu, Xiaolong Wang.*<br> 
