@@ -392,6 +392,22 @@ TOG 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
+**Strivec: Sparse Tri-Vector Radiance Fields.**<br>
+*[Quankai Gao](https://zerg-overmind.github.io/), Qiangeng Xu, Hao Su, Ulrich Neumann, Zexiang Xu.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2307.13226)] [[Github](https://github.com/Zerg-Overmind/Strivec)]
+
+**Factor Fields: A Unified Framework for Neural Fields and Beyond.**<br>
+*Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2302.01226)] [[Project](https://apchenstu.github.io/FactorFields/)] [[Github](https://github.com/autonomousvision/factor-fields)]
+
+**Dictionary Fields: Learning a Neural Basis Decomposition.**<br>
+*Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger.*<br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2302.01226)]  [[Project](https://apchenstu.github.io/FactorFields/)] [[Github](https://github.com/autonomousvision/factor-fields)]
+
+**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction.**<br>
+*Hansheng Chen, Jiatao Gu, Anpei Chen, Wei Tian, Zhuowen Tu, Lingjie Liu, Hao Su.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2304.06714)] [[Project](https://lakonik.github.io/ssdnerf/)] [[Github](https://github.com/Lakonik/SSDNeRF)]
+
 **3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models.**<br>
 *[Biao Zhang](https://1zb.github.io/), [Jiapeng Tang](https://tangjiapeng.github.io/), [Matthias Niessner](https://www.niessnerlab.org/), [Peter Wonka](http://peterwonka.net/).*<br>
 SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2301.11445)] [[Project](https://1zb.github.io/3DShape2VecSet/)] [[Github](https://github.com/1zb/3DShape2VecSet)]
