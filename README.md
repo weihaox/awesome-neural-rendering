@@ -2332,6 +2332,14 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Github](https://githu
 
 ## Light, Reflectance, Illuminance, and Shade
 
+**NeuBTF: Neural Fields for BTF Encoding and Transfer.**<br>
+*Carlos Rodriguez-Pardo, Konstantinos Kazatzis, Jorge Lopez-Moreno, Elena Garces*<br> 
+Computers & Graphics 2023. [[PDF](https://carlosrodriguezpardo.es/projects/NeuBTF/assets/pdf/paper.pdf)] [[Project](https://carlosrodriguezpardo.es/projects/NeuBTF/)]
+
+**NEnv: Neural Environment Maps for Global Illumination.**<br>
+*Carlos Rodriguez-Pardo*, Javier Fabre*, Elena Garces, Jorge Lopez-Moreno*<br> 
+EGSR 2023. [[PDF](http://mslab.es/projects/NEnv/contents/paper.pdf)] [[Project](http://mslab.es/projects/NEnv/)] [[Github](https://github.com/seddi-research/NEnv)] [[Dataset](http://javierfabre.com/nenv/index.html)]
+
 **Relightify: Relightable 3D Faces from A Single Image Via Diffusion Models.**<br>
 *Foivos Paraperas Papantoniou, Alexandros Lattas, Stylianos Moschoglou, Stefanos Zafeiriou.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2305.06077)]
