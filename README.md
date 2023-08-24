@@ -396,6 +396,14 @@ There are several helpful introductions and paper collections on this topic: [[A
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman.*<br> 
 ICCV 2023 (Oral). [[PDF](http://arxiv.org/abs/2304.06706)] [[Project](https://jonbarron.info/zipnerf/)]
 
+**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields.**<br>
+*Hyeonseop Song, Seokhun Choi, Hoseok Do, Chul Lee, Taehyeong Kim.*<br> 
+ICCV 2023. [[PDF](https://arxiv.org/abs/2308.11974)]
+
+**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs.**<br>
+*[Frederik Warburg](https://frederikwarburg.github.io/), [Ethan Weber](https://ethanweber.me/), [Matthew Tancik](https://www.matthewtancik.com/), [Aleksander Holynski](https://holynski.org/), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/).*<br> 
+ICCV 2023. [[PDF](https://arxiv.org/abs/2304.10532)] [[Project](https://ethanweber.me/nerfbusters/)] [[Github](https://github.com/ethanweber/nerfbusters)] [[nerfstudio page](https://docs.nerf.studio/en/latest/)]
+
 **Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction.**<br>
 *Hansheng Chen, Jiatao Gu, Anpei Chen, Wei Tian, Zhuowen Tu, Lingjie Liu, Hao Su.*<br> 
 ICCV 2023. [[PDF](http://arxiv.org/abs/2304.06714)] [[Project](https://lakonik.github.io/ssdnerf)] [[Github](https://github.com/Lakonik/SSDNeRF)]
@@ -408,9 +416,17 @@ ICCV 2023. [[PDF](http://arxiv.org/abs/2304.14401)] [[Project](https://jitengmu.
 *[Quankai Gao](https://zerg-overmind.github.io/), Qiangeng Xu, Hao Su, Ulrich Neumann, Zexiang Xu.*<br>
 ICCV 2023. [[PDF](https://arxiv.org/abs/2307.13226)] [[Github](https://github.com/Zerg-Overmind/Strivec)]
 
+**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads.**<br>
+*Tobias Kirschstein, Shenhan Qian, Simon Giebenhain, Tim Walter, Matthias Nießner.*<br> 
+TOG 2023. [[PDF](http://arxiv.org/abs/2305.03027)] [[Project](https://tobias-kirschstein.github.io/nersemble/)] [[Demo](https://youtu.be/a-OAWqBzldU)]
+
 **CamP: Camera Preconditioning for Neural Radiance Fields.**<br>
 *Keunhong Park, Philipp Henzler, Ben Mildenhall, Jonathan T. Barron, Ricardo Martin-Brualla.*<br> 
 SIGGRAPH Asia 2023. [[PDF](http://arxiv.org/abs/2308.10902v1)] [[Project](https://camp-nerf.github.io)]
+
+**Live 3D Portrait: Real-Time Radiance Fields for Single-Image Portrait View Synthesis.**<br>
+*Alex Trevithick, Matthew Chan, Michael Stengel, Eric R. Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano.*<br> 
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2305.02310)] [[Project](https://research.nvidia.com/labs/nxp/lp3d/)]
 
 **Dictionary Fields: Learning a Neural Basis Decomposition.**<br>
 *Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger.*<br>
@@ -606,7 +622,7 @@ arXiv 2023. [[PDF](http://arxiv.org/abs/2305.19201)] [[Project](https://ku-cvlab
 
 **Deceptive-NeRF: Enhancing NeRF Reconstruction Using Pseudo-Observations from Diffusion Models.**<br>
 *Xinhang Liu, Shiu-hong Kao, Jiaben Chen, Yu-Wing Tai, Chi-Keung Tang.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15171)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.15171)] [[Project](https://deceptive-nerf.github.io/)]
 
 **InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields.**<br>
 *Dongqing Wang, Tong Zhang, Alaa Abboud, Sabine Süsstrunk.*<br> 
@@ -620,21 +636,13 @@ arXiv 2023. [[PDF](http://arxiv.org/abs/2305.14831)]
 *Heewoo Jun, Alex Nichol.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02463)]
 
-**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads.**<br>
-*Tobias Kirschstein, Shenhan Qian, Simon Giebenhain, Tim Walter, Matthias Nießner.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03027)] [[Project](https://tobias-kirschstein.github.io/nersemble/)] [[Demo](https://youtu.be/a-OAWqBzldU)]
-
 **TUVF: Learning Generalizable Texture UV Radiance Fields.**<br>
 *An-Chieh Cheng, Xueting Li, Sifei Liu, Xiaolong Wang.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03040)] [[Project](https://www.anjiecheng.me/TUVF)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.03040)] [[Project](https://www.anjiecheng.me/TUVF)] [[Github](https://github.com/AnjieCheng/TUVF)]
 
 **NerfAcc: Efficient Sampling Accelerates NeRFs.**<br> 
 *Ruilong Li, Hang Gao, Matthew Tancik, Angjoo Kanazawa.*<br> 
 arxiv 2023. [[PDF](https://arxiv.org/abs/2305.04966)] [[Project](https://www.nerfacc.com/en/latest/)] [[Github](https://github.com/KAIR-BAIR/nerfacc)]
-
-**Real-Time Radiance Fields for Single-Image Portrait View Synthesis.**<br>
-*Alex Trevithick, Matthew Chan, Michael Stengel, Eric R. Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.02310)] [[Project](https://research.nvidia.com/labs/nxp/lp3d/)]
 
 **Learning a Diffusion Prior for NeRFs.**<br>
 *Guandao Yang, Abhijit Kundu, Leonidas J. Guibas, Jonathan T. Barron, Ben Poole.*<br> 
@@ -647,10 +655,6 @@ arXiv 2023. [[PDF](http://arxiv.org/abs/2304.12294)] [[Github](https://github.co
 **Segment Anything in 3D with NeRFs.**<br>
 *[Jiazhong Cen](https://github.com/Jumpat), [Zanwei Zhou](https://github.com/Zanue), [Jiemin Fang](https://jaminfong.cn/), [Wei Shen](https://shenwei1231.github.io/), [Lingxi Xie](http://lingxixie.com/), [Dongsheng Jiang](https://sites.google.com/site/dongshengjiangbme/), [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/), [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ).*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2304.12308)] [[Project](https://jumpat.github.io/SA3D/)] [[Github](https://github.com/Jumpat/SegmentAnythingin3D)]
-
-**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs.**<br>
-*[Frederik Warburg](https://frederikwarburg.github.io/), [Ethan Weber](https://ethanweber.me/), [Matthew Tancik](https://www.matthewtancik.com/), [Aleksander Holynski](https://holynski.org/), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/).*<br> 
-arXiv 2023. [[PDF](https://arxiv.org/abs/2304.10532)] [[Project](https://ethanweber.me/nerfbusters/)] [[Github](https://github.com/ethanweber/nerfbusters)] [[nerfstudio page](https://docs.nerf.studio/en/latest/)]
 
 **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition.**<br>
 *Jiaxiang Tang, Kaisiyuan Wang, Hang Zhou, Xiaokang Chen, Dongliang He, Tianshu Hu, Jingtuo Liu, Gang Zeng, Jingdong Wang.*<br> 
