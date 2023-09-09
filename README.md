@@ -396,6 +396,10 @@ There are several helpful introductions and paper collections on this topic: [[A
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman.*<br> 
 ICCV 2023 (Oral). [[PDF](http://arxiv.org/abs/2304.06706)] [[Project](https://jonbarron.info/zipnerf/)]
 
+**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes.**<br>
+*Muhammad Zubair Irshad, Sergey Zakharov, Katherine Liu, Vitor Guizilini, Thomas Kollar, Adrien Gaidon, Zsolt Kira, Rares Ambrus.*<br> 
+ICCV 2023. [[PDF](https://arxiv.org/abs/2308.12967)] [[Project](https://zubair-irshad.github.io/projects/neo360.html)]
+
 **Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields.**<br>
 *Hyeonseop Song, Seokhun Choi, Hoseok Do, Chul Lee, Taehyeong Kim.*<br> 
 ICCV 2023. [[PDF](https://arxiv.org/abs/2308.11974)]
@@ -422,7 +426,11 @@ TOG 2023. [[PDF](http://arxiv.org/abs/2305.03027)] [[Project](https://tobias-kir
 
 **CamP: Camera Preconditioning for Neural Radiance Fields.**<br>
 *Keunhong Park, Philipp Henzler, Ben Mildenhall, Jonathan T. Barron, Ricardo Martin-Brualla.*<br> 
-SIGGRAPH Asia 2023. [[PDF](http://arxiv.org/abs/2308.10902v1)] [[Project](https://camp-nerf.github.io)]
+SIGGRAPH Asia 2023. [[PDF](http://arxiv.org/abs/2308.10902)] [[Project](https://camp-nerf.github.io)]
+
+**Relighting Neural Radiance Fields with Shadow and Highlight Hints.**<br>
+*Chong Zeng, Guojun Chen, Yue Dong, Pieter Peers, Hongzhi Wu, Xin Tong.*<br> 
+SIGGRAPH 2023. [[PDF](http://arxiv.org/abs/2308.13404)] [[Project](https://nrhints.github.io/)]
 
 **Live 3D Portrait: Real-Time Radiance Fields for Single-Image Portrait View Synthesis.**<br>
 *Alex Trevithick, Matthew Chan, Michael Stengel, Eric R. Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano.*<br> 
@@ -450,7 +458,7 @@ SIGGRAPH 2023 (ACM Transactions on Graphics). [[PDF](https://research.nvidia.com
 
 **3D Gaussian Splatting for Real-Time Radiance Field Rendering.**<br>
 *[Bernhard Kerbl](https://scholar.google.at/citations?user=jeasMB0AAAAJ&hl=en), [Georgios Kopanas](https://grgkopanas.github.io/), [Thomas Leimkühler](https://people.mpi-inf.mpg.de/~tleimkue/), [George Drettakis](https://people.mpi-inf.mpg.de/~tleimkue/).*<br>
-SIGGRAPH 2023. [[PDF](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf)] [[Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Github]()]
+SIGGRAPH 2023 (Best Paper). [[PDF](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf)] [[Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Github](https://github.com/graphdeco-inria/gaussian-splatting)]
 
 **ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields.**<br>
 *[Nagabhushan Somraj](https://nagabhushansn95.github.io/index.html), [Rajiv Soundararajan](https://ece.iisc.ac.in/~rajivs).*<br>
