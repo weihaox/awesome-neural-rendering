@@ -488,6 +488,10 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2305.03462)]
 *[Yunfan Ye](https://yunfan1202.github.io/), [Renjiao Yi](https://renjiaoyi.github.io/), [Zhirui Gao](https://yunfan1202.github.io/NEF/), [Chenyang Zhu](http://www.zhuchenyang.net/), Zhiping Cai, [Kai Xu](http://kevinkaixu.net/).*<br> 
 CVPR 2023. [[PDF](https://arxiv.org/abs/2303.07653)] [[Project](https://yunfan1202.github.io/NEF/)] [[Github](https://github.com/yunfan1202/NEF_code)]
 
+**DyLiN: Making Light Field Networks Dynamic.**<br> 
+*[Heng Yu](https://heng14.github.io/), [Joel Julin](https://joeljulin.github.io/), Zoltán Á Milacski, Koichiro Niinuma, [László A. Jeni](https://www.laszlojeni.com/).*<br> 
+CVPR 2023. [[PDF](https://arxiv.org/abs/2303.14243)] [[Project](https://dylin2023.github.io/)] [[Github](https://github.com/Heng14/DyLiN)]
+
 **PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces.**<br> 
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka.*<br> 
 CVPR 2023. [[PDF](https://arxiv.org/abs/2305.05594)] [[Github](https://github.com/yiqun-wang/PET-NeuS)]
