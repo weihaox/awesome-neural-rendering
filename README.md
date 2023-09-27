@@ -852,7 +852,7 @@ CVPR 2022. [[PDF](https://minhpvo.github.io/)] [[Project](https://minhpvo.github
 CVPR 2022 (Oral). [[PDF](https://arxiv.org/abs/2202.08614)] [[Project](https://aoliao12138.github.io/FPO/)]
 
 **HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs.**<br>
-*Fuqiang Zhao, Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>                
+*Fuqiang Zhao, Wei Yang, Jiakai Zhang, Pei Lin, Yingliang Zhang, Jingyi Yu, Lan Xu.*<br>  
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.02789)]
 
 **Block-NeRF: Scalable Large Scene Neural View Synthesis.**<br>
@@ -964,7 +964,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15234)] [[Project](https://bennyguo
 CVPR 2022. [[PDF](https://arxiv.org/abs/2111.09996)] [[Project](https://ubc-vision.github.io/lolnerf/)]
 
 **Zero-Shot Text-Guided Object Generation with Dream Fields.**<br>
-*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole.*<br>                
+*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole.*<br>  
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.01455)] [[Project](https://ajayj.com/dreamfields)]
 
 **Mega-NERF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs.**<br>
@@ -2009,7 +2009,7 @@ WACV 2022. [[PDF](https://arxiv.org/abs/2107.05775)]
 WACV 2022. [[PDF](https://arxiv.org/pdf/2109.00249.pdf)]
 
 **NeuLF: Efficient Novel View Synthesis with Neural 4D Light Field.**<br>
-*[Zhong Li](https://sites.google.com/site/lizhong19900216), [Liangchen Song](https://lsongx.github.io/), [Celong Liu](https://www.cct.lsu.edu/~cliu/), [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), [Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).*<br>                
+*[Zhong Li](https://sites.google.com/site/lizhong19900216), [Liangchen Song](https://lsongx.github.io/), [Celong Liu](https://www.cct.lsu.edu/~cliu/), [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), [Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).*<br>
 EGSR 2022. [[PDF](https://arxiv.org/abs/2105.07112)] [[Project](https://oppo-us-research.github.io/NeuLF-website/)] [[Code](https://github.com/oppo-us-research/NeuLF)]
 
 **LENS: Localization enhanced by NeRF synthesis.**<br>
@@ -2133,7 +2133,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2207.11467)]
 CVPR 2022. [[PDF](https://arxiv.org/abs/2204.13696)] [[Project](https://zhihao-lin.github.io/neurmips/)] [[Code](https://github.com/zhihao-lin/neurmips)]
 
 **RGBD-Net: Predicting Color and Depth Images for Novel Views Synthesis.**<br>
-*Phong Nguyen-Ha, Animesh Karnewar, Lam Huynh, Esa Rahtu, Jiri Matas, Janne Heikkila.*<br>                
+*Phong Nguyen-Ha, Animesh Karnewar, Lam Huynh, Esa Rahtu, Jiri Matas, Janne Heikkila.*<br>
 3DV 2021. [[PDF](https://arxiv.org/abs/2011.14398)] [[Code](https://github.com/phongnhhn92/RGBDNet)]
 
 **SofGAN: A Portrait Image Generator with Dynamic Styling.**<br>
@@ -2275,7 +2275,7 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1906.07751)] [[Code](https://github.
 ## Light, Reflectance, Illuminance, and Shade
 
 **Intrinsic Image Transfer for Illumination Manipulation.**<br>
-*Junqing Huang, Michael Ruzhansky, Qianying Zhang, Haihui Wang.*<br>                
+*Junqing Huang, Michael Ruzhansky, Qianying Zhang, Haihui Wang.*<br>
 TPAMI 2023. [[PDF](https://www.computer.org/csdl/journal/tp/2023/06/09961945/1IxvTvt5Qty)]
 
 **NeuBTF: Neural Fields for BTF Encoding and Transfer.**<br>
@@ -2311,11 +2311,11 @@ TOG (SIGGRAPH Asia 2022). [[PDF](https://arxiv.org/abs/2209.10510)] [[Project](h
 ECCV 2022. [[PDF](https://arxiv.org/abs/2205.09343)]
 
 **NeRF for Outdoor Scene Relighting.**<br>
-*Viktor Rudnev, Mohamed Elgharib, William Smith, Lingjie Liu, Vladislav Golyanik, Christian Theobalt.*<br>                
+*Viktor Rudnev, Mohamed Elgharib, William Smith, Lingjie Liu, Vladislav Golyanik, Christian Theobalt.*<br>  
 ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05140)] [[Project](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)]
 
 **Deep Portrait Delighting.**<br>
-*Joshua Weir, Junhong Zhao, Andrew Chalmers, Taehyun Rhee.*<br>                
+*Joshua Weir, Junhong Zhao, Andrew Chalmers, Taehyun Rhee.*<br>  
 ECCV 2022. [[PDF](https://arxiv.org/abs/2203.12088)]
 
 **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing.**<br>
@@ -2351,7 +2351,7 @@ NeurIPS 2021. [[PDF](https://arxiv.org/abs/2110.14373)] [[Project](https://markb
 ICCV 2021. [[PDF](https://arxiv.org/abs/2011.11890)] [[Code](https://github.com/mahmoudnafifi/C5)]
 
 **DSRN: An Efficient Deep Network for Image Relighting.**<br>
-*Sourya Dipta Das, Nisarg A. Shah, Saikat Dutta, Himanshu Kumar.*<br>                
+*Sourya Dipta Das, Nisarg A. Shah, Saikat Dutta, Himanshu Kumar.*<br>  
 ICIP 2021. [[PDF](https://arxiv.org/abs/2102.09242)]
 
 **NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting.**<br>
@@ -2475,11 +2475,11 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Code](https://github.com/marcelsan/DeepShading)]
 
 **Local Relighting of Real Scenes.**<br>
-*Audrey Cui, Ali Jahanian, Agata Lapedriza, Antonio Torralba, Shahin Mahdizadehaghdam, Rohit Kumar, David Bau.*<br>                
+*Audrey Cui, Ali Jahanian, Agata Lapedriza, Antonio Torralba, Shahin Mahdizadehaghdam, Rohit Kumar, David Bau.*<br>  
 arxiv 2022. [[PDF](https://arxiv.org/abs/2207.02774)] [[Code](https://github.com/audreycui/relighting)]
 
 **Learning to Adapt to Light.**<br>
-*Kai-Fu Yang, Cheng Cheng, Shi-Xuan Zhao, Xian-Shi Zhang, Yong-Jie Li.*<br>                
+*Kai-Fu Yang, Cheng Cheng, Shi-Xuan Zhao, Xian-Shi Zhang, Yong-Jie Li.*<br>  
 arxiv 2022. [[PDF](https://arxiv.org/abs/2202.08098)]
 
 **Relightable 3D Head Portraits from A Smartphone Video.**<br>
@@ -2489,15 +2489,15 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09963)] [[Project](https://saic-vi
 ## Dubbing and Talking-Head Animation
 
 **Free-HeadGAN: Neural Talking Head Synthesis With Explicit Gaze Control.**<br>
-*Michail Christos Doukas, Evangelos Ververas, Viktoriia Sharmanska, Stefanos Zafeiriou.*<br>                
+*Michail Christos Doukas, Evangelos Ververas, Viktoriia Sharmanska, Stefanos Zafeiriou.*<br>  
 TPAMI 2023. [[PDF](https://arxiv.org/pdf/2208.02210.pdf)]
 
 **Instant Volumetric Head Avatars.**<br>
-*Wojciech Zielonka, Timo Bolkart, Justus Thies.*<br>                
+*Wojciech Zielonka, Timo Bolkart, Justus Thies.*<br>  
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12499)] [[Project](https://zielon.github.io/insta/)] [[Video](https://youtu.be/HOgaeWTih7Q)]
 
 **LiP-Flow: Learning Inference-time Priors for Codec Avatars Via Normalizing Flows in Latent Space.**<br>
-*Emre Aksan, Shugao Ma, Akin Caliskan, Stanislav Pidhorskyi, Alexander Richard, Shih-En Wei, Jason Saragih, Otmar Hilliges.*<br>                
+*Emre Aksan, Shugao Ma, Akin Caliskan, Stanislav Pidhorskyi, Alexander Richard, Shih-En Wei, Jason Saragih, Otmar Hilliges.*<br>  
 ECCV 2022. [[PDF](https://arxiv.org/abs/2203.07881)]
 
 **Talking Head from Speech Audio using a Pre-trained Image Generator.**<br>
@@ -2525,7 +2525,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13161)]
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.06605)] [[Code](https://github.com/harlanhong/CVPR2022-DaGAN)]
 
 **FaceFormer: Speech-Driven 3D Facial Animation with Transformers.**<br>
-*Yingruo Fan, Zhaojiang Lin, Jun Saito, Wenping Wang, Taku Komura.*<br>                
+*Yingruo Fan, Zhaojiang Lin, Jun Saito, Wenping Wang, Taku Komura.*<br>  
 CVPR 2022. [[PDF](https://arxiv.org/abs/2112.05329)]
 
 **Everybody's Talkin': Let Me Talk as You Want.**<br>
@@ -2609,7 +2609,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03061)] [[Project](https://wywu.git
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.15126)] [[Project](https://nvlabs.github.io/face-vid2vid)]
 
 **Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation.**<br>
-*Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan.*<br>                
+*Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan.*<br>  
 AAAI 2021. [[PDF](https://arxiv.org/pdf/2104.07995.pdf)]
 
 **FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.**<br>
@@ -2637,23 +2637,23 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1905.03820)] [[Code](https://github.com/
 AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Code](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)] [[Project](https://liuziwei7.github.io/projects/TalkingFace.html)]
 
 **SPACE: Speech-driven Portrait Animation with Controllable Expression.**<br>
-*Siddharth Gururani, Arun Mallya, Ting-Chun Wang, Rafael Valle, Ming-Yu Liu.*<br>                
+*Siddharth Gururani, Arun Mallya, Ting-Chun Wang, Rafael Valle, Ming-Yu Liu.*<br>  
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.09809)] [[Project](https://deepimagination.cc/SPACEx/)]
 
 **FNeVR: Neural Volume Rendering for Face Animation.**<br>
-*Bohan Zeng, Boyu Liu, Hong Li, Xuhui Liu, Jianzhuang Liu, Dapeng Chen, Wei Peng, Baochang Zhang.*<br>                
+*Bohan Zeng, Boyu Liu, Hong Li, Xuhui Liu, Jianzhuang Liu, Dapeng Chen, Wei Peng, Baochang Zhang.*<br>  
 arxiv 2022. [[PDF](https://arxiv.org/abs/2209.10340)] [[Code](https://github.com/zengbohan0217/FNeVR)]
 
 **Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions.**<br>
-*Zipeng Ye, Zhiyao Sun, Yu-Hui Wen, Yanan Sun, Tian Lv, Ran Yi, Yong-Jin Liu.*<br>                
+*Zipeng Ye, Zhiyao Sun, Yu-Hui Wen, Yanan Sun, Tian Lv, Ran Yi, Yong-Jin Liu.*<br>  
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.06180)]
 
 **StableFace: Analyzing and Improving Motion Stability for Talking Face Generation.**<br>
-*Jun Ling, Xu Tan, Liyang Chen, Runnan Li, Yuchao Zhang, Sheng Zhao, Li Song.*<br>                
+*Jun Ling, Xu Tan, Liyang Chen, Runnan Li, Yuchao Zhang, Sheng Zhao, Li Song.*<br>  
 arxiv 2022. [[PDF](https://arxiv.org/abs/2208.13717)] [[Code](https://stable-face.github.io/)]
 
 **DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation.**<br>
-*Zanwei Zhou, Zi Wang, Shunyu Yao, Yichao Yan, Chen Yang, Guangtao Zhai, Junchi Yan, Xiaokang Yang.*<br>                
+*Zanwei Zhou, Zi Wang, Shunyu Yao, Yichao Yan, Chen Yang, Guangtao Zhai, Junchi Yan, Xiaokang Yang.*<br>  
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.07931)]
 
 ## Motion Transfer, Retargeting, and Reenactment
@@ -2665,11 +2665,11 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.07931)]
 CVPR 2023. [[PDF](http://arxiv.org/abs/2305.06351)] [[Project](https://gengshan-y.github.io/rac-www/)] [[Code](https://github.com/gengshan-y/rac)]
 
 **Motion Transformer for Unsupervised Image Animation.**<br>
-*Jiale Tao, Biao Wang, Tiezheng Ge, Yuning Jiang, Wen Li, Lixin Duan.*<br>                
+*Jiale Tao, Biao Wang, Tiezheng Ge, Yuning Jiang, Wen Li, Lixin Duan.*<br>  
 ECCV 2022. [[PDF](https://arxiv.org/abs/2209.14024)]
 
 **NeMF: Neural Motion Fields for Kinematic Animation.**<br>
-*Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>                
+*Chengan He, Jun Saito, James Zachary, Holly Rushmeier, Yi Zhou.*<br>  
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2206.03287)]
 
 **Implicit Warping for Animation with Image Sets.**<br>
