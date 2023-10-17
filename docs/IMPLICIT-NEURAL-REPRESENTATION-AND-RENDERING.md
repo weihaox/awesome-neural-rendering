@@ -2,6 +2,11 @@
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
+
+**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes.**<br>
+*Haotong Lin, Sida Peng, Zhen Xu, Tao Xie, Xingyi He, Hujun Bao, Xiaowei Zhou.*<br> 
+SIGGRAPH Asia 2023. [[PDF](http://arxiv.org/abs/2310.08585)] [[Link](https://zju3dv.github.io/im4d)]
+
 **Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields.**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman.*<br> 
 ICCV 2023 (Oral). [[PDF](http://arxiv.org/abs/2304.06706)] [[Project](https://jonbarron.info/zipnerf/)]
@@ -9,6 +14,10 @@ ICCV 2023 (Oral). [[PDF](http://arxiv.org/abs/2304.06706)] [[Project](https://jo
 **Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions.**<br>
 *Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa.*<br> 
 ICCV 2023 (Oral). [[PDF](https://arxiv.org/abs/2303.12789)] [[Project](https://instruct-nerf2nerf.github.io)] [[Code](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
+
+**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields.**<br>
+*Takuhiro Kaneko.*<br> 
+ICCV 2023. [[PDF](https://arxiv.org/abs/2310.01821)] 
 
 **SHERF: Generalizable Human NeRF from a Single Image.**<br>
 *Shoukang Hu, Fangzhou Hong, Liang Pan, Haiyi Mei, Lei Yang, Ziwei Liu.*<br> 
@@ -25,6 +34,18 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2308.12967)] [[Project](https://zubair-i
 **Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields.**<br>
 *Hyeonseop Song, Seokhun Choi, Hoseok Do, Chul Lee, Taehyeong Kim.*<br> 
 ICCV 2023. [[PDF](https://arxiv.org/abs/2308.11974)]
+
+**Multi-task View Synthesis with Neural Radiance Fields.**<br>
+*Shuhong Zheng, Zhipeng Bao, Martial Hebert, Yu-Xiong Wang.*<br> 
+ICCV 2023. [[PDF](http://arxiv.org/abs/2309.17450)] [[Project](https://zsh2000.github.io/mtvs.github.io/)]
+
+**Forward Flow for Novel View Synthesis of Dynamic Scenes.**<br>
+*Xiang Guo, Jiadai Sun, Yuchao Dai, Guanying Chen, Xiaoqing Ye, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang.*<br> 
+ICCV 2023. [[PDF](http://arxiv.org/abs/2309.17390)] [[Project](https://npucvr.github.io/ForwardFlowDNeRF)]
+
+**PARF: Primitive-Aware Radiance Fusion for Indoor Scene Novel View Synthesis.**<br>
+*Haiyang Ying, Baowei Jiang, Jinzhi Zhang, Di Xu, Tao Yu, Qionghai Dai, Lu Fang.*<br> 
+ICCV 2023. [[PDF](http://arxiv.org/abs/2309.17190)] [[Project](https://oceanying.github.io/PARF/)]
 
 **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs.**<br>
 *[Frederik Warburg](https://frederikwarburg.github.io/), [Ethan Weber](https://ethanweber.me/), [Matthew Tancik](https://www.matthewtancik.com/), [Aleksander Holynski](https://holynski.org/), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/).*<br> 
