@@ -933,6 +933,14 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11798)] [[Project](https://general
 *[Ishit Mehta](https://ishit.github.io/), [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.07159)] [[Project](https://ishit.github.io/nie/)]
 
+**DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis.**<br>
+*Youngjoong Kwon, Lingjie Liu, Henry Fuchs, Marc Habermann, Christian Theobalt.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2310.11449)]
+
+**4K4D: Real-Time 4D View Synthesis at 4K Resolution.**<br>
+*Zhen Xu, Sida Peng, Haotong Lin, Guangzhao He, Jiaming Sun, Yujun Shen, Hujun Bao, Xiaowei Zhou.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2310.11448)] [[Project](https://zju3dv.github.io/4k4d)]
+
 **HyP-NeRF: Learning Improved NeRF Priors Using A HyperNetwork.**<br>
 *Bipasha Sen, Gaurav Singh, Aditya Agarwal, Rohith Agaram, K Madhava Krishna, Srinath Sridhar.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2306.06093)]
