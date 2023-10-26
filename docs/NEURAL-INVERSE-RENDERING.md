@@ -1,5 +1,13 @@
 ## Neural Inverse Rendering (Neural De-rendering)
 
+**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark.**<br>
+*Zhengfei Kuang, Yunzhi Zhang, Hong-Xing Yu, Samir Agarwala, Shangzhe Wu, Jiajun Wu.*<br>
+NeurIPS 2023 Datasets and Benchmarks. [[PDF](https://arxiv.org/abs/2310.16044)] [[Project](https://stanfordorb.github.io/)]  [[Code](https://github.com/StanfordORB/Stanford-ORB)]
+
+**Diffusion Posterior Illumination for Ambiguity-aware Inverse Rendering.**<br>
+*Linjie Lyu, Ayush Tewari, Marc Habermann, Shunsuke Saito, Michael Zollhöfer, Thomas Leimkühler, Christian Theobalt.*<br>
+SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2310.00362)]
+
 **TensoIR: Tensorial Inverse Rendering.**<br>
 *Haian Jin, Isabella Liu, Peijia Xu, Xiaoshuai Zhang, Songfang Han, Sai Bi, Xiaowei Zhou, Zexiang Xu, Hao Su.*<br> 
 CVPR 2023. [[PDF](http://arxiv.org/abs/2304.12461)] [[Project](https://haian-jin.github.io/TensoIR)] [[Code](https://github.com/Haian-Jin/TensoIR)]

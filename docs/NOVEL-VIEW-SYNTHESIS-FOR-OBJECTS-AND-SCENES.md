@@ -2,7 +2,14 @@
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
-### By Implicit Neural Representations
+
+### Based on Diffusion Models
+
+**iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis.**<br>
+*Yash Kant, Aliaksandr Siarohin, Michael Vasilkovsky, Riza Alp Guler, Jian Ren, Sergey Tulyakov, Igor Gilitschenski.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
+
+### Based on Implicit Neural Representations
 
 **Vision Transformer for NeRF-Based View Synthesis from a Single Input Image.**<br>
 *Kai-En Lin, Lin Yen-Chen, Wei-Sheng Lai, Tsung-Yi Lin, Yi-Chang Shih, Ravi Ramamoorthi.*<br>

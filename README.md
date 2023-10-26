@@ -24,7 +24,7 @@
  -->
 
 ## Table of Contents
-- [Intruduction of Neural Rendering](./docs/NEURAL-RERENDERING.md)
+- [Intruduction of Neural Rendering](./docs/INTRODUCTION-AND-SURVEY.md)
 - [Related Surveys and Course Notes](./docs/INTRODUCTION-AND-SURVEY.md)
 - [Inverse Rendering (de-rendering)](./docs/NEURAL-INVERSE-RENDERING.md)
 - [Neural Rerendering](./docs/NEURAL-RERENDERING.md)

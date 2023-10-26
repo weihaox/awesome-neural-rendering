@@ -3,9 +3,13 @@
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
 
+**GNeSF: Generalizable Neural Semantic Fields.**<br>
+*Hanlin Chen, Chen Li, Mengqi Guo, Zhiwen Yan, Gim Hee Lee.*<br>
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2310.15712)] [[Project](https://github.com/HLinChen/GNeSF)]
+
 **Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes.**<br>
 *Haotong Lin, Sida Peng, Zhen Xu, Tao Xie, Xingyi He, Hujun Bao, Xiaowei Zhou.*<br> 
-SIGGRAPH Asia 2023. [[PDF](http://arxiv.org/abs/2310.08585)] [[Link](https://zju3dv.github.io/im4d)]
+SIGGRAPH Asia 2023. [[PDF](http://arxiv.org/abs/2310.08585)] [[Project](https://zju3dv.github.io/im4d)]
 
 **Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields.**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman.*<br> 
