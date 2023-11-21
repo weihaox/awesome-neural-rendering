@@ -1,4 +1,4 @@
-## Neural Inverse Rendering (Neural De-rendering)
+## Neural Inverse Rendering (Neural De-Rendering)
 
 **Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark.**<br>
 *Zhengfei Kuang, Yunzhi Zhang, Hong-Xing Yu, Samir Agarwala, Shangzhe Wu, Jiajun Wu.*<br>

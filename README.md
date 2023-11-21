@@ -26,7 +26,7 @@
 ## Table of Contents
 - [Intruduction of Neural Rendering](./docs/INTRODUCTION-AND-SURVEY.md)
 - [Related Surveys and Course Notes](./docs/INTRODUCTION-AND-SURVEY.md)
-- [Inverse Rendering (de-rendering)](./docs/NEURAL-INVERSE-RENDERING.md)
+- [Inverse Rendering (De-Rendering)](./docs/NEURAL-INVERSE-RENDERING.md)
 - [Neural Rerendering](./docs/NEURAL-RERENDERING.md)
 - [Differentiable Rendering](./docs/DIFFERENTIABLE-RENDERING.md)
 - [Implicit Neural Representation and Rendering](./docs/IMPLICIT-NEURAL-REPRESENTATION-AND-RENDERING.md)

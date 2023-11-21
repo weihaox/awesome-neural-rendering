@@ -2,10 +2,25 @@
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
+**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering.**<br>
+*Mikaela Angelina Uy, Kiyohiro Nakayama, Guandao Yang, Rahul Krishna Thomas, Leonidas Guibas, Ke Li.*<br>
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2310.20685)] [[Project](https://pl-nerf.github.io/)]  [[Code](https://github.com/mikacuy/PL-NeRF)]
 
 **GNeSF: Generalizable Neural Semantic Fields.**<br>
 *Hanlin Chen, Chen Li, Mengqi Guo, Zhiwen Yan, Gim Hee Lee.*<br>
 NeurIPS 2023. [[PDF](https://arxiv.org/abs/2310.15712)] [[Project](https://github.com/HLinChen/GNeSF)]
+
+**Adaptive Shells for Efficient Neural Radiance Field Rendering.**<br>
+*[Zian Wang](https://www.cs.toronto.edu/~zianwang/), Tianchang Shen, Merlin Nimier-David, Nicholas Sharp, Jun Gao, Alexander Keller, Sanja Fidler, Thomas Müller, Zan Gojcic.*<br> 
+SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2311.10091)] [[Project](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/)]
+
+**EXIM: A Hybrid Explicit-Implicit Representation for Text-Guided 3D Shape Generation.**<br>
+*Zhengzhe Liu, Jingyu Hu, Ka-Hei Hui, Xiaojuan Qi, Daniel Cohen-Or, Chi-Wing Fu.*<br> 
+SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2311.01714)]
+
+**VR-NeRF: High-Fidelity Virtualized Walkable Spaces.**<br>
+*Linning Xu, Vasu Agrawal, William Laney, Tony Garcia, Aayush Bansal, Changil Kim, Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder, Aljaž Božič, Dahua Lin, Michael Zollhöfer, Christian Richardt.*<br> 
+SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2311.02542)] [[Project](https://vr-nerf.github.io/)]
 
 **Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes.**<br>
 *Haotong Lin, Sida Peng, Zhen Xu, Tao Xie, Xingyi He, Hujun Bao, Xiaowei Zhou.*<br> 

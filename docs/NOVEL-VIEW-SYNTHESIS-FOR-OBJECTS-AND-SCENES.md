@@ -7,13 +7,17 @@
 
 **iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis.**<br>
 *Yash Kant, Aliaksandr Siarohin, Michael Vasilkovsky, Riza Alp Guler, Jian Ren, Sergey Tulyakov, Igor Gilitschenski.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
+SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)]
 
 ### Based on Implicit Neural Representations
 
 **Vision Transformer for NeRF-Based View Synthesis from a Single Input Image.**<br>
 *Kai-En Lin, Lin Yen-Chen, Wei-Sheng Lai, Tsung-Yi Lin, Yi-Chang Shih, Ravi Ramamoorthi.*<br>
 WACV 2023. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)] [[Code](https://github.com/ken2576/vision-nerf)]
+
+**Seeing 3D Objects in a Single Image via Self-Supervised Static-Dynamic Disentanglement.**<br>
+*[Prafull Sharma](https://prafullsharma.net/), [Ayush Tewari](https://ayushtewari.com/), Yilun Du, Sergey Zakharov, Rares Ambrus, Adrien Gaidon, William T. Freeman, Fredo Durand, Joshua B. Tenenbaum, Vincent Sitzmann.*<br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2207.11232)] [[Project](https://prafullsharma.net/see3d/)]
 
 **PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis.**<br>
 *Xianggang Yu, Jiapeng Tang, Yipeng Qin, Chenghong Li, Linchao Bao, Xiaoguang Han, Shuguang Cui.*<br>
@@ -119,9 +123,9 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Project](https://avg.i
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
 
-**Seeing 3D Objects in a Single Image via Self-Supervised Static-Dynamic Disentanglement.**<br>
-*[Prafull Sharma](https://prafullsharma.net/), [Ayush Tewari](https://ayushtewari.com/), Yilun Du, Sergey Zakharov, Rares Ambrus, Adrien Gaidon, William T. Freeman, Fredo Durand, Joshua B. Tenenbaum, Vincent Sitzmann.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2207.11232)] [[Project](https://prafullsharma.net/see3d/)]
+**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image.**<br>
+*Kyle Sargent, Zizhang Li, Tanmay Shah, Charles Herrmann, Hong-Xing Yu, Yunzhi Zhang, Eric Ryan Chan, Dmitry Lagun, Li Fei-Fei, Deqing Sun, Jiajun Wu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2310.17994)] [[Project](https://kylesargent.github.io/zeronvs/)] [[Code](https://github.com/kylesargent/zeronvs)]
 
 **LiveView: Dynamic Target-Centered MPI for View Synthesis.**<br>
 *Sushobhan Ghosh, Zhaoyang Lv, Nathan Matsuda, Lei Xiao, Andrew Berkovich, Oliver Cossairt.*<br>
