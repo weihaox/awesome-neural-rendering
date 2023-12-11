@@ -1,5 +1,9 @@
 ## Neural Inverse Rendering (Neural De-Rendering)
 
+**GS-IR: 3D Gaussian Splatting for Inverse Rendering.**<br>
+*Zhihao Liang, Qi Zhang, Ying Feng, Ying Shan, Kui Jia.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16473)]
+
 **Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark.**<br>
 *Zhengfei Kuang, Yunzhi Zhang, Hong-Xing Yu, Samir Agarwala, Shangzhe Wu, Jiajun Wu.*<br>
 NeurIPS 2023 Datasets and Benchmarks. [[PDF](https://arxiv.org/abs/2310.16044)] [[Project](https://stanfordorb.github.io/)]  [[Code](https://github.com/StanfordORB/Stanford-ORB)]
@@ -67,3 +71,11 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01210)] [[Code](https://github.c
 **InverseRenderNet: Learning Single Image Inverse Rendering.**<br>
 *Ye Yu, William A. P. Smith.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.html)] [[Code](https://github.com/YeeU/InverseRenderNet)] [[IIW Dataset](http://opensurfaces.cs.cornell.edu/publications/intrinsic/#download)] 
+
+**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos Via Explicit Ray Tracing.**<br>
+*Shaofei Wang, Božidar Antić, Andreas Geiger, Siyu Tang.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.05210)] [[Project](https://neuralbodies.github.io/IntrinsicAvatar)]
+
+**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization.**<br>
+*Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.05133)]

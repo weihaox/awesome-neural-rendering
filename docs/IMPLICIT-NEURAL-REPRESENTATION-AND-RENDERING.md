@@ -952,6 +952,22 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2204.11798)] [[Project](https://general
 *[Ishit Mehta](https://ishit.github.io/), [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.07159)] [[Project](https://ishit.github.io/nie/)]
 
+**MuRF: Multi-Baseline Radiance Fields.**<br>
+*Haofei Xu, Anpei Chen, Yuedong Chen, Christos Sakaridis, Yulun Zhang, Marc Pollefeys, Andreas Geiger, Fisher Yu.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04565)] [[Project](https://haofeixu.github.io/murf/)]
+
+**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS.**<br>
+*Sharath Girish, Kamal Gupta, Abhinav Shrivastava.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04564)] [[Project](https://efficientgaussian.github.io)] [[Code](https://github.com/Sharath-girish/efficientgaussian)]
+
+**Obj-NeRF: Extract Object NeRFs from Multi-view Images.**<br>
+*Zhiyi Li, Lihe Ding, Tianfan Xue.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.15291)]
+
+**Compact 3D Gaussian Representation for Radiance Field.**<br>
+*Joo Chan Lee, Daniel Rho, Xiangyu Sun, Jong Hwan Ko, Eunbyung Park.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.13681)] [[Project](http://maincold2.github.io/c3dgs/)]
+
 **DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis.**<br>
 *Youngjoong Kwon, Lingjie Liu, Henry Fuchs, Marc Habermann, Christian Theobalt.*<br> 
 arXiv 2023. [[PDF](http://arxiv.org/abs/2310.11449)]

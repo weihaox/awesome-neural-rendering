@@ -148,6 +148,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1905.03820)] [[Code](https://github.com/
 *Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang.*<br>
 AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Code](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)] [[Project](https://liuziwei7.github.io/projects/TalkingFace.html)]
 
+**SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**<br>
+*Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, Yichao Yan, Guangtao Zhai.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04369)]
+
 **SPACE: Speech-driven Portrait Animation with Controllable Expression.**<br>
 *Siddharth Gururani, Arun Mallya, Ting-Chun Wang, Rafael Valle, Ming-Yu Liu.*<br>
 arXiv 2022. [[PDF](https://arxiv.org/abs/2211.09809)] [[Project](https://deepimagination.cc/SPACEx/)]
