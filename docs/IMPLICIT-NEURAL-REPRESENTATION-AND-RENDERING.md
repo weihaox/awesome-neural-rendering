@@ -10,6 +10,10 @@ NeurIPS 2023. [[PDF](https://arxiv.org/abs/2310.20685)] [[Project](https://pl-ne
 *Hanlin Chen, Chen Li, Mengqi Guo, Zhiwen Yan, Gim Hee Lee.*<br>
 NeurIPS 2023. [[PDF](https://arxiv.org/abs/2310.15712)] [[Project](https://github.com/HLinChen/GNeSF)]
 
+**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields.**<br>
+*Yixing Lao, Xiaogang Xu, Zhipeng Cai, Xihui Liu, Hengshuang Zhao.*<br> 
+NeurIPS 2023. [[PDF](http://arxiv.org/abs/2312.06642)] [[Project](https://yxlao.github.io/corres-nerf/)]
+
 **Adaptive Shells for Efficient Neural Radiance Field Rendering.**<br>
 *[Zian Wang](https://www.cs.toronto.edu/~zianwang/), Tianchang Shen, Merlin Nimier-David, Nicholas Sharp, Jun Gao, Alexander Keller, Sanja Fidler, Thomas Müller, Zan Gojcic.*<br> 
 SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2311.10091)] [[Project](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/)]
@@ -919,6 +923,14 @@ NeurIPS 2022. [[PDF](https://arxiv.org/pdf/2206.07695.pdf)] [[Project](https://k
 **MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction.**<br>
 *Zehao Yu, Songyou Peng, Michael Niemeyer, Torsten Sattler, Andreas Geiger.*<br>
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2206.00665)] [[Project](https://niujinshuchong.github.io/monosdf/)]
+
+**COLMAP-Free 3D Gaussian Splatting.**<br>
+*Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.07504)] [[Project](https://oasisyang.github.io/colmap-free-3dgs)]
+
+**SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration.**<br>
+*Daniel Duckworth, Peter Hedman, Christian Reiser, Peter Zhizhin, Jean-François Thibert, Mario Lučić, Richard Szeliski, Jonathan T. Barron.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.07541)] [[Project](https://smerf-3d.github.io)]
 
 **Decomposing NeRF for Editing via Feature Field Distillation.**<br>
 *[Sosuke Kobayashi](https://soskek.github.io/), [Eiichi Matsumoto](https://scholar.google.co.jp/citations?user=o3JW434AAAAJ), [Vincent Sitzmann](https://www.vincentsitzmann.com/).*<br>
