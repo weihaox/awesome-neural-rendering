@@ -202,7 +202,7 @@ CFG 2016. [[PDF](https://arxiv.org/abs/1603.06078)] [[Code](https://github.com/m
 
 **Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing.**<br>
 *Jian Gao, Chun Gu, Youtian Lin, Hao Zhu, Xun Cao, Li Zhang, Yao Yao.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16043)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16043)] [[Code](https://github.com/NJU-3DV/Relightable3DGaussian)]
 
 **Relightable 3D Head Portraits from A Smartphone Video.**<br>
 *[Artem Sevastopolsky](https://seva100.github.io/), Savva Ignatiev, Gonzalo Ferrer, Evgeny Burnaev, Victor Lempitsky.*<br>

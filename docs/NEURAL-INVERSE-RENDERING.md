@@ -1,8 +1,20 @@
 ## Neural Inverse Rendering (Neural De-Rendering)
 
+**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination.**<br>
+*Xi Chen, Sida Peng, Dongchen Yang, Yuan Liu, Bowen Pan, Chengfei Lv, Xiaowei Zhou.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11593)] [[Project](https://zju3dv.github.io/IntrinsicAnything)]
+
+**Re-Thinking Inverse Graphics With Large Language Models.**<br>
+*Peter Kulits, Haiwen Feng, Weiyang Liu, Victoria Abrevaya, Michael J. Black.*<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15228)] [[Project](https://ig-llm.is.tue.mpg.de/)]
+
 **GS-IR: 3D Gaussian Splatting for Inverse Rendering.**<br>
 *Zhihao Liang, Qi Zhang, Ying Feng, Ying Shan, Kui Jia.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16473)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16473)] [[Code](https://github.com/lzhnb/GS-IR)]
+
+**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization.**<br>
+*Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang.*<br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2312.05133)]
 
 **Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark.**<br>
 *Zhengfei Kuang, Yunzhi Zhang, Hong-Xing Yu, Samir Agarwala, Shangzhe Wu, Jiajun Wu.*<br>
@@ -74,8 +86,5 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Inverse
 
 **IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos Via Explicit Ray Tracing.**<br>
 *Shaofei Wang, Božidar Antić, Andreas Geiger, Siyu Tang.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2312.05210)] [[Project](https://neuralbodies.github.io/IntrinsicAvatar)]
+CVPR 2024. [[PDF](http://arxiv.org/abs/2312.05210)] [[Project](https://neuralbodies.github.io/IntrinsicAvatar)] [[Code](https://github.com/taconite/IntrinsicAvatar)]
 
-**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization.**<br>
-*Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2312.05133)]

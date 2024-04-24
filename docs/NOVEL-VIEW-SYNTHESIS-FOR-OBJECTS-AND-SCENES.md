@@ -2,7 +2,6 @@
 
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
-
 ### Based on Diffusion Models
 
 **iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis.**<br>
@@ -122,14 +121,6 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Project](https://avg.i
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
-
-**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image.**<br>
-*Kyle Sargent, Zizhang Li, Tanmay Shah, Charles Herrmann, Hong-Xing Yu, Yunzhi Zhang, Eric Ryan Chan, Dmitry Lagun, Li Fei-Fei, Deqing Sun, Jiajun Wu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2310.17994)] [[Project](https://kylesargent.github.io/zeronvs/)] [[Code](https://github.com/kylesargent/zeronvs)]
-
-**LiveView: Dynamic Target-Centered MPI for View Synthesis.**<br>
-*Sushobhan Ghosh, Zhaoyang Lv, Nathan Matsuda, Lei Xiao, Andrew Berkovich, Oliver Cossairt.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05113.pdf)]
 
 **NeRF++: Analyzing and Improving Neural Radiance Fields.**<br>
 *Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun.*<br>

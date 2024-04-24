@@ -4,6 +4,10 @@
 *Michail Christos Doukas, Evangelos Ververas, Viktoriia Sharmanska, Stefanos Zafeiriou.*<br>
 TPAMI 2023. [[PDF](https://arxiv.org/pdf/2208.02210.pdf)]
 
+**SPACE: Speech-driven Portrait Animation with Controllable Expression.**<br>
+*Siddharth Gururani, Arun Mallya, Ting-Chun Wang, Rafael Valle, Ming-Yu Liu.*<br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2211.09809)] [[Project](https://deepimagination.cc/SPACEx/)]
+
 **Instant Volumetric Head Avatars.**<br>
 *Wojciech Zielonka, Timo Bolkart, Justus Thies.*<br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12499)] [[Project](https://zielon.github.io/insta/)] [[Video](https://youtu.be/HOgaeWTih7Q)]
@@ -148,26 +152,3 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1905.03820)] [[Code](https://github.com/
 *Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang.*<br>
 AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Code](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)] [[Project](https://liuziwei7.github.io/projects/TalkingFace.html)]
 
-**SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**<br>
-*Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, Yichao Yan, Guangtao Zhai.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2312.04369)]
-
-**SPACE: Speech-driven Portrait Animation with Controllable Expression.**<br>
-*Siddharth Gururani, Arun Mallya, Ting-Chun Wang, Rafael Valle, Ming-Yu Liu.*<br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.09809)] [[Project](https://deepimagination.cc/SPACEx/)]
-
-**FNeVR: Neural Volume Rendering for Face Animation.**<br>
-*Bohan Zeng, Boyu Liu, Hong Li, Xuhui Liu, Jianzhuang Liu, Dapeng Chen, Wei Peng, Baochang Zhang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2209.10340)] [[Code](https://github.com/zengbohan0217/FNeVR)]
-
-**Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions.**<br>
-*Zipeng Ye, Zhiyao Sun, Yu-Hui Wen, Yanan Sun, Tian Lv, Ran Yi, Yong-Jin Liu.*<br>  
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.06180)]
-
-**StableFace: Analyzing and Improving Motion Stability for Talking Face Generation.**<br>
-*Jun Ling, Xu Tan, Liyang Chen, Runnan Li, Yuchao Zhang, Sheng Zhao, Li Song.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2208.13717)] [[Code](https://stable-face.github.io/)]
-
-**DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation.**<br>
-*Zanwei Zhou, Zi Wang, Shunyu Yao, Yichao Yan, Chen Yang, Guangtao Zhai, Junchi Yan, Xiaokang Yang.*<br>  
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.07931)]
