@@ -2,6 +2,10 @@
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
 
+**NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields.**<br>
+*Muhammad Zubair Irshad, Sergey Zakharov, Vitor Guizilini, Adrien Gaidon, Zsolt Kira, Rares Ambrus.*<br> 
+ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.01300.pdf)] [[Project](https://nerf-mae.github.io/)] [[Code](https://github.com/zubair-irshad/NeRF-MAE)]
+
 **COLMAP-Free 3D Gaussian Splatting.**<br>
 *Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang.*<br> 
 CVPR 2024 (Highlight). [[PDF](http://arxiv.org/abs/2312.07504)] [[Project](https://oasisyang.github.io/colmap-free-3dgs)]
@@ -25,6 +29,10 @@ ICLR 2024. [[PDF](http://arxiv.org/abs/2305.03040)] [[Project](https://www.anjie
 **ParticleNeRF: Particle Based Encoding for Online Neural Radiance Fields in Dynamic Scenes.**<br>
 *Jad Abou-Chakra, Feras Dayoub, Niko Sünderhauf.*<br> 
 WACV 2024. [[PDF](https://arxiv.org/abs/2211.04041)] [[Code](https://github.com/jc211/ParticleNeRF)]
+
+**FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects.**<br>
+*Mayank Lunayach, Sergey Zakharov, Dian Chen, Rares Ambrus, Zsolt Kira, Muhammad Zubair Irshad.*<br> 
+ICRA 2024. [[PDF](https://arxiv.org/pdf/2310.12974.pdf)] [[Project](https://fsd6d.github.io/)]
 
 **NeRF Revisited: Fixing Quadrature Instability in Volume Rendering.**<br>
 *Mikaela Angelina Uy, Kiyohiro Nakayama, Guandao Yang, Rahul Krishna Thomas, Leonidas Guibas, Ke Li.*<br>
