@@ -22,6 +22,10 @@ CVPR 2024 (Highlight). [[PDF](http://arxiv.org/abs/2311.13681)] [[Project](http:
 *Zhen Xu, Sida Peng, Haotong Lin, Guangzhao He, Jiaming Sun, Yujun Shen, Hujun Bao, Xiaowei Zhou.*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2310.11448)] [[Project](https://zju3dv.github.io/4k4d)]
 
+**ICE-G: Image Conditional Editing of 3D Gaussian Splats.**<br>
+*Vishnu Jaganathan, Hannah Huang, Muhammad Zubair Irshad, Varun Jampani, Amit Raj, Zsolt Kira.*<br> 
+CVPRW 2024. [[PDF](https://arxiv.org/abs/2406.08488)] [[Project](https://ice-gaussian.github.io/)]
+
 **TUVF: Learning Generalizable Texture UV Radiance Fields.**<br>
 *An-Chieh Cheng, Xueting Li, Sifei Liu, Xiaolong Wang.*<br> 
 ICLR 2024. [[PDF](http://arxiv.org/abs/2305.03040)] [[Project](https://www.anjiecheng.me/TUVF)] [[Code](https://github.com/AnjieCheng/TUVF)]
