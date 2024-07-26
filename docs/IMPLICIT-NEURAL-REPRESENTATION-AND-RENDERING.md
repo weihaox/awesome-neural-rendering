@@ -1032,6 +1032,10 @@ SIGGRAPH Asia 2022. [[PDF](https://arxiv.org/abs/2208.05751)]
 *Huajian Huang, Yingshu Chen, Tianjian Zhang, Sai-Kit Yeung.*<br>
 SIGGRAPH Asia 2022 Technical Communications. [[PDF](https://arxiv.org/abs/2208.02705)]
 
+**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections.**<br>
+*Dor Verbin, Pratul P. Srinivasan, Peter Hedman, Ben Mildenhall, Benjamin Attal, Richard Szeliski, Jonathan T. Barron.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2405.14871)] [[Project](http://nerf-casting.github.io/)]
+
 **Real-time Volumetric Rendering of Dynamic Humans.**<br>
 *Ignacio Rocco, Iurii Makarov, Filippos Kokkinos, David Novotny, Benjamin Graham, Natalia Neverova, Andrea Vedaldi.*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2303.11898)] [[Project](https://real-time-humans.github.io/)]

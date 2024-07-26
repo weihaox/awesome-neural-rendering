@@ -152,3 +152,6 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1905.03820)] [[Code](https://github.com/
 *Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang.*<br>
 AAAI 2019. [[PDF](https://arxiv.org/abs/1807.07860)] [[Code](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)] [[Project](https://liuziwei7.github.io/projects/TalkingFace.html)]
 
+**VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time.**<br>
+*Sicheng Xu, Guojun Chen, Yu-Xiao Guo, Jiaolong Yang, Chong Li, Zhenyu Zang, Yizhong Zhang, Xin Tong, Baining Guo.*<br>
+arxiv 2024. [[PDF](https://arxiv.org/abs/2404.10667)] [[Project](https://www.microsoft.com/en-us/research/project/vasa-1/)]

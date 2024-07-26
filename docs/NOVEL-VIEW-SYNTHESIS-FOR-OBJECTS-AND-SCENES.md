@@ -10,6 +10,10 @@ SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https:/
 
 ### Based on Implicit Neural Representations
 
+**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling.**<br>
+*Liwen Wu, Sai Bi, Zexiang Xu, Fujun Luan, Kai Zhang, Iliyan Georgiev, Kalyan Sunkavalli, Ravi Ramamoorthi.*<br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2405.14847)]
+
 **Vision Transformer for NeRF-Based View Synthesis from a Single Input Image.**<br>
 *Kai-En Lin, Lin Yen-Chen, Wei-Sheng Lai, Tsung-Yi Lin, Yi-Chang Shih, Ravi Ramamoorthi.*<br>
 WACV 2023. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)] [[Code](https://github.com/ken2576/vision-nerf)]
