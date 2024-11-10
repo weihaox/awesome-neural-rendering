@@ -44,3 +44,7 @@ ACM Computing Surveys 2023.
 
 **[NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review.](https://arxiv.org/abs/2210.00379)**<br>
 *Kyle Gao, Yina Gao, Hongjie He, Denning Lu, Linlin Xu, Jonathan Li.*<br>
+
+**[Neural Fields in Robotics: A Survey.](https://arxiv.org/abs/2410.20220)**<br>
+*Muhammad Zubair Irshad, Mauro Comi, Yen-Chen Lin, Nick Heppert, Abhinav Valada, Rares Ambrus, Zsolt Kira, Jonathan Tremblay.*<br>
+[[PDF](https://arxiv.org/pdf/2410.20220)] [[Project](https://robonerf.github.io/)] [[Github List](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)]
