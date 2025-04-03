@@ -1,10 +1,22 @@
 ## Implicit Neural Representation and Rendering
 
-There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/awesome-3D-aware-synthesis#3d-aware-diffusion-models) repo.
+There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/Gen3D?tab=readme-ov-file#3d-aware-diffusion-models-for-a-single-image-category) repo.
+
+**HoGS: Unified Near and Far Object Reconstruction via Homogeneous Gaussian Splatting.**<br> 
+*Xinpeng Liu, Zeyi Huang, Fumio Okura, Yasuyuki Matsushita.*<br> 
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.19232)] [[Project](https://kh129.github.io/hogs)]
+
+**DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds.**<br> 
+*Youyu Chen, Junjun Jiang, Kui Jiang, Xiao Tang, Zhihao Li, Xianming Liu, Yinyu Nie.*<br> 
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.18402)] [[Project](https://dashgaussian.github.io)]
+
+**DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting.**<br> 
+*Liao Shen, Tianqi Liu, Huiqiang Sun, Jiaqi Li, Zhiguo Cao, Wei Li, Chen Change Loy.*<br> 
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.00746)] [[Project](https://dof-gaussian.github.io)]
 
 **NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields.**<br>
 *Muhammad Zubair Irshad, Sergey Zakharov, Vitor Guizilini, Adrien Gaidon, Zsolt Kira, Rares Ambrus.*<br> 
-ECCV 2024. [[PDF](https://arxiv.org/pdf/2404.01300.pdf)] [[Project](https://nerf-mae.github.io/)] [[Code](https://github.com/zubair-irshad/NeRF-MAE)]
+ECCV 2024. [[PDF](https://arxiv.org/abs/2404.01300)] [[Project](https://nerf-mae.github.io/)] [[Code](https://github.com/zubair-irshad/NeRF-MAE)]
 
 **COLMAP-Free 3D Gaussian Splatting.**<br>
 *Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang.*<br> 
