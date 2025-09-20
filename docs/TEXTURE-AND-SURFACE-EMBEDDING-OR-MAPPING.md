@@ -1,5 +1,17 @@
 ## Texture and Surface Embedding or Mapping
 
+**UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping.**<br>
+*Aashish Rai, Dilin Wang, Mihir Jain, Nikolaos Sarafianos, Kefan Chen, Srinath Sridhar, Aayush Prakash.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2502.01846)]
+
+**FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy.**<br>
+*Xingchao Yang, Takafumi Taketomi, Yuki Endo, Yoshihiro Kanamori.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2503.17197)]
+
+**SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement.**<br>
+*Mark Boss, Zixuan Huang, Aaryaman Vasishta, Varun Jampani.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2408.00653)]
+
 **Clustered Vector Textures.**<br>
 *[Peihan Tu](http://www.cs.umd.edu/~phtu/), [Li-Yi Wei](https://www.liyiwei.org/), [Matthias Zwicker](http://www.cs.umd.edu/~zwicker/).*<br>
 TOG (SIGGRAPH) 2022. [[PDF](https://phtu-cs.github.io/cvt-sig22/index_files/sig22-cvt-Tu.pdf)] [[Project](https://phtu-cs.github.io/cvt-sig22/)]

@@ -2,6 +2,50 @@
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/Gen3D?tab=readme-ov-file#3d-aware-diffusion-models-for-a-single-image-category) repo.
 
+**Towards Lossless Implicit Neural Representation via Bit Plane Decomposition.**<br> 
+*Woo Kyoung Han, Byeonghun Lee, Hyunmin Cho, Sunghoon Im, Kyong Hwan Jin.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Towards_Lossless_Implicit_Neural_Representation_via_Bit_Plane_Decomposition_CVPR_2025_paper.pdf)]
+
+**Bias for Action: Video Implicit Neural Representations with Bias Modulation.**<br> 
+*Alper Kayabasi, Anil Kumar Vadathya, Guha Balakrishnan, Vishwanath Saragadam.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Kayabasi_Bias_for_Action_Video_Implicit_Neural_Representations_with_Bias_Modulation_CVPR_2025_paper.pdf)]
+
+**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities.**<br> 
+*Federico Lincetto, Gianluca Agresti, Mattia Rossi, Pietro Zanuttigh.*<br> 
+CVPR 2025. [[PDF](http://arxiv.org/abs/2503.19673)]
+
+**VI^3NR: Variance Informed Initialization for Implicit Neural Representations.**<br> 
+*Chamin Hewa Koneputugodage, Yizhak Ben-Shabat, Sameera Ramasinghe, Stephen Gould.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Koneputugodage_VI3NR_Variance_Informed_Initialization_for_Implicit_Neural_Representations_CVPR_2025_paper.pdf)]
+
+**STINR: Deciphering Spatial Transcriptomics via Implicit Neural Representation.**<br> 
+*Yisi Luo, Xile Zhao, Kai Ye, Deyu Meng.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_STINR_Deciphering_Spatial_Transcriptomics_via_Implicit_Neural_Representation_CVPR_2025_paper.pdf)]
+
+**3D-SLNR: A Super Lightweight Neural Representation for Large-scale 3D Mapping.**<br> 
+*Chenhui Shi, Fulin Tang, Ning An, Yihong Wu.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_3D-SLNR_A_Super_Lightweight_Neural_Representation_for_Large-scale_3D_Mapping_CVPR_2025_paper.pdf)]
+
+**MIRE: Matched Implicit Neural Representations.**<br> 
+*Dhananjaya Jayasundara, Heng Zhao, Demetrio Labate, Vishal M. Patel.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Jayasundara_MIRE_Matched_Implicit_Neural_Representations_CVPR_2025_paper.pdf)]
+
+**ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency.**<br> 
+*Dong Wei, Xiaoning Sun, Xizhan Gao, Shengxiang Hu, Huaijiang Sun.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_ALIEN_Implicit_Neural_Representations_for_Human_Motion_Prediction_under_Arbitrary_CVPR_2025_paper.pdf)]
+
+**MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction.**<br> 
+*Wenyuan Zhang, Yixiao Yang, Han Huang, Liang Han, Kanle Shi, Yu-Shen Liu, Zhizhong Han.*<br> 
+CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_MonoInstance_Enhancing_Monocular_Priors_via_Multi-view_Instance_Alignment_for_Neural_CVPR_2025_paper.pdf)]
+
+**Reanimating Images using Neural Representations of Dynamic Stimuli.**<br> 
+*Jacob Yeung, Andrew F. Luo, Gabriel Sarch, Margaret M. Henderson, Deva Ramanan, Michael J. Tarr.*<br> 
+CVPR 2025. [[PDF](http://arxiv.org/abs/2406.02659)]
+
+**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations.**<br> 
+*Xunzhi Zheng, Dan Xu.*<br> 
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.10464)]
+
 **HoGS: Unified Near and Far Object Reconstruction via Homogeneous Gaussian Splatting.**<br> 
 *Xinpeng Liu, Zeyi Huang, Fumio Okura, Yasuyuki Matsushita.*<br> 
 CVPR 2025. [[PDF](https://arxiv.org/abs/2503.19232)] [[Project](https://kh129.github.io/hogs)]

@@ -1,5 +1,9 @@
 ## Differentiable Rendering
 
+**Locally Orderless Images for Optimization in Differentiable Rendering.**<br>
+*Ishit Mehta, Manmohan Chandraker, Ravi Ramamoorthi.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2503.21931)]
+
 **Differentiable Rendering with Reparameterized Volume Sampling.**<br>
 *Nikita Morozov, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky.*<br>
 ICLR 2023 Workshops on [Neural Fields across Fields](https://sites.google.com/view/neural-fields/). [[PDF](https://arxiv.org/abs/2302.10970)] [[Code](https://github.com/GreatDrake/reparameterized-volume-sampling)]

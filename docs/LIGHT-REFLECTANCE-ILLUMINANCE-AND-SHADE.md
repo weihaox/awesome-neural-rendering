@@ -1,5 +1,53 @@
 ## Light, Reflectance, Illuminance, and Shade
 
+**RNG: Relightable Neural Gaussians.**<br>
+*Jiahui Fan, Fujun Luan, Jian Yang, Milos Hasan, Beibei Wang.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2409.19702)]
+
+**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation.**<br>
+*Hadi Alzayer, Philipp Henzler, Jonathan T. Barron, Jia-Bin Huang, Pratul P. Srinivasan, Dor Verbin.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2412.15211)]
+
+**Neural Inverse Rendering from Propagating Light.**<br>
+*Anagh Malik, Benjamin Attal, Andrew Xie, Matthew O'Toole, David B. Lindell.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2506.05347)]
+
+**ScribbleLight: Single Image Indoor Relighting with Scribbles.**<br>
+*Jun Myeong Choi, Annie Wang, Pieter Peers, Anand Bhattad, Roni Sengupta.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2411.17696)]
+
+**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model.**<br>
+*Mingtao Guo, Guanyu Xing, Yanli Liu.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2502.19894)]
+
+**Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset.**<br>
+*Yiqun Mei, Mingming He, Li Ma, Julien Philip, Wenqi Xian, David M George, Xueming Yu, Gabriel Dedic, Ahmet Levent Taşel, Ning Yu, Vishal M. Patel, Paul Debevec.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.14485)]
+
+**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces.**<br>
+*Sumit Chaturvedi, Mengwei Ren, Yannick Hold-Geoffroy, Jingyuan Liu, Julie Dorsey, Zhixin Shu.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2501.09756)]
+
+**HRAvatar: High-Quality and Relightable Gaussian Head Avatar.**<br>
+*Dongbin Zhang, Yunfei Liu, Lijian Lin, Ye Zhu, Kangjie Chen, Minghan Qin, Yu Li, Haoqian Wang.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2503.08224)]
+
+**ARM: Appearance Reconstruction Model for Relightable 3D Generation.**<br>
+*Xiang Feng, Chang Yu, Zoubin Bi, Yintong Shang, Feng Gao, Hongzhi Wu, Kun Zhou, Chenfanfu Jiang, Yin Yang.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2411.10825)]
+
+**LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting.**<br>
+*Xiaoyan Xing, Konrad Groh, Sezer Karaoglu, Theo Gevers, Anand Bhattad.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2412.00177)]
+
+**Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization.**<br>
+*Junying Wang, Jingyuan Liu, Xin Sun, Krishna Kumar Singh, Zhixin Shu, He Zhang, Jimei Yang, Nanxuan Zhao, Tuanfeng Y. Wang, Simon S. Chen, Ulrich Neumann, Jae Shin Yoon.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2504.03011)]
+
+**ReCap: Better Gaussian Relighting with Cross-Environment Captures.**<br>
+*Jingzhi Li, Zongwei Wu, Eduard Zamfir, Radu Timofte.*<br>
+CVPR 2025. [[PDF](http://arxiv.org/abs/2412.07534)]
+
 **Intrinsic Image Transfer for Illumination Manipulation.**<br>
 *Junqing Huang, Michael Ruzhansky, Qianying Zhang, Haihui Wang.*<br>
 TPAMI 2023. [[PDF](https://www.computer.org/csdl/journal/tp/2023/06/09961945/1IxvTvt5Qty)]

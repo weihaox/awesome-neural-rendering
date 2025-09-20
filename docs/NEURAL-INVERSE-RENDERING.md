@@ -1,20 +1,24 @@
 ## Neural Inverse Rendering (Neural De-Rendering)
 
-**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination.**<br>
-*Xi Chen, Sida Peng, Dongchen Yang, Yuan Liu, Bowen Pan, Chengfei Lv, Xiaowei Zhou.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11593)] [[Project](https://zju3dv.github.io/IntrinsicAnything)]
+**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization.**<br>
+*Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang.*<br>
+TPAMI 2025. [[PDF](http://arxiv.org/abs/2312.05133)]
+
+**Neural Inverse Rendering from Propagating Light.**<br>
+*Anagh Malik, Benjamin Attal, Andrew Xie, Matthew O'Toole, David B. Lindell.*<br>
+CVPR 2025. [[PDF](https://arxiv.org/abs/2506.05347)]
 
 **Re-Thinking Inverse Graphics With Large Language Models.**<br>
 *Peter Kulits, Haiwen Feng, Weiyang Liu, Victoria Abrevaya, Michael J. Black.*<br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.15228)] [[Project](https://ig-llm.is.tue.mpg.de/)]
+ICLR 2025. [[PDF](https://arxiv.org/abs/2404.15228)] [[Project](https://ig-llm.is.tue.mpg.de/)]
+
+**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination.**<br>
+*Xi Chen, Sida Peng, Dongchen Yang, Yuan Liu, Bowen Pan, Chengfei Lv, Xiaowei Zhou.*<br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2404.11593)] [[Project](https://zju3dv.github.io/IntrinsicAnything)]
 
 **GS-IR: 3D Gaussian Splatting for Inverse Rendering.**<br>
 *Zhihao Liang, Qi Zhang, Ying Feng, Ying Shan, Kui Jia.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2311.16473)] [[Code](https://github.com/lzhnb/GS-IR)]
-
-**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization.**<br>
-*Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang.*<br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2312.05133)]
+CVPR 2024. [[PDF](http://arxiv.org/abs/2311.16473)] [[Code](https://github.com/lzhnb/GS-IR)]
 
 **Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark.**<br>
 *Zhengfei Kuang, Yunzhi Zhang, Hong-Xing Yu, Samir Agarwala, Shangzhe Wu, Jiajun Wu.*<br>

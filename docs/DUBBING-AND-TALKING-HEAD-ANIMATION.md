@@ -1,5 +1,13 @@
 ## Dubbing and Talking-Head Animation
 
+**OneGT: One-Shot Geometry-Texture Neural Rendering for Head Avatars.**<br>
+*Jinshu Chen, Bingchuan Li, Fan Zhang, Songtao Zhao, Qian He.*<br>
+ICCV 2025. [[PDF](https://iccv.thecvf.com/media/PosterPDFs/ICCV%202025/2168.png?t=1757905957.5566292)]
+
+**Generalizable One-shot Neural Head Avatar.**<br>
+*Xueting Li, Shalini De Mello, Sifei Liu, Koki Nagano, Umar Iqbal, Jan Kautz.*<br>
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2306.08768)]
+
 **Free-HeadGAN: Neural Talking Head Synthesis With Explicit Gaze Control.**<br>
 *Michail Christos Doukas, Evangelos Ververas, Viktoriia Sharmanska, Stefanos Zafeiriou.*<br>
 TPAMI 2023. [[PDF](https://arxiv.org/pdf/2208.02210.pdf)]
