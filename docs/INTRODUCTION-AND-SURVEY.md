@@ -17,7 +17,7 @@ Given high-quality scene specifications, **Classic Rendering Methods** can rende
 
 **[Advances in Neural 3D Mesh Texturing: A Survey.](https://sairajk.github.io/neural-mesh-texturing/)**<br>
 *Sai Raj Kishore Perla, Hao (Richard) Zhang, Ali Mahdavi-Amiri.*<br>
-Eurographics State-of-the-Art Report (Computer Graphics Forum), 2026.
+Eurographics State-of-the-Art Report (Computer Graphics Forum), 2026.[[PDF](https://arxiv.org/abs/2606.00137)] [[Project](https://sairajk.github.io/neural-mesh-texturing/)]
 
 **[Advances in Neural Rendering.](https://arxiv.org/abs/2111.05849)**<br>
 *Ayush Tewari\*, Justus Thies\*, Ben Mildenhall\*, Pratul Srinivasan\*, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stepehen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, and Vladislav Golyanik.*<br>

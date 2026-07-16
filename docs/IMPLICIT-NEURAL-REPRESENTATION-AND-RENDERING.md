@@ -2,6 +2,10 @@
 
 There are several helpful introductions and paper collections on this topic: [[Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)], [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)], [[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)]. If you are interested in the combination of diffusion models and implicit neural representations (especially NeRFs), please refer to [this](https://github.com/weihaox/Gen3D?tab=readme-ov-file#3d-aware-diffusion-models-for-a-single-image-category) repo.
 
+**Matryoshka Gaussian Splatting.**<br>
+*Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Jeffrey Hu, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Josef Bengtson, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli.*<br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.19234)] [[Code](https://github.com/ZhilinGuo/matryoshka-gaussian-splatting)]
+
 **Towards Lossless Implicit Neural Representation via Bit Plane Decomposition.**<br> 
 *Woo Kyoung Han, Byeonghun Lee, Hyunmin Cho, Sunghoon Im, Kyong Hwan Jin.*<br> 
 CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Towards_Lossless_Implicit_Neural_Representation_via_Bit_Plane_Decomposition_CVPR_2025_paper.pdf)]

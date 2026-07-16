@@ -10,6 +10,10 @@ SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2207.05736)] [[Project](https:/
 
 ### Based on Implicit Neural Representations
 
+**Matryoshka Gaussian Splatting.**<br>
+*Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Jeffrey Hu, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Josef Bengtson, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli.*<br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.19234)] [[Code](https://github.com/ZhilinGuo/matryoshka-gaussian-splatting)]
+
 **Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling.**<br>
 *Liwen Wu, Sai Bi, Zexiang Xu, Fujun Luan, Kai Zhang, Iliyan Georgiev, Kalyan Sunkavalli, Ravi Ramamoorthi.*<br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2405.14847)]
