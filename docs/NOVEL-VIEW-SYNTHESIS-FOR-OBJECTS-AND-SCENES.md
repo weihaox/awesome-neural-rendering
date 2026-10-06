@@ -162,6 +162,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.09106)] [[Project](https://gvsne
 
 ### Others
 
+**NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis.**<br>
+*Ramil Khafizov, Ilya Statsenko, Ruslan Rakhimov, Artem Komarichev, Peter Wonka, Evgeny Burnaev.*<br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.04722)] [[Project](https://corl-team.github.io/namvis/)] [[Code](https://github.com/corl-team/namvis)]
+
 **A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes.**<br>
 *Tianjia Zhang, Yuen-Fui Lau, Qifeng Chen.*<br>
 IROS 2022. [[PDF](https://arxiv.org/abs/2208.14433)]
